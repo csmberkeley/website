@@ -1,0 +1,24 @@
+
+@import "./theme";
+@import "./materialize";
+
+.footer__link-item {
+    @extend .grey-text;
+    @extend .text-lighten-3;
+}
+
+footer.page-footer .footer-copyright {
+  height: auto;
+}
+
+.ocf {
+  width: 100%;
+  text-align: center;
+
+  .pledge {
+    font-family: $montserrat;
+    font-size: 1em;
+    margin-top: 0;
+    line-height: initial;
+  }
+}

@@ -1,0 +1,51 @@
+
+@import "./materialize";
+
+/* Global Variables */
+$roboto: "Roboto", sans-serif;
+$open-sans: "Open Sans", sans-serif;
+$montserrat: "Montserrat", sans-serif;
+$purple-rain: #694489;
+
+/* Global Styles */
+html {
+  font-family: $montserrat;
+}
+
+p {
+  font-family: $open-sans;
+  font-size: 1.2em;
+}
+
+section {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
+
+h6 {
+  font-size: 1.2em;
+}
+.sublabel {
+  color: black;
+  margin-bottom: 5px;
+}
+.label {
+  font-family: $montserrat;
+  font-weight: 500;
+  color: #66BB6A;
+}
+p.info {
+  color: #6b7c93;
+  font-size: 1.1rem;
+}
+.info b {
+  color: #66BB6A;
+}
+.subtitle {
+  width: 80%;
+  margin: auto;
+}
+
+.header {
+  margin-bottom: 24px;
+}

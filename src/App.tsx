@@ -1,8 +1,7 @@
 import React from "react";
-// TODO move into "pages" folder?
-import Home from "./Home";
-import Header from "./Header";
-import Footer from "./Footer";
+
+import { Home, Header, Footer } from "./pages";
+
 // Using HashRouter instead of BrowserRouter for backwards compatibility in URLs
 import { HashRouter as Router, Route, Link } from "react-router-dom";
 

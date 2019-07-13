@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "../styles/Footer.scss";
 
 class Footer extends React.Component {
     render() {
@@ -62,7 +63,6 @@ class Footer extends React.Component {
                 </div>
                 <div className="footer-copyright">
                     <div className="container">
-                        Made with &hearts; at UC Berkeley.
                         <div className="ocf">
                             <p className="pledge">
                                 We are a student group acting independently of
