@@ -1,42 +1,41 @@
-
 @import "theme";
 @import "components/color-variables";
 @import "components/variables";
 
 nav {
-  background-color: color("grey", "lighten-3");
+    background-color: color("grey", "lighten-3");
 
-  a.brand-logo {
-    font-family: $montserrat;
-    font-weight: 700;
-    color: $primary-color;
-  }
-
-  a.button-collapse i {
-    margin-left: 0.5em;
-  }
-
-  ul {
-    a {
-      font-family: $open-sans;
-      font-weight: 600;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      color: black;
+    a.brand-logo {
+        font-family: $montserrat;
+        font-weight: 700;
+        color: $primary-color;
     }
-  }
 
-  ul.side-nav {
-    a {
-      font-weight: 600;
-      color: black;
+    a.button-collapse i {
+        margin-left: 0.5em;
     }
-  }
+
+    ul {
+        a {
+            font-family: $open-sans;
+            font-weight: 600;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: black;
+        }
+    }
+
+    ul.side-nav {
+        a {
+            font-weight: 600;
+            color: black;
+        }
+    }
 }
 
 @media #{$large-and-up} {
-  .nav-wrapper {
-    padding-left: 2em;
-    padding-right: 2em;
-  }
+    .nav-wrapper {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
 }

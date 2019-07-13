@@ -13,7 +13,10 @@ class Footer extends React.Component {
                             <h5 className="white-text">Contact</h5>
                             <ul>
                                 <li>
-                                    <a className="grey-text text-lighten-3" href="mailto:mentors@berkeley.edu">
+                                    <a
+                                        className="grey-text text-lighten-3"
+                                        href="mailto:mentors@berkeley.edu"
+                                    >
                                         Contact us
                                     </a>
                                 </li>
@@ -23,17 +26,26 @@ class Footer extends React.Component {
                             <h5 className="white-text">Join</h5>
                             <ul>
                                 <li>
-                                    <Link to="/students" className="grey-text text-lighten-3">
+                                    <Link
+                                        to="/students"
+                                        className="grey-text text-lighten-3"
+                                    >
                                         Students
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to="/mentors" className="grey-text text-lighten-3">
+                                    <Link
+                                        to="/mentors"
+                                        className="grey-text text-lighten-3"
+                                    >
                                         Mentors
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link to="/partners" className="grey-text text-lighten-3">
+                                    <Link
+                                        to="/partners"
+                                        className="grey-text text-lighten-3"
+                                    >
                                         Partners
                                     </Link>
                                 </li>
@@ -43,7 +55,10 @@ class Footer extends React.Component {
                             <h5 className="white-text">Team</h5>
                             <ul>
                                 <li>
-                                    <Link to="/team" className="grey-text text-lighten-3">
+                                    <Link
+                                        to="/team"
+                                        className="grey-text text-lighten-3"
+                                    >
                                         Current Team
                                     </Link>
                                 </li>
@@ -53,7 +68,10 @@ class Footer extends React.Component {
                             <h5 className="white-text">Misc.</h5>
                             <ul>
                                 <li>
-                                    <Link to="/scheduler" className="grey-text text-lighten-3">
+                                    <Link
+                                        to="/scheduler"
+                                        className="grey-text text-lighten-3"
+                                    >
                                         Scheduler
                                     </Link>
                                 </li>
