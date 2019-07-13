@@ -1,6 +1,7 @@
 
-@import "./theme";
-@import "./materialize";
+@import "theme";
+@import "components/color-variables";
+@import "components/variables";
 
 nav {
   background-color: color("grey", "lighten-3");

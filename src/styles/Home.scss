@@ -1,0 +1,140 @@
+
+@import  "theme";
+
+$background-image-url: "../img/fa17.jpg";
+
+.cover-container {
+  height: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+@media only screen and (min-width: 601px) {
+  .cover-container {
+    height: 800px;
+  }
+  .cover .text-container {
+    height: 600px;
+  }
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 2em;
+  z-index: 99;
+  position: relative;
+  cursor: pointer;
+
+  .animate {
+    // opacity: 0;
+    transform: translateY(50%);
+    transition: all 1.5s;
+  }
+  .animate.onload {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+
+  .text-container {
+    width: 80%;
+    margin: 0 auto;
+    height: auto;
+    padding-left: 0.8em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    div {
+      z-index: 3;
+      text-align: center;
+      color: white;
+    }
+    .intro {
+      font-size: 5rem;
+      font-weight: 800;
+      letter-spacing: 2px;
+      margin-bottom: 0;
+    }
+    .subintro {
+      font-size: 1.5rem;
+      font-family: $open-sans;
+      font-weight: 300;
+      z-index: 3;
+    }
+    .courses {
+      text-align: center;
+      width: 80%;
+    }
+    #pre-course7 {
+      transition: all 1.5s;
+      transform: scale(4);
+      // opacity: 0;
+    }
+    #pre-course7.onload {
+      opacity: 1;
+      transform: scale(1);
+    }
+    .new-mixtape {
+      position: relative;
+      top: -30px;
+    }
+    .stats {
+      transition: all 1s;
+      // opacity: 0;
+      transform: scale(0.7);
+    }
+    .stats.onload {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+}
+
+.cover-darken {
+  z-index: 3;
+  background-color: #000;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  transition: opacity 3s;
+}
+.cover-darken.onload {
+  opacity: 0.5;
+}
+.cover-img {
+  z-index: 2;
+  position: absolute;
+  background: url($background-image-url) no-repeat center center;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.apply-banner {
+  position: absolute;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  top: 350px;
+}
+.apply-text {
+  text-transform: uppercase;
+  font-size: 1.0rem;
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 4px;
+  background-color: #66bb6a;
+  color: #fff;
+  font-weight: 300;
+}
+
+.three-column {
+  a.btn {
+    width: 100%;
+  }
+} 

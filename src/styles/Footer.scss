@@ -1,6 +1,6 @@
 
-@import "./theme";
-@import "./materialize";
+@import "materialize";
+@import "theme";
 
 .footer__link-item {
     @extend .grey-text;

@@ -6,15 +6,20 @@ import { Home, Header, Footer } from "./pages";
 import { HashRouter as Router, Route, Link } from "react-router-dom";
 
 function App() {
-    // Scheduler redirect: https://stackoverflow.com/a/44563899
     // <Route exact path="" component=""/>
     return (
         <Router basename="/">
             <Header />
+                <Route path="/" component={ Home } />
             <Footer />
-            <Route path="/" component={ Home } />
+
+            {/* External redirects: https://stackoverflow.com/a/44563899 */}
             <Route path="/scheduler" component={() => {
                 window.location.href = "https://scheduler.csmentors.org";
+                return null;
+            }} />
+            <Route path="/facebook" component={() => {
+                window.location.href = "https://www.facebook.com/BerkeleyCSM/";
                 return null;
             }} />
         </Router>
