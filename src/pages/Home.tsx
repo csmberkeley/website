@@ -11,7 +11,7 @@ import mckinseyLogo from "../img/sponsors/mckinsey.png";
 class Course extends React.Component<{ name: string; index: number }> {
     render() {
         return (
-            <div key={this.props.name} className="col s12 m4">
+            <div className="col s12 m4">
                 <h4 className="animate" id={"course" + this.props.index}>
                     {this.props.name}
                 </h4>
@@ -25,7 +25,7 @@ class CourseList extends React.Component {
         return (
             <div className="row courses">
                 {courses.map((name, i) => (
-                    <Course name={name} index={i} />
+                    <Course key={name} name={name} index={i} />
                 ))}
                 ;
             </div>
