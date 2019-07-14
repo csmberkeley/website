@@ -36,7 +36,7 @@ class LinkList extends React.Component<LinkProps> {
     }
 }
 
-class Header extends React.Component {
+export default class Header extends React.Component {
     render() {
         return (
             <div className="navbar-fixed">
@@ -68,5 +68,3 @@ class Header extends React.Component {
         */
     }
 }
-
-export default Header;

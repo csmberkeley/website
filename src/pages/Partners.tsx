@@ -3,7 +3,7 @@ import React from "react";
 import goldmanLogo from "../img/sponsors/goldman-sachs.png";
 import mckinseyLogo from "../img/sponsors/mckinsey.png";
 
-class Partners extends React.Component {
+export default class Partners extends React.Component {
     render() {
         return (
             <div>
@@ -56,5 +56,3 @@ class Partners extends React.Component {
         );
     }
 }
-
-export default Partners;

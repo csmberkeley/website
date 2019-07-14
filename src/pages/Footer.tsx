@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/Footer.scss";
 
-class Footer extends React.Component {
+export default class Footer extends React.Component {
     render() {
         // TODO consider adding resources subheader? and resize container
         return (
@@ -102,5 +102,3 @@ class Footer extends React.Component {
         );
     }
 }
-
-export default Footer;

@@ -1,6 +1,6 @@
 import React from "react";
 
-class Mentors extends React.Component {
+export default class Mentors extends React.Component {
     render() {
         return (
             <div>
@@ -174,5 +174,3 @@ class Mentors extends React.Component {
         );
     }
 }
-
-export default Mentors;
