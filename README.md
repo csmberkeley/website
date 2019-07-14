@@ -18,13 +18,15 @@ Run `yarn start` to start the dev server, and visit [localhost:3000] in your bro
 ├── src
 │   ├── data
 │   ├── img
+│   ├── components
 │   ├── pages
 │   └── styles
 ```
 - `src` is home to static resources that are bundled by `create-react-app`.
     - `data` holds JSON files that contain metadata, e.g. mentor bios and course lists
     - `img` holds images that are unlikely to change, such as our own logo and those of our sponsors
-    - `pages` contains Typescript components
+    - `components` contains custom React components
+    - `pages` contains pages as React components
     - `styles` contains custom SASS and Materialize components
 - `public` is home to other resources
     - `img` holds images that come in bulk, e.g. mentor pictures

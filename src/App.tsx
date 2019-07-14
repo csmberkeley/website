@@ -1,12 +1,12 @@
 import React from "react";
 
-import { Partners, Mentors, Students, Home, Header, Footer } from "./pages";
+import { Bios, Team, Partners, Mentors, Students, Home } from "./pages";
+import { Header, Footer } from "./components";
 
 // Using HashRouter instead of BrowserRouter for backwards compatibility in URLs
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
-    // <Route exact path="" component=""/>
     return (
         <Router basename="/">
             <Header />
@@ -15,6 +15,8 @@ function App() {
                     <Route exact path="/students" component={ Students } />
                     <Route exact path="/mentors" component={ Mentors } />
                     <Route exact path="/partners" component={ Partners } />
+                    <Route exact path="/team" component={ Team } />
+                    <Route exact path="/bios" component={ Bios } />
                     {/* External redirects: https://stackoverflow.com/a/44563899 */}
                     <Route path="/scheduler" component={() => {
                         window.location.href = "https://scheduler.csmentors.org";
