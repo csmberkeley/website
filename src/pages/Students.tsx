@@ -1,6 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+import courses from "../data/courses.json";
+
+
+// Mutating courses here mutates all references to it, which is why we need to do some voodoo
+let courseString = (
+    courses.slice(0, courses.length - 1).concat([`and ${courses.slice(-1)[0]}`])
+).join(", ");
+
 export default class Students extends React.Component {
     render() {
         return (
@@ -9,8 +17,7 @@ export default class Students extends React.Component {
                     <h5 className="white-text">For Students</h5>
                     <h6 className="white-text subtitle">
                         Learn in a personal environment from experienced
-                        students at UC Berkeley for CS 61A, CS 88, CS 61B, CS
-                        61C, CS 70, and EE 16A.
+                        students at UC Berkeley for { courseString }.
                     </h6>
                 </section>
 

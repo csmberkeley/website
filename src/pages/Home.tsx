@@ -1,80 +1,170 @@
+
+import { CountUp } from "countup.js";
 import React from "react";
 import { Link } from "react-router-dom";
 
 import "../styles/Home.scss";
 
 import courses from "../data/courses.json";
+import stats from "../data/stats.json";
 
 import goldmanLogo from "../img/sponsors/goldman-sachs.png";
 import mckinseyLogo from "../img/sponsors/mckinsey.png";
 
-class Course extends React.Component<{ name: string; index: number }> {
-    render() {
-        return (
-            <div className="col s12 m4">
-                <h4 className="animate" id={"course" + this.props.index}>
-                    {this.props.name}
-                </h4>
-            </div>
-        );
-    }
+// Describes a word that gets loaded in by fade -_-
+interface LoadingWord {
+    text: string;
+    loaded: boolean;
+    // The delay between the render of this and the next word
+    delay: number;
 }
 
-class CourseList extends React.Component {
+class CourseList extends React.Component<{ words: LoadingWord[] }> {
     render() {
         return (
             <div className="row courses">
-                {courses.map((name, i) => (
-                    <Course key={name} name={name} index={i} />
+                { this.props.words.map((loadingWord, i) => (
+                    <div key={ loadingWord.text } className={ "col s12 " + (i < 3 ? "m4" : "m3") }>
+                        <h4 className={ "animate " + (loadingWord.loaded ? "onload" : "") }>
+                            { loadingWord.text }
+                        </h4>
+                    </div>
                 ))}
-                ;
             </div>
         );
     }
 }
 
-class Home extends React.Component {
+class StatsList extends React.Component<{ loaded: boolean }> {
+    componentDidUpdate() {
+        // Do animation thing where numbers count up
+        const options = {
+            "duration": 2,
+            "useEasing": true,
+            "useGrouping": true,
+            "separator": ",",
+            "decimal": ".",
+            "prefix" : "",
+            "suffix" : "",
+        };
+        new CountUp("student-count", stats.studentCount, options).start();
+        new CountUp("mentor-count", stats.mentorCount, options).start();
+        new CountUp("rating-count", stats.rating, Object.assign({ "decimalPlaces": 1 }, options)).start();
+        new CountUp("return-count", stats.returnCount, options).start();
+    }
+
+    render() {
+        return (
+            <div className={ "stats" + (this.props.loaded ? " onload" : "") }>
+                <h5 className="white-text">
+                    <span id="student-count">{ stats.studentCount }</span>+
+                    Students Serviced
+                </h5>
+                <h5 className="white-text">
+                    <span id="mentor-count">{ stats.mentorCount }</span>+ Mentors
+                </h5>
+                <h5 className="white-text">
+                    Average mentor rating:
+                    <span id="rating-count">{ stats.rating }</span>/ 5
+                </h5>
+                <h5 className="white-text">
+                    <span id="return-count">{ stats.returnCount }</span>% would
+                    come back to a CSM session
+                </h5>
+            </div>
+        );
+    }
+}
+
+class Title extends React.Component<{ words: LoadingWord[] }> {
+    render() {
+        return (
+            <div
+                style={{
+                    marginTop: "6rem",
+                    marginBottom: "6rem",
+                }}
+            >
+                <div className="intro">
+                    {
+                        this.props.words.map(loadingWord => (
+                            <span className={ "animate" + (loadingWord.loaded ? " onload" : "") } key={ loadingWord.text }>
+                                { loadingWord.text }
+                            </span>
+                        ))
+                    }
+                </div>
+                <div className="animate subintro">
+                    Computer Science Mentors for introductory
+                    electrical engineering and computer science
+                    courses at UC Berkeley
+                </div>
+            </div>
+        )
+    }
+}
+
+interface AnimationState {
+    nextIndex: number;
+    words: LoadingWord[];
+    statsLoaded: boolean;
+}
+
+class Home extends React.Component<{}, AnimationState> {
+    titleWords: LoadingWord[];
+    courseWords: LoadingWord[];
+
+    constructor(props: {}) {
+        super(props);
+        this.titleWords = [
+            { "text": "We", "loaded": false, "delay": 500 },
+            { "text": "are", "loaded": false, "delay": 500 },
+            { "text": "CSM", "loaded": false, "delay": 500 },
+        ];
+        this.courseWords = courses.map(courseName => ({
+                "text": courseName,
+                "loaded": false,
+                "delay": 250,
+            })
+        );
+        this.state = { "words": this.titleWords.concat(this.courseWords), "nextIndex": 0, "statsLoaded": false };
+    }
+
+    componentDidMount() {
+        const onAnimationEnd = () => // Hack to get stats to load with delay
+            setTimeout(
+                () => this.setState(() => ({ "statsLoaded": true })),
+                800
+            );
+        // Feels oddly like a y-combinator
+        let startNextAnimationTimer: Function;
+        startNextAnimationTimer = (delay: number) =>
+            this.setState(state => {
+                if (state.nextIndex >= state.words.length) {
+                    onAnimationEnd();
+                    return state;
+                }
+                let words = state.words;
+                words[state.nextIndex].loaded = true;
+                setTimeout(() => startNextAnimationTimer(words[state.nextIndex].delay), delay);
+                return {
+                    "words": words,
+                    "nextIndex": state.nextIndex + 1,
+                    "statsLoaded": false,
+                };
+            });
+        startNextAnimationTimer(0);
+    }
+
     render() {
         return (
             <div>
                 <div className="cover-container">
                     <div className="cover">
                         <div className="text-container">
-                            <div
-                                style={{
-                                    marginTop: "6rem",
-                                    marginBottom: "6rem",
-                                }}
-                            >
-                                <div className="intro">
-                                    <span className="animate" id="intro">
-                                        We are CSM
-                                    </span>
-                                </div>
-                                <div className="animate subintro">
-                                    Computer Science Mentors for introductory
-                                    electrical engineering and computer science
-                                    courses at UC Berkeley
-                                </div>
-                            </div>
-                            <CourseList />
-                            <div className="stats">
-                                <h5 className="white-text">
-                                    <span id="student-count">1100</span>+
-                                    Students Serviced
-                                </h5>
-                                <h5 className="white-text">
-                                    <span id="mentor-count">200</span>+ Mentors
-                                </h5>
-                                <h5 className="white-text">
-                                    Average mentor rating:
-                                    <span id="rating-count">4.6</span>/ 5
-                                </h5>
-                                <h5 className="white-text">
-                                    <span id="return-count">93</span>% would
-                                    come back to a CSM session
-                                </h5>
-                            </div>
+                            <Title words={ this.titleWords }/>
+                            <CourseList words={ this.courseWords }/>
+                            <StatsList loaded={ this.state.statsLoaded }/>
                         </div>
                     </div>
                     <div className="cover-img"></div>
