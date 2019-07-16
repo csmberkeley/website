@@ -1,10 +1,11 @@
 import React from "react";
+// Using HashRouter instead of BrowserRouter for backwards compatibility in URLs
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 import { Bios, Team, Partners, Mentors, Students, Home } from "./pages";
 import { Header, Footer } from "./components";
 
-// Using HashRouter instead of BrowserRouter for backwards compatibility in URLs
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import urls from "./data/urls.json";
 
 class ExternalRedirect extends React.Component <{ path: string; target: string }> {
     render() {
@@ -29,9 +30,11 @@ function App() {
                     <Route exact path="/partners" component={ Partners } />
                     <Route exact path="/team" component={ Team } />
                     <Route exact path="/bios" component={ Bios } />
-                    <ExternalRedirect path="/scheduler" target="https://scheduler.csmentors.org" />
-                    <ExternalRedirect path="/facebook" target="https://www.facebook.com/BerkeleyCSM/" />
-                    <ExternalRedirect path="/sage" target="https://csmberkeley.github.io/sage/" />
+                    <ExternalRedirect path="/apply" target={ urls.applicationForm } />
+                    <ExternalRedirect path="/scheduler" target={ urls.scheduler } />
+                    <ExternalRedirect path="/facebook" target={ urls.facebook } />
+                    <ExternalRedirect path="/sage" target={ urls.sage } />
+                    {/* TODO add mail url? */}
                     {/* TODO replace this with a proper 404, or redirect home */}
                     <Route render={() => <div>Not found</div>} />
                 </Switch>

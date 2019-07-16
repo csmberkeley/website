@@ -1,6 +1,17 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
+import dates from "../data/dates.json";
 
 export default class Mentors extends React.Component {
+    isApplicationOpen() {
+        const now = new Date();
+        return (
+            now > new Date(dates.applicationsOpen) &&
+            now < new Date(dates.applicationsClose)
+        );
+    }
+
     render() {
         return (
             <div>
@@ -36,42 +47,52 @@ export default class Mentors extends React.Component {
                     </div>
                     <div className="divider"></div>
                     <div className="divider"></div>
-                    {/* TODO set this by js stuff */}
-                    <div
-                        className="section"
-                        ng-controller="MentorsController as mentorsCtrl"
-                    >
-                        <div ng-if="applicationsOpen">
-                            <h5 className="label">
-                                Applications for Fall 2019 Junior Mentors and
-                                Associate Mentors are now open!
-                            </h5>
-                            <p className="info">
-                                We are currently recruiting mentors for CS 61A,
-                                CS 88, CS 61B, CS 61C, CS 70, EE 16A, and EE16B
-                                (newly added!).
-                                <br />
-                                The Junior Mentor and Associate Mentor
-                                application is available at{" "}
-                                <a href="https://forms.gle/kpof18tQXJbWX6417">
-                                    https://forms.gle/kpof18tQXJbWX6417
-                                </a>
-                                . Applications are due 11:59 pm, August 18,
-                                2019. More information is in the application,
-                                and no late applications will be accepted.
-                            </p>
-                            <p className="info">
-                                We are not opening Senior Mentor positions at
-                                this time. We look forward to reading your
-                                application!
-                            </p>
-                        </div>
-                        <div ng-if="!applicationsOpen">
-                            <h6 className="sublabel">
-                                Applications have closed for this semester;
-                                check back at the end of the semester!
-                            </h6>
-                        </div>
+                    <div className="section">
+                        {this.isApplicationOpen() ? (
+                            <div>
+                                <h5 className="label">
+                                    Applications for {dates.applicationSemester}{" "}
+                                    Junior Mentors and Associate Mentors are now
+                                    open!
+                                </h5>
+                                <p className="info">
+                                    We are currently recruiting mentors for CS
+                                    61A, CS 88, CS 61B, CS 61C, CS 70, EE 16A,
+                                    and EE16B (newly added!).
+                                    <br />
+                                    The{" "}
+                                    <Link to="/apply">
+                                        Junior Mentor and Associate Mentor
+                                        application is available now!
+                                    </Link>{" "}
+                                    Applications are due{" "}
+                                    {new Date(
+                                        dates.applicationsClose
+                                    ).toLocaleString("en-US", {
+                                        day: "numeric",
+                                        weekday: "long",
+                                        year: "numeric",
+                                        month: "long",
+                                        hour: "numeric",
+                                        minute: "2-digit",
+                                    })}
+                                    . More information is in the application,
+                                    and no late applications will be accepted.
+                                </p>
+                                <p className="info">
+                                    We are not opening Senior Mentor positions
+                                    at this time. We look forward to reading
+                                    your application!
+                                </p>
+                            </div>
+                        ) : (
+                            <div>
+                                <h6 className="sublabel">
+                                    Applications have closed for this semester;
+                                    check back at the end of the semester!
+                                </h6>
+                            </div>
+                        )}
                         <br />
                     </div>
                     <div className="divider"></div>

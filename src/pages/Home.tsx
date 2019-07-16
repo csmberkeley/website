@@ -132,7 +132,7 @@ class Title extends React.Component<{
 // being applied, we pretend they're LoadingWords with empty strings
 enum TextlessAnimation {
     Subintro,
-    CoverDarkened,
+    CoverLightened, // Darken is kind of a misleading name, because it actually lightens
     StatsLoaded,
 }
 interface AnimationState {
@@ -175,7 +175,7 @@ class Home extends React.Component<{}, AnimationState> {
         this.state = {
             animations: this.titleWords
                 .concat([
-                    createLoadAnimation(TextlessAnimation.CoverDarkened, 500),
+                    createLoadAnimation(TextlessAnimation.CoverLightened, 500),
                     createLoadAnimation(TextlessAnimation.Subintro, 500),
                 ])
                 .concat(this.courseWords)
@@ -234,7 +234,7 @@ class Home extends React.Component<{}, AnimationState> {
                         className={
                             "cover-darken" +
                             (this.state.textlessAnimationsLoaded.has(
-                                TextlessAnimation.CoverDarkened
+                                TextlessAnimation.CoverLightened
                             )
                                 ? " onload"
                                 : "")
