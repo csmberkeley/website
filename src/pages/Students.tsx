@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 import courses from "../data/courses.json";
 
-
 // Mutating courses here mutates all references to it, which is why we need to do some voodoo
-let courseString = (
-    courses.slice(0, courses.length - 1).concat([`and ${courses.slice(-1)[0]}`])
-).join(", ");
+let courseString = courses
+    .slice(0, courses.length - 1)
+    .concat([`and ${courses.slice(-1)[0]}`])
+    .join(", ");
 
 export default class Students extends React.Component {
     render() {
@@ -17,7 +17,7 @@ export default class Students extends React.Component {
                     <h5 className="white-text">For Students</h5>
                     <h6 className="white-text subtitle">
                         Learn in a personal environment from experienced
-                        students at UC Berkeley for { courseString }.
+                        students at UC Berkeley for {courseString}.
                     </h6>
                 </section>
 
