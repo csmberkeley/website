@@ -29,6 +29,9 @@ class LinkList extends React.Component<LinkProps> {
                     <Link to="/bios">Bios</Link>
                 </li>
                 <li>
+                    <Link to="/sage">Teaching Tips</Link>
+                </li>
+                <li>
                     <Link to="/scheduler">Scheduler</Link>
                 </li>
             </ul>
