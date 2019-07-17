@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Jason Goodman",
+        "img": "jason-exec.jpg",
+        "position": "President"
+    }, 
+    {
+        "name": "Joy Tang",
+        "img": "joy-exec.jpg",
+        "position": "Internal Vice President"
+    },
+    {
+        "name": "Suraj Rampure",
+        "img": "suraj-exec.png",
+        "position": "External Vice President"
+    },
+    {
+        "name": "Yiling Kao",
+        "img": "yiling-kao-square.jpg",
+        "position": "Communications"
+    },
+    {
+        "name": "Matthew Soh",
+        "img": "matthew-exec.jpg",
+        "position": "Tech Chair"
+    },
+    {
+        "name": "Paul Bitutsky",
+        "img": "paul-exec.jpg",
+        "position": "Socials Chair"
+    },
+    {
+        "name": "Chris Allsman",
+        "img": "chris-exec.jpg",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Lindsay Yang",
+        "img": "lindsay-yang-square.jpg",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Dee Guo",
+        "img": "dee-guo-square.jpg",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Yichen Sun",
+        "img": "yichen-sun-square.jpg",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Max Ovsiankin",
+        "img": "max-ovsiankin-square.jpeg",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Nick Titterton",
+        "img": "nick-titterton-square.jpg",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Varsha Ramakrishnan",
+        "img": "varsha-exec.jpg",
+        "position": "EE 16A Coordinator"
+    },
+    {
+        "name": "Yannan Tuo",
+        "img": "yannan-tuo-square.jpg",
+        "position": "EE 16A Coordinator"
+    },
+    {
+        "name": "Aditya Baradwaj",
+        "img": "aditya.jpg",
+        "position": "Advisor" 
+    }, 
+    {
+        "name": "Mudit Gupta",
+        "img": "muditgupta.jpg",
+        "position": "Advisor"
+    }
+]

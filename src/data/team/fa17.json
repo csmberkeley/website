@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Jiana Huang",
+        "img": "jiana.jpg",
+        "position": "President"
+    }, 
+    {
+        "name": "Tiffany Perumpail",
+        "img": "piffany.jpg",
+        "position": "Internal Vice President"
+    },
+    {
+        "name": "Anwar Baroudi",
+        "img": "anwar.jpg",
+        "position": "External Vice President"
+    },
+    {
+        "name": "Joy Tang",
+        "img": "joy.jpg",
+        "position": "Communications"
+    },
+    {
+        "name": "James Jiang",
+        "img": "james.jpg",
+        "position": "Tech Chair"
+    },
+    {
+        "name": "Jason Goodman",
+        "img": "jason.jpg",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Paul Bitutsky",
+        "img": "paul.jpg",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Kevin Lin",
+        "img": "kevin.jpg",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Mudit Gupta",
+        "img": "mudit.png",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Suraj",
+        "img": "suraj.png",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Jerry Huang",
+        "img": "jeralie.jpg",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Anwar Baroudi",
+        "img": "anwar.jpg",
+        "position": "EE 16A Coordinator"
+    },
+    {
+        "name": "Aditya Baradwaj",
+        "img": "aditya.jpg",
+        "position": "EE 16A Coordinator" 
+    }, 
+    {
+        "name": "Fahad Kamran",
+        "img": "fahad.jpg",
+        "position": "Advisor"
+    },
+    {
+        "name": "Kenneth Zhou",
+        "img": "kenneth.jpg",
+        "position": "Advisor"
+    }
+]

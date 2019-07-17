@@ -17,6 +17,7 @@ Run `yarn start` to start the dev server, and visit [localhost:3000] in your bro
 │   ├── img
 ├── src
 │   ├── data
+│   ├── labels
 │   ├── img
 │   ├── components
 │   ├── pages
@@ -24,12 +25,21 @@ Run `yarn start` to start the dev server, and visit [localhost:3000] in your bro
 ```
 - `src` is home to static resources that are bundled by `create-react-app`.
     - `data` holds JSON files that contain metadata, e.g. mentor bios and course lists
+    - `labels` contains JS files with strings or functions that return strings that provide text on the frontend
     - `img` holds images that are unlikely to change, such as our own logo and those of our sponsors
     - `components` contains custom React components
     - `pages` contains pages as React components
     - `styles` contains custom SASS and Materialize components
 - `public` is home to other resources
     - `img` holds images that come in bulk, e.g. mentor pictures
+
+### Updating Bios and Images
+(bios not yet implemented stay tuned)
+
+#### Team
+To add more team members, create an appropriately naned JSON file under `src/data/team` (see the examples in that folder). Its contents should be a list of JSON objects, each with `name`, `img` (the name of the image file under `public/img/team`), and `position` string properties. This interface is declared in `src/pages/Team.tsx`.
+
+To add the images for exec, just add the appropriate image in `public/img/team`. Try to follow the naming scheme of `firstname-lastname-semester.extension`, if possible.
 
 ## Credits
 This site uses the [Materialize](https://materializecss.com/) design kit.

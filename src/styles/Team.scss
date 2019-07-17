@@ -1,0 +1,89 @@
+@import "theme";
+
+.team {
+    h5 {
+        margin-top: 0.6em;
+        margin-bottom: 1.2em;
+    }
+
+    .team-display {
+        .member {
+            height: 305px;
+            display: inline-block !important;
+        }
+
+        .member-name {
+            font-family: $montserrat;
+            font-weight: 700;
+            margin-bottom: 0;
+        }
+
+        .member-position {
+            font-family: $montserrat;
+            font-size: 1em;
+            margin-top: 0;
+            color: #777;
+        }
+    }
+
+    .team-title-inactive {
+        font-size: 0.8em;
+        color: #757575;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .cube-scene {
+        -webkit-perspective: 1000;
+        width: 200px;
+        height: 200px;
+        margin: auto;
+
+        z-index: 999;
+    }
+    .cube:hover {
+        -webkit-transform: rotateY(-90deg);
+    }
+    .cube {
+        width: 200px;
+        height: 200px;
+        position: relative;
+
+        -webkit-transform-style: preserve-3d;
+
+        -webkit-transition: all 0.4s ease-out;
+        -webkit-transform-origin: 100px 100px -100px;
+
+        /* float: left; */
+        margin: 30px auto;
+    }
+
+    .unflipped,
+    .flipped {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: visible;
+
+        -webkit-transform-origin: 0 0;
+    }
+    .unflipped {
+        -webkit-transform: rotateY(0deg);
+        z-index: 2;
+    }
+    .flipped {
+        background-color: #9dcc78;
+        -webkit-transform: rotateY(90deg);
+        z-index: 1;
+        left: 200px;
+    }
+
+    .cube-title {
+        margin-top: 8px;
+        font-weight: 500;
+    }
+    .cube-text {
+        margin: 12px;
+        text-align: left;
+        font-size: 0.8rem;
+    }
+}

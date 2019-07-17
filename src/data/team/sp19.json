@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Jason Goodman",
+        "img": "jason-exec.jpg",
+        "position": "President"
+    },
+    {
+        "name": "Chris Allsman",
+        "img": "chris-exec.jpg",
+        "position": "Internal Vice President"
+    },
+    {
+        "name": "Suraj Rampure",
+        "img": "suraj-exec-sp19.png",
+        "position": "External Vice President"
+    },
+    {
+        "name": "Yiling Kao",
+        "img": "yiling-kao-square.jpg",
+        "position": "Communications"
+    },
+    {
+        "name": "Jose Chavez",
+        "img": "jose-chavez-exec.jpg",
+        "position": "Socials Chair"
+    },
+    {
+        "name": "Jonathan Shi",
+        "img": "jonathan-shi-exec.jpg",
+        "position": "Tech Chair"
+    },
+    {
+        "name": "Alex Stennet",
+        "img": "alex-stennet.jpg",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Catherine Cang",
+        "img": "catherine-cang1.jpg",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Alan Ton",
+        "img": "alan-ton.jpeg",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Danny Chu",
+        "img": "danny-exec.jpg",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Kristen Kafkaloff",
+        "img": "kristen-exec.jpg",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Max Ovsiankin",
+        "img": "max-ovsiankin-square.jpeg",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Michelle Mao",
+        "img": "michelle-mao-exec.jpg",
+        "position": "EE 16A Coordinator"
+    },
+    {
+        "name": "Dominic Carrano",
+        "img": "dominic-exec.jpg",
+        "position": "EE 16A Coordinator"
+    },
+    {
+        "name": "Katherine Liu",
+        "img": "katherine-liu-exec.jpg",
+        "position": "CS 61C Coordinator"
+    },
+    {
+        "name": "Daniel Zhang",
+        "img": "daniel-zhang-exec.jpg",
+        "position": "CS 61C Coordinator"
+    },
+    {
+        "name": "Alex Kassil",
+        "img": "alex-kassil.png",
+        "position": "CS 88 Coordinator"
+    },
+    {
+        "name": "Chae Park",
+        "img": "chae-exec.jpg",
+        "position": "CS 88 Coordinator"
+    },
+    {
+        "name": "Aditya Baradwaj",
+        "img": "aditya.jpg",
+        "position": "Advisor"
+    },
+    {
+        "name": "Jerry Huang",
+        "img": "jerry-exec.jpg",
+        "position": "Advisor"
+    },
+    {
+        "name": "Yannan Tuo",
+        "img": "yannan-tuo-square.jpg",
+        "position": "Advisor"
+    },
+    {
+        "name": "Paul Bitutsky",
+        "img": "paul-exec.jpg",
+        "position": "Advisor"
+    },
+    {
+        "name": "Varsha Ramakrishnan",
+        "img": "varsha-exec-sp19.jpg",
+        "position": "Advisor"
+    },
+    {
+        "name": "Mudit Gupta",
+        "img": "mudit-exec-sp19.jpg",
+        "position": "Advisor"
+    }
+]
