@@ -2,6 +2,7 @@ import React from "react";
 import { match, Link, Redirect } from "react-router-dom";
 
 import "../styles/Bios.scss";
+import * as Labels from "../labels/BioLabels";
 
 import courses from "../data/courses.json";
 import placeholderImg from "../img/bio_placeholder.png";
@@ -26,7 +27,7 @@ function getCoursePageTitleAndLabel(course: string) {
     return (
         <div className="col l8 offset-l2 s10 offset-s1">
             <h5 className="label">{title} Mentor Bios</h5>
-            <p className="info">Bios for CSM {title} Mentors.</p>
+            <p className="info">{ Labels.bioPageSubtitle(title) }</p>
         </div>
     );
 }
@@ -43,7 +44,7 @@ const BIO_PLACEHOLDER_TR = (
         <td className="bio">
             <p className="label">Coming soon!</p>
             <p></p>
-            Bios will be posted once mentor interviews are complete.
+            { Labels.PLACEHOLDER_BIO_TEXT }
         </td>
     </tr>
 );
@@ -108,7 +109,7 @@ function renderHomePage() {
             <div className="section">
                 <div className="col l8 offset-l2 s10 offset-s1">
                     <h5 className="label">Bios</h5>
-                    <p className="info">Bios for exec and mentors are here.</p>
+                    <p className="info">{ Labels.BIO_HOME_PAGE_DESCRIPTION }</p>
                     <div className="collection">
                         <Link to="/bios/exec" className="collection-item">
                             CSM Exec

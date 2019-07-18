@@ -3,6 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import "../styles/Home.scss";
+import * as Labels from "../labels/HomeLabels";
 
 import courses from "../data/courses.json";
 import stats from "../data/stats.json";
@@ -70,19 +71,20 @@ class StatsList extends React.Component<{ loaded: boolean }> {
         return (
             <div className={"stats" + (this.props.loaded ? " onload" : "")}>
                 <h5 className="white-text">
-                    <span id="student-count">{stats.studentCount}</span>+
-                    Students Serviced
+                    <span id="student-count">{stats.studentCount}</span>+{" "}
+                    { Labels.STAT_DESCRIPTIONS.STUDENT_COUNT }
                 </h5>
                 <h5 className="white-text">
-                    <span id="mentor-count">{stats.mentorCount}</span>+ Mentors
+                    <span id="mentor-count">{stats.mentorCount}</span>+{" "}
+                    { Labels.STAT_DESCRIPTIONS.MENTOR_COUNT }
                 </h5>
                 <h5 className="white-text">
-                    Average mentor rating:{" "}
+                    { Labels.STAT_DESCRIPTIONS.AVG_MENTOR_RATING }{" "}
                     <span id="rating-count">{stats.rating}</span>/ 5
                 </h5>
                 <h5 className="white-text">
-                    <span id="return-count">{stats.returnCount}</span>% would
-                    come back to a CSM session
+                    <span id="return-count">{stats.returnCount}</span>%{" "}
+                    { Labels.STAT_DESCRIPTIONS.RETURN_PCT }
                 </h5>
             </div>
         );
@@ -120,8 +122,7 @@ class Title extends React.Component<{
                         (this.props.subintroLoaded ? " onload" : "")
                     }
                 >
-                    Computer Science Mentors for introductory electrical
-                    engineering and computer science courses at UC Berkeley
+                    { Labels.COVER_SUBTITLE }
                 </div>
             </div>
         );
@@ -249,62 +250,40 @@ class Home extends React.Component<{}, AnimationState> {
                     <div className="container">
                         <div className="row">
                             <div className="col m6">
-                                <h5 className="label">What is CSM?</h5>
+                                <h5 className="label">{ Labels.WHAT_IS_CSM.LABEL }</h5>
                                 <p className="info">
-                                    CSM is a student-run organization that
-                                    provides guidance and resources in a smaller
-                                    classroom environment through group tutoring
-                                    sessions. Each section has 4-6 students and
-                                    focuses on material from one of the courses
-                                    listed above. Outside of teaching, our
-                                    mentors watch movies, climb up to Soda
-                                    almost everyday, hike, study together, and
-                                    more!
+                                    { Labels.WHAT_IS_CSM.BODY }
                                 </p>
                             </div>
                             <div className="col m6">
-                                <h5 className="label">Who we are</h5>
-                                <p className="info">
-                                    We are a group of UC Berkeley students
-                                    passionate about teaching and helping
-                                    students succeed in computer science. CSM
-                                    provides a tiered system of mentoring
-                                    opportunities.
-                                    <b>Senior Mentors</b> write material and
-                                    provide tips to <b>Junior Mentors</b> on how
-                                    to teach. All mentors meet up once a week to
-                                    learn from each other, and use another time
-                                    of the week to teach a section. Our{" "}
-                                    <b>Associate Mentors</b> are either tutors,
-                                    readers, or other experienced teachers who
-                                    teach a section without a Senior Mentor.
-                                </p>
+                                <h5 className="label">{ Labels.WHO_WE_ARE.LABEL }</h5>
+                                { Labels.WHO_WE_ARE.BODY_JSX }
                             </div>
                         </div>
                         <br />
                         <div className="row center">
                             <div className="col m6 s10 offset-s1">
-                                <h5>Plan to join a section?</h5>
+                                <h5>{ Labels.QUICK_LINKS.JOIN_SECTION.LABEL }</h5>
                                 <Link
                                     to="/students"
                                     className="waves-effect waves-light green lighten-1 btn"
                                 >
-                                    Join
+                                    { Labels.QUICK_LINKS.JOIN_SECTION.BUTTON }
                                 </Link>
                             </div>
                             <div className="col m6 s10 offset-s1">
-                                <h5>Want to be a mentor?</h5>
+                                <h5>{ Labels.QUICK_LINKS.BECOME_MENTOR.LABEL }</h5>
                                 <Link
                                     to="/mentors"
                                     className="waves-effect waves-light green lighten-1 btn"
                                 >
-                                    Apply
+                                    { Labels.QUICK_LINKS.BECOME_MENTOR.BUTTON }
                                 </Link>
                             </div>
                         </div>
                         {/* sponsors */}
                         <div className="section">
-                            <h5 className="label">Our Partners</h5>
+                            <h5 className="label">{ Labels.PARTNER_SUBHEADING }</h5>
                             <div className="row">
                                 <div className="col m3 s10 valign offset-s1">
                                     <img
@@ -321,12 +300,12 @@ class Home extends React.Component<{}, AnimationState> {
                                     />
                                 </div>
                                 <div className="col m6 s10 valign offset-s1 center">
-                                    <h5>Want to work with us?</h5>
+                                    <h5>{ Labels.QUICK_LINKS.BECOME_PARTNER.LABEL }</h5>
                                     <Link
                                         to="/partners"
                                         className="waves-effect waves-light green lighten-1 btn"
                                     >
-                                        Partner
+                                        { Labels.QUICK_LINKS.BECOME_PARTNER.BUTTON }
                                     </Link>
                                     <br />
                                 </div>
@@ -338,8 +317,7 @@ class Home extends React.Component<{}, AnimationState> {
                                 className="waves-effect waves-light btn"
                                 href="https://www.facebook.com/BerkeleyCSM/"
                             >
-                                Give our Facebook page a like for updates and
-                                events!
+                                { Labels.LIKE_US_ON_FB }
                             </a>
                         </div>
                     </div>
