@@ -36,10 +36,12 @@ Run `yarn start` to start the dev server, and visit [localhost:3000] in your bro
 ### Updating Bios and Images
 (bios not yet implemented stay tuned)
 
-#### Team
-To add more team members, create an appropriately naned JSON file under `src/data/team` (see the examples in that folder). Its contents should be a list of JSON objects, each with `name`, `img` (the name of the image file under `public/img/team`), and `position` string properties. This interface is declared in `src/pages/Team.tsx`.
+#### Exec
+To add more exec members, create an appropriately naned JSON file under `src/data/team` (see the examples in that folder). Its contents should be a list of JSON objects, each with `name`, `img` (the name of the image file under `public/img/team`), and `position` string properties. This interface is declared in `src/pages/Team.tsx`.
 
 To add the images for exec, just add the appropriate image in `public/img/team`. Try to follow the naming scheme of `firstname-lastname-semester.extension`, if possible.
+
+Once bios are in, you'll need to manually filter exec bios and generate `src/data/bios/exec.json`.
 
 ## Credits
 This site uses the [Materialize](https://materializecss.com/) design kit.
