@@ -18,7 +18,7 @@ interface BioObj {
 
 const bios: { [course: string]: BioObj[] } = { exec: exec_bios };
 LOWERCASE_COURSES.forEach(name => {
-    bios.name = [];
+    bios[name] = [];
 });
 
 function getCoursePageTitleAndLabel(course: string) {
@@ -31,33 +31,58 @@ function getCoursePageTitleAndLabel(course: string) {
     );
 }
 
+const BIO_PLACEHOLDER_TR = (
+    <tr>
+        <td>
+            <img
+                src={ placeholderImg }
+                style={{ marginTop: "8px" }}
+                className="image"
+            />
+        </td>
+        <td className="bio">
+            <p className="label">Coming soon!</p>
+            <p></p>
+            Bios will be posted once mentor interviews are complete.
+        </td>
+    </tr>
+);
+
 class BioCourse extends React.Component<{ course: string }> {
     render() {
         let withPeoplePrefix = this.props.course !== "exec";
+        let courseBios = bios[this.props.course];
         return (
-            <tbody>
-                {bios[this.props.course].map(bio => (
-                    <tr key={bio.imgName}>
-                        <td>
-                            <img
-                                src={
-                                    process.env.PUBLIC_URL +
-                                    "/img/" +
-                                    (withPeoplePrefix ? "people/" : "") +
-                                    bio.imgName
-                                }
-                                style={{ marginTop: "8px" }}
-                                className="image"
-                            />
-                        </td>
-                        <td className="bio">
-                            <p className="label">{bio.name}</p>
-                            <p>{bio.role}</p>
-                            {bio.details}
-                        </td>
-                    </tr>
-                ))}
-            </tbody>
+            <table>
+                <tbody>
+                    {courseBios.length === 0
+                        ? BIO_PLACEHOLDER_TR
+                        : courseBios.map(bio => (
+                            <tr key={bio.imgName}>
+                                <td>
+                                    <img
+                                        src={
+                                            process.env.PUBLIC_URL +
+                                            "/img/" +
+                                            (withPeoplePrefix ? "people/" : "") +
+                                            bio.imgName
+                                        }
+                                        onError={ function(this: HTMLImageElement) {
+                                            this.src = placeholderImg;
+                                        }}
+                                        style={{ marginTop: "8px" }}
+                                        className="image"
+                                    />
+                                </td>
+                                <td className="bio">
+                                    <p className="label">{bio.name}</p>
+                                    <p>{bio.role}</p>
+                                    {bio.details}
+                                </td>
+                            </tr>
+                        ))}
+                </tbody>
+            </table>
         );
     }
 }
@@ -68,9 +93,7 @@ function renderCoursePage(course: string) {
             <div className="section">
                 {getCoursePageTitleAndLabel(course)}
                 <div>
-                    <table>
-                        <BioCourse course="exec" />
-                    </table>
+                    <BioCourse course={ course} />
                 </div>
             </div>
         </div>
