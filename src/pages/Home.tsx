@@ -77,7 +77,7 @@ class StatsList extends React.Component<{ loaded: boolean }> {
                     <span id="mentor-count">{stats.mentorCount}</span>+ Mentors
                 </h5>
                 <h5 className="white-text">
-                    Average mentor rating:
+                    Average mentor rating:{" "}
                     <span id="rating-count">{stats.rating}</span>/ 5
                 </h5>
                 <h5 className="white-text">
@@ -200,7 +200,11 @@ class Home extends React.Component<{}, AnimationState> {
                 if (word.action) {
                     word.action();
                 }
-                setTimeout(() => startNextAnimationTimer(word.delay), delay);
+                // TODO lift this out of the setstate call somehow
+                setTimeout(
+                    () => startNextAnimationTimer(word.delay),
+                    word.delay
+                );
                 // Cast result to satisfy typescript: apparently the sublime plugin isn't quite up to date?
                 return {
                     nextIndex: state.nextIndex + 1,
