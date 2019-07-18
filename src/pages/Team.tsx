@@ -66,7 +66,7 @@ class SemesterHeaderLink extends React.Component<{
                 }
                 onClick={() => this.props.switchActiveTeam(this.props.semester)}
             >
-                {getLongSemNameFromSemStr(this.props.semester)}
+                {getLongSemNameFromSemStr(this.props.semester)} Team
             </span>
         );
     }
@@ -138,15 +138,17 @@ export default class Team extends React.Component<{}, { activeSem: string }> {
         return (
             <section className="row center team">
                 <h5 className="subtitle">
-                    {SEMESTERS.map((sem, i) => [
-                        // intersperse space https://stackoverflow.com/a/40276830
-                        i > 0 && " | ",
-                        <SemesterHeaderLink
-                            semester={sem}
-                            activeSemester={this.state.activeSem}
-                            switchActiveTeam={this.switchActiveTeam}
-                        />,
-                    ])}
+                    {SEMESTERS.slice()
+                        .reverse()
+                        .map((sem, i) => [
+                            // intersperse space https://stackoverflow.com/a/40276830
+                            i > 0 && " | ",
+                            <SemesterHeaderLink
+                                semester={sem}
+                                activeSemester={this.state.activeSem}
+                                switchActiveTeam={this.switchActiveTeam}
+                            />,
+                        ])}
                 </h5>
                 <h6 className="center-align">
                     Hover over photos for more info!

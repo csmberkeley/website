@@ -148,8 +148,8 @@ class Home extends React.Component<{}, AnimationState> {
     constructor(props: {}) {
         super(props);
         this.titleWords = [
-            { text: "We", loaded: false, delay: 500 },
-            { text: "are", loaded: false, delay: 500 },
+            { text: "We ", loaded: false, delay: 500 },
+            { text: "are ", loaded: false, delay: 500 },
             { text: "CSM", loaded: false, delay: 0 },
         ];
         this.courseWords = courses.map(courseName => ({

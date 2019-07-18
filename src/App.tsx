@@ -1,11 +1,12 @@
 import React from "react";
 // Using HashRouter instead of BrowserRouter for backwards compatibility in URLs
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch, Redirect } from "react-router-dom";
 
 import { Bios, Team, Partners, Mentors, Students, Home } from "./pages";
 import { Header, Footer } from "./components";
 
 import urls from "./data/urls.json";
+import courses from "./data/courses.json";
 
 class ExternalRedirect extends React.Component <{ path: string; target: string }> {
     render() {
@@ -30,6 +31,13 @@ function App() {
                     <Route exact path="/partners" component={ Partners } />
                     <Route exact path="/team" component={ Team } />
                     <Route exact path="/bios" component={ Bios } />
+                    <Route exact path="/bios/:course" component={ Bios } />
+                    <Redirect exact from="/exec" to="/bios/exec" />
+                    {
+                        courses.map(name =>
+                            <Redirect exact from={ "/" + name.toLowerCase() } to={ "/bios/" + name.toLowerCase() } key={name}/>
+                        )
+                    }
                     <ExternalRedirect path="/apply" target={ urls.applicationForm } />
                     <ExternalRedirect path="/scheduler" target={ urls.scheduler } />
                     <ExternalRedirect path="/facebook" target={ urls.facebook } />

@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+import "../styles/Mentors.scss";
+
 import dates from "../data/dates.json";
 
 export default class Mentors extends React.Component {

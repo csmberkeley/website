@@ -4,6 +4,12 @@ $open-sans: "Open Sans", sans-serif;
 $montserrat: "Montserrat", sans-serif;
 $purple-rain: #694489;
 
+@import "components/color-variables";
+$primary-color: color("green", "lighten-1");
+
+// Import this last to override variables
+@import "materialize";
+
 /* Global Styles */
 html {
     font-family: $montserrat;

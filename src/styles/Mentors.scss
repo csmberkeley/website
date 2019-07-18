@@ -1,0 +1,24 @@
+@import "theme";
+
+.faq {
+    h5 {
+        margin-bottom: 0.8em;
+    }
+    p {
+        margin-top: 0.2em;
+        margin-bottom: 2em;
+    }
+}
+.mentor-apply-link {
+    background-color: #66bb6a;
+    margin-bottom: 8px;
+    margin-right: 16px;
+    transition: all 0.3s;
+}
+.mentor-apply-link:hover {
+    background-color: #66bb6a;
+    transform: translateY(-2px);
+}
+table {
+    font-family: "Open Sans", sans-serif;
+}
