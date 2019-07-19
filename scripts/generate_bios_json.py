@@ -2,6 +2,9 @@
 Generates JSON blobs of bios from a CSV file, and downloads images accordingly.
 Requires gdrive to be installed (https://github.com/prasmussen/gdrive)
 Made by Matthew Soh in Fall 2018, modified by Jonathan Shi in Spring 2019
+
+TODO figure out how to save download progress, and not make too many requests to google drive
+probably should involve generational indices and store the generation in a text file somewhere
 """
 
 import csv

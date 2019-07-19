@@ -5,6 +5,13 @@ The third iteration of CSM's website. This time in React.
 - [yarn](https://yarnpkg.com/en/docs/install)
 - [node](https://nodejs.org/en/)
 
+The majority of the development of the site is done in [Sublime Text](https://www.sublimetext.com/).
+The following packages are _highly_ recommended to speed up development:
+- [Babel](https://github.com/babel/babel-sublime) (for JSX syntax highlighting)
+- [ESLint](https://github.com/SublimeLinter/SublimeLinter-eslint) (for JS linting)
+- [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter) (to enable ESLint)
+- [TypeScript](https://packagecontrol.io/packages/TypeScript) (for TS syntax highlighting)
+
 ## Development
 ### Dev Server
 From the home directory, run `yarn install`. This should get you all the necessary dependencies.
@@ -33,6 +40,19 @@ Run `yarn start` to start the dev server, and visit [localhost:3000] in your bro
 - `public` is home to other resources
     - `img` holds images that come in bulk, e.g. mentor pictures
 
+### Updating Text
+To update the text on a specific page, visit the corresponding Label file in `src/labels`. Most
+items are stored as string literals, but some are raw JSX to allow formatting or links.
+
+If you add a new section, make sure you update the corresponding JSX page.
+
+#### Naming and Scoping
+Labels are stored roughly hierarchically under the section in which they belong. Please respect the
+following naming conventions if possible:
+- Page titles and subtitles should be `TITLE` and `SUBTITLE` respectively
+- For sections with subheadings accompanied by a body, headings/subheadings should be `LABEL` and the body should be named `BODY`
+- Any component that includes JSX should have `_JSX` appended to the name, e.g. body text containing a `<p>` tag should be named `BODY_JSX`
+
 ### Updating Bios and Images
 (bios not yet implemented stay tuned)
 
@@ -46,6 +66,6 @@ Once bios are in, you'll need to manually filter exec bios and generate `src/dat
 ## Credits
 This site uses the [Materialize](https://materializecss.com/) design kit.
 
-The site design is taken from the [second iteration of CSM's website](https://github.com/csmberkeley/csmberkeley.github.io), designed by [Peter Lee](http://www.peterlee.tech/), [Katya Stukalova](http://kstukalova.github.io/), Colby Guan, and James Jiang. Various other individuals have maintained it over the years, but their names are lost to history
+The site design is taken from the [second iteration of CSM's website](https://github.com/csmberkeley/csmberkeley.github.io), designed by [Peter Lee](http://www.peterlee.tech/), [Katya Stukalova](http://kstukalova.github.io/), Colby Guan, and James Jiang. Various other individuals have maintained it over the years, but their names are lost to history.
 
 The site was redone in React by [Jonathan Shi](http://jonathanshi.me/).

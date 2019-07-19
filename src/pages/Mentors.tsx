@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import "../styles/Mentors.scss";
+import * as Labels from "../labels/MentorLabels";
 
 import dates from "../data/dates.json";
 
@@ -18,33 +19,17 @@ export default class Mentors extends React.Component {
         return (
             <div>
                 <section className="center green lighten-1 stats header">
-                    <h5 className="white-text">For Mentors</h5>
+                    <h5 className="white-text">{ Labels.TITLE }</h5>
                     <h6 className="white-text subtitle">
-                        Gain experience tutoring a small group of students in
-                        the introductory computer science courses as a Junior
-                        Mentor.
+                        { Labels.SUBTITLE }
                     </h6>
                 </section>
 
                 <div className="container">
                     <div className="section">
                         <div className="col l8 offset-l2 s10 offset-s1">
-                            <h5 className="label">Responsibilities</h5>
-                            <p className="info">
-                                All mentors are in charge of a group of 4-5
-                                students.
-                            </p>
-                            <p className="info">
-                                <b>Junior Mentors</b> are under the wing of a
-                                pair of <b>Senior Mentors</b> who meet with them
-                                and a group of 4-5 other Junior Mentors once a
-                                week.
-                            </p>
-                            <p className="info">
-                                <b>Senior Mentors</b> run these meetings, going
-                                over guidance on the week’s material, teaching
-                                tips, etc.
-                            </p>
+                            <h5 className="label">{ Labels.SECTIONS.RESPONSIBILITIES.LABEL }</h5>
+                            { Labels.SECTIONS.RESPONSIBILITIES.BODY_JSX }
                         </div>
                     </div>
                     <div className="divider"></div>
@@ -53,45 +38,14 @@ export default class Mentors extends React.Component {
                         {this.isApplicationOpen() ? (
                             <div>
                                 <h5 className="label">
-                                    Applications for {dates.applicationSemester}{" "}
-                                    Junior Mentors and Associate Mentors are now
-                                    open!
+                                    { Labels.SECTIONS.APPLICATIONS_OPEN.LABEL }
                                 </h5>
-                                <p className="info">
-                                    We are currently recruiting mentors for CS
-                                    61A, CS 88, CS 61B, CS 61C, CS 70, EE 16A,
-                                    and EE16B (newly added!).
-                                    <br />
-                                    The{" "}
-                                    <Link to="/apply">
-                                        Junior Mentor and Associate Mentor
-                                        application is available now!
-                                    </Link>{" "}
-                                    Applications are due{" "}
-                                    {new Date(
-                                        dates.applicationsClose
-                                    ).toLocaleString("en-US", {
-                                        day: "numeric",
-                                        weekday: "long",
-                                        year: "numeric",
-                                        month: "long",
-                                        hour: "numeric",
-                                        minute: "2-digit",
-                                    })}
-                                    . More information is in the application,
-                                    and no late applications will be accepted.
-                                </p>
-                                <p className="info">
-                                    We are not opening Senior Mentor positions
-                                    at this time. We look forward to reading
-                                    your application!
-                                </p>
+                                { Labels.SECTIONS.APPLICATIONS_OPEN.BODY_JSX }
                             </div>
                         ) : (
                             <div>
                                 <h6 className="sublabel">
-                                    Applications have closed for this semester;
-                                    check back at the end of the semester!
+                                    { Labels.SECTIONS.APPLICATIONS_CLOSED.LABEL }
                                 </h6>
                             </div>
                         )}
@@ -99,86 +53,45 @@ export default class Mentors extends React.Component {
                     </div>
                     <div className="divider"></div>
                     <div className="faq section">
-                        <h5 className="label">FAQ</h5>
+                        <h5 className="label">{ Labels.FAQ.LABEL }</h5>
 
                         <h6 className="sublabel">
-                            What are you looking for in a Junior Mentor?
+                            { Labels.FAQ.JM_QUALITIES.Q }
                         </h6>
                         <p className="info">
-                            We look for applicants who are dedicated to their
-                            students. This could be in the form of previous
-                            tutoring experience, mastery of the material, and
-                            flexible time commitments. While we do take grades
-                            into account, it is not a prioritized metric. Many
-                            successful mentors have received a variety of
-                            grades.
+                            { Labels.FAQ.JM_QUALITIES.A }
                         </p>
 
                         <h6 className="sublabel">
-                            Are there any prerequisites to be a Junior Mentor?
+                            { Labels.FAQ.JM_PREREQS.Q }
                         </h6>
                         <p className="info">
-                            There are no formal requirements, but we prefer
-                            mentors to have had at least one semester of lab
-                            assisting, either in past semesters or concurrently.
+                            { Labels.FAQ.JM_PREREQS.A }
                         </p>
 
                         <h6 className="sublabel">
-                            What is the time commitment for a Junior Mentor?
+                            { Labels.FAQ.JM_COMMITMENT.Q }
                         </h6>
                         <p className="info">
-                            We estimate 3-4 hours/week. We break it down as
-                            follows: Senior Meeting (1 hour), Tutoring Meeting
-                            (1 hour), Other Preparations: 1-2 hours.
+                            { Labels.FAQ.JM_COMMITMENT.A }
+                        </p>
+                        <h6 className="sublabel">
+                            { Labels.FAQ.JM_UNITS.Q }
+                        </h6>
+                        <p className="info">
+                            { Labels.FAQ.JM_UNITS.A }
                         </p>
 
                         <h6 className="sublabel">
-                            Can I be a junior mentor without meeting with a
-                            senior mentor?
+                            { Labels.FAQ.OTHER_TUTORING.Q }
                         </h6>
                         <p className="info">
-                            You may. We have another category of mentor called
-                            “Associate Mentor” in which you have extensive
-                            experience in the class you’re mentoring for. We
-                            will be more strict with acceptances as an Associate
-                            Mentor and generally encourage first time tutors to
-                            be a Junior Mentor and receive guidance from Senior
-                            Mentors.
+                            { Labels.FAQ.OTHER_TUTORING.A }
                         </p>
 
-                        <h6 className="sublabel">
-                            Can I get units for being a mentor?
-                        </h6>
+                        <h6 className="sublabel">{ Labels.FAQ.CS_370.Q }</h6>
                         <p className="info">
-                            Yes! Each Junior Mentor can receive 1 unit of P/NP
-                            credit. We will provide you the appropriate CCN when
-                            the time comes. You are not required to enroll.
-                        </p>
-
-                        <h6 className="sublabel">
-                            Can I also do other forms of tutoring other than
-                            group?
-                        </h6>
-                        <p className="info">
-                            Junior Mentors’ primary responsibility is to host
-                            group tutoring. However, Junior Mentors may also
-                            choose to do 1-1 tutoring in conjunction with CS 98,
-                            Introduction to Teaching Computer Science. For other
-                            forms of support, you are free to lab assist or
-                            assist in office hours or guerrilla sections,
-                            provided you have received a passing grade in your
-                            respective class.
-                        </p>
-
-                        <h6 className="sublabel">What is this CS 370?</h6>
-                        <p className="info">
-                            CS 370, or CS 98, Introduction to Teaching Computer
-                            Science, is a class for aspiring teachers, providing
-                            guidance to lab assistants on how to teach computer
-                            science and put it into practice. It offers 1-1
-                            tutoring for the class of your choice. Many of our
-                            mentors have taken this class concurrently or
-                            previously, and is highly recommended!
+                            { Labels.FAQ.CS_370.A }
                         </p>
 
                         <h6 className="sublabel">
