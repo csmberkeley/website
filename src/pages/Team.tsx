@@ -73,17 +73,15 @@ class SemesterHeaderLink extends React.Component<{
 }
 
 class SemesterTeam extends React.Component<{ semester: string }> {
-    officers: Officer[];
 
     constructor(props: { semester: string }) {
         super(props);
-        this.officers = getOfficerTeamFromSemStr(props.semester);
     }
 
     render() {
         return (
             <div className="col s10 offset-s1 team-display">
-                {this.officers.map(officer => (
+                {getOfficerTeamFromSemStr(this.props.semester).map(officer => (
                     <div
                         className="member col l3 m4 s12"
                         key={officer.name + this.props.semester}
