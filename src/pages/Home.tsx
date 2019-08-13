@@ -72,19 +72,19 @@ class StatsList extends React.Component<{ loaded: boolean }> {
             <div className={"stats" + (this.props.loaded ? " onload" : "")}>
                 <h5 className="white-text">
                     <span id="student-count">{stats.studentCount}</span>+{" "}
-                    { Labels.STAT_DESCRIPTIONS.STUDENT_COUNT }
+                    {Labels.STAT_DESCRIPTIONS.STUDENT_COUNT}
                 </h5>
                 <h5 className="white-text">
                     <span id="mentor-count">{stats.mentorCount}</span>+{" "}
-                    { Labels.STAT_DESCRIPTIONS.MENTOR_COUNT }
+                    {Labels.STAT_DESCRIPTIONS.MENTOR_COUNT}
                 </h5>
                 <h5 className="white-text">
-                    { Labels.STAT_DESCRIPTIONS.AVG_MENTOR_RATING }{" "}
+                    {Labels.STAT_DESCRIPTIONS.AVG_MENTOR_RATING}{" "}
                     <span id="rating-count">{stats.rating}</span>/ 5
                 </h5>
                 <h5 className="white-text">
                     <span id="return-count">{stats.returnCount}</span>%{" "}
-                    { Labels.STAT_DESCRIPTIONS.RETURN_PCT }
+                    {Labels.STAT_DESCRIPTIONS.RETURN_PCT}
                 </h5>
             </div>
         );
@@ -122,7 +122,7 @@ class Title extends React.Component<{
                         (this.props.subintroLoaded ? " onload" : "")
                     }
                 >
-                    { Labels.COVER_SUBTITLE }
+                    {Labels.COVER_SUBTITLE}
                 </div>
             </div>
         );
@@ -250,40 +250,48 @@ class Home extends React.Component<{}, AnimationState> {
                     <div className="container">
                         <div className="row">
                             <div className="col m6">
-                                <h5 className="label">{ Labels.WHAT_IS_CSM.LABEL }</h5>
+                                <h5 className="label">
+                                    {Labels.WHAT_IS_CSM.LABEL}
+                                </h5>
                                 <p className="info">
-                                    { Labels.WHAT_IS_CSM.BODY }
+                                    {Labels.WHAT_IS_CSM.BODY}
                                 </p>
                             </div>
                             <div className="col m6">
-                                <h5 className="label">{ Labels.WHO_WE_ARE.LABEL }</h5>
-                                { Labels.WHO_WE_ARE.BODY_JSX }
+                                <h5 className="label">
+                                    {Labels.WHO_WE_ARE.LABEL}
+                                </h5>
+                                {Labels.WHO_WE_ARE.BODY_JSX}
                             </div>
                         </div>
                         <br />
                         <div className="row center">
                             <div className="col m6 s10 offset-s1">
-                                <h5>{ Labels.QUICK_LINKS.JOIN_SECTION.LABEL }</h5>
+                                <h5>{Labels.QUICK_LINKS.JOIN_SECTION.LABEL}</h5>
                                 <Link
                                     to="/students"
                                     className="waves-effect waves-light green lighten-1 btn"
                                 >
-                                    { Labels.QUICK_LINKS.JOIN_SECTION.BUTTON }
+                                    {Labels.QUICK_LINKS.JOIN_SECTION.BUTTON}
                                 </Link>
                             </div>
                             <div className="col m6 s10 offset-s1">
-                                <h5>{ Labels.QUICK_LINKS.BECOME_MENTOR.LABEL }</h5>
+                                <h5>
+                                    {Labels.QUICK_LINKS.BECOME_MENTOR.LABEL}
+                                </h5>
                                 <Link
                                     to="/mentors"
                                     className="waves-effect waves-light green lighten-1 btn"
                                 >
-                                    { Labels.QUICK_LINKS.BECOME_MENTOR.BUTTON }
+                                    {Labels.QUICK_LINKS.BECOME_MENTOR.BUTTON}
                                 </Link>
                             </div>
                         </div>
                         {/* sponsors */}
                         <div className="section">
-                            <h5 className="label">{ Labels.PARTNER_SUBHEADING }</h5>
+                            <h5 className="label">
+                                {Labels.PARTNER_SUBHEADING}
+                            </h5>
                             <div className="row">
                                 <div className="col m3 s10 valign offset-s1">
                                     <img
@@ -300,12 +308,20 @@ class Home extends React.Component<{}, AnimationState> {
                                     />
                                 </div>
                                 <div className="col m6 s10 valign offset-s1 center">
-                                    <h5>{ Labels.QUICK_LINKS.BECOME_PARTNER.LABEL }</h5>
+                                    <h5>
+                                        {
+                                            Labels.QUICK_LINKS.BECOME_PARTNER
+                                                .LABEL
+                                        }
+                                    </h5>
                                     <Link
                                         to="/partners"
                                         className="waves-effect waves-light green lighten-1 btn"
                                     >
-                                        { Labels.QUICK_LINKS.BECOME_PARTNER.BUTTON }
+                                        {
+                                            Labels.QUICK_LINKS.BECOME_PARTNER
+                                                .BUTTON
+                                        }
                                     </Link>
                                     <br />
                                 </div>
@@ -317,7 +333,7 @@ class Home extends React.Component<{}, AnimationState> {
                                 className="waves-effect waves-light btn"
                                 href="https://www.facebook.com/BerkeleyCSM/"
                             >
-                                { Labels.LIKE_US_ON_FB }
+                                {Labels.LIKE_US_ON_FB}
                             </a>
                         </div>
                     </div>

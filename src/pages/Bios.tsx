@@ -27,7 +27,7 @@ function getCoursePageTitleAndLabel(course: string) {
     return (
         <div className="col l8 offset-l2 s10 offset-s1">
             <h5 className="label">{title} Mentor Bios</h5>
-            <p className="info">{ Labels.bioPageSubtitle(title) }</p>
+            <p className="info">{Labels.bioPageSubtitle(title)}</p>
         </div>
     );
 }
@@ -36,15 +36,16 @@ const BIO_PLACEHOLDER_TR = (
     <tr>
         <td>
             <img
-                src={ placeholderImg }
+                src={placeholderImg}
                 style={{ marginTop: "8px" }}
                 className="image"
+                alt="Bios coming soon!"
             />
         </td>
         <td className="bio">
             <p className="label">Coming soon!</p>
             <p></p>
-            { Labels.PLACEHOLDER_BIO_TEXT }
+            {Labels.PLACEHOLDER_BIO_TEXT}
         </td>
     </tr>
 );
@@ -59,29 +60,34 @@ class BioCourse extends React.Component<{ course: string }> {
                     {courseBios.length === 0
                         ? BIO_PLACEHOLDER_TR
                         : courseBios.map(bio => (
-                            <tr key={bio.imgName}>
-                                <td>
-                                    <img
-                                        src={
-                                            process.env.PUBLIC_URL +
-                                            "/img/" +
-                                            (withPeoplePrefix ? "people/" : "") +
-                                            bio.imgName
-                                        }
-                                        onError={ function(this: HTMLImageElement) {
-                                            this.src = placeholderImg;
-                                        }}
-                                        style={{ marginTop: "8px" }}
-                                        className="image"
-                                    />
-                                </td>
-                                <td className="bio">
-                                    <p className="label">{bio.name}</p>
-                                    <p>{bio.role}</p>
-                                    {bio.details}
-                                </td>
-                            </tr>
-                        ))}
+                              <tr key={bio.imgName}>
+                                  <td>
+                                      <img
+                                          src={
+                                              process.env.PUBLIC_URL +
+                                              "/img/" +
+                                              (withPeoplePrefix
+                                                  ? "people/"
+                                                  : "") +
+                                              bio.imgName
+                                          }
+                                          onError={function(
+                                              this: HTMLImageElement
+                                          ) {
+                                              this.src = placeholderImg;
+                                          }}
+                                          style={{ marginTop: "8px" }}
+                                          className="image"
+                                          alt={bio.name}
+                                      />
+                                  </td>
+                                  <td className="bio">
+                                      <p className="label">{bio.name}</p>
+                                      <p>{bio.role}</p>
+                                      {bio.details}
+                                  </td>
+                              </tr>
+                          ))}
                 </tbody>
             </table>
         );
@@ -94,7 +100,7 @@ function renderCoursePage(course: string) {
             <div className="section">
                 {getCoursePageTitleAndLabel(course)}
                 <div>
-                    <BioCourse course={ course} />
+                    <BioCourse course={course} />
                 </div>
             </div>
         </div>
@@ -109,7 +115,7 @@ function renderHomePage() {
             <div className="section">
                 <div className="col l8 offset-l2 s10 offset-s1">
                     <h5 className="label">Bios</h5>
-                    <p className="info">{ Labels.BIO_HOME_PAGE_DESCRIPTION }</p>
+                    <p className="info">{Labels.BIO_HOME_PAGE_DESCRIPTION}</p>
                     <div className="collection">
                         <Link to="/bios/exec" className="collection-item">
                             CSM Exec

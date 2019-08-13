@@ -73,11 +73,6 @@ class SemesterHeaderLink extends React.Component<{
 }
 
 class SemesterTeam extends React.Component<{ semester: string }> {
-
-    constructor(props: { semester: string }) {
-        super(props);
-    }
-
     render() {
         return (
             <div className="col s10 offset-s1 team-display">
@@ -97,6 +92,7 @@ class SemesterTeam extends React.Component<{ semester: string }> {
                                             "/img/team/" +
                                             officer.img
                                         }
+                                        alt={officer.name}
                                     />
                                 </div>
                                 <div className="flipped">

@@ -13,10 +13,8 @@ export const FAQ_CONTACT = {
     A_JSX: (
         <p className="info">
             Feel free to email us at{" "}
-            <a href="MAILTO:mentors@berkeley.edu">
-                mentors@berkeley.edu
-            </a>{" "}
-            if you have any questions or concerns!
+            <a href="MAILTO:mentors@berkeley.edu">mentors@berkeley.edu</a> if
+            you have any questions or concerns!
         </p>
-    )
-}
+    ),
+};

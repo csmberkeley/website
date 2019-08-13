@@ -10,32 +10,34 @@ export default class Partners extends React.Component {
         return (
             <div>
                 <section className="center green lighten-1 stats header">
-                    <h5 className="white-text">{ Labels.TITLE }</h5>
-                    <h6 className="white-text subtitle">{ Labels.SUBTITLE }</h6>
+                    <h5 className="white-text">{Labels.TITLE}</h5>
+                    <h6 className="white-text subtitle">{Labels.SUBTITLE}</h6>
                 </section>
 
                 <div className="container">
                     <div className="section">
-                        <h5 className="label">{ Labels.OUR_PARTNERS_LABEL }</h5>
+                        <h5 className="label">{Labels.OUR_PARTNERS_LABEL}</h5>
                         <br />
                         <div className="row">
                             <div className="col m4 s6 valign">
                                 <img
                                     src={goldmanLogo}
                                     className="responsive-img"
+                                    alt="Goldamn Sachs"
                                 />
                             </div>
                             <div className="col m4 s6 valign">
                                 <img
                                     src={mckinseyLogo}
                                     className="responsive-img"
+                                    alt="McKinsey&amp;Company"
                                 />
                             </div>
                         </div>
                     </div>
                     <div className="section">
-                        <h5 className="label">{ Labels.SUPPORT }</h5>
-                        { Labels.MISSION_JSX }
+                        <h5 className="label">{Labels.SUPPORT}</h5>
+                        {Labels.MISSION_JSX}
                     </div>
                 </div>
             </div>
