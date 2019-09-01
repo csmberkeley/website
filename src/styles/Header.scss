@@ -33,6 +33,11 @@ nav {
     }
 }
 
+// https://stackoverflow.com/questions/38642911/
+.navbar-fixed {
+    z-index: 999; 
+}
+
 @media #{$large-and-up} {
     .nav-wrapper {
         padding-left: 2em;

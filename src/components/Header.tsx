@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/Header.scss";
+import M from "materialize-css";
 
 interface LinkProps {
     ulClasses: string; // css classes for ul tag
@@ -40,6 +41,12 @@ class LinkList extends React.Component<LinkProps> {
 }
 
 export default class Header extends React.Component {
+    componentDidMount() {
+        document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('.sidenav');
+            M.Sidenav.init(elems, {});
+        });
+    }
     render() {
         return (
             <div className="navbar-fixed">
@@ -48,9 +55,13 @@ export default class Header extends React.Component {
                         <Link to="/" className="brand-logo">
                             CSM
                         </Link>
+                        <a href="#" data-target="mobile-demo" className="sidenav-trigger">
+                            <i className="material-icons black-text">menu</i>
+                        </a>
                         <LinkList ulClasses="right hide-on-med-and-down" />
                     </div>
                 </nav>
+                <LinkList ulClasses="sidenav" id="mobile-demo" />
             </div>
         );
 

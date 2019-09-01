@@ -8,9 +8,9 @@ import { hydrate, render } from "react-dom";
 
 const rootElement = document.getElementById("root");
 if (rootElement && rootElement.hasChildNodes()) {
-  hydrate(<App />, rootElement);
+    hydrate(<App />, rootElement);
 } else {
-  render(<App />, rootElement);
+    render(<App />, rootElement);
 }
 
 // If you want your app to work offline and load faster, you can change
