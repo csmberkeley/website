@@ -4,7 +4,10 @@
  * https://drive.google.com/open?id=[id]
  * See https://stackoverflow.com/questions/10311092/
  */
-export function getEmbeddableDriveImageLink(url: string): string {
+export function getEmbeddableDriveImageLink(url?: string): string {
+    if (!url) {
+        return "ERROR";
+    }
     let chunks = url.split("id=");
     if (chunks.length < 2) {
         return "ERROR";

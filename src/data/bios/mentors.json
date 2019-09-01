@@ -3,16 +3,14 @@
         "name": "Danelle Nachum",
         "email": "dnachum@berkeley.edu",
         "courses": {
-            "cs61a": "CS 61A Coordinator",
-            "exec": "CS 61A Coordinator"
+            "cs61a": "CS 61A Coordinator"
         }
     },
     {
         "name": "Catherine Cang",
         "email": "catherinecang@berkeley.edu",
         "courses": {
-            "cs61a": "CS 61A Coordinator",
-            "exec": "CS 61A Coordinator"
+            "cs61a": "CS 61A Coordinator"
         }
     },
     {
@@ -151,8 +149,7 @@
         "email": "rroggenkemper22@berkeley.edu",
         "courses": {
             "cs61a": "CS 61A Senior Mentor",
-            "cs88": "CS 88 Coordinator",
-            "exec": "CS 88 Coordinator"
+            "cs88": "CS 88 Coordinator"
         }
     },
     {
@@ -177,16 +174,14 @@
         "name": "Michelle Mao",
         "email": "michelle.mao@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Coordinator",
-            "exec": "EE 16A Coordinator"
+            "ee16a": "EE 16A Coordinator"
         }
     },
     {
         "name": "Paul Shao",
         "email": "paulshaoyuqiao1@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Coordinator",
-            "exec": "EE 16A Coordinator"
+            "ee16a": "EE 16A Coordinator"
         }
     },
     {
@@ -239,24 +234,21 @@
         "email": "taejin@berkeley.edu",
         "courses": {
             "ee16a": "EE 16A Mentor Mentor",
-            "ee16b": "EE 16B Coordinator",
-            "exec": "EE 16B Coordinator"
+            "ee16b": "EE 16B Coordinator"
         }
     },
     {
         "name": "Anirvin Sikha",
         "email": "anirvin@berkeley.edu",
         "courses": {
-            "cs61b": "CS 61B Coordinator",
-            "exec": "CS 61B Coordinator"
+            "cs61b": "CS 61B Coordinator"
         }
     },
     {
         "name": "Darren Huang",
         "email": "darren.y.huang@berkeley.edu",
         "courses": {
-            "cs61b": "CS 61B Coordinator",
-            "exec": "CS 61B Coordinator"
+            "cs61b": "CS 61B Coordinator"
         }
     },
     {
@@ -343,16 +335,14 @@
         "name": "Kristen Kafkaloff",
         "email": "kafkaloff@berkeley.edu",
         "courses": {
-            "cs70": "CS 70 Coordinator",
-            "exec": "CS 70 Coordinator"
+            "cs70": "CS 70 Coordinator"
         }
     },
     {
         "name": "Manan Khattar",
         "email": "mkhattar@berkeley.edu",
         "courses": {
-            "cs70": "CS 70 Coordinator",
-            "exec": "CS 70 Coordinator"
+            "cs70": "CS 70 Coordinator"
         }
     },
     {
@@ -513,24 +503,21 @@
         "name": "Daniel Li",
         "email": "daniel_zh_li@berkeley.edu",
         "courses": {
-            "cs61c": "CS 61C Coordinator",
-            "exec": "CS 61C Coordinator"
+            "cs61c": "CS 61C Coordinator"
         }
     },
     {
         "name": "Avinash Nandakumar",
         "email": "avinashnandakumar@berkeley.edu",
         "courses": {
-            "cs61c": "CS 61C Coordinator",
-            "exec": "CS 61C Coordinator"
+            "cs61c": "CS 61C Coordinator"
         }
     },
     {
         "name": "Kevin Svetlitski",
         "email": "kevin_svetlitski@berkeley.edu",
         "courses": {
-            "cs61c": "CS 61C Senior Mentor",
-            "exec": "Tech Chair"
+            "cs61c": "CS 61C Senior Mentor"
         }
     },
     {
@@ -553,8 +540,7 @@
         "name": "Yannan Tuo",
         "email": "ytuo@berkeley.edu",
         "courses": {
-            "cs61c": "CS 61C Senior Mentor",
-            "exec": "Advisor"
+            "cs61c": "CS 61C Senior Mentor"
         }
     },
     {
@@ -593,8 +579,7 @@
         "name": "Alex Kassil",
         "email": "alexkassil@berkeley.edu",
         "courses": {
-            "cs88": "CS 88 Coordinator",
-            "exec": "CS 88 Coordinator"
+            "cs88": "CS 88 Coordinator"
         }
     },
     {
@@ -655,8 +640,7 @@
         "name": "Ramsey Mardini",
         "email": "ramseymardini@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Coordinator",
-            "exec": "EE 16B Coordinator"
+            "ee16b": "EE 16B Coordinator"
         }
     },
     {
@@ -714,69 +698,6 @@
         "email": "maxhchen@berkeley.edu",
         "courses": {
             "ee16b": "EE 16B Content Mentor"
-        }
-    },
-    {
-        "name": "Yiling Kao",
-        "email": "ylkao@berkeley.edu",
-        "courses": {
-            "exec": "President"
-        }
-    },
-    {
-        "name": "Alex Stennet",
-        "email": "alexstennet@berkeley.edu",
-        "courses": {
-            "exec": "Internal Vice President"
-        }
-    },
-    {
-        "name": "Alan Ton",
-        "email": "alanton@berkeley.edu",
-        "courses": {
-            "exec": "External Vice President"
-        }
-    },
-    {
-        "name": "Danny Chu",
-        "email": "dannychu@berkeley.edu",
-        "courses": {
-            "exec": "Communications"
-        }
-    },
-    {
-        "name": "Katherine Liu",
-        "email": "katherineliu28@berkeley.edu",
-        "courses": {
-            "exec": "Socials Chair "
-        }
-    },
-    {
-        "name": "Paul Bitutsky",
-        "email": "pbitutsky@berkeley.edu",
-        "courses": {
-            "exec": "Advisor"
-        }
-    },
-    {
-        "name": "Varsha Ramakrishnan",
-        "email": "vio@berkeley.edu",
-        "courses": {
-            "exec": "Advisor"
-        }
-    },
-    {
-        "name": "Daniel Zhang",
-        "email": "daniel_zhang@berkeley.edu",
-        "courses": {
-            "exec": "Advisor"
-        }
-    },
-    {
-        "name": "Suraj Rampure",
-        "email": "suraj.rampure@berkeley.edu",
-        "courses": {
-            "exec": "Advisor"
         }
     }
 ]

@@ -3,21 +3,23 @@ import { match, Link, Redirect } from "react-router-dom";
 
 import "../styles/Bios.scss";
 import * as Labels from "../labels/BioLabels";
+import * as utils from "./utils";
 
 import courses from "../data/courses.json";
 import placeholderImg from "../img/bio_placeholder.png";
-import exec_bios from "../data/bios/exec.json";
+import execBios from "../data/bios/exec.json";
+import mentorBios from "../data/bios/mentors.json";
 
 const LOWERCASE_COURSES = courses.map(s => s.toLowerCase());
 
 interface BioObj {
     name: string;
     role: string;
-    imgName?: string;
+    imgUrl?: string;
     details?: string;
 }
 
-const bios: { [course: string]: BioObj[] } = { exec: exec_bios };
+const bios: { [course: string]: BioObj[] } = { exec: execBios };
 LOWERCASE_COURSES.forEach(name => {
     bios[name] = [];
 });
@@ -52,24 +54,18 @@ const BIO_PLACEHOLDER_TR = (
 
 class BioCourse extends React.Component<{ course: string }> {
     render() {
-        let withPeoplePrefix = this.props.course !== "exec";
         let courseBios = bios[this.props.course];
         return (
             <table>
                 <tbody>
                     {courseBios.length === 0
                         ? BIO_PLACEHOLDER_TR
-                        : courseBios.map(bio => (
-                              <tr key={bio.imgName}>
-                                  <td>
+                        : courseBios.map((bio, i) => (
+                              <tr key={i.toString() + bio.name}>
+                                  <td className="image-container">
                                       <img
                                           src={
-                                              process.env.PUBLIC_URL +
-                                              "/img/" +
-                                              (withPeoplePrefix
-                                                  ? "people/"
-                                                  : "") +
-                                              bio.imgName
+                                              utils.getEmbeddableDriveImageLink(bio.imgUrl)
                                           }
                                           onError={function(e) {
                                               (e.target as HTMLImageElement).src = placeholderImg;

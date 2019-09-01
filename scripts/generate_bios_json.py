@@ -17,6 +17,7 @@ DEST_PATH = "./src/data/bios/mentors.json"
 # Start by keying on email without periods so we can find duplicates easily
 people_by_email = {}
 SEMESTER = "fa19"
+exec_bios = {} # Written into src/data/bios/exec.json
 exec_roles = {} # Written into src/data/team/[SEMESTER].json
 
 # Read the roster first
@@ -33,11 +34,17 @@ for course in CLASSES:
             email_no_dot = email.replace(".", "")
             if course == "exec":
                 # We'll assume nobody is in multiple exec roles
+                exec_bios[email_no_dot] = {
+                    "name": name,
+                    "role": role,
+                    "imgUrl": ""
+                }
                 exec_roles[email_no_dot] = {
                     "name": name,
                     "imgUrl": "",
                     "position": role
                 }
+                continue
             if email_no_dot not in people_by_email:
                 people_by_email[email_no_dot] = {
                     "name": name,
@@ -60,8 +67,11 @@ with open(BIOS_PATH, "r") as bios:
         photo_url = row[3]
         bio = row[4]
         if email_no_dot in exec_roles:
-            obj = exec_roles[email_no_dot]
-            obj["imgUrl"] = photo_url
+            role_obj = exec_roles[email_no_dot]
+            role_obj["imgUrl"] = photo_url
+            bio_obj = exec_bios[email_no_dot]
+            bio_obj["imgUrl"] = photo_url
+            bio_obj["details"] = bio
             continue
         obj = people_by_email[email_no_dot]
         obj["name"] = name
@@ -74,3 +84,6 @@ with open(DEST_PATH, "w") as outfile:
 
 with open(f"src/data/team/{SEMESTER}.json", "w") as exec_file:
     json.dump(list(exec_roles.values()), exec_file, indent=4)
+
+with open(f"src/data/bios/exec.json", "w") as exec_bio:
+    json.dump(list(exec_bios.values()), exec_bio, indent=4)
