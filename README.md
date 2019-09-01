@@ -54,10 +54,11 @@ following naming conventions if possible:
 - Any component that includes JSX should have `_JSX` appended to the name, e.g. body text containing a `<p>` tag should be named `BODY_JSX`
 
 ### Updating Bios and Images
-(bios not yet implemented stay tuned)
+#### Mentors
+Create a folder called `csvs`, which will be ignored by git. Download the bio spreadsheet into csv/bios.csv, and the rosters into `csvs/roster/[course].csv`. Running `scripts/generate_bios_json.py` should write JSON blobs into `src/data/bios/mentors.json`. The script should also specify the expected CSV schemas, which hopefully don't change between semesters.
 
 #### Exec
-To add more exec members, create an appropriately naned JSON file under `src/data/team` (see the examples in that folder). Its contents should be a list of JSON objects, each with `name`, `img` (the name of the image file under `public/img/team`), and `position` string properties. This interface is declared in `src/pages/Team.tsx`.
+To add more exec members, create an appropriately named JSON file under `src/data/team` (see the examples in that folder). Its contents should be a list of JSON objects, each with `name`, `img` (the name of the image file under `public/img/team`), and `position` string properties. This interface is declared in `src/pages/Team.tsx`.
 
 To add the images for exec, just add the appropriate image in `public/img/team`. Try to follow the naming scheme of `firstname-lastname-semester.extension`, if possible.
 

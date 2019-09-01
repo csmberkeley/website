@@ -71,10 +71,8 @@ class BioCourse extends React.Component<{ course: string }> {
                                                   : "") +
                                               bio.imgName
                                           }
-                                          onError={function(
-                                              this: HTMLImageElement
-                                          ) {
-                                              this.src = placeholderImg;
+                                          onError={function(e) {
+                                              (e.target as HTMLImageElement).src = placeholderImg;
                                           }}
                                           style={{ marginTop: "8px" }}
                                           className="image"

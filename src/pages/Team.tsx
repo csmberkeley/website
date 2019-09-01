@@ -1,51 +1,70 @@
 import React from "react";
 
 import "../styles/Team.scss";
+import placeholderImg from "../img/bio_placeholder.png";
 
 // TODO if it ever becomes necessary, refactor these semesters out into their own module
 import fa17 from "../data/team/fa17.json";
 import sp18 from "../data/team/sp18.json";
 import fa18 from "../data/team/fa18.json";
 import sp19 from "../data/team/sp19.json";
+import fa19 from "../data/team/fa19.json";
 
 import { duties } from "../labels/TeamLabels";
+import * as utils from "./utils";
 
-const CURRENT_SEM = "sp19";
-const SEMESTERS = ["fa17", "sp18", "fa18", "sp19"];
+const CURRENT_SEM = "fa19";
+const SEMESTERS = ["fa17", "sp18", "fa18", "sp19", "fa19"];
 
-interface Officer {
+interface NewOfficer {
+    kind: "new";
     name: string;
-    img: string;
+    imgUrl: string; // External URL
     position: string;
 }
 
+interface OldOfficer {
+    kind: "old";
+    name: string;
+    img: string; // Internal relative path
+    position: string;
+}
+
+// We used to download officer images, and serve them from the OCF website: I say NO MORE
+// (now we serve straight from Google Drive)
+type Officer = OldOfficer | NewOfficer;
+
 function getOfficerTeamFromSemStr(semester: string): Officer[] {
+    // May be prudent to move the semester imports into a module, but for now,
+    // https://www.typescriptlang.org/docs/handbook/advanced-types.html#discriminated-unions
+    let newDiscriminator = (o: any) => Object.assign(o, { kind: "new" });
+    let oldDiscriminator = (o: any) => Object.assign(o, { kind: "old" });
     switch (semester) {
         case "fa17":
-            return fa17;
+            return fa17.map(oldDiscriminator);
         case "sp18":
-            return sp18;
+            return sp18.map(oldDiscriminator);
         case "fa18":
-            return fa18;
+            return fa18.map(oldDiscriminator);
         case "sp19":
-            return sp19;
+            return sp19.map(oldDiscriminator);
+        case "fa19":
+            return fa19.map(newDiscriminator);
         default:
             throw new Error(`Bad semester provided: ${semester}`);
     }
 }
 
 function getLongSemNameFromSemStr(semester: string): string {
-    switch (semester) {
-        case "fa17":
-            return "Fall 2017";
-        case "sp18":
-            return "Spring 2018";
-        case "fa18":
-            return "Fall 2018";
-        case "sp19":
-            return "Spring 2019";
-        default:
-            throw new Error(`Bad semester provided: ${semester}`);
+    if (semester.match(/(fa|sp)[0-9][0-9]/)) {
+        let shortSem = semester.substring(0, 2);
+        let shortYear = semester.substring(2);
+        let longSem = shortSem === "fa" ? "Fall" : "Spring";
+        // As long as this code isn't used a century from now, we'll be ok here
+        let longYear = "20" + shortYear;
+        return `${longSem} ${longYear}`;
+    } else {
+        throw new Error(`Bad semester provided: ${semester}`);
     }
 }
 
@@ -79,20 +98,30 @@ class SemesterTeam extends React.Component<{ semester: string }> {
                 {getOfficerTeamFromSemStr(this.props.semester).map(officer => (
                     <div
                         className="member col l3 m4 s12"
-                        key={officer.name + this.props.semester}
+                        key={
+                            officer.name +
+                            this.props.semester +
+                            officer.position
+                        }
                     >
                         <div className="cube-scene">
                             <div className="cube">
                                 <div className="unflipped">
                                     <img
                                         className="responsive-img"
-                                        width="200px"
                                         src={
-                                            process.env.PUBLIC_URL +
-                                            "/img/team/" +
-                                            officer.img
+                                            officer.kind === "old"
+                                                ? process.env.PUBLIC_URL +
+                                                  "/img/team/" +
+                                                  officer.img
+                                                : utils.getEmbeddableDriveImageLink(
+                                                      officer.imgUrl
+                                                  )
                                         }
                                         alt={officer.name}
+                                        onError={function(e) {
+                                            (e.target as HTMLImageElement).src = placeholderImg;
+                                        }}
                                     />
                                 </div>
                                 <div className="flipped">
@@ -138,6 +167,7 @@ export default class Team extends React.Component<{}, { activeSem: string }> {
                             // intersperse space https://stackoverflow.com/a/40276830
                             i > 0 && " | ",
                             <SemesterHeaderLink
+                                key={sem}
                                 semester={sem}
                                 activeSemester={this.state.activeSem}
                                 switchActiveTeam={this.switchActiveTeam}

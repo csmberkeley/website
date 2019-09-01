@@ -1,133 +1,76 @@
 """
-Generates JSON blobs of bios from a CSV file, and downloads images accordingly.
-Requires gdrive to be installed (https://github.com/prasmussen/gdrive)
-Made by Matthew Soh in Fall 2018, modified by Jonathan Shi in Spring 2019
-
-TODO figure out how to save download progress, and not make too many requests to google drive
-probably should involve generational indices and store the generation in a text file somewhere
+Generates JSON blobs of bios from a CSV file.
 """
 
 import csv
 import json
 import subprocess
-from warnings import warn
 import os
 
-# what image links should be prefixed with
-base_img_location = "../public/img/people/"
-# where images should be downloaded to
-img_dl_location = "../public/img/people/"
-# staging location (files get download here before being renamed)
-img_stage_location = "../public/img/tmp_people/"
 
-CLASSES = ("cs61a", "ee16a", "cs61b", "cs70", "cs61c", "cs88", "ee16b")
+CLASSES = ("cs61a", "ee16a", "cs61b", "cs70", "cs61c", "cs88", "ee16b", "exec")
 
-IN_LOCATION = "./bios.csv"
-OUT_LOCATION = "./biodump.json"
+BIOS_PATH = "./csvs/bios.csv"
+ROSTER_FOLDER = "./csvs/roster/"
+DEST_PATH = "./src/data/bios/mentors.json"
 
-img_list = None
+# Start by keying on email without periods so we can find duplicates easily
+people_by_email = {}
+SEMESTER = "fa19"
+exec_roles = {} # Written into src/data/team/[SEMESTER].json
 
-def list_img_dir(force=False):
-    global img_list
-    if force: img_list = None
-    img_list = img_list or os.listdir(img_dl_location)
-    return img_list
-
-failures = []
-seen = set()
-dups = []
-
-def get_photo(name, photo_id):
-    normalized_name = "-".join(name.lower().split(" "))
-    if normalized_name in seen:
-        dups.append(normalized_name)
-    else:
-        seen.add(normalized_name)
-
-    # Check if the image already exists
-    for x in list_img_dir():
-        if normalized_name in x: # use the one with the correct file extension
-            # print("image exists locally for {}".format(normalized_name))
-            return x
-
-    # The image does not exist locally
-    exit_code = subprocess.call(
-        ["gdrive", "download", photo_id, "--path", img_stage_location]
-    )
-    if exit_code != 0:
-        warn(
-            "Attempt to download photo for {}, photo_id={} did not complete successfully. (exit code {})" \
-                .format(name, photo_id, exit_code)
-        )
-        failures.append(name)
-    else:
-        img_filename = os.listdir(img_stage_location)[0]
-        file_extension = img_filename.split(".")[-1]
-        new_img_filename = '.'.join((normalized_name, file_extension))
-        subprocess.call(
-            [
-                "mv",
-                os.path.join(img_stage_location, img_filename),
-                os.path.join(img_dl_location, new_img_filename),
-            ]
-        )
-        return new_img_filename
-
-"""
-bio = {
-    name :: str
-    email :: str
-    details :: str
-    imgName :: str
-    course :: { str: str } (maps course name to role string)
-}
-"""
-def read_bios():
-    objs = {}
-    with open(IN_LOCATION, "r") as csvfile:
-        reader = csv.reader(csvfile)
+# Read the roster first
+for course in CLASSES:
+    with open(os.path.join(ROSTER_FOLDER, course + ".csv"), "r") as roster:
+        reader = csv.reader(roster)
+        # Skip header
         next(reader)
+        # Columns are: name | email | role
         for row in reader:
-            _, email, name, photo_url, bio, website, _ = row
-            # (id field should be after ?id=)
-            photo_id = photo_url.split("=")[-1]
-            photo = get_photo(name, photo_id)
-            obj = {
-                "name": name,
-                "email": email,
-                "details": bio,
-                "imgName": photo,
-                "courses": {}
-            }
-            if website:
-                obj["website"] = website
-            # in sp19, need to populate course/role from elsewhere
-            objs[email] = obj
-    return objs
+            name = row[0]
+            email = row[1]
+            role = row[2]
+            email_no_dot = email.replace(".", "")
+            if course == "exec":
+                # We'll assume nobody is in multiple exec roles
+                exec_roles[email_no_dot] = {
+                    "name": name,
+                    "imgUrl": "",
+                    "position": role
+                }
+            if email_no_dot not in people_by_email:
+                people_by_email[email_no_dot] = {
+                    "name": name,
+                    "email": email,
+                    "courses": {course: role}
+                }
+            else:
+                people_by_email[email_no_dot]["courses"][course] = role
 
-def read_rosters(objs):
-    for cn in CLASSES:
-        with open(os.path.join("mentors", "{}.csv").format(cn), "r") as csvfile:
-            reader = csv.reader(csvfile)
-            next(reader) # skip header
-            for row in reader:
-                # can't unpack b/c varying # of cols
-                email = row[1]
-                role = row[2]
-                if email not in objs: # didn't fill out bio form
-                    objs[email] = { "email": email, "courses": {}, "imgName": "" }
-                if "name" not in objs[email]:
-                    objs[email]["name"] = row[0]
-                objs[email]["courses"][cn.upper()] = role
+# Read bios
+with open(BIOS_PATH, "r") as bios:
+    reader = csv.reader(bios)
+    # Skip header
+    next(reader)
+    # Columns are: timestamp | email | name | photo URL | bio | resume
+    for row in reader:
+        email = row[1]
+        email_no_dot = email.replace(".", "")
+        name = row[2]
+        photo_url = row[3]
+        bio = row[4]
+        if email_no_dot in exec_roles:
+            obj = exec_roles[email_no_dot]
+            obj["imgUrl"] = photo_url
+            continue
+        obj = people_by_email[email_no_dot]
+        obj["name"] = name
+        obj["details"] = bio
+        obj["imgUrl"] = photo_url
 
-def main():
-    objs = read_bios()    
-    read_rosters(objs)
-    if failures:
-        warn("failed to get images for: {}".format(failures))
-    if dups:
-        warn("WARNING: duplicate names detected: {}; please resolve manually".format(dups))
-    with open(OUT_LOCATION, "w") as outfile:
-        json.dump(list(objs.values()), outfile, indent=4)
+# Write mentor bios
+with open(DEST_PATH, "w") as outfile:
+    json.dump(list(people_by_email.values()), outfile, indent=4)
 
-main()
+with open(f"src/data/team/{SEMESTER}.json", "w") as exec_file:
+    json.dump(list(exec_roles.values()), exec_file, indent=4)
