@@ -4,7 +4,6 @@ Generates JSON blobs of bios from a CSV file.
 
 import csv
 import json
-import subprocess
 import os
 
 
