@@ -20,9 +20,20 @@ interface BioObj {
 }
 
 const bios: { [course: string]: BioObj[] } = { exec: execBios };
-LOWERCASE_COURSES.forEach(name => {
-    bios[name] = [];
+LOWERCASE_COURSES.forEach(course => {
+    bios[course] = [];
 });
+// Since we're pre-rendering, some inefficiency is OK
+for (let mentor of mentorBios) {
+    for (let [course, role] of Object.entries(mentor.courses)) {
+        bios[course].push({
+            name: mentor.name,
+            role: role!,
+            imgUrl: mentor.imgUrl,
+            details: mentor.details,
+        });
+    }
+}
 
 function getCoursePageTitleAndLabel(course: string) {
     let title = course === "exec" ? "Exec" : course.toUpperCase();
@@ -62,23 +73,32 @@ class BioCourse extends React.Component<{ course: string }> {
                         ? BIO_PLACEHOLDER_TR
                         : courseBios.map((bio, i) => (
                               <tr key={i.toString() + bio.name}>
-                                  <td className="image-container">
-                                      <img
-                                          src={
-                                              utils.getEmbeddableDriveImageLink(bio.imgUrl)
-                                          }
-                                          onError={function(e) {
-                                              (e.target as HTMLImageElement).src = placeholderImg;
-                                          }}
-                                          style={{ marginTop: "8px" }}
-                                          className="image"
-                                          alt={bio.name}
-                                      />
+                                  <td>
+                                      <div className="image-container">
+                                          <img
+                                              src={utils.getEmbeddableDriveImageLink(
+                                                  bio.imgUrl
+                                              )}
+                                              onError={function(e) {
+                                                  (e.target as HTMLImageElement).src = placeholderImg;
+                                              }}
+                                              style={{ marginTop: "8px" }}
+                                              className="image"
+                                              alt={bio.name}
+                                          />
+                                      </div>
                                   </td>
                                   <td className="bio">
                                       <p className="label">{bio.name}</p>
                                       <p>{bio.role}</p>
-                                      {bio.details}
+                                      {/* Here's to hoping no mentors decide to XSS us */}
+                                      <div
+                                          dangerouslySetInnerHTML={{
+                                              __html: bio.details
+                                                  ? bio.details
+                                                  : "",
+                                          }}
+                                      />
                                   </td>
                               </tr>
                           ))}

@@ -5,7 +5,12 @@
     vertical-align: top;
 }
 
-.image {
+.image-container {
     width: 200px;
     height: 200px;
+    overflow: hidden;
+}
+
+.image {
+    width: 100%;
 }

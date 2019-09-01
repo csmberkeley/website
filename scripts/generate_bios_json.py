@@ -44,8 +44,7 @@ for course in CLASSES:
                     "imgUrl": "",
                     "position": role
                 }
-                continue
-            if email_no_dot not in people_by_email:
+            elif email_no_dot not in people_by_email:
                 people_by_email[email_no_dot] = {
                     "name": name,
                     "email": email,
@@ -72,11 +71,11 @@ with open(BIOS_PATH, "r") as bios:
             bio_obj = exec_bios[email_no_dot]
             bio_obj["imgUrl"] = photo_url
             bio_obj["details"] = bio
-            continue
-        obj = people_by_email[email_no_dot]
-        obj["name"] = name
-        obj["details"] = bio
-        obj["imgUrl"] = photo_url
+        if email_no_dot in people_by_email:
+            obj = people_by_email[email_no_dot]
+            obj["name"] = name
+            obj["details"] = bio
+            obj["imgUrl"] = photo_url
 
 # Write mentor bios
 with open(DEST_PATH, "w") as outfile:

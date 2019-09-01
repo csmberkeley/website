@@ -4,14 +4,18 @@
         "email": "dnachum@berkeley.edu",
         "courses": {
             "cs61a": "CS 61A Coordinator"
-        }
+        },
+        "details": "Hi, I'm Danelle and outside of teaching, I spend way too much of my time watching over the top spy televisions shows :).",
+        "imgUrl": "https://drive.google.com/open?id=1TOnW2dsqw4FDX09fw5aSN8GYrSHZWx4g"
     },
     {
         "name": "Catherine Cang",
         "email": "catherinecang@berkeley.edu",
         "courses": {
             "cs61a": "CS 61A Coordinator"
-        }
+        },
+        "details": "Hi I'm Catherine! I like cats and boba and CS61A :)",
+        "imgUrl": "https://drive.google.com/open?id=1wiBgAUhMOwg3vco__A0AFH8PQhY0p3vB"
     },
     {
         "name": "Addison Chan",
@@ -150,7 +154,9 @@
         "courses": {
             "cs61a": "CS 61A Senior Mentor",
             "cs88": "CS 88 Coordinator"
-        }
+        },
+        "details": "Hi! My name is Richard. I'm a  second year student from Los Gatos, California. I\u2019m a Computer Science/Data Science major also hoping to major in Business. I love skiing, cooking, and anything related to food. I'm excited to be a CS 88 Coordinator and a CS 61a Senior Mentor this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1zDOea2RsNCxvGblicF-pOvwSi1KnYyx1"
     },
     {
         "name": "Risham Sidhu",
@@ -175,7 +181,9 @@
         "email": "michelle.mao@berkeley.edu",
         "courses": {
             "ee16a": "EE 16A Coordinator"
-        }
+        },
+        "details": "I'm a junior from Shanghai who isn't an international student because I was born in Michigan but will still tell you I'm Chinese. I've been in CSM since my second semester and truly believe it will reshape EECS education at Cal. I especially believe in its power to change student perceptions of EE courses. When I'm not CSM-ing, you can find me in the a cappella group the California Golden Overtones, building mobile apps, or biking around the area.",
+        "imgUrl": "https://drive.google.com/open?id=19n0xVINgqy--dvt8QiYbqtwrAIzuqfFq"
     },
     {
         "name": "Paul Shao",
@@ -199,7 +207,7 @@
         "courses": {
             "ee16a": "EE 16A Senior Mentor"
         },
-        "details": "Hello there! I'm a 3rd year EECS major from the Bay Area. I like programming languages where the compiler yells at you a lot. Outside CSM, I'm a Music Director and saxophonist for the Intermission Orchestra, and I spend an inordinate amount of my breaks watching anime.\nAlso, I run this website. This means I get to put fancy formatted text in my bio (as long as I remember to edit it in), but nobody else does.",
+        "details": "Hello there! I'm a 3rd year EECS major from the Bay Area. I like programming languages where the compiler yells at you a lot. Outside CSM, I'm a Music Director and saxophonist for the Intermission Orchestra, and I spend an inordinate amount of my breaks watching anime.\nAlso, I run this website. This means I get to put <code>fancy formatted text</code> in my bio (as long as I remember to edit it in)",
         "imgUrl": "https://drive.google.com/open?id=1QxJ_rkanb3vKc2w9aaD1cUBoaTChwFeg"
     },
     {
@@ -235,21 +243,27 @@
         "courses": {
             "ee16a": "EE 16A Mentor Mentor",
             "ee16b": "EE 16B Coordinator"
-        }
+        },
+        "details": "\"Hey y'all I'm a Blank year Blank major, I'm so excited to work with y'all this semester. My hobbies are blank blank blank\" - Danny Chu",
+        "imgUrl": "https://drive.google.com/open?id=1njiKJ4cGmpbmN9xFTMJ15LtXK4Hj1BJF"
     },
     {
-        "name": "Anirvin Sikha",
+        "name": "Anirivn Sikha",
         "email": "anirvin@berkeley.edu",
         "courses": {
             "cs61b": "CS 61B Coordinator"
-        }
+        },
+        "details": "Hi guys! My name is Anirvin Sikha. I'm an incoming senior and co-coordinator for CS 61B. I've been in CSM for 6 semesters now and am extremely excited to be working with you all! ",
+        "imgUrl": "https://drive.google.com/open?id=16EMStuvs0pbWEfbkTzokn46NbTLz7WZf"
     },
     {
         "name": "Darren Huang",
         "email": "darren.y.huang@berkeley.edu",
         "courses": {
             "cs61b": "CS 61B Coordinator"
-        }
+        },
+        "details": "Hello! I'm a Senior at UC Berkeley studying computer science and applied math. I really enjoy learning new things and exploring how a simple bug can take hours off your life. I spend most of my time training to become a master chef under the guidance of Gordon Ramsay and Binging with Babish, but in my free time I like playing video games, watching dog videos, and sleeping. Oh yeah I guess I do some classes and studying here and there too x_x",
+        "imgUrl": "https://drive.google.com/open?id=1SAfRlkbUEqHiwyK78fZCgZlhQuE-Np3o"
     },
     {
         "name": "Aakash Shukla",
@@ -336,7 +350,9 @@
         "email": "kafkaloff@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Coordinator"
-        }
+        },
+        "details": "Hi! I love teaching and have pretty much taught all grades from elementary school to college. CSM helped me get the most out of CS70 while I was taking it and it\u2019s why I enjoy the course so much. I love outdoorsy stuff, playing basketball, painting, and basically anything on Pinterest!",
+        "imgUrl": "https://drive.google.com/open?id=198o4AhVmGafc2uZfbDWieyEi3fLF7vRZ"
     },
     {
         "name": "Manan Khattar",
@@ -511,7 +527,9 @@
         "email": "avinashnandakumar@berkeley.edu",
         "courses": {
             "cs61c": "CS 61C Coordinator"
-        }
+        },
+        "details": "Hi everyone! I'm a 3rd year EECS major from Camarillo, California near Malibu. I love to hangout with my friend, play/watch basketball, and be outdoors doing anything. I'm also a huge Clippers fan and love meeting new people to talk to!",
+        "imgUrl": "https://drive.google.com/open?id=1gNieFlQiQhvYvfCO0hmA9g4TcHmMAAj6"
     },
     {
         "name": "Kevin Svetlitski",
@@ -541,7 +559,9 @@
         "email": "ytuo@berkeley.edu",
         "courses": {
             "cs61c": "CS 61C Senior Mentor"
-        }
+        },
+        "details": "\"when nothing goes right, go left\" :^)",
+        "imgUrl": "https://drive.google.com/open?id=1XORw4VX44qX07A4q2Vo5yxDCayy46Rfh"
     },
     {
         "name": "Zac Patel",
@@ -580,7 +600,9 @@
         "email": "alexkassil@berkeley.edu",
         "courses": {
             "cs88": "CS 88 Coordinator"
-        }
+        },
+        "details": "Hello! ",
+        "imgUrl": "https://drive.google.com/open?id=1m0ghVyEyoNKDJSpLsuLSMKsmL8MTDS91"
     },
     {
         "name": "Ada Hu",
