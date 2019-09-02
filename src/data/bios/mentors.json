@@ -190,7 +190,9 @@
         "email": "paulshaoyuqiao1@berkeley.edu",
         "courses": {
             "ee16a": "EE 16A Coordinator"
-        }
+        },
+        "details": "Hi. My name is Paul. I am currently a junior studying EECS. Some of my personal hobbies include classical music, hiking, and traveling. I look forward to meeting all of you and a great semester ahead of us!",
+        "imgUrl": "https://drive.google.com/open?id=18YP-ixxmoKurcEASAzm6T2zuleu0kDj8"
     },
     {
         "name": "Albert Tang",
@@ -244,7 +246,7 @@
             "ee16a": "EE 16A Mentor Mentor",
             "ee16b": "EE 16B Coordinator"
         },
-        "details": "\"Hey y'all I'm a Blank year Blank major, I'm so excited to work with y'all this semester. My hobbies are blank blank blank\" - Danny Chu",
+        "details": "Hello! I\u2019m a fourth year Math and CS major from Arcadia, CA. When I\u2019m not CSMing or studying for midterms, I\u2019m usually watching Man U, playing video games (FE3H / XC2), or eating at Shooting Star Cafe. Feel free to talk to me about anything, or listen to me talk to you about how we\u2019re actually living in a Hilbert Space.",
         "imgUrl": "https://drive.google.com/open?id=1njiKJ4cGmpbmN9xFTMJ15LtXK4Hj1BJF"
     },
     {
@@ -334,7 +336,9 @@
         "email": "ryannuqui@berkeley.edu",
         "courses": {
             "cs61b": "CS 61B Senior Mentor"
-        }
+        },
+        "details": "Hi y'all! \nI'm a third year studying CS and Math major, minoring in Education. In my free time, I like to play board games, read, and watch Ted talks. 61B was one of my favorite classes and I hope it becomes yours too! ",
+        "imgUrl": "https://drive.google.com/open?id=17jYtnN7ABZgCd99WxN5QKan_WZ2es1T-"
     },
     {
         "name": "Shriya Vohra",
@@ -637,7 +641,7 @@
         "courses": {
             "cs88": "CS 88 Senior Mentor"
         },
-        "details": "Hey there! I'm Shreya, a second year EECS major here at Berkeley, born and raised in the Bay Area. This is my second semester mentoring for CS 88, and I'm super excited to be returning. Besides teaching, I love trying new restaurants and playing board games. On campus, you can probably find me practicing with the Indian dance team (Raas!), nestled in one of our many libraries, or trying to navigate the bus system, which I still find confusing. I'm super excited to be a part of your CS 88 journey here at Cal! I love to talk, so feel free to reach out with to me any time with questions you have :)",
+        "details": "Hey there! I'm Shreya, a second year EECS major here at Berkeley, born and raised in the Bay Area. This is my second semester mentoring for CS 88, and I'm super excited to be returning. Besides teaching, I love trying new restaurants and playing board games. On campus, you can probably find me practicing with the Indian dance team (Raas!), nestled in one of our many libraries, or trying to navigate the bus system, which I still find confusing. I love to talk, so feel free to reach out any time with questions you have :)",
         "imgUrl": "https://drive.google.com/open?id=1WolGN4i8uBGPfCs0GzBuomWG6u00OXRs"
     },
     {
@@ -682,11 +686,13 @@
         }
     },
     {
-        "name": "Kai Pin Ryan Koh",
+        "name": "Ryan Koh",
         "email": "ryan_koh@berkeley.edu",
         "courses": {
             "ee16b": "EE 16B Senior Mentor"
-        }
+        },
+        "details": "Hey what\u2019s up? I\u2019m a second year majoring in Computer Science, and this is my second semester in CSM. In my free time, I like playing Smash and TFT :D. Let\u2019s have a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1cDF3RSw0wCzBs0NxoxfCtLdq1CeSoHbq"
     },
     {
         "name": "Naomi Sagan",
