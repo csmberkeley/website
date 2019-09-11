@@ -64,21 +64,5 @@ export default class Header extends React.Component {
                 <LinkList ulClasses="sidenav" id="mobile-demo" />
             </div>
         );
-
-        // TODO replace this jquery stuff for mobile
-        //
-        // <a href="javascript: void(0)" data-activates="mobile-demo" className="button-collapse black-text">
-        //     <i className="fa fa-bars"></i>
-        // </a>
-        // <LinkList ulClasses="side-nav" id="mobile-demo" />
-        /*
-        <script>
-            $('.modal-trigger').leanModal();
-            $('.button-collapse').sideNav();
-            $('.side-nav a').click(function() {
-                $('.button-collapse').sideNav('hide');
-            });
-        </script>
-        */
     }
 }
