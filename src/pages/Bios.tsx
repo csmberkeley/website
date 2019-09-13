@@ -1,5 +1,6 @@
 import React from "react";
 import { match, Link, Redirect } from "react-router-dom";
+import sanitizeHtml from "sanitize-html";
 
 import "../styles/Bios.scss";
 import * as Labels from "../labels/BioLabels";
@@ -94,11 +95,10 @@ class BioCourse extends React.Component<{ course: string }> {
                                   <td className="bio">
                                       <p className="label">{bio.name}</p>
                                       <p>{bio.role}</p>
-                                      {/* Here's to hoping no mentors decide to XSS us */}
                                       <div
                                           dangerouslySetInnerHTML={{
                                               __html: bio.details
-                                                  ? bio.details
+                                                  ? sanitizeHtml(bio.details)
                                                   : "",
                                           }}
                                       />
