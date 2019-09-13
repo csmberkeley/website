@@ -44,7 +44,7 @@ export const QUICK_LINKS = {
         BUTTON: "Join",
     },
     BECOME_MENTOR: {
-        LABEL: "Want bo be a mentor?",
+        LABEL: "Want to be a mentor?",
         BUTTON: "Apply",
     },
     BECOME_PARTNER: {
