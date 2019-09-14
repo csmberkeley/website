@@ -30,15 +30,17 @@
         "courses": {
             "cs61a": "CS 61A Senior Mentor"
         },
-        "details": "Hi! My name is Aini and I'm a fifth-semester Physics/CS transfer student from Orange County, CA. Some fun facts about me: I love cats, nap way too much, have a really low tolerance for spicy food, and suck at multitasking. I also speak Cantonese and Mandarin fluently. I love CS 61A and am excited to teach it again (for the third time)! Really look forward to meeting you!  ",
-        "imgUrl": "https://drive.google.com/open?id=12uOJdI8OWQ0i__7_4GGTaEHBuszVqvFD"
+        "details": "Hi! My name is Aini and I'm a fifth-semester Physics/CS transfer student from Orange County, CA. Some fun facts about me: I love cats, nap way too much, have a really low tolerance for spicy food, and suck at multitasking. I also speak Cantonese and Mandarin fluently. I love CS 61A and am excited to teach it again (for the third time)! Really look forward to meeting you! ",
+        "imgUrl": "https://drive.google.com/open?id=1hI3S446I53Iy02ghYyHF-UfuYG-lKlwR"
     },
     {
         "name": "Albert Xu",
         "email": "albertxu3@berkeley.edu",
         "courses": {
             "cs61a": "CS 61A Senior Mentor"
-        }
+        },
+        "details": "If you are jumping up and down in muddy puddles, you must wear your boots!",
+        "imgUrl": "https://drive.google.com/open?id=1DChTQD4J5Fjz2I2RbbythFW7DvL2ihWb"
     },
     {
         "name": "Bridget Cheng",
@@ -110,7 +112,7 @@
             "cs61a": "CS 61A Senior Mentor"
         },
         "details": "Hi there! I'm Jessica, and I'm a fourth year EECS major from San Mateo, CA. In my free time, I like to eat new foods, curate Spotify playlists, and try and fail to keep my succulents alive. My pronouns are she/her. Looking forward to an awesome semester!",
-        "imgUrl": "https://drive.google.com/open?id=1StKLW2uAHbZliwkbz-OsK2KsVsvE7tcM"
+        "imgUrl": "https://drive.google.com/open?id=1BC8dFNxSqBRuvXRvj_90cHUXOXubH8jK"
     },
     {
         "name": "Lucas Pan",
@@ -136,8 +138,8 @@
         "courses": {
             "cs61a": "CS 61A Senior Mentor"
         },
-        "details": "Hi there! I'm Olivia, a third year CS major from San Diego. In my free time, I enjoy yoga, binging episodes of The Office, drinking lots of tea, and knitting. I'm looking forward to a great semester with you all!",
-        "imgUrl": "https://drive.google.com/open?id=1-jDeUUk5AYQxZA4amsbARkchpfNO_vmJ"
+        "details": "Hi there! I'm Olivia, a third year CS major from San Diego. Some things I enjoy: binging episodes of The Office, any form of arts and crafts, and all types of chocolate desserts. I'm looking forward to a great semester, and I can't wait to meet you all! My pronouns are she/her.",
+        "imgUrl": "https://drive.google.com/open?id=1POqjuGNXSdbUhO57OF1QscdVb8ZQ23Pe"
     },
     {
         "name": "Patricia Ouyang",
@@ -177,6 +179,625 @@
         "imgUrl": "https://drive.google.com/open?id=1kbnTn0zPrEmxgDvnf6jrOOEbqVazN1bU"
     },
     {
+        "name": "Abhinav Singh",
+        "email": "abhinavsingh@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello everyone! I'm Abhinav (or Abhi), a second year CS/Data Science double major from Pleasant Hill, CA. Outside of CS, I love playing music (piano and Cal band woooo),  listening to music, spending time with my friends, and just going out adventuring. I love collecting vinyl records, and I listen to a lot of metal (like Iron Maiden, Metallica, etc.) and some hip hop (Kendrick, Tyler). I'm also a big baseball fan (Go A's!). Feel free to talk to me about literally anything, as I love exploring new ideas!",
+        "imgUrl": "https://drive.google.com/open?id=12DNuAXIf4S8_j1VtSpzsjxTf5H54HNp3"
+    },
+    {
+        "name": "Aidan Tong",
+        "email": "aidan.tong@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! My name's Aidan and I'm a sophomore from Hong Kong intending to study computer science. 61A was one of my favorite classes at Cal so far, and I'm here to help you enjoy it too. My go-to \"fun fact\" is usually that I'm left-handed, and some things that I like to do are play soccer, go down random YouTube rabbitholes, and nerding out over coffee. I look forwards to meeting you and goodluck this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1gd0T6Qf2UVsKTO5RHpF7ajum9btOK2PJ"
+    },
+    {
+        "name": "Albert Hu",
+        "email": "alberth@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello! I'm Albert and I'm a sophomore studying CS and Public Policy. I came into 61A as a philosophy major with no programming experience and left the class inspired to pursue CS, so I know exactly how it feels to be new to CS. Outside of class, you can find me exploring the Bay Area, reading a good book, or playing super smash bros. Excited to meet you!",
+        "imgUrl": "https://drive.google.com/open?id=1aGFkbfaQ80ageeiu3BgLBNY6qAO1M275"
+    },
+    {
+        "name": "Alina Dan",
+        "email": "alinadan@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello, I'm Alina! I like dancing for fun and playing the piano. Come talk to me (-:",
+        "imgUrl": "https://drive.google.com/open?id=1uHjFYjy8PNoZ0kulVJZfvQlkA-MT1Ayf"
+    },
+    {
+        "name": "Alina Wang",
+        "email": "alina.wang@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Ni Howdy!!! I am a second year studying Data Science from the wild wild west state of Arizona. *woah* \nIn my free time, I love jamming on the guitar or ukulele, shooting candid photos, or entertaining myself on Subtle Asian Traits. I hope to snowboard down the fluffy slopes of Tahoe some day. But until then, I'm looking forward to an adventurous semester with you all!! ",
+        "imgUrl": "https://drive.google.com/open?id=1fr0oWN4pNSzTr1n4JxyKB41LTVV5EQi5"
+    },
+    {
+        "name": "Amrita Palaparthi",
+        "email": "amritapv@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm super excited to be a mentor for CSM this fall. I'm from San Jose, CA, and I'm majoring in EECS. Apart from teaching, I enjoy singing, photography, nature, and trying new kinds of food. Looking forward to meeting you all!",
+        "imgUrl": "https://drive.google.com/open?id=1i77uaLrN5P_Bd2KRFi__agiq6BfOrHLJ"
+    },
+    {
+        "name": "Angela Liu",
+        "email": "aliu917@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey! I\u2019m Angela and currently a second year studying CS. I\u2019ve lived in the Bay Area my entire life and I love it here! When I\u2019m not studying, I like to read, play golf, travel, and eat Asian desserts. I really enjoyed CS 61A when I took it last fall and I hope you all love it too!",
+        "imgUrl": "https://drive.google.com/open?id=1hG5VsLzNpSN2ScqOta1m8XKY_t7LWwsK"
+    },
+    {
+        "name": "Avinash Jain",
+        "email": "avinashj@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey what's up! I'm Avi, a sophomore studying EECS from San Jose. In my free time, I'll be watching sports year-round (basketball, football, baseball), hitting the gym, looking at stocks or playing cards. You'll probably see me around campus bopping to EDM music or passionately discussing why Lebron James is the GOAT. Looking forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1aJRU8Ss5sEcwhNukqI21XeLY_JNDvkXc"
+    },
+    {
+        "name": "Basant Apurva",
+        "email": "basant@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "I was born and raised in Seattle, Washington. I\u2019m studying Computer Science (and maybe also economics) here at Berkeley and am loving it so far! My hobbies include hiking and anything outdoors related, playing lacrosse, chess, among many other things. On campus, I\u2019m in a fraternity and am excited for my first semester in CSM.",
+        "imgUrl": "https://drive.google.com/open?id=1cGCUOm8u8DmXD_juJtf2RrIVdsFLQXfD"
+    },
+    {
+        "name": "Benjamin Chou",
+        "email": "chouweimin@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I am Benjamin Chou. I am a sophomore currently studying economics and computer science, and I am from Taiwan! I love to watch and play sports, especially baseball and basketball. Normally, I spend my Sundays going out or catching some football games. I love the OKC Thunders and the Yankees!  ",
+        "imgUrl": "https://drive.google.com/open?id=1lVWJmQc_3UQdxWVdNBzPtNL_r1P5iAGS"
+    },
+    {
+        "name": "Brandon Shin",
+        "email": "brandonshin1492@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "What's up everyone! My name is Brandon, and I'm a sophomore currently pursuing a CS degree. I took CS 61A in Fall 2018, was an AI for Spring and Summer 2019, and now I'm here as a junior mentor in CSM. I spend my limited free time longboarding, trying to cook, playing Overwatch, fishing, and coming up with ideas for coding projects that I'll never actually start. My favorite artist would have to be Joji, but I'll listen to any kind of music (except country). Excited for a solid semester with you all!",
+        "imgUrl": "https://drive.google.com/open?id=1byszqDTxdBbAfK0GoXYtsANtU3FyINug"
+    },
+    {
+        "name": "Cait Phan",
+        "email": "cait@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor",
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey y'all!! It's my third semester tutoring and I'm always happy to help. Outside of school stuff, you can catch me doing something sporty, thrifty, or artsy. I eat a lot of spicy food and love Thai food more than most other things in life...",
+        "imgUrl": "https://drive.google.com/open?id=1Ol-OoYbQkH0nFezTyakiaBXo7zWIUogu"
+    },
+    {
+        "name": "Charlize Dang",
+        "email": "charlized18@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm Charlize, and I'm a second year Computer Science major. I loved CS61A when I took it so I'm really excited to help others with the class as well! In my free time, you'll probably find me skiing, playing volleyball, baking, or watching basically anything owned by Disney. ",
+        "imgUrl": "https://drive.google.com/open?id=1Nv9nxyWMigz2npX_gK-UIYX3ywrIVePg"
+    },
+    {
+        "name": "Chetana Ramaiyer",
+        "email": "chetana.ramaiyer@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm Chetana and I'm a second year studying computer science with a minor in education. Some of my hobbies are binge watching tv shows and playing soccer. I'm eat really unhealthy food and am always a little late to everything. I had a CS mentor when I was in 61a and it helped me a lot so I'm really excited to get to know you guys this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1Z12W6uVt2NvQK97KoiR0MKigGWaNLUyS"
+    },
+    {
+        "name": "Cindy Lin",
+        "email": "cclin520@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi everyone! I'm Cindy and I am a junior from Taiwan studying Data Science and CS! I'm super excited to be mentoring with CSM and am excited to meet everyone. :) I absolutely love eating food, traveling, cats, and watching anime (hehe). Feel free to ask me for any food recommendations or anything about CS! :D",
+        "imgUrl": "https://drive.google.com/open?id=1TPkwd42v90QsirMA-uXy6SuRfI_hNqrH"
+    },
+    {
+        "name": "David Bian",
+        "email": "dbian@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey! I'm a 3rd studying econ and cs. If you're looking for a fellow foodie, bball fan, and/or meme lord, you've come to the right place. ",
+        "imgUrl": "https://drive.google.com/open?id=1ZPw2ZURvgTZxwfz6hM2HHWAbjK30Edq-"
+    },
+    {
+        "name": "Eknoor Kaur",
+        "email": "ecomohr@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm a third year computer science major born and raised here in the Bay Area. I wasn't really into CS growing up, but after taking a class my senior year of high school decided to make it my major and haven't looked back since! In my free time, I love watching basketball, playing soccer, and having movie nights with my friends. I look forward to a great semester and can't wait to meet you all! :)",
+        "imgUrl": "https://drive.google.com/open?id=1x0lYEyjkpaCCHC9bscMnHAPJLD7h0KU7"
+    },
+    {
+        "name": "Ethan Chiu",
+        "email": "ethanchiu@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey, I\u2019m Ethan and I\u2019m currently a second year Computer Science student. Having mentored high school interns at Etsy last summer and created the first hackathon for my community, I\u2019m super excited to be a CSM Mentor this semester and help lower the barrier of entry for programming education by helping students understand various concepts in 61A! My favorite artists are Lil Nas X, Kanye, Drake, and The Lumineers. Outside of CS, I love playing basketball and trying to cook!",
+        "imgUrl": "https://drive.google.com/open?id=1l06UvDd6AeE26i8eU8hotYs63Pf1MBYr"
+    },
+    {
+        "name": "Haoxiang He",
+        "email": "seanhaoxiang@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello to the students that might read this. I go by Sean. I'm a 2nd year CS student. I'm from Monterey County, CA. You might know the area by its famous Monterey Bay Aquarium. This is my first time teaching CSM. I like to gym, watch drama, eat, drink, and sleep. I occasionally enjoy singing and playing the guitar when I'm in a good mood. I also love cooking. I can eat noodles 24/7 and I like artichokes with mayonnaise and coconut milk.",
+        "imgUrl": "https://drive.google.com/open?id=1l16L432pq7_I5ks3Q2kmPVl0WPatF_HO"
+    },
+    {
+        "name": "Bob Zhao",
+        "email": "honglizhaobob@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello! My name is Bob and I am a senior studying Applied Mathematics and Data Science. I'm a transfer student and this is my third semester at Cal. In my leisure time, I enjoy reading, sightseeing and swimming. Ask me about great restaurants recommendations in San Francisco and Berkeley.",
+        "imgUrl": "https://drive.google.com/open?id=1BM3BDl46uJAK_-JpBRwWcizR2w2CAzwN"
+    },
+    {
+        "name": "Ivan Penev",
+        "email": "ivan.penev@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey I'm Ivan! I'm a sophomore studying Engineering Math and Statistics. In my free time I like to play the piano, read a good book, and watch my hometown Seahawks on Sundays. I fell in love with 61a, and I hope to make the class as fun for you as it was for me!",
+        "imgUrl": "https://drive.google.com/open?id=1ux3D78tV7kef8BdMiawlO2-MjTL5LlbF"
+    },
+    {
+        "name": "Jamie Ip",
+        "email": "jamieip@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "What's up? My name is Jamie (and that's my dog, Orpheus, who's an adorable one year old Bernedoodle). I'm a second year CS/Data Science double major with a love for animals, art, and coding. I spend my Sundays beating friends in Smash, watching cooking channels on Youtube, and maybe studying. I'm looking forward to a fun semester!",
+        "imgUrl": "https://drive.google.com/open?id=1_8y1hKugnXG7jSHs8zC0TZUPabKn7UOt"
+    },
+    {
+        "name": "Jennifer Huang",
+        "email": "serenade092@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello, I'm a sophomore pursuing CS, math, and music. When I'm not crying over school related works I'm probably playing Pokemon Go and PUBG, or drinking bubble tea at Ucha. Feel free to reach out to me about CS related question or life in general!",
+        "imgUrl": "https://drive.google.com/open?id=1EP1wEvn2sOoh9UJf5bFknhJqUsVkxbBr"
+    },
+    {
+        "name": "Joshua Baum",
+        "email": "joshuabaum@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello, my name is Josh! I am a sophomore studying CS and Spanish. I'm from Los Angeles (shoutout to Glendale). My hobbies include photography, video games, and skating. Check out my photography website if you like weird photographs and poorly designed websites.",
+        "imgUrl": "https://drive.google.com/open?id=1iZ_xiSspe_zn4tyL2gLa5sxCh4_lzrpw"
+    },
+    {
+        "name": "Kaavya Shah",
+        "email": "kaavyashah@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi all! My name is Kaavya and I'm super excited to be teaching 61a again! I am a third year Data Science major who is a Bay Area native and loves teaching, dogs, boba, and going to the gym when I am not lazy. I am a member of Codeology (should def check us out) and my favorite food places in Berkeley are probably Sliver, Angeline's, and Jakarta (rip). I look forward to meeting y'all this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1zgieCipewvQmr1zxa_VhOVEnIuBbHL3F"
+    },
+    {
+        "name": "Kevin Moy",
+        "email": "kevinmoy@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Whats good yall!! My name is Kevin and I'm a sophomore Computer Science and Data Science student. I've got a bit of an over-obsession with football, basketball, and their fantasy counterparts, but I also love chess, nature, hip-hop, and of course teaching. Feel free to hit me up about anything.",
+        "imgUrl": "https://drive.google.com/open?id=1YQcdv926-pQXTIJ4OHAsluCbW6VihKgj"
+    },
+    {
+        "name": "Krish Nayar",
+        "email": "krish.nayar@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello! I'm a third year Bioengineering student from Pasadena! I love dogs and ice cream, and I bet I can beat you in Mario Kart :^)",
+        "imgUrl": "https://drive.google.com/open?id=1nEGk8dubHhkGHbKtJauGsIAHVlomme8O"
+    },
+    {
+        "name": "Lucy Lou",
+        "email": "lucy.lou@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi I'm Lucy Lou! I took 61a fall 2018 as a freshman. It was my first time coding, so if it is yours as well, I may have some helpful tips and tricks for you! The class was definitely challenging, but I also found it very fun and hope you will too! Since then I have taken 61b and was a cs370 tutor for 61a, and am now currently taking 61c and 70 and academic interning for 61b. Besides CS, I also love chocolate, beaches, Ariana Grande, and working out and am on the Cal Cheerleading team as well as Cal Club Gymnastics! Hope you have a wonderful, amazing day!",
+        "imgUrl": "https://drive.google.com/open?id=1owLPkbGmzTcTwVPs-FqaMi5dFQPDjfZK"
+    },
+    {
+        "name": "Matthew Guo",
+        "email": "matthewguo9@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi there! My name\u2019s Matthew, and I\u2019m a second year CS major from the Bay Area. When I\u2019m not studying, I like to spend my time drawing, making video games, and perfecting my (really bad) Australian accent. Looking forward to meeting y\u2019all!",
+        "imgUrl": "https://drive.google.com/open?id=11Y7s5tSiWwWW12OkmHuUPvLPDJDuV22Q"
+    },
+    {
+        "name": "Melanie Cooray",
+        "email": "melaniecooray@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm a second year CS major from Sacramento, CA. I love cooking and traveling! I'm also a huge fan of Gig cars and take them literally everywhere. CS61A was one of my favorite classes and I'm excited to be tutoring this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1iD3lap3TW-f-QrOZGBjEZaSsgB48h6eq"
+    },
+    {
+        "name": "Melvin Aristio",
+        "email": "maristio@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi, my name is Melvin Aristio, a senior in EECS. I came to UC Berkeley as a transfer student. I struggled a lot in my first semester here as a third year student but was able to survive through the help of the a lot of course staffs and CSM mentors! I hope I can help you guys this semester throughout this semester too! In my free time, I enjoy playing music, watching dramas, as well as anime! Feel free to talk to me or reach out to about anything though! Hope we can have an enjoyable semester!",
+        "imgUrl": "https://drive.google.com/open?id=1up1-zJ5CPwfsMZL_XS3q6K5Y9ZLOZIIL"
+    },
+    {
+        "name": "Michael Lu",
+        "email": "michaelmlu@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm Michael, and I'm a third year EECS major. CS 61a was my first CS class ever, and I'm excited to be tutoring it for the first time this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1m1aBVtAP7FZtKeZwN4ruJEDF_I7UH3u_"
+    },
+    {
+        "name": "Michael Park",
+        "email": "byeongmin@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi!! I'm Michael, and I am a second year EECS major from Irvine, CA. I enjoy playing guitar, going on trips around the Bay, and tending my cat Neptune. Also, I am a huge fan of ice cream, so if you catch me at Uji Time come say hi. My pronouns are he/him. Looking forward to an exciting semester! ",
+        "imgUrl": "https://drive.google.com/open?id=1v4wwK9z4IKMlai2cdFFR0253TWFRiI1k"
+    },
+    {
+        "name": "Owen Gong",
+        "email": "goldenowen@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello! My name is Owen, I'm a sophomore from the best-known state in the US - Nebraska. Converse with me in anything CS or non-CS related, ranging from astronomy to cornfields to professional sports (namely NBA and NFL). Ask me to play any pop song on the violin. My pronouns are he/him.",
+        "imgUrl": "https://drive.google.com/open?id=1MqqvZeDKzFsJpShX6DUP1cVBI2V09g6W"
+    },
+    {
+        "name": "Parth Gupta",
+        "email": "parthgupta@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hello! I'm Parth, and I'm a first-year EECS major from Pleasanton, CA. I love spending time outdoors, anything to do with food or music, and teaching of course :) I'm looking forward to joining the CSM team this semester, and can't wait to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1vo9ivfCJI_XtBNqlG1XIS_z2BOMOTllM"
+    },
+    {
+        "name": "Regina Wang",
+        "email": "rlwang@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "I'm a second year majoring in CS and Political Economy from Arcadia (nearish LA). Mochi enthusiast and fake intellectual. Some things I enjoy in my free time are: making playlists, taking on baking projects with friends, picking up books and not finishing them, and sleeping. I'm also a Community columnist for Business Review at Berkeley! Currently on the prowl for article ideas and podcast recommendations, let me know if you've got any.",
+        "imgUrl": "https://drive.google.com/open?id=1FGyfyqhkBpSB7FHxCgQ8HT8eTAToUu0g"
+    },
+    {
+        "name": "Sai Kapuluru",
+        "email": "saikapuluru@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey all, I am a junior studying computer science and I am a big fantasy sports, music, and tv show fanatic. I love basketball, brooklyn nine-nine, and most all genres of music(country is not for me :(). I also have recently starting playing chess and I am really bad at the game, so if you want to play me to help me practice I would really appreciate it.",
+        "imgUrl": "https://drive.google.com/open?id=1kdD5HfgeVYJXH31-ZcupZ5czDJFpnpld"
+    },
+    {
+        "name": "Sean Sananikone",
+        "email": "seans1337@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey, I'm a sophomore CS major from San Jose! I enjoy watching movies, lounging around watching youtube, playing video games, and hiking. 61a can be difficult course but I'm here to help you guys out! I'm looking forward to meeting and talking to you guys this semester.",
+        "imgUrl": "https://drive.google.com/open?id=1_4UcHEJeXUEPflWNO4VG0zA4OhKtO4Dq"
+    },
+    {
+        "name": "Shreyansh Loharuka",
+        "email": "shreyansh@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "I am a Sophomore intending to double major in Computer Science and Business Administration. I love dancing and my favourite dance crew is King's United. I like to spend my sundays at home watching some Netflix and cooking. However, that is because I like to spend my Saturday evenings partying and \"not doing anything illegal\".",
+        "imgUrl": "https://drive.google.com/open?id=18JJ-Wa57M-F9WR_VcBr_r6TdJiG56_w4"
+    },
+    {
+        "name": "Vivian Lu",
+        "email": "vivianlu63@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi there! I am a second year Bioengineering and EECS major from the LA area.  In my free time I like doing jigsaw puzzles, playing board games, and hiking. I'm looking forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1ZMFulxsVh6wSUhZTn8TYMjr1nDFz1iKx"
+    },
+    {
+        "name": "Yash Somaiya",
+        "email": "yashsomaiya98@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hey! I'm a junior double majoring in Math/CS, and I absolutely love all types of CS theory, nonsensical mathematics, and the intersection between them! Besides those, I teach kids music, help put on plays, and raise mental health awareness on campus. I spend the little free time I have composing music and watching anime/cartoons.",
+        "imgUrl": "https://drive.google.com/open?id=1GqR0H5wgksKUAzj7NWjmBFOPHv6hIJiw"
+    },
+    {
+        "name": "Yongming Ge",
+        "email": "yongmg@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi, I'm second year cs major. Join my club: Robomaster At Berkeley! Let's play with cool fighting robots and machine learning! I love all kinds of reading, from novel to classic. In my spare time, I enjoy cooking, basketball and most importantly, League of Legend.",
+        "imgUrl": "https://drive.google.com/open?id=1yCgj8eWCxuq1ZKi8tyXGJUhmbyeYxZXP"
+    },
+    {
+        "name": "Ailyn Tong",
+        "email": "ailyntong@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "I'm a third year CS major from the Bay Area. I like to play piano and eat food, so let me know if you have any music or restaurant recommendations!",
+        "imgUrl": "https://drive.google.com/open?id=1eO_D4AX4LAHj1v6WvcCftXXpHRuWBToO"
+    },
+    {
+        "name": "Aivant Goyal",
+        "email": "aivantg@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi! I'm Aivant, a junior CS Major + Education Minor. I love to teach and talk about how education in general, but I also love to sing and play guitar! Favorite restaurant in Berkeley is Thai Basil by far. Come say hi if you see me around :)",
+        "imgUrl": "https://drive.google.com/open?id=1UCjhiqif_PUeJ0xRdyoSoUlJntqrOU8_"
+    },
+    {
+        "name": "Albert Huang",
+        "email": "albert168@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi, I'm a rising senior and this is my third semester tutoring this course. yup that's it idk",
+        "imgUrl": "https://drive.google.com/open?id=1qiSzEcXNKdR4-hccWp10gVOm-mgB9Wol"
+    },
+    {
+        "name": "Alex Wang",
+        "email": "alxw1863@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi everyone! I'm a senior in CS from San Jose who enjoys cooking in his off time. Feel free to email me with any questions!",
+        "imgUrl": "https://drive.google.com/open?id=1asQlxnpIZtusFZkF1SpxczFC5dbINqXR"
+    },
+    {
+        "name": "Allison Yeh",
+        "email": "allisonjyeh@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        }
+    },
+    {
+        "name": "Aman Shah",
+        "email": "amanshah2711@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hey! I'm a 3rd year Applied Math and CS major from Edison, New Jersey. In my free time I enjoy any kind of problem solving, way too much Netflix, drawing, video games, and sleeping. Feel free to talk to me about anything! My pronouns are he/him",
+        "imgUrl": "https://drive.google.com/open?id=1dHUOIr6qy_GPjPPTZv_A4Om8DVjRVyUH"
+    },
+    {
+        "name": "Amy Mendelsohn",
+        "email": "amymendelsohn@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "I\u2019m a fifth year CS and History double major. I came to Berkeley as a history major, but then 61A happened. This is my fifth semester teaching 61A with CSM! I'm also part of ReUSE, a volunteer-run club/store in MLK. You can also find me in Soda and Cory a bit too often. (she/her)",
+        "imgUrl": "https://drive.google.com/open?id=1QGnUTThKf4P6SwgnZ_khx2N6T7ZPkFVS"
+    },
+    {
+        "name": "Brandon Choy",
+        "email": "choyb21@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi there! I'm a junior studying EECS and this will be my third semester with CSM. When I'm not busy with school, you can find me rock climbing, skiing, or playing Smash! I hope to help foster your interest in CS and I'm really looking forward to this semester!",
+        "imgUrl": "https://drive.google.com/open?id=13qvrsSd1n9ePIhT8l1AjajHNUALI7A9o"
+    },
+    {
+        "name": "Christine Luo",
+        "email": "christineluo@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hello! My name is Christine and I'm from Palo Alto, CA. I enjoy teaching, traveling, and napping. I also started learning Korean this semester and it's been super fun so far! This is my first time teaching CS 88, but I'm super excited to teach it this semester and get to know you all ~",
+        "imgUrl": "https://drive.google.com/open?id=1tF5yONL1-7MeFUcJdM_ewrcRlwuBkQuq"
+    },
+    {
+        "name": "Daniel Mao",
+        "email": "daniel.mao@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi! My name is Daniel Mao. I am a senior studying Computer Science and Cognitive Science. I've been part of CSM and 61A staff for the last 5 semesters and greatly enjoy teaching motivated students every semester. My favorite things to do are scrolling through r/battlestations on reddit, going to the gym, and staying organized via google calendar.",
+        "imgUrl": "https://drive.google.com/open?id=1li5ou9pcjxHNypD0OgvB_LMmgnGJpp0l"
+    },
+    {
+        "name": "Ethan Yeh",
+        "email": "ethan.yc.yeh@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hello! My name is Ethan and I'm a third year studying CS and Physics. In my free time I like playing badminton, sleeping, and dancing (or trying to). Looking forward to another exciting semester in CSM!",
+        "imgUrl": "https://drive.google.com/open?id=17HJ9WJ6akSUY-rterr9XsxgcLy8fAAW7"
+    },
+    {
+        "name": "Evan Lohn",
+        "email": "evan.lohn@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi! I'm a fourth-year studying EECS; I've been involved in 61a as a lab assistant and tutor several times in the past. In my free time I like playing pickup basketball and smash bros ultimate. I'm also a long-time member of Political Computer Science @ Berkeley: message me if you'd like info about what we do!",
+        "imgUrl": "https://drive.google.com/open?id=1fFWNTzbWbClfrm2hcATtMhbBGYiqpBJI"
+    },
+    {
+        "name": "Grant Han",
+        "email": "granthan@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello there, I'm Grant! I'm an LA native from the 626, known for Wong Fu and boba. I really love the outdoors, even when it's above 90 degrees. When I'm not working on CS, I enjoy playing various sports, going on spontaneous food and city trips, and rocking out to Porter Robinson (send me your EDM playlists). But most of all, I'm excited to be teaching you this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1wp9c7freSK0NDRFF6et8b7NnK5tCTyqT"
+    },
+    {
+        "name": "Kevin Ko",
+        "email": "kevin.ko@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "I'm a fourth year CS major from Alameda, CA. Besides teaching, I like traveling and taking photos.  :)",
+        "imgUrl": "https://drive.google.com/open?id=1decuIpvIBx09cVhB1xWTeaFHlEV4RtHf"
+    },
+    {
+        "name": "Kevin Yang",
+        "email": "kevinyang8@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hey guys, I\u2019m a third year CS and DS double major from Sacramento. Outside of CS I love to play volleyball, go to the gym, and rewatch the same sitcoms over and over. Excited for a great semester of 61A! ",
+        "imgUrl": "https://drive.google.com/open?id=13I-uSVhvArba9bTYcmR1oahnDeXbUy8m"
+    },
+    {
+        "name": "Luke Mujica",
+        "email": "lukemujica@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs88": "CS 88 Senior Mentor"
+        },
+        "details": "Hello! My name is Luke and besides teaching CS 88 and 61A I facilitate the \"Going Down the EECS Stack\" Decal and enjoy playing sports and learning guitar, talk to me about anything!",
+        "imgUrl": "https://drive.google.com/open?id=1WOxVGYbyItwkvg4h5KiqJfH1Tz1yc8Df"
+    },
+    {
+        "name": "Nikhita Anumukonda",
+        "email": "nanumuk@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi! I'm Nikhita, a third-year Computer Science and Data Science major from the Bay Area. In my free time, I like listening to music, watching TV, and drinking boba. I am excited to meet you all this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1fUnlYWsD9riVjYTIEIXO8hmwMYo7w7pO"
+    },
+    {
+        "name": "Olivia Bowman",
+        "email": "oliviabowman@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        }
+    },
+    {
+        "name": "Pranad Reddy",
+        "email": "pranad.reddy@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi!! I'm a third year CS student who loves teaching! I am a returning course tutor and am a third time mentor. You can find me at the International House eating their delicious food (highly recommend, >>> Crossroads), or at Memorial Gym when I work up the willpower to wake up early. I'm always listening to music, especially from Travis Scott, The Weeknd, and Future. I can't get wait to get to know my students, and I'm really excited for the coming semester!",
+        "imgUrl": "https://drive.google.com/open?id=1EVyuefUs2VS2yhRuuK2AkucvX5wBwkid"
+    },
+    {
+        "name": "Saagar Sanghavi",
+        "email": "ssanghavi404@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Life's roses have thorns. But the beautiful part of life is that you get to choose what to focus on! I like to live my life simply and be carefree. Join me if you do, too :) Hit me up for exploring the great outdoors, climbing trees, and deep philosophical discussions. Looking forward to being a mentor this year!",
+        "imgUrl": "https://drive.google.com/open?id=1gePX55z-x6LwRfHjfaJuD7o6y6u_AL6B"
+    },
+    {
+        "name": "Sam Taplin",
+        "email": "samtaplin@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi all! I'm a third year Political Science major and CS minor from DC. When not in class, you can find me at Imm Thai, Berkeley City Council or on the Glade. Feel free to talk to me about 61A, politics, your dog, why I don't like your favorite tech company, or anything at all!",
+        "imgUrl": "https://drive.google.com/open?id=1XF_kBARksNqj-a022gY3UGgRngoS5bdF"
+    },
+    {
+        "name": "Shide Dehghani",
+        "email": "shidedehghani@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hello everyone! I\u2019m Shide, a rising junior studying CS and math, and I wave a lot! 61A was my first CS/programming experience and I\u2019ve loved it ever since, but I love teaching it even more! This semester will be my 5th time teaching 61A. In my sections, I normally give a mini-lecture before going over the worksheet and I prioritize covering the concepts in depth. Feel free to shoot me an email if you have any questions or just want to talk! My pronouns are she, her, hers.",
+        "imgUrl": "https://drive.google.com/open?id=18EQpdevvu5TvZQwAzHRXsC4t_vNg23NH"
+    },
+    {
+        "name": "Sohum Hulyalkar",
+        "email": "sohum11@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61b": "CS 61B Junior Mentor",
+            "cs88": "CS 88 Senior Mentor"
+        },
+        "details": "How are you doing? :)",
+        "imgUrl": "https://drive.google.com/open?id=1KK9EcFfIrFH4y0V1cWUOykvxZZcFdKk5"
+    },
+    {
+        "name": "Uma Unni",
+        "email": "umaunni@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi, I'm Uma! I'm a third-year CS major from the Bay Area. This is my second semester as a 61A tutor, and my fourth semester being involved with teaching 61A. In my free time, I like playing minesweeper and stardew valley, speedsolving Rubik's cubes, and rewatching old TV shows I've already seen. I'm excited to meet y'all! :)",
+        "imgUrl": "https://drive.google.com/open?id=1iKSl_ZBgIKon5p6gwu847wYlsItW2h3e"
+    },
+    {
+        "name": "Vandana Ganesh",
+        "email": "vandanag@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi! I am a second-year EECS major from Texas and this is my second semester mentoring for CSM. In my free time, I consume an unhealthy, but satisfying amount of chocolate and binge-watch FRIENDS. I am super excited to meet all of you and am looking forward to a great semester!!!",
+        "imgUrl": "https://drive.google.com/open?id=19XYUMDVPyOrItAlyN8Wjpj9iv6oLivjH"
+    },
+    {
+        "name": "Wendy Vincent",
+        "email": "wendy_vincent@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Heyhey! I'm Wendy! I use They/She combo pronouns! I am a 4th year junior transfer majoring in EECS and Mathematics! You may infer from this that I am a huge nerd and you're right! But more than being a nerd I want to catalyze your passions and help guide you to your goals!\n\nI also write music and try to be proactive in LGBT+ activism! But what do you listen to, I hear you whispering, and to that answer I say a lot of stuff! But to give some examples, I listen to a lot of video game soundtracks, indie artists, OH and I love me some good 80s bops!\n\nBefore I transferred to berkeley I was a physics tutor! That was fun, and tutoring for CS61A is also fun! I appreciate all that I get to learn about the process of teaching and learning!",
+        "imgUrl": "https://drive.google.com/open?id=1xOuNRNOErIs2LnhdxRIgcxOZPEucxFph"
+    },
+    {
         "name": "Michelle Mao",
         "email": "michelle.mao@berkeley.edu",
         "courses": {
@@ -207,19 +828,21 @@
         "name": "Jonathan Shi",
         "email": "jhshi@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor"
+            "ee16a": "EE 16A Senior Mentor",
+            "cs61c": "CS 61C Junior Mentor"
         },
-        "details": "Hello there! I'm a 3rd year EECS major from the Bay Area. I like programming languages where the compiler yells at you a lot. Outside CSM, I'm a Music Director and saxophonist for the Intermission Orchestra, and I spend an inordinate amount of my breaks watching anime.\nAlso, I run this website. This means I get to put <code>fancy formatted text</code> in my bio (as long as I remember to edit it in)",
-        "imgUrl": "https://drive.google.com/open?id=1QxJ_rkanb3vKc2w9aaD1cUBoaTChwFeg"
+        "details": "Hello there! I'm a 3rd year EECS major from the Bay Area. I like programming languages where the compiler yells at you a lot. Outside CSM, I'm a Music Director and saxophonist for the Intermission Orchestra, and I spend an inordinate amount of my breaks watching anime.\nAlso, I run this website. This means I get to put <code>fancy formatted text</code> in my bio (as long as I remember to edit it in).",
+        "imgUrl": "https://drive.google.com/open?id=1cjPUaasKHcR3qPBpsbTN3d8XA2R9NBAj"
     },
     {
         "name": "Katherine Shu",
         "email": "katherineshu@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor"
+            "ee16a": "EE 16A Senior Mentor",
+            "cs70": "CS 70 Junior Mentor"
         },
         "details": "Hi, it\u2019s Kat! I\u2019m a second year EECS major from Arcadia, CA. In my spare time, love to travel, dance, and draw. My favorite food is strawberries and I don\u2019t listen to music (yes, I know it\u2019s weird). I\u2019m excited to meet everyone and to dive into circuits and linear algebra together :)",
-        "imgUrl": "https://drive.google.com/open?id=1sq5v-_MJZ3p1agJFZT6J2fx8vZ6fUlok"
+        "imgUrl": "https://drive.google.com/open?id=1Cz5RQOi4I-_Ui9X1fB-5efAUJ-VF638y"
     },
     {
         "name": "Rishi Veerapaneni",
@@ -228,7 +851,7 @@
             "ee16a": "EE 16A Senior Mentor"
         },
         "details": "Rishi is a 4th year EECS & Applied Math student from Saratoga CA. When not playing card games, \u201csinging\u201d \u201csongs\u201d, making amazing puns, and saying \u201cGood Morning\u201d at all times of the day, Rishi enjoys studying for classes, coding for research, and attempting to teach students. Rishi would now like to thank the reader for reading his bio and he very much hopes to see them in discussion!",
-        "imgUrl": "https://drive.google.com/open?id=1O_yg0_hCq7nxNrJDSxFGNS3KApyf7tmv"
+        "imgUrl": "https://drive.google.com/open?id=1RBT58nlg2zMaDrMqoV9KzQp7MDFm5kUW"
     },
     {
         "name": "Zachary Golan-Strieb",
@@ -248,6 +871,181 @@
         },
         "details": "Hello! I\u2019m a fourth year Math and CS major from Arcadia, CA. When I\u2019m not CSMing or studying for midterms, I\u2019m usually watching Man U, playing video games (FE3H / XC2), or eating at Shooting Star Cafe. Feel free to talk to me about anything, or listen to me talk to you about how we\u2019re actually living in a Hilbert Space.",
         "imgUrl": "https://drive.google.com/open?id=1njiKJ4cGmpbmN9xFTMJ15LtXK4Hj1BJF"
+    },
+    {
+        "name": "Alexander Feng",
+        "email": "alexfeng2000@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "What's up party people! I'm a local from Oakland, CA. Outside of school, I love trying new foods and cracking jokes. If you see me around campus, come say hi!",
+        "imgUrl": "https://drive.google.com/open?id=1r9IYOlDepyfMGpi5rjxqoN160XieMFvq"
+    },
+    {
+        "name": "Atharva Patil",
+        "email": "atharvapatil@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "second year eecs major. A few artists i listen to: Tyler the Creator, Brockhampton, A Boogie wit da Hoodie, Mac Miller, YBN, and more. Courses taken: CS61AB, EE16AB. I was involved in a consulting club last semester. I browse reddit, twitter and youtube if that gives any idea of my personality. \n\nThe reason I became a mentor is so I can explain concepts I originally struggled on to current students, in an effort to reduce the general confusion and lack of resources regarding EE concepts. In my opinion, the ee16 series is poorly taught starting from the lectures, where concepts are introduced in such a theoretical manner. Combined with the tedious and difficult homeworks, EE can quickly become a complex subject. Yet, with exams being mostly technical questions, ee16a just becomes a matter of solidifying concepts and applying them on the tests. I hope that with some guidance, students will not have much difficulty in the class. \n",
+        "imgUrl": "https://drive.google.com/open?id=1cFZvB6JyYo2plp7ZHBqarBWcW74zTI_0"
+    },
+    {
+        "name": "Catherine Bumagat",
+        "email": "cjbumagat@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hi, my name is Catherine! I'm a second year EECS major from Carson, CA. I was born in the Philippines and moved to SoCal when I was 10. I enjoy watching animation, casually playing videogames, cooking, and sketching. I also like to listen to music, like Green Day, Eraserheads, and The Beatles. Feel free to reach out to me about anything!",
+        "imgUrl": "https://drive.google.com/open?id=1vjRA08rriOyaleXKRvJSYjtQwg3PIYGz"
+    },
+    {
+        "name": "Colton Nishida",
+        "email": "coltonkai11@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hey everyone! I'm a sophomore studying EECS and in my free time I like to cook and play video games!",
+        "imgUrl": "https://drive.google.com/open?id=1kVLitx2KlRh8Id4MRvNdTt8R2qPq_znk"
+    },
+    {
+        "name": "Cooper Bedin",
+        "email": "cooper.bedin@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hello! My name is Cooper Bedin (he/they pron'ns) and I'm a sophomore studying linguistics and computer science. Outside of CSM I'm a member of the Society of Linguistics Undergraduate Students (SLUgS) and a technician for BareStage, the campus' oldest and largest student-run theater company! Beyond that nonsense I also love to knit, read (I'm on a bit of a Steven King kick right now) and run at RSF.",
+        "imgUrl": "https://drive.google.com/open?id=1IbcOEGge7ESre2uSj2F9_AuoU6pXsBjW"
+    },
+    {
+        "name": "Dylan Brater",
+        "email": "dylanbrater326@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hi! I am a second year EECS major from San Diego, California. My hobbies include listening to music, playing video-games, watching TV shows, and working out. My favorite artists are Logic, Y2k, 21 Pilots, Alan Walker, and Green Day. I tend to spend any time I have away from studying hanging out with my friends. My favorite restaurants in Berkeley would have to be Artichoke Basille's Pizza, or Thai Basil. ",
+        "imgUrl": "https://drive.google.com/open?id=1ONh8s9I2Q76RMrkzkkRMvE0THODEZuAL"
+    },
+    {
+        "name": "Francesca Song",
+        "email": "francesca.song@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hi! I'm a second year EECS major/Music minor from Pasadena, CA. I spend my free time dancing, mixing music, and checking out new coffee shops! I really appreciated the support I received from CSM during the past semesters and after being an Academic Intern for 61a last semester, I'm excited to be a tutor for 16a! Please feel free to start a conversation and ask me anything! ",
+        "imgUrl": "https://drive.google.com/open?id=1vRdCNH_m3OBscOceyMm28WODiFihxcaw"
+    },
+    {
+        "name": "James Zhu",
+        "email": "jameszhu@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hello there! I'm an EECS senior, git guru, caffeine connoisseur, and (metaphorical) firefighter. I've led development on hkn.eecs.berkeley.edu and competed in FIRST Robotics. Come and we'll chat about live production database fixes, my secret hobbies and graveyard of projects, the fate of the universe, and maybe even 16A.",
+        "imgUrl": "https://drive.google.com/open?id=1Ki0QtbfJetF8A3p4IbvwXupL4-ABrPts"
+    },
+    {
+        "name": "Krishna Ravi",
+        "email": "krishnaravi@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hey y'all! My name is Krishna and I am a second year EECS major from Irvine, California. In my free time I enjoy making music, watching Netfilx and going to the beach with my friends. My top three artists would definitely be A Boogie wit da Hoodie, Daniel Cesar, and Alan Walker. On a typical weekend you will most likely catch me listening to lo fi hip hop while studying or chillin with my friends. My favorite restaurant on campus is La Burrita because it never disappoints (just like me). I am also a part of the UC Men's Octet. You can find me singing at sather gate every Wednesday at 1pm ! I look forward to meeting all of you and hope you enjoy 16A as much as I did. ",
+        "imgUrl": "https://drive.google.com/open?id=1AU042HddQ0CfYIs7EiPUO_CMZqaO5sOW"
+    },
+    {
+        "name": "Mohsin Sarwari",
+        "email": "mohsin.sarwari@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hi! I'm a second year intended CS and Stats Major. I love playing squash (the sport, not the vegetable). I am skilled at ruining family photos and dropping contact lenses. I am passionate about teaching and keen on getting better. ",
+        "imgUrl": "https://drive.google.com/open?id=1PyzYYCetYbDT5HmyjzLhK58Vh7aK5Ve_"
+    },
+    {
+        "name": "Moses Won",
+        "email": "moseswon@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor",
+            "ee16b": "EE 16B Junior Mentor"
+        },
+        "details": "Hello! I'm a senior interested in learning and teaching. My other interests include modeling physical and information systems, and control theory. I read (wikipedia, fanfiction), do graphic design, cook, and design jewelry when I can. My favorite pianists are Aivi Tran and Ryuichi Sakamoto, and I am in love with anything heavily spiced. (Not like the capsaicin sort of spicy.) I'm looking forward to meeting you!",
+        "imgUrl": "https://drive.google.com/open?id=1xzYhIK5YNlC31EGzDjI9THL3BF-1NEJA"
+    },
+    {
+        "name": "Pranshu Bansal",
+        "email": "pranshu@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "I am an EECS sophomore. I hate boba and I am not afraid to say it. I love 16A and that will probably annoy you. But I might just make it a little better for you.",
+        "imgUrl": "https://drive.google.com/open?id=13LJUq10FmPewqRbUmWDthgibeKqCeO9U"
+    },
+    {
+        "name": "Rahul Gupta",
+        "email": "rahul.gupta2020@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "Hi there! I'm rising senior studying EECS and am broadly interested in making systems secure. I was part of a rather large group that broke a Guinness World Record in Fall '17 :) Hiking and public transportation are pretty cool",
+        "imgUrl": "https://drive.google.com/open?id=1VZb8jszqCOzjh0huKA8CpSvzlkiVAnO9"
+    },
+    {
+        "name": "Risheek Pingili",
+        "email": "risheekp@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor"
+        },
+        "details": "2nd Year BioE + EECS (Pre Med??)\nCentral Valley Boy\nDog owner\nLike the pixels or the hat?\nML is overrated, and coding is hard :(\nHope we can turn the section into a \"that was easy button\" \nAsk me about Nier Automata, Smash, Hozier, From the New World, or Burn Notice",
+        "imgUrl": "https://drive.google.com/open?id=1Rr5wwNKsNBOBpouVGeTWb8p2RSXe6iMa"
+    },
+    {
+        "name": "Sunay Poole",
+        "email": "sunaypoole@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Junior Mentor",
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hello! I'm a second year CS major from the greater Los Angeles area who likes running, Rubik's cubes, and making dad jokes. So far, I've loved every EECS class I've taken at Berkeley, and I'm super excited to give back as a part of CSM! ",
+        "imgUrl": "https://drive.google.com/open?id=1_qEtcTVveQ_wMDuq9k56BreMcZsxY_zV"
+    },
+    {
+        "name": "Sam Cui",
+        "email": "samuelxcui@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Associate Mentor",
+            "cs70": "CS 70 Associate Mentor"
+        },
+        "details": "What's poppin' everyone! I'm Sam, a third year EECS major! I'm interested in quantum computing, and also finished the Fenton's Challenge in 5.5 minutes last year! I enjoy lots of different music (I'm in an acappella group here at Cal!), physics, and consume various amounts of anime depending on the season. Come join my section and I'd be happy to share my love of anime and physics with you too!",
+        "imgUrl": "https://drive.google.com/open?id=1HbxhHYXFbpPHSNy52RLhh9yGzk5j9_3w"
+    },
+    {
+        "name": "Rahul Jain",
+        "email": "rahulj2409@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Associate Mentor"
+        },
+        "details": "Hey! I am a junior studying Computer Science and Applied Mathematics. I am from the Los Angeles area of Southern California. I am a huge Lakers fan as well as a Packers fan!! You will often see me watching highlights from Bleacher Report or keeping up with my fantasy football team. I love rap music and I am a huge comic book nerd! #Marvel and #kungfukenny. My favorite restaurant in Berkeley is probably Toss! HMU if you want to grab food w me or talk about life w me! I took EE16A in Fall 2017 and I really enjoyed the mathematical modeling that was employed in this course. I hope you enjoy it as well!",
+        "imgUrl": "https://drive.google.com/open?id=1jRC7gbVF2gJWI1pEIeN5KpxUj9EkLwMR"
+    },
+    {
+        "name": "Rahul Hayaran",
+        "email": "rahul.hayaran@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Associate Mentor",
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Howdy! My name is Rahul, I'm a sophomore studying EECS+Business from Plano (near Dallas), TX. This is my second semester as a CSM nentor, and my number one priority is making the course as exciting for you as it was for me! I'm a huge soccer fan (Heja BVB!), avid chai-drinker, and longtime origami practitioner.",
+        "imgUrl": "https://drive.google.com/open?id=17Ck864O_5f4WaINWUjxgr94y6Bo1g2m3"
+    },
+    {
+        "name": "Celine Spathias",
+        "email": "celinespathias@berkeley.edu",
+        "courses": {
+            "ee16a": "EE 16A Associate Mentor"
+        },
+        "details": "Hi, I'm a senior at Cal.  I transferred from a Community College in Southern California.  I interned at 23andMe over the summer.  I enjoy traveling and snowboarding.  If you have any questions feel free to reach out!",
+        "imgUrl": "https://drive.google.com/open?id=1svzS2gAiOFx-feifPuDEHYRh9xpe4WVC"
     },
     {
         "name": "Anirivn Sikha",
@@ -272,7 +1070,9 @@
         "email": "aakash.shukla@berkeley.edu",
         "courses": {
             "cs61b": "CS 61B Senior Mentor"
-        }
+        },
+        "details": "Hey everyone, my name is Aakash Shukla and I am Junior studying CS. This is my third semester in CSM and I'm super excited to work with you all. ",
+        "imgUrl": "https://drive.google.com/open?id=1UnicfNd2ew9eQ0LsRUeUt_vFmb0NdrrE"
     },
     {
         "name": "Arjun Sahai",
@@ -304,7 +1104,7 @@
             "cs61b": "CS 61B Senior Mentor"
         },
         "details": "Hi! I'm Josh, a third year CS and Music major from Vancouver, Canada. In my free time, I enjoy hanging out with friends, watching sad anime, taking fat naps, playing tennis, and jamming out on piano to some hip jazz tunes and pop classics alike. I look forward to getting to know you, and I hope you enjoy all that 61B has to offer!",
-        "imgUrl": "https://drive.google.com/open?id=19wSDeDgVQRW-JzWmLrysnnZft5XnPHmr"
+        "imgUrl": "https://drive.google.com/open?id=1Y0Byu7X1Swrq_8hx5i7ucPl4udZdzF3i"
     },
     {
         "name": "Kenny Huang",
@@ -312,15 +1112,17 @@
         "courses": {
             "cs61b": "CS 61B Senior Mentor"
         },
-        "details": "Hey, the name is Kenny and I\u2019m a junior studying CS and applied maths. If you love any of the following, please join my section: board games, movies, marvels(pls no DC, jk), room-escapes, video games(blizzard, league, Ubisoft you name it), bowling, coding and CS61B!",
-        "imgUrl": "https://drive.google.com/open?id=1CMWVoJGJfDWVL36Ht3dg07wzE8dsDa1g"
+        "details": "Hey my name is Kenny Huang, junior studying CS + applied math. Best place to eat on campus is Poke Bar. If you love any of the following, please consider join my section: video games(league, blizzard games, ubisoft games), movies, board games, puzzles. (i know, all of them are games.)",
+        "imgUrl": "https://drive.google.com/open?id=1myYCAxgCuIGgO3cKIGMi3KjaLNdEvnJ4"
     },
     {
         "name": "Mounica Putrevu",
         "email": "mounicaputrevu@berkeley.edu",
         "courses": {
             "cs61b": "CS 61B Senior Mentor"
-        }
+        },
+        "details": "Hi! I'm Mounica, a fourth year CS major from the Bay Area. 61B was one of my favorite classes at Berkeley, and I hope you'll enjoy it just as much!",
+        "imgUrl": "https://drive.google.com/open?id=1UeV_UIsx-iug_jXZu6s1fb_XE_3N3D_w"
     },
     {
         "name": "Noah Kuo",
@@ -329,7 +1131,7 @@
             "cs61b": "CS 61B Senior Mentor"
         },
         "details": "Hey everyone! My name is Vibha, and I am a fourth year Computer Science major. I'm really excited to work with y'all this semester! Feel free to reach out about anything!",
-        "imgUrl": "https://drive.google.com/open?id=1-jfWD39BSAGtyde21LPGUJr7IJ22gntp"
+        "imgUrl": "https://drive.google.com/open?id=1ft8FoRSsPN3qp-y3WhjqN3brOvWt6DKe"
     },
     {
         "name": "Ryan Nuqui",
@@ -337,8 +1139,8 @@
         "courses": {
             "cs61b": "CS 61B Senior Mentor"
         },
-        "details": "Hi y'all! \nI'm a third year studying CS and Math major, minoring in Education. In my free time, I like to play board games, read, and watch Ted talks. 61B was one of my favorite classes and I hope it becomes yours too! ",
-        "imgUrl": "https://drive.google.com/open?id=17jYtnN7ABZgCd99WxN5QKan_WZ2es1T-"
+        "details": "Hi everyone!\nMy name is Ryan and I'm a third year CS and Math major and Education minor. I've taught CS 61B for about 4 semesters now and it's been my favorite class to teach! Outside of CS 61B, I enjoy playing board games, exploring cities, and watching Ted talks. Feel free to ask me any questions you may have about CS 61B or otherwise!",
+        "imgUrl": "https://drive.google.com/open?id=1Bf3bjBTyTanHV3-UCkELubyrgH3tybRr"
     },
     {
         "name": "Shriya Vohra",
@@ -348,6 +1150,351 @@
         },
         "details": "Hi there! I\u2019m Shriya, a fourth-year EECS major from North Carolina. I love listening to Bollywood music, going to the beach, and eating ice cream. When I\u2019m not convincing the world that CS rules, you will find me running near the Berkeley Marina or watching Tasty videos. I'm super passionate about CS, and I can't wait to share that with all of you :)",
         "imgUrl": "https://drive.google.com/open?id=1ULqfepib0CwhaQmLWHxKrFjTLIxaaSOB"
+    },
+    {
+        "name": "Ada Hu",
+        "email": "adahu@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor",
+            "cs88": "CS 88 Senior Mentor"
+        },
+        "details": "Hi! My name is Ada and I'm a sophomore studying CS. I really enjoy listening to Taylor Swift (her new album Lover is a m a z i n g) and going on boba runs with my friends. I also really enjoy playing tennis, Old School Runescape, and League of Legends (trying to hit plat this season). I'm excited to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1kJlxUqNfy25H8ZtOfsnRHbwdkoxwaHT8"
+    },
+    {
+        "name": "Amitav Baruah",
+        "email": "amitav@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor",
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "I'm an EECS junior from the Bay Area (San Jose)! I like playing and watching most sports (esp basketball) and listen to a wide variety of artists, although amine will always be a bop :) I'm always looking for new things to try and new places to eat so please rec me :') Outside of CSM I'm also part of CodeBase!",
+        "imgUrl": "https://drive.google.com/open?id=1Agzmjgnhlj722UgvtCY6pEez11aY7RvW"
+    },
+    {
+        "name": "Cassidy Hardin ",
+        "email": "cassidyhardin@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey! My name is Cassidy, I am a third year data science major, originally from Colorado. I love traveling, trying new foods and just about every outdoor activity, current favorites are surfing, running, and rock climbing. Hit me up with any cool travel or food recommendations! I loved 61B and I can't wait to share it with you this semester!! ",
+        "imgUrl": "https://drive.google.com/open?id=1YEzs1E2TJIgFfOF_e1VUiOLviN085qih"
+    },
+    {
+        "name": "Chirasree Mandal",
+        "email": "chirasreemandal@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi! I'm Chirasree, and I'm a sophomore studying Computer Science. I'm from Evanston, Illinois and I love data science, all things design, and computational biology. I also like calligraphy, cold brew coffee, and talking about the midwest. I'm involved in computational biology research and love talking about starting side projects, so if anything from the above interests you, please reach out! ",
+        "imgUrl": "https://drive.google.com/open?id=116uchDk4QiuekrBT_-woURuOXtXWS8X8"
+    },
+    {
+        "name": "Claire Ko",
+        "email": "clairemwko@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey guys! My name is Claire, and I\u2019m a junior majoring in Engineering Math and Stats from SoCal. I've had some experiences AI-ing for CS61B for two semesters and tutoring for CS61BL this past summer. I enjoy coffee, tea, writing and learning the names of the random cats that live on my street. I\u2019m excited to help you learn and have fun in this class!",
+        "imgUrl": "https://drive.google.com/open?id=1eXjHVHoQes-i_pSWsKXrGZGIy5mwi9Xr"
+    },
+    {
+        "name": "Clark Wang",
+        "email": "clwang@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi! I\u2019m Clark and I\u2019m a sophomore studying CS. I\u2019m from New Jersey. I love CS and I hope you do too. I also love to run. Excited to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1V_aELKuaTxrUy-ktmFyLbwotmSZcnKd1"
+    },
+    {
+        "name": "Elaine Chien",
+        "email": "elaine_chien@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello! I\u2019m Elaine, and I\u2019m a fourth year CS major. I\u2019m really into travel montages, marvel movies, udon, sliver pizza, coconut ice cream. I\u2019m also on the archery team! Talk to me about any of the above, scary VR experiences, your favorite cities, or 61B of course",
+        "imgUrl": "https://drive.google.com/open?id=1NPhZBugjblJ9dMUug-a2O6vhTlHLuJdm"
+    },
+    {
+        "name": "Elicia Ye",
+        "email": "eliciaye@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey! I'm Elicia, a second year CS major from the Bay Area. In my free time I enjoy running, swimming, and hiking. I loved mentoring 61A last semester, and I'm excited to meet you all this year!",
+        "imgUrl": "https://drive.google.com/open?id=1SQnvt9LODSvQlJpEyMVAVzAT5_hRIgij"
+    },
+    {
+        "name": "Eric Zhu",
+        "email": "eric.zhu@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello! I'm a second year EECS major from the Bay Area (Fremont). I really enjoy watching and rewatching TV shows and movies :O so let me know if you have any recommendations! Feel free to me about anything, like my interests, my experiences, and maybe even data structures!",
+        "imgUrl": "https://drive.google.com/open?id=1gHzA4Tvrjt01xeJNUAv9J94o0MxjamlL"
+    },
+    {
+        "name": "Jake Fletcher",
+        "email": "james.fletcher@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey I'm Jake, I'm an EECS major an I'm originally from central coast California. I like boba, cool sneakers, video games (apex anyone?), and data structures. Feel free to reach out to me any time, about anything!",
+        "imgUrl": "https://drive.google.com/open?id=1FFNQ35L6g5_ALdyoJ0WB-Mnq08SZxiAO"
+    },
+    {
+        "name": "Linda Deng",
+        "email": "deng22@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi everyone! My name is Linda Deng. I am a sophomore studying computer science and statistics. In my free time, I love cooking and trying out new restaurants. Also, I enjoy classical ballet and modern dance. I've been a dancer for about 15 years. CS61B is one of my favorite CS courses, and I hope it will be yours too! Looking forward to a great semester with y'all!",
+        "imgUrl": "https://drive.google.com/open?id=1Wcl8HwBdnOa6KJuopscKUXUmj-55HVZg"
+    },
+    {
+        "name": "Maddy Chen",
+        "email": "madelinechen@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello! I\u2019m a junior Data/Econ major, and I spend my free time lifting, listening to podcasts, cooking without recipes, and shopping at Trader Joe\u2019s. CSM made me like 61B more than I\u2019d ever expected. If you\u2019re hesitant or nervous about the class, I hope that I can make it just a little better for you! :)",
+        "imgUrl": "https://drive.google.com/open?id=1YiBwvXdFV7DcAtMiSeF1a6YyV52Nss0y"
+    },
+    {
+        "name": "Manu Chopra",
+        "email": "mcrchopra@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey Everyone! I'm a Sophomore studying Computer Science here at Berkeley. I'm from Gilroy, California - a city an hour and half south of Berkeley. I took CS61B last spring, and am really excited to help teach y'all. In my free time, I play/watch a lot of basketball (Go Warriors!) and eat/cook a lot (Indian food and burritos are my jam).",
+        "imgUrl": "https://drive.google.com/open?id=1IzHCvfQN8us9Gxvoekkb0dzpA9ZPHsSl"
+    },
+    {
+        "name": "Micah Yong",
+        "email": "micahtyong@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi! My name is Micah and I'm from Los Angeles, CA. I'm a second year studying computer science with an interest in computer vision. In my free time, I make iOS apps, skateboard, listen to Frank Ocean and Kanye, and cook! Super excited to be teaching 61B this semester! ",
+        "imgUrl": "https://drive.google.com/open?id=1nMxKlLDUzq-byz0zLjy2bnwyS1FL9413"
+    },
+    {
+        "name": "Nikhil Sharma",
+        "email": "sharmanik99@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor",
+            "cs88": "CS 88 Associate Mentor"
+        },
+        "details": "Hi I'm Nikhil! I've been with CSM for the past two years in various courses from EE16A to CS61B and this is my second semester with CS88. Aside from teaching, you can find me trying to convince my friends to make the big C hike or at Northside Cafe. Looking forward to working with everyone this semester!",
+        "imgUrl": "https://drive.google.com/open?id=12vnGWjv4aH1IMjtgrrX8e6i9A8keHDbd"
+    },
+    {
+        "name": "Raymond Guo",
+        "email": "guor.lei@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello hello :D! I'm a third year EECS major from Maryland (check out our flag plz). I like hiking, critiquing movies, and watching cooking videos. Super excited to be teaching 61B this sem!",
+        "imgUrl": "https://drive.google.com/open?id=1oMGhra63Aif7RAKckdWAFRRIij74nalx"
+    },
+    {
+        "name": "Rayna Kanapuram",
+        "email": "raynak@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hey everyone! I'm a junior at UC Berkeley studying computer science and business. In my free time, I enjoy hiking or making Tasty recipes. 61B was one of my favorite classes at Berkeley and I'm looking forward to working with you this semester! ",
+        "imgUrl": "https://drive.google.com/open?id=1ZEn_e3DvBZL45F7WNa316X-tC_WYD7gq"
+    },
+    {
+        "name": "Robin Qiu",
+        "email": "rqiu@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi! I\u2019m a second-year in EECS and Linguistics. 61B is my favorite class at Berkeley, and I\u2019m super excited to help teach it! I like Sphynx cats, Chow Chows, and Galapagos tortoises. Definitely reach out with any questions :)",
+        "imgUrl": "https://drive.google.com/open?id=1E1_VmO0hSE_laJa3gAuLeHyYF24OfwYt"
+    },
+    {
+        "name": "Rohan Hajela",
+        "email": "rohan.hajela@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi, I'm Rohan Hajela a sophomore at Cal studying CS and Stats. I enjoy playing and watching sports (my teams are the Niners and the Warriors). This semester I will be serving as the Startup PM for Berkeley Business Society. Really looking forward to being a part of CSM and working with students this semester.",
+        "imgUrl": "https://drive.google.com/open?id=1ic4bHsGylO-a2gmtyMvasQIhbuYAnPER"
+    },
+    {
+        "name": "Sahil Saxena",
+        "email": "sahilsaxena18@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi! I'm Sahil and I'm a sophomore studying computer science and statistics. Aside from nerding out to CS, I love to (casually) sing and dance, play the guitar, watch/play sports (big fan of every bay area team), talk about Elon Musk, nerd out about other subjects, etc etc. I am also a part of Blockchain at Berkeley, so hmu if you're interested in blockchain! Let's have a great semester! (I personally think 61B is really fun :))",
+        "imgUrl": "https://drive.google.com/open?id=1pnGLR4_-we7ApNgU-g4npmJWIaEpjvK5"
+    },
+    {
+        "name": "Samantha Adams",
+        "email": "samantha.adams@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi there! I'm a senior in the EECS major who transferred to Cal last year. In my free time (lol what's that), I really enjoy hiking, playing video games, and sleeping in. I often drink way too much chai and I just started learning guitar this past summer. Let's be friends :)",
+        "imgUrl": "https://drive.google.com/open?id=17TFEZ8FjbGxBgZB564c8WbO0Tr0e61Cp"
+    },
+    {
+        "name": "Sameer Saptarshi",
+        "email": "sameer.saptarshi@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hi everyone! I'm a third year studying EECS and Statistics! 61B was one of my favorite classes and I'm very excited to be mentoring again this semester! Feel free to talk to me about anything, especially music, food, and of course, 61B!",
+        "imgUrl": "https://drive.google.com/open?id=19O6QyT3CMyYOGbV7BA2g4sFM4ZWiDrTb"
+    },
+    {
+        "name": "Shriya Nandwani",
+        "email": "shriyanan@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello! I'm Shriya, and I'm from the Bay Area. I'm studying CS/Data Science and I love 61B, so I'm super excited to be helping out with CSM this semester. Feel free to reach out if you have any questions about the class, want to share a bad pun, discuss the show The Office, or just talk about life! :) Excited to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1EQUBJxXncnpaqHFbFWlfGcDmaT71c5Aw"
+    },
+    {
+        "name": "Trevor Wu",
+        "email": "trevorhwu@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor"
+        },
+        "details": "Hello, I'm Trevor, and I am a junior Civil Engineering + EECS major. I want to work at the intersection (no pun intended) of transportation and AI. (Obligatory plug for Cal Institute of Transportation Engineers) My hobbies are drawing maps, taking walks, exploring cities, and arguing with people online about the California housing crisis. I'm also down to get Boba.",
+        "imgUrl": "https://drive.google.com/open?id=1FpjNHN_beLeZypxveedRuI4YDfhQXA0l"
+    },
+    {
+        "name": "Michael Lum",
+        "email": "michaellum@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "hey hey",
+        "imgUrl": "https://drive.google.com/open?id=15GqpzjM5mr92uBU_1eUf1bqNr15s1rTt"
+    },
+    {
+        "name": "CiCi Huang ",
+        "email": "cicihuang@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hi, y'all! I'm a third-year CS undergrad from Guilin, China! I am super into Netflix, HBO and movies so talk to me about any interesting shows/films :) I have a corgi and labrador though I am definitely a cat person \ud83d\udc31I look forward to teaching CSM 61B again ;) go data structures! ",
+        "imgUrl": "https://drive.google.com/open?id=1LIdn4miRauOdTOC4eanrVZvqbBjYIAao"
+    },
+    {
+        "name": "Lotta Meriluoto",
+        "email": "lmeriluoto@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hellooo! I'm a fourth-year CS major from New Jersey (*cricket chirps*... jk!). I think 61B is a grand ole time and I can't wait to be a mentor again! I like art, horror movies, peanut butter, and dogs with squished noses, and I'm also involved in UCB Basic Needs! (Ask me about student resources -- or 61B stuff. Both is good.)",
+        "imgUrl": "https://drive.google.com/open?id=1yOeX7vr-kZA34IO9QFs878Y-zsOVyP2R"
+    },
+    {
+        "name": "John Schulz",
+        "email": "johnschulz@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "I am a third-year computer science major and this is my second semester being a Computer Science Mentor for CS61b. In my free time, I enjoy hanging with friends, being in nature, and exploring.",
+        "imgUrl": "https://drive.google.com/open?id=1DoJ3aYL4eN7av8wwPGjyjKA3M_JP7sd7"
+    },
+    {
+        "name": "Preethi Kandappan",
+        "email": "preethi.k@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hi! I'm a 3rd year computer science major from San Jose. Excited to work with you all this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1Ir8TEe95mTjS9yyXElD3PVN6IO3FWADK"
+    },
+    {
+        "name": "Nicholas Li",
+        "email": "nicknickli@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hey! I'm a junior studying CS from San Diego. In my free time, I like watching videos about comedy skits and gaming. CS61B is one of my favorite classes, so I hope you'll have a good time like I did! I look forward to a fantastic semester with you guys!",
+        "imgUrl": "https://drive.google.com/open?id=1gpxa0U-7tPp3lC9GocX3EapiLf6J56LC"
+    },
+    {
+        "name": "Ankur Jain",
+        "email": "ankur.jain@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "I did not get the job at Froot Loops",
+        "imgUrl": "https://drive.google.com/open?id=1T66E-dYRkasr4-CfBZ1VUBxj-FIXwuQB"
+    },
+    {
+        "name": "Eric Fu",
+        "email": "ericfu@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hi! I'm a third year CS major and this is my second time as a 61B CSM mentor! I'm currently a director on the Cal Hacks team, and spend too much of my free time eating instant ramen or browsing reddit.",
+        "imgUrl": "https://drive.google.com/open?id=1GRPTGRL_WO676vSzAnYg2B1BpRyXQCF1"
+    },
+    {
+        "name": "Maryam Sabeti",
+        "email": "msabeti5@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hi! I'm Maryam and I'm a fourth year CS major. This is my third semester teaching with CSM and 61b was one of my favorite classes at Cal. Hope you enjoy it as much as I did and feel free to reach out if you have questions or need help with it. :)",
+        "imgUrl": "https://drive.google.com/open?id=1P-6IYRb0sM7uPfPvNPOTl_3L8lXRePhj"
+    },
+    {
+        "name": "Mulan Zhao",
+        "email": "mulanz@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "hi hi my name is Mulan, and I'm a junior studying computer science. I'm interested in exploring the intersection between tech, visual expression, and social impact. In my free time, I like to write, thrift, and explore cities. I will bring hot cheetos to section (if I remember). ",
+        "imgUrl": "https://drive.google.com/open?id=1kJDaNvJfIfEY5M0cBPxKKaV9JzBCe0_O"
+    },
+    {
+        "name": "Vikas Sharma",
+        "email": "vvsharma21@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hey everyone, My name is Vikas and cs61b is cool. I like football, dance, sleep, and A$AP Rocky. Im apart of BMUN and its really cool you should all join.",
+        "imgUrl": "https://drive.google.com/open?id=11WUeX9QywueMu_vBC-w1i3cgdLNOVi3t"
+    },
+    {
+        "name": "Christian Wu",
+        "email": "christian.wu@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "Hey, I'm a junior at Berkeley studying EECS! I've taught through csm for 2 semesters and am looking forward to my 3rd : )",
+        "imgUrl": "https://drive.google.com/open?id=1RddnmMKYpXOy9FlWPT0LDiieG8zAkmLK"
+    },
+    {
+        "name": "Taejong Kim",
+        "email": "taejongkim@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "This will be my third semester mentoring with CSM. You can usually find me in a library somewhere, so hit me up for a chat!",
+        "imgUrl": "https://drive.google.com/open?id=1uBGsghEZeXG2Arj-22tD5uwQBGJkBT92"
+    },
+    {
+        "name": "Thmas Glezen ",
+        "email": "tcglezen@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Associate Mentor"
+        },
+        "details": "HELLO THERE \nI LOVE GOLDEN RETRIEVERS \nTHEY ARE REALLY GOOD DOGS \nIF YOU HAVE GOLDEN RETRIEVERS\nPLEASE LET ME PET THEM \nI REALLY LIKE GOLDEN RETRIEVERS\nI ALSO REALLY LIKE SPAGHETTI \nI am also currently a third year Computer Science and Statistics double major. Some of my other hobbies include cooking yummy food, playing tennis, and playing chess :) ",
+        "imgUrl": "https://drive.google.com/open?id=1uzRWT8NJbEnDazLTHhjWljhKrkdHbQaU"
     },
     {
         "name": "Kristen Kafkaloff",
@@ -372,7 +1519,7 @@
             "cs70": "CS 70 Senior Mentor"
         },
         "details": "Hi everyone! I am Brian, a junior CS major. I tend to drink an unhealthy amount of Snapple and Coke Zero, so if you catch me gulping them down, either remind me to stop it or poke me if you want a lecture on why I think they are healthy. I look forward to a great semester! ",
-        "imgUrl": "https://drive.google.com/open?id=1OX0USxmmgUV-woB9n0qQfzuHe_vtSacO"
+        "imgUrl": "https://drive.google.com/open?id=163VQmvmdU0mIgeKaQ-IXPlU2rYp8Nlze"
     },
     {
         "name": "Candace Chiang",
@@ -389,8 +1536,8 @@
         "courses": {
             "cs70": "CS 70 Senior Mentor"
         },
-        "details": "Hi everyone! I'm a third-year CS major from Shanghai, China. I'm very excited to get to know you and become part of your CS70 journey: )",
-        "imgUrl": "https://drive.google.com/open?id=1wsMpekIzyrUrRsIjcrubJGiLeAt9YVod"
+        "details": "Hi everyone! Welcome to CSM and CS70. It will be a memorable semester (hopefully in a good way) and can't wait to teach and meet you all! ",
+        "imgUrl": "https://drive.google.com/open?id=1hVYEizkbjoxYZlhJ7tE3mFMnqvQiJAEp"
     },
     {
         "name": "Chris Gong",
@@ -415,7 +1562,9 @@
         "email": "jerryzhucs@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Senior Mentor"
-        }
+        },
+        "details": "Jerry berry ferry merry hairy wary carry dairy fairy Larry marry query scary very ...",
+        "imgUrl": "https://drive.google.com/open?id=1zscMXhC1IuqGAcUwGHdpNVWBU1S0TF-R"
     },
     {
         "name": "Kaushik Ravi",
@@ -424,7 +1573,7 @@
             "cs70": "CS 70 Senior Mentor"
         },
         "details": "Hi! My name is Kaushik, and I'm a senior studying Statistics and Computer Science! I love music, tv, exercise, and going on random adventures with friends. Excited to teach CS70 again this semester, and hope you love it as much as I do!",
-        "imgUrl": "https://drive.google.com/open?id=1M8HSKjbN0WB1vxu9roXcaAMu5HYzby73"
+        "imgUrl": "https://drive.google.com/open?id=1rhFziyyLvdX30F3QW1TT2Wsm_ygFWTlV"
     },
     {
         "name": "Lili Chen",
@@ -442,14 +1591,16 @@
             "cs70": "CS 70 Senior Mentor"
         },
         "details": "Hello! I'm a junior majoring in EECS and this is my second time mentoring CS70 for CSM. I really like the intersection of math and CS, and CS70 is one of my favorite classes here. In my free time, I enjoy munching on bagels and going on long bike rides in the Berkeley hills. I'm a huge fan of musicals as well, so hit me up if you have any recommendations!",
-        "imgUrl": "https://drive.google.com/open?id=1_GhaRk5kCDBAak03VWsGEAYdgFo2r8Tt"
+        "imgUrl": "https://drive.google.com/open?id=1cEJB-y9Q9j0Nb7_7f-ycD7cbqvh4bwWt"
     },
     {
         "name": "Rahul Devarapalli",
         "email": "rdev11@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Senior Mentor"
-        }
+        },
+        "details": "Hey there! I'm Rahul, and I am a 3rd year studying computer science. Outside of school, I love basketball (RIP Warriors), TV shows (wtf GoT S8?), and Okinawa milk tea.",
+        "imgUrl": "https://drive.google.com/open?id=1stLv_gDKiNULyebMs_nIBdaqx5FMcsKd"
     },
     {
         "name": "Robert Wang",
@@ -484,8 +1635,8 @@
         "courses": {
             "cs70": "CS 70 Senior Mentor"
         },
-        "details": "Hi! I'm a third-year Computer Science and Economics double major hoping to work in fintech after I graduate. This past summer I interned at VMware as a Product Development Intern down in Palo Alto. I really enjoy watching and playing basketball (go Lakers!), binging on movies, and exploring new sights within San Francisco. I love eating sugary/sweet foods and trying new foods in Berkeley. I'm actually the #1 customer for La Val's, a pizzeria on north-side. In addition to CSM and my 15 units, I'm the Industrial Relations Chair for UPE and the Web Developer for RoboBears.",
-        "imgUrl": "https://drive.google.com/open?id=1aNF2JREV3IzYBUBwJMZ_6lk3p_VtiLp4"
+        "details": "Hi! My name is Sajal, and I'm a Computer Science and Economics double major from Irvine. This is my second semester teaching CS 70 for CSM and first as a Senior Mentor. In my free time, I really enjoy playing basketball, exploring the city, and watching movies. I have a huge sweet tooth, but don't like boba. In addition to CSM, I'm the IR Chair for UPE and the Web Developer for RoboBears. I'm looking forward to another great semester with CSM and hope my students enjoy CS 70 as much as I did.",
+        "imgUrl": "https://drive.google.com/open?id=1HZqW5B9IaEjzyjQ0QuaVnf01tJLQcNW0"
     },
     {
         "name": "Justin Yokota",
@@ -520,6 +1671,328 @@
         }
     },
     {
+        "name": "Agnibho Roy",
+        "email": "agnibhoroy@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "I am a second year EECS student and I enjoy playing tennis, dancing, and am a big fan of artists such as Boogie, Drake, and the Chainsmokers. In my free time, I enjoy reading non-fiction books on anything on sleep, to history, and leadership. In terms of my career, I enjoy trading so I hope to be a quant trader in the future. ",
+        "imgUrl": "https://drive.google.com/open?id=12nbVGJ9eiNhmcnfOo_sOUZFoSRnMmNYd"
+    },
+    {
+        "name": "Allan Yu",
+        "email": "allan15@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hey everyone!",
+        "imgUrl": "https://drive.google.com/open?id=11FrIg4bRjO7Plbt62ZwzLU5vQEWcDFA3"
+    },
+    {
+        "name": "Andrew Wan",
+        "email": "andrewwanx10@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor",
+            "cs61c": "CS 61C Associate Mentor"
+        },
+        "details": "Hi there! I'm Andrew, a junior computer science major and statistics (potentially data science) minor. I'm planning to do research in ML/NLP this semester and other CS interests I have include cybersecurity and game design. In my free time, I do generic Asian stuff such as play video games, watch anime, and listen to K-pop. I am also working with Pioneers in Engineering to build software for a non-profit high school robotics competition.",
+        "imgUrl": "https://drive.google.com/open?id=1TJMaB90WqKUtCfJrmGcmMfoWwd3S-Dsg"
+    },
+    {
+        "name": "Aneri Shah",
+        "email": "aneri.shah@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I\u2019m Aneri & I\u2019m a 2nd year EECS major from Fremont - literally 40 minutes away from Berkeley. Besides teaching, I love dark chocolate, choreographing little dance routines, and listening to music. Looking forward to an awesome semester!!",
+        "imgUrl": "https://drive.google.com/open?id=1MFCWKf65ZbwXnakQ7r4RBuSYltMeOxZe"
+    },
+    {
+        "name": "Angela Jiang",
+        "email": "ajjiang@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm Angela, a second year majoring in CS and Econ. I enjoy dance, music, and tennis, watching Netflix, and eating good food. I'm excited to be teaching this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1x67X_eQXCI5eZGd8doSP81LorTjwzISe"
+    },
+    {
+        "name": "Brian Qi",
+        "email": "bqi7@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm Brian, a third year CS student from New Zealand. In my free time, I like to play squash, eat hotpot and experiment with different milkshake flavors. ",
+        "imgUrl": "https://drive.google.com/open?id=1V6kGZRc3emcJTl88_TxZGQj86rKTEVVB"
+    },
+    {
+        "name": "Bruce Kim",
+        "email": "sykim28@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "I'm a third-year CS and math major from Seoul (but I've also lived in other places too, like Hawaii, as you might see from my picture). In my free time, I go trail running, biking, and swimming, after which I cook or go restaurant hunting, searching for new food and experiences. In fact, I take pride in the fact that I've been to most restaurants around Berkeley. ",
+        "imgUrl": "https://drive.google.com/open?id=1rnyowqXucFQQU8LqS2nE_Km-ZH3EC5EZ"
+    },
+    {
+        "name": "Catherine Huang",
+        "email": "thecatherinehuang@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Enthusiastic math lover here! I also like tea and smiling :) ",
+        "imgUrl": "https://drive.google.com/open?id=1aGVBUYqoCcK71E0p_hDPLQV_iu_s8KtK"
+    },
+    {
+        "name": "Christianna Xu",
+        "email": "christianna.xu@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I am a sophomore L&S Computer Science major. I love playing and watching sports (especially basketball and football) and was on the swim and water polo team in high school. Apart from being involved in the CS community, I am also a part of a Christian fellowship (AACF).",
+        "imgUrl": "https://drive.google.com/open?id=1LpH0ragPC5dI-FmEaCbOLLj8Aexn9WyA"
+    },
+    {
+        "name": "Eric Feng",
+        "email": "fengeric11@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi everyone,\n\nI'm a third-year EECS undergraduate, and I've taken CS70 and CS170. I'm also currently taking EE126, so I'll be especially prepared for the probability portion of this course! I'll be prepared for discrete too of course :) \nI'm a League of Legends fan, and my favorite author is Malcolm Gladwell. I'm frequently seen in Soda and Kresge, so if you see me, stop by and say hello!",
+        "imgUrl": "https://drive.google.com/open?id=1GFksiJyaIj31Q3jRAqwPFXKnA1qb-KIc"
+    },
+    {
+        "name": "Eric Tang",
+        "email": "erictang000@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hello! I'm a 2nd year EECS Major from San Jose. In my free time I enjoy playing basketball, listening to podcasts, and watching Youtube Haiku. Excited to teach CS 70 and to get to know you guys this semester!",
+        "imgUrl": "https://drive.google.com/open?id=13rI62tIDPcq2jKABX61oeJWO7Jgu1D-x"
+    },
+    {
+        "name": "Ivy Li",
+        "email": "ivy.li@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm a second year EECS student from San Diego. I'm excited to teach 70, and I hope you learn a lot in this class. When I'm not studying, I'm probably doing puzzles, dancing, climbing or taking a nap on Memorial Glade. Hmu if you want to get boba together!",
+        "imgUrl": "https://drive.google.com/open?id=1OvsEvEkJ5AUlcSfm7_99k49H6kCoRKwa"
+    },
+    {
+        "name": "Jason Keung",
+        "email": "jasonkeung@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi hello! I'm a sophomore from Orange County, SoCal, just declared in CS + Applied Math(!!). I'm excited to offer my support and experience for y'all this semester! I really enjoy teaching; I've AI'd for 61A and 61B, and I'm really looking to become a TA. Outside of CS, I've danced with AFX during my freshman year and summer, and I'm prob gonna keep dancing this sem too! Join my section for a fun time :^) Also, I'm taking CS 170, 61C, 370, and Math 110 this semester.",
+        "imgUrl": "https://drive.google.com/open?id=1iIMOANAk4-uRPDH3Tyv5PcjhRNFloTeO"
+    },
+    {
+        "name": "Ji Hwan Min",
+        "email": "a0@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hey, I'm Ji Hwan, a sophomore studying CS. I enjoy learning about both natural and programming languages. Looking forward to meeting you all! (Yes, I know there aren't many pixels in my photo.)",
+        "imgUrl": "https://drive.google.com/open?id=11YusaumfON_jvzZflPWmGCORS8uZncdg"
+    },
+    {
+        "name": "Joseph Pagadora",
+        "email": "jcpagadora@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "In the desert, I saw a creature: naked, bestial, who, squatting upon the ground, held his heart in his hands, and ate of it. I asked him, \"Is it bitter, friend?\"\n\"It is bitter - bitter,\" he answered. \"But I like it because it is bitter, and because it is my heart.\"\n- Stephen Crane",
+        "imgUrl": "https://drive.google.com/open?id=1e-p8OdBceNN-d2Hr0KR7Ky5pkv4bWJnW"
+    },
+    {
+        "name": "Jun Hee Han",
+        "email": "junheehan@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi I'm Jun Hee. I'm a sophomore studying CS and I took 70 last semester. It was a pretty good time. In section, I will prioritize thoroughly completing all problems and working together with your section members. Some random stuff about me: I like listening to new music (anything!) so hit me up with your favorites. I can also tell what direction North is at all times. Looking forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=18iHvQ5bBO50j0P0DAdyJP4pLLr0Qq2mw"
+    },
+    {
+        "name": "Michael Chen",
+        "email": "avi1234@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm a sophomore studying EECS. I've done a lot of app dev, so feel free to ask me about that! I'm also a huge fan of sports (basketball, football, climbing, boxing, etc.). ",
+        "imgUrl": "https://drive.google.com/open?id=1J_Qf1XuEVBj7QZPPiW0TsK5N7plmY4N7"
+    },
+    {
+        "name": "Milan Butani",
+        "email": "milanbutani@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "BALL IS LIFE! My name is Milan! I'm a junior from LA studying CS and Data Science. I'm always down and super excited to play basketball (just look at the picture)! I love pizza, Fortnite, and sometimes chess. CS 70 is easily my favorite class at Berkeley. In my free time, I like getting excited for my next Stat 140 lecture. ",
+        "imgUrl": "https://drive.google.com/open?id=1TMNOXbKdR1rv7ivF1BkTLGxTC9QdUzEh"
+    },
+    {
+        "name": "Jun Kang",
+        "email": "junkang511@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hello! I'm Jun and Im a third year studying CS from Pullman, WA. I came to Berkeley intending to major in anything but computer science, but here I am now as a CS major! In my free time, I like to play basketball with my friends, watch the Seattle Seahawks win football games, listen to KPOP, and watch mukbang vids when Im super bored. CS70 was my favorite CS class and I am super stoked to be teaching it this semester. Looking forward to be working with you guys!",
+        "imgUrl": "https://drive.google.com/open?id=1keob3G4ZQkV_AjF-rjPlJ1Hb4DBtF9LU"
+    },
+    {
+        "name": "Nima Rezaeian",
+        "email": "nima_rez@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I\u2019m Nima, and I\u2019m a sophomore studying EECS from Irvine, CA. I liked CS70 a lot and I hope you all do too! In my free time, I enjoy rock climbing, tennis, and playing classical and jazz piano. Looking forward to meet you all and to a great semester :) ",
+        "imgUrl": "https://drive.google.com/open?id=1-C-Q7xvOY_WVkyUkRUbG1dEFWSdsU4d3"
+    },
+    {
+        "name": "Parth Patel",
+        "email": "parthpatel20010@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor",
+            "ee16b": "EE 16B Junior Mentor"
+        },
+        "details": "I'm currently a sophomore studying CS! One of my hobbies is making my own mobile apps when I'm not working on coursework. I am constantly searching for new things to build that could help solve problems on campus and beyond. Additionally, I enjoy traveling and try to travel to a new country every year. Last summer I visited Chongqing, China and had a blast! I am a big fan of caffeinated drinks(especially tea and coffee) and love trying out new cafes and PMT shops around Berkeley.  ",
+        "imgUrl": "https://drive.google.com/open?id=1T1TBp13WYxKw9i4BxTJm4ncC48Y8rshA"
+    },
+    {
+        "name": "Qinhong Chen",
+        "email": "qinhong.chen@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! My name is Qinhong (pronounced \"chin-hong\") and I'm a second-year CS and Econ major from Diamond Bar, CA. I enjoy hiking, board games, and puzzles in my free time. I really enjoy both math and programming, so I'm excited to be mentoring for CS 70 this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1mLnJzoyconTK4rQFtIPLvAXtOdC8cXuq"
+    },
+    {
+        "name": "Ray Kim",
+        "email": "rayhkim@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "I'm a second year EECS major (ugh, I know) from Manhattan Beach, CA. Some of my hobbies include dance, watching an ungodly amount of Netflix, and talking about philosophy and life. I also like listening to music--for example I really liked the new BROCKHAMPTON album, and I'm going to probably five different raves this semester, which I'm really hyped for. Favorite restaurant? Tasty Pot.",
+        "imgUrl": "https://drive.google.com/open?id=1iCP89i_D9W4Uf7CQKEh9PFCztDK5mUgJ"
+    },
+    {
+        "name": "Sagnik Bhattacharya",
+        "email": "sagnick@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "When I am not holding a sign saying \"426\" at the top of the Big C (why would anyone not do that), you can find me running in the Berkeley hills or geeking out over the prime factorization of interesting numbers. It is always a great time to talk to me about math, computers, or the environment.",
+        "imgUrl": "https://drive.google.com/open?id=1QpKX2KlOcma5FHvC_aeG3VR2S1pEaHYN"
+    },
+    {
+        "name": "Shemuel Ong",
+        "email": "shemuelong@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm an EECS Senior who grew up in SF and am originally from Singapore. I transferred into Berkeley one year ago and it has been a blast. Outside of school I really love skiing, the Golden State Warriors, In n Out, and walking my poodle! ",
+        "imgUrl": "https://drive.google.com/open?id=1_z5HBt-M1KyR_QDx-pvToQ_xD_hlFbZ0"
+    },
+    {
+        "name": "Shloak Jain",
+        "email": "shloak@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hey! I'm Shloak and I'm a third-year EECS major from Redmond, WA. My hobbies include laying on my bed and watching whatever random videos youtube recommends, skiing, and football. ",
+        "imgUrl": "https://drive.google.com/open?id=1TBPUvrRRK9GBqRpZNXWOU7xb82IAKfdR"
+    },
+    {
+        "name": "Shahzar Rizvi",
+        "email": "shahzar@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "I'm a third year-year from Chicago studying computer science and chemistry with a minor in logic. I enjoy reading, writing, graphic design, learning about new things, and helping others learn! My interests are pretty diverse, so feel free to talk to me about anything. I don't do much besides classes, work, and research, but I'm trying to expand my horizons. I look forward to working with you!",
+        "imgUrl": "https://drive.google.com/open?id=1r4Hp8GipxQ_YZUtTmVcIngmFdSddW1KF"
+    },
+    {
+        "name": "Tiantian(Luke) Cao",
+        "email": "caott0503@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi everyone! My name is Tiantian(Luke) Cao and I am a sophomore CS & Applied Math major. In my free time, I enjoy traveling, soccer and dota2! I am a fan of Ramin Djawadi and James Horner, both of whom compose fantastic movie soundtrack! Sundays are a great time to sleep until 12pm! My favorite restaurant is Le Bateau Ivre, great place for brunch!  First semester in CSM, can\u2019t wait to get to know all of you this semester :)",
+        "imgUrl": "https://drive.google.com/open?id=1IZKABvIO7JFRS6a-heRDkOenNOAr2W12"
+    },
+    {
+        "name": "Tristan Xiao",
+        "email": "tristan.xiao@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm Tristan, a 2nd year EECS major from Saratoga, CA. In my free time, I enjoy working out and playing sports like tennis / basketball. Feel free to reach out to me about anything, and I'm looking forward to meeting you all!",
+        "imgUrl": "https://drive.google.com/open?id=126KgkvrPlJadaFXRpcwz_1ghvh6y2AWr"
+    },
+    {
+        "name": "Victor Li",
+        "email": "lytz@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "EECS Sophomore.\nI hate olives.",
+        "imgUrl": "https://drive.google.com/open?id=1Igd3q9TPx8e3NWb88h2jd0pxAZdaBT60"
+    },
+    {
+        "name": "Daniel Lin",
+        "email": "pandan@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Associate Mentor"
+        },
+        "details": "Hi, I'm Daniel, and I'm a 3rd year EECS major. This is my second semester teaching CS 70, and I am thrilled to teach it again! Come join!",
+        "imgUrl": "https://drive.google.com/open?id=1YKDrt8yUEgYPKTmFn88ZgdWnr-yK-yBt"
+    },
+    {
+        "name": "Yanlai Yang",
+        "email": "yyang22@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Associate Mentor"
+        },
+        "details": "Hi everyone! I am a second year CS and Applied Math major and this is my second time mentoring CS70. I enjoy playing all kinds of card games and solving puzzles when I am free. I am very excited to meet and help everyone to get through this difficult course!",
+        "imgUrl": "https://drive.google.com/open?id=1OAkZJ0KbKnwHZURvWNPXWT8yR2iSsL_g"
+    },
+    {
+        "name": "Starr Yang",
+        "email": "starrtyang@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Associate Mentor"
+        },
+        "details": "Me like CS70",
+        "imgUrl": "https://drive.google.com/open?id=1Kh1Ft72uEC58IbNfP7DNui59wo9Ymfbx"
+    },
+    {
+        "name": "Katie Gu",
+        "email": "katiegu@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Associate Mentor"
+        },
+        "details": "Hey! I'm a third year EECS major from Los Angeles who loved CS 70 and is super excited to convince you that it will be your favorite class, too! :D In my free time, I play the piano and flute, read nonfiction, and dance for AFX. I'm also into tropical fruit ice cream and boba (so b a s i c), Hypebeast\u2122 clothing, browsing random subreddits (r/unpopularopinion is my favorite), listening to throwback music, exploring new restaurants, and going to concerts. If you buy me a breakfast burrito from Northside, you're already my best friend.",
+        "imgUrl": "https://drive.google.com/open?id=1gRlyGjxIu-7VZ4jb4gpFDtCadHwyHadx"
+    },
+    {
+        "name": "Amal Mehta",
+        "email": "amal.mehta@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Associate Mentor"
+        }
+    },
+    {
+        "name": "Esha Madhekar",
+        "email": "esha@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Associate Mentor"
+        }
+    },
+    {
         "name": "Daniel Li",
         "email": "daniel_zh_li@berkeley.edu",
         "courses": {
@@ -540,7 +2013,9 @@
         "email": "kevin_svetlitski@berkeley.edu",
         "courses": {
             "cs61c": "CS 61C Senior Mentor"
-        }
+        },
+        "details": "Hello! I'm a third-year Computer Science major from Houston, TX. In my free time I'm an avid reader, particularly of Science Fiction. I'm looking forward to spending my third semester with CSM!",
+        "imgUrl": "https://drive.google.com/open?id=1eV9bj3kpM17B31byXsqBW4KNsTJIv95T"
     },
     {
         "name": "Nisreen Alqaisi",
@@ -593,11 +2068,175 @@
         "imgUrl": "https://drive.google.com/open?id=1QUBbpVrzs0ppGUv0kfRB_hlbd3kRC26t"
     },
     {
-        "name": "Aatif Jiwani",
+        "name": "Aatif Jiwani ",
         "email": "aatifjiwani@berkeley.edu",
         "courses": {
             "cs61c": "CS 61C Senior Mentor"
-        }
+        },
+        "details": "Hey, I\u2019m Aatif and I\u2019m a junior at Cal studying EECS and Business! (No no I\u2019m not MET, I did it the hard way.) 61C is by far my favorite class because to me it literally exposes the magic of computers right in front of you. \nAside from class, I\u2019m pretty interested in deep learning, specifically computer vision! If you like machine learning in any way, we\u2019ll get along super well. ",
+        "imgUrl": "https://drive.google.com/open?id=1kbWpQP2gzdA-0SRE8hlDaXS9SGzvPNUX"
+    },
+    {
+        "name": "Cheng (Bob) Cao",
+        "email": "bobcao3@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hello! I'm Cheng Cao (or you can call me Bob). I'm a sophomore, Computer Science major, and I'm from Shanghai, China.\n\nI started learning programming since very young, largely due to the fact that I love playing computer games and wanting to know how to make them. I'm still on that path and my favorite topics in computer science is graphics and rendering. I spent most of my Sunday gaming and my absolute favorite games are StarCraft 2 and Overwatch -- but I'm not good in both of these (If you are a master in either of this please teach me how to play).\n\nI'm not very good at taking tests or quizzes, but I know a wide range of things and topics in CS. I'd like to focus more on the concepts behind how each theory or mechanism works, and if you want to lean the concepts or clarify the questions you had, I absolutely welcome you to my session!",
+        "imgUrl": "https://drive.google.com/open?id=1Q4an9f-eFC25Pj2UcDxzDpYfASUkQjY8"
+    },
+    {
+        "name": "Evan Sum",
+        "email": "evansum@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hi! My name is Evan Sum and I am a 3rd year studying Computer Science. I like to play tennis and volunteer. I know CS61C is extremely difficult, but I want to be there for my students and help then whenever I can. I hope I can be helpful to you both during class and outside. I also like boba a lot. ",
+        "imgUrl": "https://drive.google.com/open?id=18CI-7k-Z8Qu_VOgdPlWL4zOsf-Pv0uge"
+    },
+    {
+        "name": "Ismael Javed",
+        "email": "javedi@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hey everyone! My name is Ismael / Ismail (long story) and I'm a fourth year EECS major at Cal. I'm from Sacramento (go Kings!) and transferred from a community college last year. I've been a math tutor for several years and I find it to be one of the most rewarding experiences, so I'm really excited to be a CSM this semester. Aside from tutoring, I love going to gym, watching football and basketball, and driving back to Sac almost every weekend to spend time with family / my cat. Feel free to talk to me if you have any questions about 61C, transferring, lifting, or really anything at all!",
+        "imgUrl": "https://drive.google.com/open?id=1hE8DBm61DBQge6hJpwPh7nCc4hBAU4_P"
+    },
+    {
+        "name": "Kevin Tezel",
+        "email": "ktezel1@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hi everyone! I'm a third year studying Applied Math and CS, and I'm from the great state of Florida. I spend a lot of time hiking, binge-watching and listening to music, but I'm always looking for new stuff to do too. I'm really excited to help people learn 61C this semester; it's a hard class but it really pays off!",
+        "imgUrl": "https://drive.google.com/open?id=18IKzEecCmyfxBRtgAz5_bZtD7YQvCGdR"
+    },
+    {
+        "name": "Kimberly Zhu",
+        "email": "kpzhu@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hey! I'm a second-year EECS major from Cupertino, California. In my free time, I love watching movies, trying out new foods, scrolling through Reddit and traveling. Excited for the semester!",
+        "imgUrl": "https://drive.google.com/open?id=1UUYTlVUQ5pQDDU76NOWRZLdde2_r7pG6"
+    },
+    {
+        "name": "Meera Mehta",
+        "email": "meera.mehta@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hi I'm Meera and I'm from Fremont, CA. I'm a junior majoring in CS and Biochemistry and I'm so excited to be your mentor for CS 61C! This will be my first semester as a mentor; previously I was an AI for CS 61A.  In my free time I love going on long trail runs, watching Netflix (The Office, Parks and Rec, HIMYM), and drinking tea and coffee!",
+        "imgUrl": "https://drive.google.com/open?id=13KouzlZzgMNs_qpfgEpJJZ_8f1DLfr3s"
+    },
+    {
+        "name": "Ryan Li",
+        "email": "ryxli@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "What's up! I'm Ryan, a second year studying CS and Econ from Long Island, NY. Feel free to ask any questions!",
+        "imgUrl": "https://drive.google.com/open?id=1qiTp8XPfH91B-gnVayLUwMskceD4jaIY"
+    },
+    {
+        "name": "Ryan Tran",
+        "email": "bobotran@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hi. I'm a junior EECS major. I like memes and NASA :)",
+        "imgUrl": "https://drive.google.com/open?id=1YjJIoHUO53VtYVQ6xFQl5xnq5qRoj7FU"
+    },
+    {
+        "name": "Sean Chen",
+        "email": "00schen@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "What's up guys, I'm a second year CS and Math kid. I love statistics, but firmware is pretty dope. Catch me reading Records of the Grand Historian, or just another ml book (MASHEEEN LurNING). We gonna catch those speed ups, boys. SIMD!!",
+        "imgUrl": "https://drive.google.com/open?id=1PZsbn_c5eOEXyrwEl7Ln8vTRpawt8shw"
+    },
+    {
+        "name": "Selina Feng",
+        "email": "selina.feng@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hello! I'm a junior studying Computer Science, and I am passionate about the Berkeley club ecosystem, DeCals, and cooking (even though I'm not great at it). During my time at Berkeley, I've been involved in CodeBase, Cal Hacks, and AFX so I love working on cool projects with cool people. In my free time, I like to eat noodles at Toss, play tennis, and explore food places in Oakland/SF with friends. I'm looking forward to a great semester!  ",
+        "imgUrl": "https://drive.google.com/open?id=1zs-58ecZuQ8YmHLdvANfFRn64rszYQFp"
+    },
+    {
+        "name": "Vidhan Jain",
+        "email": "jainvidhan@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hello good folks! I am a fourth year EECS major from Mumbai, India. I'm excited about joining the 61C CSM team this semester. In my free time, you can find me watching dog or cat videos, playing Overwatch, taking long naps, leveling up my geography trivia, or working out. 61C was one of my favorite courses at Cal and I hope it will be yours too!",
+        "imgUrl": "https://drive.google.com/open?id=1e3MP6sgwEv8o7SS_BgeMCQyFrqIjDi4L"
+    },
+    {
+        "name": "Wallace Lim",
+        "email": "wallace.lim@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Hello! I'm a sophomore double majoring in Computer Science and Data Science. I've lab assisted for both Data8 and CS61A as well as tutored for CS61BL over the summer. I'm super excited to be helping out in 61C! I love performing Wushu which is a Chinese Martial Arts (catch me in demos throughout the year!) as well as traveling to nature areas. I'm also an upcoming weeb so please throw me your recommendations :) Don't hesitate to come up to me and say hi, I don't bite!",
+        "imgUrl": "https://drive.google.com/open?id=1_WipqNUBmxB-RgXaCSn1BE-4AW3OtcOO"
+    },
+    {
+        "name": "Warren Gu",
+        "email": "warren.gu@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Junior Mentor"
+        },
+        "details": "Why hello there. Even though you may call me Warren G, be warned that I cannot rap at all. I also swear that I do not have a burrito addiction; it just happens that I can be found eating burritos by myself in my natural habitat. When I am not busy procrastinating, you can find me eating, convincing people that R is a programming language, and writing autobiographies. >_<",
+        "imgUrl": "https://drive.google.com/open?id=1POTYIKinPg9kl6YgCdMnnqK7l7dT0ygv"
+    },
+    {
+        "name": "Karina Chang",
+        "email": "jkarinac@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Associate Mentor"
+        },
+        "details": "Hello!  I'm a 4th year from Maryland - old bay seasoning and blue crabs are defining characteristics of my personality.  I love photography, earl gray ice cream, and snowboarding.  You may recognize me from EE16B :') but I love CS61C, and I'm really excited to be teaching again.",
+        "imgUrl": "https://drive.google.com/open?id=1GjDgWNc5SuEo5ReNh5jOszGo75XQJ54m"
+    },
+    {
+        "name": "Eric Chiu",
+        "email": "ericchiu3@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Associate Mentor"
+        },
+        "details": "Hey everyone! I'm a 3rd year CS major from Houston, TX (yeehaw!). I love to play soccer, watch YouTube, and feed on Summoner's Rift. Looking forward to guiding you down the wonderful journey of 61C!",
+        "imgUrl": "https://drive.google.com/open?id=18TDB8iWdVp498YrgBbypux6iG6iSQOKj"
+    },
+    {
+        "name": "Daniel Fan",
+        "email": "danielfan@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Associate Mentor"
+        },
+        "details": "Hi! My name is Daniel and I\u2019m a second year EECS major from Washington, home of overpriced coffee and tech monopolies. I\u2019ll be learning to dance in AFX in my free time, so feel free to say hi if you see me around. Looking forward to a fun semester!",
+        "imgUrl": "https://drive.google.com/open?id=1q-enkqkS5kBJNicpyTVQBbRHlage-zvx"
+    },
+    {
+        "name": "Sruthi Veeragandham",
+        "email": "sruthiv123@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Associate Mentor"
+        },
+        "details": "Hello! 61C was the class that convinced me to jump from microbiology to computer science, and I'm really excited to travel on the journey from C code to logic gates with all of you this semester :)",
+        "imgUrl": "https://drive.google.com/open?id=14qV8WYMzEqEcC8GnB-i1GRKN_3WZ57he"
+    },
+    {
+        "name": "Eden McEwen",
+        "email": "emcewen@berkeley.edu",
+        "courses": {
+            "cs61c": "CS 61C Associate Mentor"
+        },
+        "details": "Hey there folks, I'm a third year CS and Physics double major doing research in the astronomy department. CS61c is just one of my many passions, I'm also huge fan of fresh expo markers.  I pamper my plants, bake at inconvenient times, and have a soft spot for podcasts. Can't wait to help you love 61c like I do!",
+        "imgUrl": "https://drive.google.com/open?id=1oFE89SwZt3P8BNEMsYhRiRYXG-AkqJte"
     },
     {
         "name": "Alex Kassil",
@@ -609,15 +2248,6 @@
         "imgUrl": "https://drive.google.com/open?id=1m0ghVyEyoNKDJSpLsuLSMKsmL8MTDS91"
     },
     {
-        "name": "Ada Hu",
-        "email": "adahu@berkeley.edu",
-        "courses": {
-            "cs88": "CS 88 Senior Mentor"
-        },
-        "details": "Hi! My name is Ada and I'm a sophomore studying CS. I really enjoy listening to Taylor Swift (her new album Lover is a m a z i n g) and going on boba runs with my friends. I also really enjoy playing tennis, Old School Runescape, and League of Legends (trying to hit plat this season). I'm excited to meet you all!",
-        "imgUrl": "https://drive.google.com/open?id=1Y3etMUJstYb77-SCQ-FyDIJcSP1UlsGg"
-    },
-    {
         "name": "Frank Liu",
         "email": "fliu@berkeley.edu",
         "courses": {
@@ -627,31 +2257,13 @@
         "imgUrl": "https://drive.google.com/open?id=1hmvVTdUemCdWUwwfQ_-OiAbO7Oi1233i"
     },
     {
-        "name": "Luke Mujica",
-        "email": "lukemujica@berkeley.edu",
-        "courses": {
-            "cs88": "CS 88 Senior Mentor"
-        },
-        "details": "Hi! Computer science is fun and I really enjoy teaching it and some other things I enjoy are various sports with balls, some water sports, playing the guitar, and trying new food. Feel free to contact me about anything!",
-        "imgUrl": "https://drive.google.com/open?id=1PaED7c3wutQB7pE6b8AibtWwOZv_a3CH"
-    },
-    {
         "name": "Shreya Kannan",
         "email": "shreyakannan@berkeley.edu",
         "courses": {
             "cs88": "CS 88 Senior Mentor"
         },
-        "details": "Hey there! I'm Shreya, a second year EECS major here at Berkeley, born and raised in the Bay Area. This is my second semester mentoring for CS 88, and I'm super excited to be returning. Besides teaching, I love trying new restaurants and playing board games. On campus, you can probably find me practicing with the Indian dance team (Raas!), nestled in one of our many libraries, or trying to navigate the bus system, which I still find confusing. I love to talk, so feel free to reach out any time with questions you have :)",
-        "imgUrl": "https://drive.google.com/open?id=1WolGN4i8uBGPfCs0GzBuomWG6u00OXRs"
-    },
-    {
-        "name": "Sohum Hulyalkar",
-        "email": "sohum11@berkeley.edu",
-        "courses": {
-            "cs88": "CS 88 Senior Mentor"
-        },
-        "details": "Hi! I doubt you saw this coming, but I am a computer science major who really loves to teach! I have experience teaching CS 61A and CS 88. Surprisingly, teaching computer science isn't my life; I play ultimate frisbee, I love to hike, and I am always down for spikeball. ",
-        "imgUrl": "https://drive.google.com/open?id=1RvQewtd_Lu3FzufabEa62TXqbsbl2l9M"
+        "details": "Hey there! I'm Shreya and this is my second semester mentoring for CS 88! Besides teaching, I love trying new restaurants and playing board games. On campus, you can probably find me practicing with the Indian dance team (Raas!), nestled in one of our many libraries, or trying to navigate the bus system, which I still find confusing. I love to talk, so feel free to reach out any time with questions you have :)",
+        "imgUrl": "https://drive.google.com/open?id=1FkL13ZVjq2T3zFRQAgkZl93SaGXgvMhl"
     },
     {
         "name": "Stephen Costello",
@@ -661,6 +2273,141 @@
         },
         "details": "Hello! I'm Stephen, and I'm a fourth year CS major from Stockton, California. This is my third semester with CSM, and my second semester as a mentor for CS88. In my free time I like to play/create music and video games. You might also catch me acting in musical theater every now and then. Looking forward to a great semester!",
         "imgUrl": "https://drive.google.com/open?id=1rcylOUuomJzYlt7RdayDEe70VSkSXnRp"
+    },
+    {
+        "name": "Anand Kumar",
+        "email": "anandrajkumar25@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "I am a fourth year studying Data Science and Cognitive Science. In previous years I have lab assisted for both 61A and 61B. During my first two years at Cal, I enrolled in CSM in order to cement my CS fundamentals; now I hope to help new students do the same. When I'm not coding or studying, I like to video edit, go to the gym, or eat my body weight's equivalent in pizza.  Yes I understand my last two hobbies are conflicting.",
+        "imgUrl": "https://drive.google.com/open?id=1J16GXAQsWdW4vk1lc5do73hM9Jmu16ry"
+    },
+    {
+        "name": "Andrew Liu",
+        "email": "andrewliu21@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "happy to help!!",
+        "imgUrl": "https://drive.google.com/open?id=1gi_2b8nkwYUVzbWR28wuGzNEE4UIcJWe"
+    },
+    {
+        "name": "Chi Tsai",
+        "email": "chitsai@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hi! I'm Chi, and I'm a 2nd year student studying Computer Science from Los Angeles. I enjoy trying out new food, cooking simple (yet delicious) recipes, playing Minecraft (when I'm stressed), and watching Brooklyn 99 (I love Terry). I'm always up for new music recommendations, so hit me up if you got any! I'm excited to meet you all and can't wait to get to know you!!",
+        "imgUrl": "https://drive.google.com/open?id=1x6sVqMnGTJdiADMSocnLuk6HrvSqPdy0"
+    },
+    {
+        "name": "Jack Wang",
+        "email": "jack.y.wang@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "hi! some things i enjoy are TJs (trader joe's), free food samples, sports involving balls, cold californian weather, and computer science. i hope you have a great semester! and feel free to come talk to me about anything.",
+        "imgUrl": "https://drive.google.com/open?id=1jFU_kG3DK-rgPMfhJMp1R0B6rTOh6uuT"
+    },
+    {
+        "name": "Jai Bansal",
+        "email": "jaibansal@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hi everyone! Can't wait to be a CSM Mentor this fall. I love teaching and learning about CS and can't wait to share that with you all. Here's a little about me. I'm a die hard Logic fan (can probably rap all of his songs). I play ultimate frisbee competitively but when I'm not throwing the disc around I'm cheering on my  favorite sports teams including the New Orlean Saints, LA Clippers, and Liverpool. If you ever want a quick bite and haven't tried out Taco Sinaloa on Telegraph you are missing out! Anyway, feel free to talk to me about literally anything and cannot wait to meet you all! ",
+        "imgUrl": "https://drive.google.com/open?id=1BYmKSL6BXIswl40vfayYTkO4OBFo4UBG"
+    },
+    {
+        "name": "Jessica Yu",
+        "email": "jessica.yu@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hello! I'm a second-year CS major from Fremont, CA. When not studying or working out, I enjoy taking long walks, cooking, and browsing Reddit. I believe that the dichotomy of \"dog person\" and \"cat person\" is false and constructed by the bourgeoisie to distract us from our common enemy: tarantula people. For the record however, I'm a dog person.  I had minimal exposure to coding prior to Cal, so feel free to email me with your questions and concerns (regarding this and anything else)!",
+        "imgUrl": "https://drive.google.com/open?id=1mzNP3dXRpczEyfwkIybaHtnxwOy8ysDJ"
+    },
+    {
+        "name": "Kaitlyn Lee",
+        "email": "klee376@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hi, I'm Kaitlyn! I'm a sophomore majoring in EECS, and this is my first time teaching CS88, though I've taught CS61A before. I like to play badminton in my spare time, and please come talk to me about Pokemon or Animal Crossing as well! Outside of CSM, I'm involved with AWE and 16A staff. ",
+        "imgUrl": "https://drive.google.com/open?id=1ixnccPnbOdnNnqL64sRugK7Nt0hiLYlp"
+    },
+    {
+        "name": "Matthew Lee",
+        "email": "matthewlee1@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Heyo! My name is Matthew and I'm a junior from Marin County intending to major in computer science. I used to be pre-med and have jumped around way too many majors here which is why I'm pretty late to the game but happy to finally be here. Before entering into the world of Berkeley CS, I was a fiddler in a bluegrass band and spent last summer interning at the White House. Outside the classroom, I enjoy trying out new recipes, staying up way too late talking with my roommates, and struggling in Vinyasa yoga. If you ever want to talk American politics or are confused about which classes to take, please reach out! Let's get this.",
+        "imgUrl": "https://drive.google.com/open?id=1VQN6A1ID7EUF6waXpRFREPqFvmotKx8N"
+    },
+    {
+        "name": "Max Litster",
+        "email": "maxlitster@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Somewhere deep in the depths of YouTube, there is a video of me performing an 80s workout routine dance in front of my entire high school for a talent show. This semester, I bring that same ambition, tenacity, and sweat to the classroom, working as hard as I can to be the best CS 88 mentor possible. I'm from Boston (yeah pahk the cah in Hahvahd yahd or whatever) and this will be my second year studying CS at Cal! I do a lot of work in Natural Language Processing, so hit me up if you're interested in teaching computers to read or making cool word visualizations. Outside of dancing, teaching, and programming, I am an avid runner, music nerd, and subpar babysitter. Can't wait for an awesome semester!",
+        "imgUrl": "https://drive.google.com/open?id=1M3U7qr5KaWg8El4ygVNw1DmSJU6TSriU"
+    },
+    {
+        "name": "Megan Zhu",
+        "email": "meganzhu@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hey there! My name is Megan and I'm a second year Computer Science and Econ double major from Toronto, Canada. In my free time, I like to eat, sleep, eat some more and binge watch tv shows for hours on end. Feel free to hit me up for CS advice, food recommendations or just to talk about life in general. I'm super excited to meet you all in tutoring and I hope we have a great semester together! (*^\u25bd^*)",
+        "imgUrl": "https://drive.google.com/open?id=1oseriJZKcg_Vqj417DAxt38prv3hhsRh"
+    },
+    {
+        "name": "Melody Ding",
+        "email": "melodyding@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hi all! I'm Melody and I'm majoring in Computer Science. I love blogging about chocolate, dancing, art, and running.  I'm looking forwards to meeting you, and I hope you enjoy CS as much as I did! Hmu if you ever want to talk about anything at all <3",
+        "imgUrl": "https://drive.google.com/open?id=1BZJ6Rtmpw-6eeXefk1_O1uFTz7ATpRDn"
+    },
+    {
+        "name": "Mengti Sun",
+        "email": "mengtisun@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "I'm a Junior majoring in CS and Cog Sci (I often call myself a CSS major). I'm from Beijing, China. I'm pretty into photography, drawing, and writing (aspire to be a part-time writer). I listen to rock&roll and hiphop a lot. In my spare time, I often explore the local restaurants at Berkeley. You're welcomed to come to my section and maybe we can try some good food together! ",
+        "imgUrl": "https://drive.google.com/open?id=1Wfp0iYz3hBCm9QtzbJhEHo7D_oYLiuGy"
+    },
+    {
+        "name": "Nicholas Ng",
+        "email": "nickng589@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": "Hi! I'm Nicholas, and I'm a second year intended Computer Science Major from the San Gabriel Valley.  I like playing video games (CS:GO, Overwatch, Teamfight Tactics), watching movies and TV shows, and every once in a while I'll go outside for a run.  I look forward to meeting everyone!",
+        "imgUrl": "https://drive.google.com/open?id=1mbdPaY-fw4f2dDOSjujeR0k9lJKVaoJ3"
+    },
+    {
+        "name": "Patricia Malagon ",
+        "email": "patricia.malagon@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Junior Mentor"
+        },
+        "details": " I'm a first generation college student and I\u2019m a senior studying political economy. I currently live in an old hotel that\u2019s been converted in a student housing cooperative. I was in student government for three years. I spent the summer at Carnegie Mellon studying social policy and data science. I\u2019d love to talk about music, hiking trails, and I\u2019m originally from Mexico.",
+        "imgUrl": "https://drive.google.com/open?id=1v1ED6ohbUl98o3iioeVCITF5LrRHOcJx"
+    },
+    {
+        "name": "Ryan Roggenkemper",
+        "email": "rroggenkemper@berkeley.edu",
+        "courses": {
+            "cs88": "CS 88 Associate Mentor"
+        },
+        "details": "I'm a 4th year CogSci & CS major from Los Gatos, CA, and I've been involved in CSM for 3 semesters now. I enjoy cooking (because it usually leads to eating things, which is pretty great), music, and playing a sport/game called jugger. I'm also a bit too good at procrastinating (please don't follow my example).",
+        "imgUrl": "https://drive.google.com/open?id=1TVyysJoIbq854RETVQ9Po2_hugapeN2D"
     },
     {
         "name": "Ramsey Mardini",
@@ -683,7 +2430,9 @@
         "email": "justinvyu@berkeley.edu",
         "courses": {
             "ee16b": "EE 16B Senior Mentor"
-        }
+        },
+        "details": "Hi, my name is Justin, and I'm excited to be an SM for EE16B this semester! Outside of CSM, I enjoy doing robotics research and getting Asha tea. Come join my section and give me music recommendations. :)",
+        "imgUrl": "https://drive.google.com/open?id=1tDH7ZREsBlKSt03oilU-qlVnfGGyNDbs"
     },
     {
         "name": "Ryan Koh",
@@ -726,6 +2475,26 @@
         "email": "maxhchen@berkeley.edu",
         "courses": {
             "ee16b": "EE 16B Content Mentor"
-        }
+        },
+        "details": "Hey! I'm Maxwell and I'm a second-year CS major from San Jose, CA. Outside of CS, I'm into all things related to neuroscience, cognition, and the brain. In my spare time, I love hiking, playing board games, and discovering indie or alternative music. Wishing y'all a great semester :)",
+        "imgUrl": "https://drive.google.com/open?id=1W_XJeOjxolGhcMhDUgbQsad77yCJXV73"
+    },
+    {
+        "name": "Kevin Zhu",
+        "email": "kevonz31@berkeley.edu",
+        "courses": {
+            "ee16b": "EE 16B Junior Mentor"
+        },
+        "details": "Hello!  I am a second year CS major from Pleasanton, Ca. In my free time, I enjoy watching and playing basketball and eating different foods in Berkeley. Also, I am a member of Pioneers in Engineering (PiE), which is a STEM outreach club that hosts robotics competitions for local high schools. If you are looking for a club, I'd highly recommend joining PiE. ",
+        "imgUrl": "https://drive.google.com/open?id=12g44lcRTp55a6IOh7sj0UGHqefrWcRFT"
+    },
+    {
+        "name": "Marie Barr-Ramsey",
+        "email": "mariebarr@berkeley.edu",
+        "courses": {
+            "ee16b": "EE 16B Junior Mentor"
+        },
+        "details": "Welcome to EE 16B! I'm a senior EECS transfer from Fresno, CA. I took a circuitous route to get here, but through lots of resistance and a series of fortunate events here I am! Currently a big fan of Lover (I love high tea, stories from uni...) <3. Some things I can be observed doing: swing dancing, playing guitar, or going through a Netflix binge phase. 16B can get pretty complex, but we won't let it get out of control. I'm excited for this semester :)",
+        "imgUrl": "https://drive.google.com/open?id=1YWl7nLAp9YIy0wD6rvsJebZNsweLWIWv"
     }
 ]

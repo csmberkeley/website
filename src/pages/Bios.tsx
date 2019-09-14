@@ -34,6 +34,9 @@ for (let mentor of mentorBios) {
         });
     }
 }
+for (let bioList of Object.values(bios)) {
+    bioList.sort((bio1, bio2) => bio1.name.localeCompare(bio2.name));
+}
 
 function getCoursePageTitleAndLabel(course: string) {
     let title = course === "exec" ? "Exec" : course.toUpperCase();
