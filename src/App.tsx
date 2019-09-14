@@ -3,7 +3,7 @@ import React from "react";
 import { HashRouter as Router, Route, Switch, Redirect } from "react-router-dom";
 
 import { Bios, Team, Partners, Mentors, Students, Home } from "./pages";
-import { Header, Footer } from "./components";
+import { Header, Footer, ScrollToTop } from "./components";
 
 import urls from "./data/urls.json";
 import courses from "./data/courses.json";
@@ -23,31 +23,33 @@ class ExternalRedirect extends React.Component <{ path: string; target: string }
 function App() {
     return (
         <Router basename="/">
-            <Header />
-                <Switch>
-                    <Route exact path="/" component={ Home } />
-                    <Route exact path="/students" component={ Students } />
-                    <Route exact path="/mentors" component={ Mentors } />
-                    <Route exact path="/partners" component={ Partners } />
-                    <Route exact path="/team" component={ Team } />
-                    <Route exact path="/bios" component={ Bios } />
-                    <Route exact path="/bios/:course" component={ Bios } />
-                    <Redirect exact from="/exec" to="/bios/exec" />
-                    {
-                        courses.map(name =>
-                            <Redirect exact from={ "/" + name.toLowerCase() } to={ "/bios/" + name.toLowerCase() } key={name}/>
-                        )
-                    }
-                    <ExternalRedirect path="/apply" target={ urls.applicationForm } />
-                    <ExternalRedirect path="/scheduler" target={ urls.scheduler } />
-                    <ExternalRedirect path="/facebook" target={ urls.facebook } />
-                    <ExternalRedirect path="/github" target={ urls.github } />
-                    <ExternalRedirect path="/sage" target={ urls.sage } />
-                    {/* TODO add mail url? */}
-                    {/* TODO replace this with a proper 404, or redirect home */}
-                    <Route render={() => <div>Not found</div>} />
-                </Switch>
-            <Footer />
+            <ScrollToTop>
+                <Header />
+                    <Switch>
+                        <Route exact path="/" component={ Home } />
+                        <Route exact path="/students" component={ Students } />
+                        <Route exact path="/mentors" component={ Mentors } />
+                        <Route exact path="/partners" component={ Partners } />
+                        <Route exact path="/team" component={ Team } />
+                        <Route exact path="/bios" component={ Bios } />
+                        <Route exact path="/bios/:course" component={ Bios } />
+                        <Redirect exact from="/exec" to="/bios/exec" />
+                        {
+                            courses.map(name =>
+                                <Redirect exact from={ "/" + name.toLowerCase() } to={ "/bios/" + name.toLowerCase() } key={name}/>
+                            )
+                        }
+                        <ExternalRedirect path="/apply" target={ urls.applicationForm } />
+                        <ExternalRedirect path="/scheduler" target={ urls.scheduler } />
+                        <ExternalRedirect path="/facebook" target={ urls.facebook } />
+                        <ExternalRedirect path="/github" target={ urls.github } />
+                        <ExternalRedirect path="/sage" target={ urls.sage } />
+                        {/* TODO add mail url? */}
+                        {/* TODO replace this with a proper 404, or redirect home */}
+                        <Route render={() => <div>Not found</div>} />
+                    </Switch>
+                <Footer />
+            </ScrollToTop>
         </Router>
     );
 }

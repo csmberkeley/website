@@ -42,8 +42,8 @@ class LinkList extends React.Component<LinkProps> {
 
 export default class Header extends React.Component {
     componentDidMount() {
-        document.addEventListener('DOMContentLoaded', function() {
-            var elems = document.querySelectorAll('.sidenav');
+        document.addEventListener("DOMContentLoaded", function() {
+            var elems = document.querySelectorAll(".sidenav");
             M.Sidenav.init(elems, {});
         });
     }
@@ -55,7 +55,11 @@ export default class Header extends React.Component {
                         <Link to="/" className="brand-logo">
                             CSM
                         </Link>
-                        <a href="#" data-target="mobile-demo" className="sidenav-trigger">
+                        <a
+                            href="#"
+                            data-target="mobile-demo"
+                            className="sidenav-trigger"
+                        >
                             <i className="material-icons black-text">menu</i>
                         </a>
                         <LinkList ulClasses="right hide-on-med-and-down" />
