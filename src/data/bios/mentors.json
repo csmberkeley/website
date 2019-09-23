@@ -801,7 +801,7 @@
         "name": "Michelle Mao",
         "email": "michelle.mao@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Coordinator"
+            "eecs16a": "EECS 16A Coordinator"
         },
         "details": "I'm a junior from Shanghai who isn't an international student because I was born in Michigan but will still tell you I'm Chinese. I've been in CSM since my second semester and truly believe it will reshape EECS education at Cal. I especially believe in its power to change student perceptions of EE courses. When I'm not CSM-ing, you can find me in the a cappella group the California Golden Overtones, building mobile apps, or biking around the area.",
         "imgUrl": "https://drive.google.com/open?id=19n0xVINgqy--dvt8QiYbqtwrAIzuqfFq"
@@ -810,7 +810,7 @@
         "name": "Paul Shao",
         "email": "paulshaoyuqiao1@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Coordinator"
+            "eecs16a": "EECS 16A Coordinator"
         },
         "details": "Hi. My name is Paul. I am currently a junior studying EECS. Some of my personal hobbies include classical music, hiking, and traveling. I look forward to meeting all of you and a great semester ahead of us!",
         "imgUrl": "https://drive.google.com/open?id=18YP-ixxmoKurcEASAzm6T2zuleu0kDj8"
@@ -819,7 +819,7 @@
         "name": "Albert Tang",
         "email": "alberttang@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor"
+            "eecs16a": "EECS 16A Senior Mentor"
         },
         "details": "Hey! I'm a big fan of good times and fun vibes (and occasionally EE 16A). Come join! :')\n\nA little bit more about me: I'm a third year EECS major and I enjoy swimming, sunsets, and procrastinating more than I should. I apparently enjoy sad boi music, but also I don't listen to music much. I really enjoy Marvel movies and Game of Thrones, but I have yet to finish either of those (oop).",
         "imgUrl": "https://drive.google.com/open?id=1ZOmd3mHPJwnBKTUQWx5qE0dr_FRHY6Da"
@@ -828,7 +828,7 @@
         "name": "Jonathan Shi",
         "email": "jhshi@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor",
+            "eecs16a": "EECS 16A Senior Mentor",
             "cs61c": "CS 61C Junior Mentor"
         },
         "details": "Hello there! I'm a 3rd year EECS major from the Bay Area. I like programming languages where the compiler yells at you a lot. Outside CSM, I'm a Music Director and saxophonist for the Intermission Orchestra, and I spend an inordinate amount of my breaks watching anime.\nAlso, I run this website. This means I get to put <code>fancy formatted text</code> in my bio (as long as I remember to edit it in).",
@@ -838,7 +838,7 @@
         "name": "Katherine Shu",
         "email": "katherineshu@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor",
+            "eecs16a": "EECS 16A Senior Mentor",
             "cs70": "CS 70 Junior Mentor"
         },
         "details": "Hi, it\u2019s Kat! I\u2019m a second year EECS major from Arcadia, CA. In my spare time, love to travel, dance, and draw. My favorite food is strawberries and I don\u2019t listen to music (yes, I know it\u2019s weird). I\u2019m excited to meet everyone!",
@@ -848,7 +848,7 @@
         "name": "Rishi Veerapaneni",
         "email": "rishiv@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor"
+            "eecs16a": "EECS 16A Senior Mentor"
         },
         "details": "Rishi is a 4th year EECS & Applied Math student from Saratoga CA. When not playing card games, \u201csinging\u201d \u201csongs\u201d, making amazing puns, and saying \u201cGood Morning\u201d at all times of the day, Rishi enjoys studying for classes, coding for research, and attempting to teach students. Rishi would now like to thank the reader for reading his bio and he very much hopes to see them in discussion!",
         "imgUrl": "https://drive.google.com/open?id=1RBT58nlg2zMaDrMqoV9KzQp7MDFm5kUW"
@@ -857,7 +857,7 @@
         "name": "Zachary Golan-Strieb",
         "email": "zacharyjgs@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Senior Mentor"
+            "eecs16a": "EECS 16A Senior Mentor"
         },
         "details": "Hi! I'm Zack! I am currently majoring in CS and researching security for machine learning. I enjoy watching basketball (huge Warriors fan), hiking, listening to music (some of my favorite artists are Cage the Elephant and Tierra Whack), and eating way too much. My favorite instant ramen is Indomie, in case you want to get some for me *cough* *cough*. I am also a member of the EE 16A course staff, so feel free to ask me any questions about course operations. Peace!",
         "imgUrl": "https://drive.google.com/open?id=1tVTkCIpV6vIwOFwjZ0_9sNgYziTzGdGb"
@@ -866,8 +866,8 @@
         "name": "Taejin Hwang",
         "email": "taejin@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Mentor Mentor",
-            "ee16b": "EE 16B Coordinator"
+            "eecs16a": "EECS 16A Mentor Mentor",
+            "eecs16b": "EECS 16B Coordinator"
         },
         "details": "Hello! I\u2019m a fourth year Math and CS major from Arcadia, CA. When I\u2019m not CSMing or studying for midterms, I\u2019m usually watching Man U, playing video games (FE3H / XC2), or eating at Shooting Star Cafe. Feel free to talk to me about anything, or listen to me talk to you about how we\u2019re actually living in a Hilbert Space.",
         "imgUrl": "https://drive.google.com/open?id=1njiKJ4cGmpbmN9xFTMJ15LtXK4Hj1BJF"
@@ -876,7 +876,7 @@
         "name": "Alexander Feng",
         "email": "alexfeng2000@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "What's up party people! I'm a local from Oakland, CA. Outside of school, I love trying new foods and cracking jokes. If you see me around campus, come say hi!",
         "imgUrl": "https://drive.google.com/open?id=1r9IYOlDepyfMGpi5rjxqoN160XieMFvq"
@@ -885,7 +885,7 @@
         "name": "Atharva Patil",
         "email": "atharvapatil@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "second year eecs major. A few artists i listen to: Tyler the Creator, Brockhampton, A Boogie wit da Hoodie, Mac Miller, YBN, and more. Courses taken: CS61AB, EE16AB. I was involved in a consulting club last semester. I browse reddit, twitter and youtube if that gives any idea of my personality. \n\nThe reason I became a mentor is so I can explain concepts I originally struggled on to current students, in an effort to reduce the general confusion and lack of resources regarding EE concepts. In my opinion, the ee16 series is poorly taught starting from the lectures, where concepts are introduced in such a theoretical manner. Combined with the tedious and difficult homeworks, EE can quickly become a complex subject. Yet, with exams being mostly technical questions, ee16a just becomes a matter of solidifying concepts and applying them on the tests. I hope that with some guidance, students will not have much difficulty in the class. \n",
         "imgUrl": "https://drive.google.com/open?id=1cFZvB6JyYo2plp7ZHBqarBWcW74zTI_0"
@@ -894,7 +894,7 @@
         "name": "Catherine Bumagat",
         "email": "cjbumagat@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hi, my name is Catherine! I'm a second year EECS major from Carson, CA. I was born in the Philippines and moved to SoCal when I was 10. I enjoy watching animation, casually playing videogames, cooking, and sketching. I also like to listen to music, like Green Day, Eraserheads, and The Beatles. Feel free to reach out to me about anything!",
         "imgUrl": "https://drive.google.com/open?id=1vjRA08rriOyaleXKRvJSYjtQwg3PIYGz"
@@ -903,7 +903,7 @@
         "name": "Colton Nishida",
         "email": "coltonkai11@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hey everyone! I'm a sophomore studying EECS and in my free time I like to cook and play video games!",
         "imgUrl": "https://drive.google.com/open?id=1kVLitx2KlRh8Id4MRvNdTt8R2qPq_znk"
@@ -912,7 +912,7 @@
         "name": "Cooper Bedin",
         "email": "cooper.bedin@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hello! My name is Cooper Bedin (he/they pron'ns) and I'm a sophomore studying linguistics and computer science. Outside of CSM I'm a member of the Society of Linguistics Undergraduate Students (SLUgS) and a technician for BareStage, the campus' oldest and largest student-run theater company! Beyond that nonsense I also love to knit, read (I'm on a bit of a Steven King kick right now) and run at RSF.",
         "imgUrl": "https://drive.google.com/open?id=1IbcOEGge7ESre2uSj2F9_AuoU6pXsBjW"
@@ -921,7 +921,7 @@
         "name": "Dylan Brater",
         "email": "dylanbrater326@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hi! I am a second year EECS major from San Diego, California. My hobbies include listening to music, playing video-games, watching TV shows, and working out. My favorite artists are Logic, Y2k, 21 Pilots, Alan Walker, and Green Day. I tend to spend any time I have away from studying hanging out with my friends. My favorite restaurants in Berkeley would have to be Artichoke Basille's Pizza, or Thai Basil. ",
         "imgUrl": "https://drive.google.com/open?id=1ONh8s9I2Q76RMrkzkkRMvE0THODEZuAL"
@@ -930,7 +930,7 @@
         "name": "Francesca Song",
         "email": "francesca.song@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hi! I'm a second year EECS major/Music minor from Pasadena, CA. I spend my free time dancing, mixing music, and checking out new coffee shops! I really appreciated the support I received from CSM during the past semesters and after being an Academic Intern for 61a last semester, I'm excited to be a tutor for 16a! Please feel free to start a conversation and ask me anything! ",
         "imgUrl": "https://drive.google.com/open?id=1vRdCNH_m3OBscOceyMm28WODiFihxcaw"
@@ -939,7 +939,7 @@
         "name": "James Zhu",
         "email": "jameszhu@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hello there! I'm an EECS senior, git guru, caffeine connoisseur, and (metaphorical) firefighter. I've led development on hkn.eecs.berkeley.edu and competed in FIRST Robotics. Come and we'll chat about live production database fixes, my secret hobbies and graveyard of projects, the fate of the universe, and maybe even 16A.",
         "imgUrl": "https://drive.google.com/open?id=1Ki0QtbfJetF8A3p4IbvwXupL4-ABrPts"
@@ -948,7 +948,7 @@
         "name": "Krishna Ravi",
         "email": "krishnaravi@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hey y'all! My name is Krishna and I am a second year EECS major from Irvine, California. In my free time I enjoy making music, watching Netfilx and going to the beach with my friends. My top three artists would definitely be A Boogie wit da Hoodie, Daniel Cesar, and Alan Walker. On a typical weekend you will most likely catch me listening to lo fi hip hop while studying or chillin with my friends. My favorite restaurant on campus is La Burrita because it never disappoints (just like me). I am also a part of the UC Men's Octet. You can find me singing at sather gate every Wednesday at 1pm ! I look forward to meeting all of you and hope you enjoy 16A as much as I did. ",
         "imgUrl": "https://drive.google.com/open?id=1AU042HddQ0CfYIs7EiPUO_CMZqaO5sOW"
@@ -957,7 +957,7 @@
         "name": "Mohsin Sarwari",
         "email": "mohsin.sarwari@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hi! I'm a second year intended CS and Stats Major. I love playing squash (the sport, not the vegetable). I am skilled at ruining family photos and dropping contact lenses. I am passionate about teaching and keen on getting better. ",
         "imgUrl": "https://drive.google.com/open?id=1PyzYYCetYbDT5HmyjzLhK58Vh7aK5Ve_"
@@ -966,8 +966,8 @@
         "name": "Moses Won",
         "email": "moseswon@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor",
-            "ee16b": "EE 16B Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor",
+            "eecs16b": "EECS 16B Junior Mentor"
         },
         "details": "Hello! I'm a senior interested in learning and teaching. My other interests include modeling physical and information systems, and control theory. I read (wikipedia, fanfiction), do graphic design, cook, and design jewelry when I can. My favorite pianists are Aivi Tran and Ryuichi Sakamoto, and I am in love with anything heavily spiced. (Not like the capsaicin sort of spicy.) I'm looking forward to meeting you!",
         "imgUrl": "https://drive.google.com/open?id=1xzYhIK5YNlC31EGzDjI9THL3BF-1NEJA"
@@ -976,7 +976,7 @@
         "name": "Pranshu Bansal",
         "email": "pranshu@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "I am an EECS sophomore. I hate boba and I am not afraid to say it. I love 16A and that will probably annoy you. But I might just make it a little better for you.",
         "imgUrl": "https://drive.google.com/open?id=13LJUq10FmPewqRbUmWDthgibeKqCeO9U"
@@ -985,7 +985,7 @@
         "name": "Rahul Gupta",
         "email": "rahul.gupta2020@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hi there! I'm rising senior studying EECS and am broadly interested in making systems secure. I was part of a rather large group that broke a Guinness World Record in Fall '17 :) Hiking and public transportation are pretty cool",
         "imgUrl": "https://drive.google.com/open?id=1VZb8jszqCOzjh0huKA8CpSvzlkiVAnO9"
@@ -994,7 +994,7 @@
         "name": "Risheek Pingili",
         "email": "risheekp@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor"
+            "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "2nd Year BioE + EECS (Pre Med??)\nCentral Valley Boy\nDog owner\nLike the pixels or the hat?\nML is overrated, and coding is hard :(\nHope we can turn the section into a \"that was easy button\" \nAsk me about Nier Automata, Smash, Hozier, From the New World, or Burn Notice",
         "imgUrl": "https://drive.google.com/open?id=1Rr5wwNKsNBOBpouVGeTWb8p2RSXe6iMa"
@@ -1003,7 +1003,7 @@
         "name": "Sunay Poole",
         "email": "sunaypoole@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Junior Mentor",
+            "eecs16a": "EECS 16A Junior Mentor",
             "cs61c": "CS 61C Junior Mentor"
         },
         "details": "Hello! I'm a second year CS major from the greater Los Angeles area who likes running, Rubik's cubes, and making dad jokes. So far, I've loved every EECS class I've taken at Berkeley, and I'm super excited to give back as a part of CSM! ",
@@ -1013,7 +1013,7 @@
         "name": "Sam Cui",
         "email": "samuelxcui@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Associate Mentor",
+            "eecs16a": "EECS 16A Associate Mentor",
             "cs70": "CS 70 Associate Mentor"
         },
         "details": "What's poppin' everyone! I'm Sam, a third year EECS major! I'm interested in quantum computing, and also finished the Fenton's Challenge in 5.5 minutes last year! I enjoy lots of different music (I'm in an acappella group here at Cal!), physics, and consume various amounts of anime depending on the season. Come join my section and I'd be happy to share my love of anime and physics with you too!",
@@ -1023,7 +1023,7 @@
         "name": "Rahul Jain",
         "email": "rahulj2409@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Associate Mentor"
+            "eecs16a": "EECS 16A Associate Mentor"
         },
         "details": "Hey! I am a junior studying Computer Science and Applied Mathematics. I am from the Los Angeles area of Southern California. I am a huge Lakers fan as well as a Packers fan!! You will often see me watching highlights from Bleacher Report or keeping up with my fantasy football team. I love rap music and I am a huge comic book nerd! #Marvel and #kungfukenny. My favorite restaurant in Berkeley is probably Toss! HMU if you want to grab food w me or talk about life w me! I took EE16A in Fall 2017 and I really enjoyed the mathematical modeling that was employed in this course. I hope you enjoy it as well!",
         "imgUrl": "https://drive.google.com/open?id=1jRC7gbVF2gJWI1pEIeN5KpxUj9EkLwMR"
@@ -1032,7 +1032,7 @@
         "name": "Rahul Hayaran",
         "email": "rahul.hayaran@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Associate Mentor",
+            "eecs16a": "EECS 16A Associate Mentor",
             "cs61b": "CS 61B Junior Mentor"
         },
         "details": "Howdy! My name is Rahul, I'm a sophomore studying EECS+Business from Plano (near Dallas), TX. This is my second semester as a CSM nentor, and my number one priority is making the course as exciting for you as it was for me! I'm a huge soccer fan (Heja BVB!), avid chai-drinker, and longtime origami practitioner.",
@@ -1042,7 +1042,7 @@
         "name": "Celine Spathias",
         "email": "celinespathias@berkeley.edu",
         "courses": {
-            "ee16a": "EE 16A Associate Mentor"
+            "eecs16a": "EECS 16A Associate Mentor"
         },
         "details": "Hi, I'm a senior at Cal.  I transferred from a Community College in Southern California.  I interned at 23andMe over the summer.  I enjoy traveling and snowboarding.  If you have any questions feel free to reach out!",
         "imgUrl": "https://drive.google.com/open?id=1svzS2gAiOFx-feifPuDEHYRh9xpe4WVC"
@@ -1856,7 +1856,7 @@
         "email": "parthpatel20010@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Junior Mentor",
-            "ee16b": "EE 16B Junior Mentor"
+            "eecs16b": "EECS 16B Junior Mentor"
         },
         "details": "I'm currently a sophomore studying CS! One of my hobbies is making my own mobile apps when I'm not working on coursework. I am constantly searching for new things to build that could help solve problems on campus and beyond. Additionally, I enjoy traveling and try to travel to a new country every year. Last summer I visited Chongqing, China and had a blast! I am a big fan of caffeinated drinks(especially tea and coffee) and love trying out new cafes and PMT shops around Berkeley.  ",
         "imgUrl": "https://drive.google.com/open?id=1T1TBp13WYxKw9i4BxTJm4ncC48Y8rshA"
@@ -2413,14 +2413,14 @@
         "name": "Ramsey Mardini",
         "email": "ramseymardini@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Coordinator"
+            "eecs16b": "EECS 16B Coordinator"
         }
     },
     {
         "name": "Akash Velu",
         "email": "akashvelu@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Senior Mentor"
+            "eecs16b": "EECS 16B Senior Mentor"
         },
         "details": "Hi! I\u2019m a 3rd year EECS student from SoCal. In my free time, I love playing and watching pretty much all sports, playing the piano, and hanging out with friends. Feel free to come talk to me about pretty much anything. Looking forward to a fun semester!",
         "imgUrl": "https://drive.google.com/open?id=18saxYHzY6CPdHglOOm-ePNTXYFw7jbl-"
@@ -2429,7 +2429,7 @@
         "name": "Justin Yu",
         "email": "justinvyu@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Senior Mentor"
+            "eecs16b": "EECS 16B Senior Mentor"
         },
         "details": "Hi, my name is Justin, and I'm excited to be an SM for EE16B this semester! Outside of CSM, I enjoy doing robotics research and getting Asha tea. Come join my section and give me music recommendations. :)",
         "imgUrl": "https://drive.google.com/open?id=1tDH7ZREsBlKSt03oilU-qlVnfGGyNDbs"
@@ -2438,7 +2438,7 @@
         "name": "Ryan Koh",
         "email": "ryan_koh@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Senior Mentor"
+            "eecs16b": "EECS 16B Senior Mentor"
         },
         "details": "Hey what\u2019s up? I\u2019m a second year majoring in Computer Science, and this is my second semester in CSM. In my free time, I like playing Smash and TFT :D. Let\u2019s have a great semester!",
         "imgUrl": "https://drive.google.com/open?id=1cDF3RSw0wCzBs0NxoxfCtLdq1CeSoHbq"
@@ -2447,7 +2447,7 @@
         "name": "Naomi Sagan",
         "email": "naomi.sagan@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Senior Mentor"
+            "eecs16b": "EECS 16B Senior Mentor"
         },
         "details": "Hi, I'm Naomi! I'm a second-year EECS major from the East Bay, and I'm really excited to be a part of the first offering of EE 16B CSM. In my spare time, I like to hang out with friends, read, watch television (currently working my way through Brooklyn 99!), and (occasionally) run. I'm also a big cat person, and I have 3 cats at home.",
         "imgUrl": "https://drive.google.com/open?id=1mN0FrA5tKGeBbUgjzH55TByZlSEqMS27"
@@ -2456,7 +2456,7 @@
         "name": "Shreyas Krishnaswamy",
         "email": "shrekris@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Senior Mentor"
+            "eecs16b": "EECS 16B Senior Mentor"
         },
         "details": "Hi everyone! My name is Shreyas, and I'm a sophomore from the Bay Area. I enjoy exploring the wilderness, skipping lecture, and then regretting that I skipped lecture. I also like watching Netflix with my friends and playing video games (trying to finish Fire Emblem: Shadow Dragon right now :). Good luck, and let's have an awesome semester! My pronouns are he/him.",
         "imgUrl": "https://drive.google.com/open?id=14HNxmQs322ic0oW5AmhC5eCM-cgnWfFB"
@@ -2465,7 +2465,7 @@
         "name": "Son Tran",
         "email": "sontran@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Senior Mentor"
+            "eecs16b": "EECS 16B Senior Mentor"
         },
         "details": "Hello! I'm Son, a senior EECS major who is excited to be teaching again! Things I enjoy include: trying new foods, taking nice hikes, reading books, and sleeping. Please feel free to introduce yourself and ask me anything!",
         "imgUrl": "https://drive.google.com/open?id=19m-bEnHsCsmeNGyLwfnvBUZHPNDPXhvf"
@@ -2474,7 +2474,7 @@
         "name": "Maxwell Chen",
         "email": "maxhchen@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Content Mentor"
+            "eecs16b": "EECS 16B Content Mentor"
         },
         "details": "Hey! I'm Maxwell and I'm a second-year CS major from San Jose, CA. Outside of CS, I'm into all things related to neuroscience, cognition, and the brain. In my spare time, I love hiking, playing board games, and discovering indie or alternative music. Wishing y'all a great semester :)",
         "imgUrl": "https://drive.google.com/open?id=1W_XJeOjxolGhcMhDUgbQsad77yCJXV73"
@@ -2483,7 +2483,7 @@
         "name": "Kevin Zhu",
         "email": "kevonz31@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Junior Mentor"
+            "eecs16b": "EECS 16B Junior Mentor"
         },
         "details": "Hello!  I am a second year CS major from Pleasanton, Ca. In my free time, I enjoy watching and playing basketball and eating different foods in Berkeley. Also, I am a member of Pioneers in Engineering (PiE), which is a STEM outreach club that hosts robotics competitions for local high schools. If you are looking for a club, I'd highly recommend joining PiE. ",
         "imgUrl": "https://drive.google.com/open?id=12g44lcRTp55a6IOh7sj0UGHqefrWcRFT"
@@ -2492,7 +2492,7 @@
         "name": "Marie Barr-Ramsey",
         "email": "mariebarr@berkeley.edu",
         "courses": {
-            "ee16b": "EE 16B Junior Mentor"
+            "eecs16b": "EECS 16B Junior Mentor"
         },
         "details": "Welcome to EE 16B! I'm a senior EECS transfer from Fresno, CA. I took a circuitous route to get here, but through lots of resistance and a series of fortunate events here I am! Currently a big fan of Lover (I love high tea, stories from uni...) <3. Some things I can be observed doing: swing dancing, playing guitar, or going through a Netflix binge phase. 16B can get pretty complex, but we won't let it get out of control. I'm excited for this semester :)",
         "imgUrl": "https://drive.google.com/open?id=1YWl7nLAp9YIy0wD6rvsJebZNsweLWIWv"

@@ -7,7 +7,7 @@ import json
 import os
 
 
-CLASSES = ("cs61a", "ee16a", "cs61b", "cs70", "cs61c", "cs88", "ee16b", "exec")
+CLASSES = ("cs61a", "eecs16a", "cs61b", "cs70", "cs61c", "cs88", "eecs16b", "exec")
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_FOLDER = "./csvs/roster/"
@@ -29,7 +29,7 @@ for course in CLASSES:
         for row in reader:
             name = row[0]
             email = row[1]
-            role = row[2]
+            role = row[2].replace("EE", "EECS")
             email_no_dot = email.replace(".", "")
             if course == "exec":
                 # We'll assume nobody is in multiple exec roles
