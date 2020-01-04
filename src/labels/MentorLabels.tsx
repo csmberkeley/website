@@ -35,7 +35,7 @@ export const SECTIONS = {
             <span>
                 <p className="info">
                     We are currently recruiting mentors for{" "}
-                    {COURSE_STRING_WITH_AND} (newly added!).
+                    {COURSE_STRING_WITH_AND}.
                     <br />
                     The{" "}
                     <Link to="/apply">

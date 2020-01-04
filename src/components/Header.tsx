@@ -55,6 +55,7 @@ export default class Header extends React.Component {
                         <Link to="/" className="brand-logo">
                             CSM
                         </Link>
+                        {/* eslint-disable-next-line */}
                         <a
                             href="#"
                             data-target="mobile-demo"

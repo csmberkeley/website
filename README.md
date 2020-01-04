@@ -53,6 +53,9 @@ following naming conventions if possible:
 - For sections with subheadings accompanied by a body, headings/subheadings should be `LABEL` and the body should be named `BODY`
 - Any component that includes JSX should have `_JSX` appended to the name, e.g. body text containing a `<p>` tag should be named `BODY_JSX`
 
+### Updating Application Dates/URL
+Edit the URL found in `data/urls.json` to point to the new Google Form. Also edit the timestamps in `data/dates.json` to the new dates (make sure they're in UTC).
+
 ### Updating Bios and Images
 #### Mentors
 Create a folder called `csvs`, which will be ignored by git. Download the bio spreadsheet into csv/bios.csv, and the rosters into `csvs/roster/[course].csv`. Running `scripts/generate_bios_json.py` should write JSON blobs into `src/data/bios/mentors.json`. The script should also specify the expected CSV schemas, which hopefully don't change between semesters.

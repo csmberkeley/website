@@ -14,7 +14,12 @@ class ExternalRedirect extends React.Component <{ path: string; target: string }
         return (
             <Route path={ this.props.path } component={() => {
                 window.location.href = this.props.target;
-                return null;
+                return (
+                    <p>
+                        Redirecting you to {" "}
+                        <a href={this.props.target}>{this.props.target}</a>
+                    </p>
+                );
             }} />
         );
     }
