@@ -1,6 +1,6 @@
 @import "theme";
 
-$background-image-url: "../img/fa17.jpg";
+$background-image-url: url("../img/fa17.jpg");
 
 .cover-container {
     height: auto;
@@ -107,7 +107,7 @@ $background-image-url: "../img/fa17.jpg";
 .cover-img {
     z-index: 2;
     position: absolute;
-    background: url($background-image-url) no-repeat center center;
+    background: $background-image-url no-repeat center center;
     top: 0;
     height: 100%;
     width: 100%;
