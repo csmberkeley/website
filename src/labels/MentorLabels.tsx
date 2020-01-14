@@ -50,6 +50,8 @@ export const SECTIONS = {
                         month: "long",
                         hour: "numeric",
                         minute: "2-digit",
+                        timeZone: "America/Los_Angeles",
+                        timeZoneName: "short",
                     })}
                     . More information is in the application, and no late
                     applications will be accepted.
