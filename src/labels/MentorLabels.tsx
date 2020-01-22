@@ -26,6 +26,43 @@ export const SECTIONS = {
                     <b>Senior Mentors</b> run these meetings, going over
                     guidance on the week’s material, teaching tips, etc.
                 </p>
+                <span>
+                    <p className="info">
+                        You can read more about the responsibilities for each
+                        mentor position here:
+                    </p>
+                    <ul className="link-list">
+                        {" "}
+                        {/* TODO fix sass imports */}
+                        <li style={{ listStyleType: "circle" }}>
+                            <a
+                                href="https://docs.google.com/document/d/1BydWEl-BMCxYuy2u7W5ObFhe-n4Kb41BzsBknH0BkbA/edit"
+                                rel="noopener noreferrer"
+                                target="_blank"
+                            >
+                                Junior Mentor
+                            </a>
+                        </li>
+                        <li style={{ listStyleType: "circle" }}>
+                            <a
+                                href="https://docs.google.com/document/d/1agPwxUWVr_3J1Nb-PhkvOc9254xywKrhb13p1Cpfh_M/edit"
+                                rel="noopener noreferrer"
+                                target="_blank"
+                            >
+                                Associate Mentor
+                            </a>
+                        </li>
+                        <li style={{ listStyleType: "circle" }}>
+                            <a
+                                href="https://docs.google.com/document/d/16fsK37U0wiXmW_9J-qM6MhCczcxL11ObGYCU7qnlHM0/edit"
+                                rel="noopener noreferrer"
+                                target="_blank"
+                            >
+                                Senior Mentor
+                            </a>
+                        </li>
+                    </ul>
+                </span>
             </span>
         ),
     },
