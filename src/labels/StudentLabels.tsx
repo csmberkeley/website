@@ -32,7 +32,7 @@ export const SECTIONS = {
                 <p className="info">
                     More in-depth{" "}
                     <a
-                        href="https://docs.google.com/document/d/1gJpIJ5LhrRkR7aazMVRrklaXshAvx7IdfMSUQ-ig1yw/"
+                        href="https://docs.google.com/document/d/1fmzgepezzdEzfi97u_jEw3OS88gsKDh7AjpuB4pnuLA/edit"
                         rel="noopener noreferrer"
                         target="_blank"
                     >
