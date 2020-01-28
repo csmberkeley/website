@@ -8,9 +8,6 @@ import * as Labels from "../labels/HomeLabels";
 import courses from "../data/courses.json";
 import stats from "../data/stats.json";
 
-import goldmanLogo from "../img/sponsors/goldman-sachs.png";
-import mckinseyLogo from "../img/sponsors/mckinsey.png";
-
 // Describes a word that gets loaded in by fade
 interface LoadingWord {
     text: string;
@@ -266,7 +263,7 @@ class Home extends React.Component<{}, AnimationState> {
                         </div>
                         <br />
                         <div className="row center">
-                            <div className="col m6 s10 offset-s1">
+                            <div className="col m4 s10 offset-s1">
                                 <h5>{Labels.QUICK_LINKS.JOIN_SECTION.LABEL}</h5>
                                 <Link
                                     to="/students"
@@ -275,7 +272,7 @@ class Home extends React.Component<{}, AnimationState> {
                                     {Labels.QUICK_LINKS.JOIN_SECTION.BUTTON}
                                 </Link>
                             </div>
-                            <div className="col m6 s10 offset-s1">
+                            <div className="col m4 s10 offset-s1">
                                 <h5>
                                     {Labels.QUICK_LINKS.BECOME_MENTOR.LABEL}
                                 </h5>
@@ -286,45 +283,23 @@ class Home extends React.Component<{}, AnimationState> {
                                     {Labels.QUICK_LINKS.BECOME_MENTOR.BUTTON}
                                 </Link>
                             </div>
-                        </div>
-                        {/* sponsors */}
-                        <div className="section">
-                            <h5 className="label">
-                                {Labels.PARTNER_SUBHEADING}
-                            </h5>
-                            <div className="row">
-                                <div className="col m3 s10 valign offset-s1">
-                                    <img
-                                        src={goldmanLogo}
-                                        className="responsive-img"
-                                        alt="Goldman Sachs"
-                                    />
-                                </div>
-                                <div className="col m3 s10 valign offset-s1">
-                                    <img
-                                        src={mckinseyLogo}
-                                        className="responsive-img"
-                                        alt="McKinsey&amp;Company"
-                                    />
-                                </div>
-                                <div className="col m6 s10 valign offset-s1 center">
-                                    <h5>
-                                        {
-                                            Labels.QUICK_LINKS.BECOME_PARTNER
-                                                .LABEL
-                                        }
-                                    </h5>
-                                    <Link
-                                        to="/partners"
-                                        className="waves-effect waves-light green lighten-1 btn"
-                                    >
-                                        {
-                                            Labels.QUICK_LINKS.BECOME_PARTNER
-                                                .BUTTON
-                                        }
-                                    </Link>
-                                    <br />
-                                </div>
+                            <div className="col m4 s10 valign offset-s1 center">
+                                <h5>
+                                    {
+                                        Labels.QUICK_LINKS.BECOME_PARTNER
+                                            .LABEL
+                                    }
+                                </h5>
+                                <Link
+                                    to="/partners"
+                                    className="waves-effect waves-light green lighten-1 btn"
+                                >
+                                    {
+                                        Labels.QUICK_LINKS.BECOME_PARTNER
+                                            .BUTTON
+                                    }
+                                </Link>
+                                <br />
                             </div>
                         </div>
                         {/* fb page link */}
