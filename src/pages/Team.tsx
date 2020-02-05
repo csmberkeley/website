@@ -9,12 +9,13 @@ import sp18 from "../data/team/sp18.json";
 import fa18 from "../data/team/fa18.json";
 import sp19 from "../data/team/sp19.json";
 import fa19 from "../data/team/fa19.json";
+import sp20 from "../data/team/sp20.json";
 
 import { duties } from "../labels/TeamLabels";
 import * as utils from "./utils";
 
-const CURRENT_SEM = "fa19";
-const SEMESTERS = ["fa17", "sp18", "fa18", "sp19", "fa19"];
+const CURRENT_SEM = "sp20";
+const SEMESTERS = ["fa17", "sp18", "fa18", "sp19", "fa19", "sp20"];
 
 interface NewOfficer {
     kind: "new";
@@ -50,6 +51,8 @@ function getOfficerTeamFromSemStr(semester: string): Officer[] {
             return sp19.map(oldDiscriminator);
         case "fa19":
             return fa19.map(newDiscriminator);
+        case "sp20":
+            return sp20.map(newDiscriminator);
         default:
             throw new Error(`Bad semester provided: ${semester}`);
     }

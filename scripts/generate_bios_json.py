@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
+
 """
-Generates JSON blobs of bios from a CSV file.
+Generates JSON blobs of bios. Takes in a CSV containing email | name | photo_url | bio, and a CSV
+for every course (including exec) containing name | email | row.
 """
 
 import csv
@@ -13,9 +16,10 @@ BIOS_PATH = "./csvs/bios.csv"
 ROSTER_FOLDER = "./csvs/roster/"
 DEST_PATH = "./src/data/bios/mentors.json"
 
+SEMESTER = "sp20"
+
 # Start by keying on email without periods so we can find duplicates easily
 people_by_email = {}
-SEMESTER = "fa19"
 exec_bios = {} # Written into src/data/bios/exec.json
 exec_roles = {} # Written into src/data/team/[SEMESTER].json
 
@@ -29,7 +33,7 @@ for course in CLASSES:
         for row in reader:
             name = row[0]
             email = row[1]
-            role = row[2].replace("EE", "EECS")
+            role = row[2]
             email_no_dot = email.replace(".", "")
             if course == "exec":
                 # We'll assume nobody is in multiple exec roles
@@ -57,13 +61,13 @@ with open(BIOS_PATH, "r") as bios:
     reader = csv.reader(bios)
     # Skip header
     next(reader)
-    # Columns are: timestamp | email | name | photo URL | bio | resume
+    # Columns are: email | name | photo URL | bio | resume
     for row in reader:
-        email = row[1]
+        email = row[0]
         email_no_dot = email.replace(".", "")
-        name = row[2]
-        photo_url = row[3]
-        bio = row[4]
+        name = row[1]
+        photo_url = row[2]
+        bio = row[3]
         if email_no_dot in exec_roles:
             role_obj = exec_roles[email_no_dot]
             role_obj["imgUrl"] = photo_url

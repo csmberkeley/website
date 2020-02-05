@@ -61,11 +61,7 @@ Edit the URL found in `data/urls.json` to point to the new Google Form. Also edi
 Create a folder called `csvs`, which will be ignored by git. Download the bio spreadsheet into csv/bios.csv, and the rosters into `csvs/roster/[course].csv`. Running `scripts/generate_bios_json.py` should write JSON blobs into `src/data/bios/mentors.json`. The script should also specify the expected CSV schemas, which hopefully don't change between semesters.
 
 #### Exec
-To add more exec members, create an appropriately named JSON file under `src/data/team` (see the examples in that folder). Its contents should be a list of JSON objects, each with `name`, `img` (the name of the image file under `public/img/team`), and `position` string properties. This interface is declared in `src/pages/Team.tsx`.
-
-To add the images for exec, just add the appropriate image in `public/img/team`. Try to follow the naming scheme of `firstname-lastname-semester.extension`, if possible.
-
-Once bios are in, you'll need to manually filter exec bios and generate `src/data/bios/exec.json`.
+The `generate_bios_json.py` script should generate an appropriate JSON file for exec as well. Images for exec members from sp19 and earlier are served locally, while those from newer semesters are served form Google Drive like any other mentor (hopefully we can migrate to something more reliable like S3 in the future). To add a new semester's exec team, import the generated JSON file in `Team.tsx`, modify the `CURRENT_SEM` and `SEMESTERS` variables, and add a case for it in the `switch` block in `getOfficerTeamFromSemStr`.
 
 ## Credits
 This site uses the [Materialize](https://materializecss.com/) design kit.
