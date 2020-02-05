@@ -1,47 +1,15 @@
 [
     {
-        "name": "Albert Tang",
-        "role": "EECS 16A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=19iHVEv5zvPbmvFV21bJw8uyCjwEv_Ru5",
-        "details": "Hi! I'm a third year EECS major, but I started out as a Bioengineer. I enjoy hiking, sunsets, and good times. If you want to sit down and chat, just hit me up  :)"
+        "name": "Michelle Mao",
+        "role": "President",
+        "imgUrl": "https://drive.google.com/open?id=1usKLQuYI6lu50Z-_MiQ1lnG8niiHsY1_",
+        "details": "Hi I'm a junior from Shanghai who isn't an international student because I was born in Michigan but will still tell you I'm Chinese. I've been in CSM since my second semester and truly believe it will reshape EECS education at Cal. I especially believe in its power to change student perceptions of EE courses. When I'm not CSM-ing, you can find me bouldering, biking around the area, or building apps."
     },
     {
-        "name": "Alex Kassil",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
-        "name": "Alex Stennet",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
-        "name": "Anirvin Sikha",
-        "role": "CS 61B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1_R42hfn3OZpOvWlYUZF_0tfqswQ0VTKs",
-        "details": "Hey guys, I'm a 4th year CS major. This is my second time being a 61B coord. I love to play video games, sleep, and prank multi-level marketing schemers. Hit me up if you want some good stories.                     "
-    },
-    {
-        "name": "Avinash Nandakumar",
-        "role": "CS 61C Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Catherine Cang",
-        "role": "Advisor",
-        "imgUrl": "https://drive.google.com/open?id=1NaW1Zs7LDle54g4WafK8Z0wrdWPU-C-h",
-        "details": "Hi I'm Catherine! I like cats and teaching"
-    },
-    {
-        "name": "Beom Jin Lee",
-        "role": "CS 70 Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Daniel Li",
-        "role": "CS 61C Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1ww9f6zj2IkQycSVoGUY4oPIcgaUP2LQ4",
-        "details": "I'm a 4th year EECS major from Orange County in Southern California and I love the Lakers!!!! I've been in CSM 6 semesters now and I love teaching students and hope they have as great an experience as I did learning from mentors!"
+        "name": "Richard Roggenkemper",
+        "role": "Internal Vice President",
+        "imgUrl": "https://drive.google.com/open?id=13oOy3ugIKfuHPHadX9upnzd1jB6YSKkc",
+        "details": "Hi! My name is Richard. I'm a second year student from Los Gatos, California. I\u2019m a Computer Science/Data Science major also hoping to major in Business. I love skiing, cooking, and anything related to food. I'm excited to be Internal Vice President and a CS 61a Senior Mentor this semester!"
     },
     {
         "name": "Danny Chu",
@@ -50,10 +18,22 @@
         "details": "Hey y'all! I've been in CSM for a couple of semesters. I'm not a mentor but I'm down to hang with ya."
     },
     {
-        "name": "Darren Huang",
-        "role": "CS 61B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1YC9qaHHISQS1btSWam6aoizFpWm5HoeX",
-        "details": "Hi I'm a 2nd semester senior and a co-coordinator for 61b! This will be my 5th semester in CSM and I'm super excited to be working with such amazing people. In my free time I like petting dogs, being late to class, playing the switch, and taking long naps."
+        "name": "Taejin Hwang",
+        "role": "Communications",
+        "imgUrl": "https://drive.google.com/open?id=1LWq0PFllMQHzPjUjyvTKl8e_K1SE8BgD",
+        "details": "Fourth year Math/CS major from Arcadia, CA. I used to mentor for 16A and 16B but am now retired and have moved on to Communications.\n\nWhen I\u2019m not CSMing, I'm usually watching the Lakers, playing video games (FE3H / XC2), or eating at Shooting Star Cafe. Feel free to talk to me about anything!"
+    },
+    {
+        "name": "Katherine Liu",
+        "role": "Socials Chair",
+        "imgUrl": "https://drive.google.com/open?id=1c9P2Vma4NiieVTKXnjz44IiKvsoQCxP5",
+        "details": "Hello! I'm a 4th-year CS major and my pronouns are she/her. Along with good stories, I love poetry, sunshine, green tea, and cats."
+    },
+    {
+        "name": "Kevin Svetlitski",
+        "role": "Tech Chair",
+        "imgUrl": "https://drive.google.com/open?id=1znUQV41YJjOOnwlE1razNhwFDDAArkik",
+        "details": "Hello! I'm Kevin and some things I enjoy are reading science fiction, those new futuristic BART cars, tea, and a fast wired (i.e. Ethernet) internet connection. Academically I am interested in systems as a whole, particularly networking, and am excited to be a TA for CS 168 this semester."
     },
     {
         "name": "Jade Singh",
@@ -68,51 +48,37 @@
         "details": "Hiya, my name is Jason! I'm a third-year majoring in Computer Science and Applied Math, and this is my 4th semester with CSM. When I'm not studying, I really enjoy cooking, listening to Korean music I can only half-understand, and daydreaming about the useless things on my Amazon wishlist."
     },
     {
-        "name": "Katherine Liu",
-        "role": "Socials Chair",
-        "imgUrl": "https://drive.google.com/open?id=1c9P2Vma4NiieVTKXnjz44IiKvsoQCxP5",
-        "details": "Hello! I'm a 4th-year CS major and my pronouns are she/her. Along with good stories, I love poetry, sunshine, green tea, and cats."
+        "name": "Anirvin Sikha",
+        "role": "CS 61B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1_R42hfn3OZpOvWlYUZF_0tfqswQ0VTKs",
+        "details": "Hey guys, I'm a 4th year CS major. This is my second time being a 61B coord. I love to play video games, sleep, and prank multi-level marketing schemers. Hit me up if you want some good stories.                     "
     },
     {
-        "name": "Katherine Shu",
-        "role": "EECS 16A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=11DX37dy0IE1DKmtXKquGNVtUKvkPwNhW",
-        "details": "Hi! I\u2019m a second year EECS Major from around LA. I enjoy traveling, dancing, and drawing. Against popular belief, I don\u2019t like chocolate and I drink boba with no sugar and no ice. I hope you all have an amazing semester!! :)"
+        "name": "Darren Huang",
+        "role": "CS 61B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1YC9qaHHISQS1btSWam6aoizFpWm5HoeX",
+        "details": "Hi I'm a 2nd semester senior and a co-coordinator for 61b! This will be my 5th semester in CSM and I'm super excited to be working with such amazing people. In my free time I like petting dogs, being late to class, playing the switch, and taking long naps."
     },
     {
-        "name": "Kevin Svetlitski",
-        "role": "Tech Chair",
-        "imgUrl": "https://drive.google.com/open?id=1znUQV41YJjOOnwlE1razNhwFDDAArkik",
-        "details": "Hello! I'm Kevin and some things I enjoy are reading science fiction, those new futuristic BART cars, tea, and a fast wired (i.e. Ethernet) internet connection. Academically I am interested in systems as a whole, particularly networking, and am excited to be a TA for CS 168 this semester."
+        "name": "Avinash Nandakumar",
+        "role": "CS 61C Coordinator",
+        "imgUrl": ""
     },
     {
-        "name": "Michelle Mao",
-        "role": "President",
-        "imgUrl": "https://drive.google.com/open?id=1usKLQuYI6lu50Z-_MiQ1lnG8niiHsY1_",
-        "details": "Hi I'm a junior from Shanghai who isn't an international student because I was born in Michigan but will still tell you I'm Chinese. I've been in CSM since my second semester and truly believe it will reshape EECS education at Cal. I especially believe in its power to change student perceptions of EE courses. When I'm not CSM-ing, you can find me bouldering, biking around the area, or building apps."
+        "name": "Daniel Li",
+        "role": "CS 61C Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1ww9f6zj2IkQycSVoGUY4oPIcgaUP2LQ4",
+        "details": "I'm a 4th year EECS major from Orange County in Southern California and I love the Lakers!!!! I've been in CSM 6 semesters now and I love teaching students and hope they have as great an experience as I did learning from mentors!"
+    },
+    {
+        "name": "Beom Jin Lee",
+        "role": "CS 70 Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Nagaganesh Jaladanki",
         "role": "CS 70 Coordinator",
         "imgUrl": ""
-    },
-    {
-        "name": "Naomi Sagan",
-        "role": "EECS 16B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1YITw2kYy_mY4iy8sUAEKUTo5YWU-gTo5",
-        "details": "Hi! I'm Naomi, and I'm excited to be one of your 16B coordinators this semester. I'm a sophomore, and this is my third semester in CSM. In my spare time, I enjoy hanging out with friends, dancing, reading, and playing flute."
-    },
-    {
-        "name": "Richard Roggenkemper",
-        "role": "Internal Vice President",
-        "imgUrl": "https://drive.google.com/open?id=13oOy3ugIKfuHPHadX9upnzd1jB6YSKkc",
-        "details": "Hi! My name is Richard. I'm a second year student from Los Gatos, California. I\u2019m a Computer Science/Data Science major also hoping to major in Business. I love skiing, cooking, and anything related to food. I'm excited to be Internal Vice President and a CS 61a Senior Mentor this semester!"
-    },
-    {
-        "name": "Kai Pin Ryan Koh",
-        "role": "EECS 16B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1dP700LEVI6WyFRZLnM6FKP1fO_5Q4iEd",
-        "details": "Hi! I\u2019m one of the Coordinators for EECS16B this semester! In my free time, I enjoy dancing with AFX, playing Smash with friends, and browsing memes online \ud83d\udc40. I'm also a TA for CS188! Feel free to reach out about anything, and let\u2019s have a great semester!"
     },
     {
         "name": "Shreya Kannan",
@@ -127,10 +93,44 @@
         "details": "Hi! How's life? Hopefully life is going well! If its not, smile and it'll be a bit better :)"
     },
     {
-        "name": "Taejin Hwang",
-        "role": "Communications",
-        "imgUrl": "https://drive.google.com/open?id=1LWq0PFllMQHzPjUjyvTKl8e_K1SE8BgD",
-        "details": "Fourth year Math/CS major from Arcadia, CA. I used to mentor for 16A and 16B but am now retired and have moved on to Communications.\n\nWhen I\u2019m not CSMing, I'm usually watching the Lakers, playing video games (FE3H / XC2), or eating at Shooting Star Cafe. Feel free to talk to me about anything!"
+        "name": "Albert Tang",
+        "role": "EECS 16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=19iHVEv5zvPbmvFV21bJw8uyCjwEv_Ru5",
+        "details": "Hi! I'm a third year EECS major, but I started out as a Bioengineer. I enjoy hiking, sunsets, and good times. If you want to sit down and chat, just hit me up  :)"
+    },
+    {
+        "name": "Katherine Shu",
+        "role": "EECS 16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=11DX37dy0IE1DKmtXKquGNVtUKvkPwNhW",
+        "details": "Hi! I\u2019m a second year EECS Major from around LA. I enjoy traveling, dancing, and drawing. Against popular belief, I don\u2019t like chocolate and I drink boba with no sugar and no ice. I hope you all have an amazing semester!! :)"
+    },
+    {
+        "name": "Naomi Sagan",
+        "role": "EECS 16B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1YITw2kYy_mY4iy8sUAEKUTo5YWU-gTo5",
+        "details": "Hi! I'm Naomi, and I'm excited to be one of your 16B coordinators this semester. I'm a sophomore, and this is my third semester in CSM. In my spare time, I enjoy hanging out with friends, dancing, reading, and playing flute."
+    },
+    {
+        "name": "Kai Pin Ryan Koh",
+        "role": "EECS 16B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1dP700LEVI6WyFRZLnM6FKP1fO_5Q4iEd",
+        "details": "Hi! I\u2019m one of the Coordinators for EECS16B this semester! In my free time, I enjoy dancing with AFX, playing Smash with friends, and browsing memes online \ud83d\udc40. I'm also a TA for CS188! Feel free to reach out about anything, and let\u2019s have a great semester!"
+    },
+    {
+        "name": "Alex Kassil",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Alex Stennet",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Catherine Cang",
+        "role": "Advisor",
+        "imgUrl": "https://drive.google.com/open?id=1NaW1Zs7LDle54g4WafK8Z0wrdWPU-C-h",
+        "details": "Hi I'm Catherine! I like cats and teaching"
     },
     {
         "name": "Varsha Ramakrishnan ",
