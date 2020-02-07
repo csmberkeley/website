@@ -54,7 +54,10 @@ for course in CLASSES:
                     "courses": {course: role}
                 }
             else:
-                people_by_email[email_no_dot]["courses"][course] = role
+                # Higher roles (like coords) will appear before lower roles (like SMs),
+                # so if a coord is also listed as an SM, they'll still appear as coord.
+                if course not in people_by_email[email_no_dot]["courses"]:
+                    people_by_email[email_no_dot]["courses"][course] = role
 
 # Read bios
 with open(BIOS_PATH, "r") as bios:

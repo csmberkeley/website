@@ -234,7 +234,9 @@
         "courses": {
             "cs61a": "CS 61A Associate Mentor",
             "cs88": "CS 88 Senior Mentor"
-        }
+        },
+        "details": "Hi! I'm Chi, and I'm from the LA area. I enjoy cooking and trying new food, planning upcoming vacations, and watching Brooklyn 99 (Terry loves yogurt). I also love teaching CS88 and 61A, and I'm thrilled to be teaching this semester. I can't wait to meet you and get to know you. It's going to be a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1Ofkx-HKEDfY6vc0Z4ESgaXZ4s_7uxWCw"
     },
     {
         "name": "Parth Gupta",
@@ -259,7 +261,8 @@
         "name": "Jessica Yu",
         "email": "jessica.yu@berkeley.edu",
         "courses": {
-            "cs61a": "CS 61A Associate Mentor"
+            "cs61a": "CS 61A Associate Mentor",
+            "cs61c": "CS 61C Junior Mentor"
         },
         "details": "Hi! I'm a second year intended CS major from Fremont, CA. In my free time away from Hilfinger's 61B, I enjoy hiking/RSFing, mooching off my roommate's Netflix, and currently passionfruit green tea. Pro tip: Shihlin in Asian Ghetto has the superior fried chicken of all the popcorn chicken locations. I'm teaching 61A and 61C this semester, and I hope you enjoy these classes as much as I did!",
         "imgUrl": "https://drive.google.com/open?id=0B_Im0j7YpIovTkRMQ2FXcG9CNEtNRFY0U3ZmaENGblkwcDYw"
@@ -1147,7 +1150,7 @@
             "eecs16a": "EECS 16A Junior Mentor"
         },
         "details": "Hi! I am a second-year intended CS major from India. I really enjoyed this class especially the circuits portion. I am also a Lab ASE for EECS 16B. I still cannot figure out the dense AC Transit maps and have already got lost twice. I love Gypsy's and I love to listen to my favorite song until it becomes my un-favorite. Hoping to have a great semester! ",
-        "imgUrl": "https://drive.google.com/open?id=1e-FU4j5eaar73THZ96MpATIAAcgYGhq2"
+        "imgUrl": "https://drive.google.com/open?id=152MNGNYBt7GLcvBufX2LrGXaMHbVfCQL"
     },
     {
         "name": "Anirvin Sikha",
@@ -1672,36 +1675,36 @@
         }
     },
     {
-        "name": "sebastien.whetsel@berkeley.edu",
-        "email": "Sebastien Whetsel",
+        "name": "Sebastien Whetsel",
+        "email": "sebastien.whetsel@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Content Senior Mentor"
         }
     },
     {
-        "name": "debayanband@berkeley.edu",
-        "email": "Debayan Bandyopadhyay",
+        "name": "Debayan Bandyopadhyay",
+        "email": "debayanband@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Content Mentor"
         }
     },
     {
-        "name": "abinavrouthu@berkeley.edu",
-        "email": "Abinav Routhu",
+        "name": "Abinav Routhu",
+        "email": "abinavrouthu@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Content Mentor"
         }
     },
     {
-        "name": "robertwang1999@berkeley.edu",
-        "email": "Robert Wang",
+        "name": "Robert Wang",
+        "email": "robertwang1999@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Content Mentor"
         }
     },
     {
-        "name": "thecatherinehuang@berkeley.edu",
-        "email": "Catherine Huang",
+        "name": "Catherine Huang",
+        "email": "thecatherinehuang@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Content Mentor"
         }
@@ -2301,7 +2304,7 @@
         "name": "Sohum Hulyalkar",
         "email": "sohum11@berkeley.edu",
         "courses": {
-            "cs88": "CS 88 Senior Mentor"
+            "cs88": "CS 88 Coordinator"
         },
         "details": "Hi! How's life? Hopefully life is going well! If its not, smile and it'll be a bit better :)",
         "imgUrl": "https://drive.google.com/open?id=1vje4M8sxX9DtM-Zu7ESIagsneS32dckH"
@@ -2627,6 +2630,8 @@
         "email": "varunmenon@berkeley.edu",
         "courses": {
             "eecs16b": "EECS 16B Junior Mentor"
-        }
+        },
+        "details": "I am a sophomore at UC Berkeley, majoring in Mathematics, Physics, and Computer Science. In addition to tutoring for CSM, I am a tutor for Math 104, and a reader for EE16A and B.  If it is of any interest to prospective students, my research background is in quantum algorithms for NP Hard optimization problems, and in condensed matter physics. Outside academia, I enjoy and am involved extensively in competitive British Parliamentary debate in the US and in international circuits.\n\nMiscellaneous Trivialities:\nHobbies - Working out, biking, going on long drives\nFavourite restaurant in Berkeley - I am not a fan of Berkeley food, period. \nHow I spend my Sundays - Sleeping in and doing work. Exciting stuff. ",
+        "imgUrl": "https://drive.google.com/open?id=1FQkOPe2_USDx0QC178kFWZG-qvDaNjW4"
     }
 ]
