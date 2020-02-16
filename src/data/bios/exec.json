@@ -62,7 +62,8 @@
     {
         "name": "Avinash Nandakumar",
         "role": "CS 61C Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1KPkHPsQ9lihj_aVAwttIELA18m8ZYUq3",
+        "details": "Hello everyone, I\u2019m a 3rd year EECS major from southern California near Santa Barbara! This is my third semester teaching 61c, and could not be more excited! I am super social, love to be outdoors, and a huge sports fan. Come to my section and talk to me about anything!!"
     },
     {
         "name": "Daniel Li",
@@ -78,7 +79,8 @@
     {
         "name": "Nagaganesh Jaladanki",
         "role": "CS 70 Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1O8RRkPXSXycao3uY0b-45WOkv6lWRZB0",
+        "details": "I really like eating bagels, solving crosswords, and going on long runs. If you message me and I don't know you, I'll give you a cookie."
     },
     {
         "name": "Shreya Kannan",
@@ -119,12 +121,14 @@
     {
         "name": "Alex Kassil",
         "role": "Advisor",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1is5BMXRzk0D2NNAkggUyK5wyIGb67uOJ",
+        "details": "Smile"
     },
     {
         "name": "Alex Stennet",
         "role": "Advisor",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1VLai9FpPI_ibpHBUqlQtDhUrdT3QZnZB",
+        "details": "Asphalt, the most recycled material in the world (99% recycled, ~62mil tons/yr), is a liquid with a viscosity 230 billion times water's, it can be melted out of roads. This was measured via the pitch drop experiment, which started in 1927 (it's actually live streamed). My pronouns are he/him."
     },
     {
         "name": "Catherine Cang",
@@ -135,7 +139,8 @@
     {
         "name": "Varsha Ramakrishnan ",
         "role": "Advisor",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1k3ZsHsVnQfxVVMFIf6kyBy-CipXzO47N",
+        "details": "Hello! I\u2019m a current CSM advisor and ex-Coord for CSM EE16A. I love teaching\u2014 I\u2019ve TA\u2019d for a few courses, and would love to chat about mentoring and pedagogy. I also love LotR and the Silmarillion, the Stormlight Archives, playing D&D, One Piece, Zelda, and Fire Emblem (Black Eagles best house). Have a wonderful day!"
     },
     {
         "name": "Yiling Kao",
