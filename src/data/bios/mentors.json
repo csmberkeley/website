@@ -1660,11 +1660,13 @@
         "imgUrl": "https://drive.google.com/open?id=1O8RRkPXSXycao3uY0b-45WOkv6lWRZB0"
     },
     {
-        "name": "Beom Jin Lee",
+        "name": "Brian Lee",
         "email": "cluesbj@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Coordinator"
-        }
+        },
+        "details": "Hi everyone! I am Brian, a third-year CS major. I tend to drink an unhealthy amount of Snapple and Coke Zero, so if you ever catch me gulping them down, either remind me to stop it or poke me if you want to hear why I think they are actually healthy for you. I look forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1nz6yIxOm1zbQedkROgsk1ZpnNum0RlwY"
     },
     {
         "name": "Gabe Khouri-Haddad",
@@ -1703,6 +1705,15 @@
         "imgUrl": "https://drive.google.com/open?id=1kwj8Yb5gV1QEbRqnwq9OytskP76R0Qbm"
     },
     {
+        "name": "Aishani Sil",
+        "email": "aishani.sil@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi friends~ My name is Aishani and I\u2019m a sophomore majoring in computer science. I really enjoy learning new things and am passionate about sharing that knowledge and zeal for discovery with others; that's why I love teaching! My other interests include making digital art, listening to kpop, and arguing that socks with sandals are actually great. CS70 is an !! exciting !! class, and I hope I can help you love it\u2014 or at the very least get through it :)) Also feel free to hit me up anytime for advice on lower div CS, life, or footwear. ",
+        "imgUrl": "https://drive.google.com/open?id=1TYxcLwz8gWJZNq-LSM_aLTAbF0yJL-x_"
+    },
+    {
         "name": "Tarang Srivastava",
         "email": "tarang.sriv@berkeley.edu",
         "courses": {
@@ -1739,6 +1750,15 @@
         "imgUrl": "https://drive.google.com/open?id=1w8ZvqSLr5og0KyoQdIndIyiaLwjQWQB7"
     },
     {
+        "name": "Vade Shah",
+        "email": "vadeshah@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "i don't worry about stable marriage because mine will be arranged",
+        "imgUrl": "https://drive.google.com/open?id=1fHGRLAF6a0peRF9VaqjN3nBsMDqHBxnh"
+    },
+    {
         "name": "James Jung",
         "email": "jameswsj@berkeley.edu",
         "courses": {
@@ -1757,6 +1777,16 @@
         "imgUrl": "https://drive.google.com/open?id=1_2nkZCOuZcqqHq8jVlooiUecEiUXGPMZ"
     },
     {
+        "name": "Jay Monga",
+        "email": "jaymonga16@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor",
+            "eecs16b": "EECS 16B Junior Mentor"
+        },
+        "details": "Hellos! I'm Jay and I'm a sophmore CS major from Chicago. Although tennis is\nmy favorite sport, I spend most of my free time involved with the amazing table\ntennis club here. Outside of that, I like to watch movies (ask me about Edgar\nWright comedies) and wear the same rotation of hoodies. I'm pretty into controls and robotics, so come talk to me about that if you want. This is my first time teaching with CSM, and I'm really excited to see you guys in section!",
+        "imgUrl": "https://drive.google.com/open?id=1pFIRw4tys8tD_lE6x9gdKtHu1mKK6JEi"
+    },
+    {
         "name": "Angela Jiang",
         "email": "ajjiang@berkeley.edu",
         "courses": {
@@ -1764,6 +1794,15 @@
         },
         "details": "Hi! I'm Angela, a second year majoring in CS and Econ. I enjoy dance, music, and tennis, watching Netflix, and eating good food. This is my second time teaching CS 70, and I'm excited for a great semester!",
         "imgUrl": "https://drive.google.com/open?id=1_FIjCDMhzQuBVHyxFzGU2prde3LdScKz"
+    },
+    {
+        "name": "Christianna Xu",
+        "email": "christianna.xu@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hello I am a sophomore studying CS. I really like food specifically soup and I enjoy watching kdramas and cdramas and playing sports. I like to travel and goof off with friends. ",
+        "imgUrl": "https://drive.google.com/open?id=1mke_QcA6NZPwyyBJQiyl3YM1iDkZrHzf"
     },
     {
         "name": "aniruddha Nrusimha",
@@ -1941,7 +1980,7 @@
         "name": "Catherine Huang",
         "email": "thecatherinehuang@berkeley.edu",
         "courses": {
-            "cs70": "CS 70 Content Mentor"
+            "cs70": "Advisor"
         }
     },
     {
@@ -2436,15 +2475,6 @@
         },
         "details": "I'm a sophomore from Philadelphia who loves to run and paint and learn odd crafts. The intersection of business and technology fascinates me, especially within the startup space. I took EE16B last semester and you'll probably see me in labs as well, but I'm excited to teach and learn along with you!",
         "imgUrl": "https://drive.google.com/open?id=1AvkU9hn-_kMrWkdldo8ted25rooCLiuY"
-    },
-    {
-        "name": "Jay Monga",
-        "email": "jaymonga16@berkeley.edu",
-        "courses": {
-            "eecs16b": "EECS 16B Junior Mentor"
-        },
-        "details": "Hellos! I'm Jay and I'm a sophmore CS major from Chicago. Although tennis is\nmy favorite sport, I spend most of my free time involved with the amazing table\ntennis club here. Outside of that, I like to watch movies (ask me about Edgar\nWright comedies) and wear the same rotation of hoodies. I'm pretty into controls and robotics, so come talk to me about that if you want. This is my first time teaching with CSM, and I'm really excited to see you guys in section!",
-        "imgUrl": "https://drive.google.com/open?id=1pFIRw4tys8tD_lE6x9gdKtHu1mKK6JEi"
     },
     {
         "name": "Jerry Lai",
