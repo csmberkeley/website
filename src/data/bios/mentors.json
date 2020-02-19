@@ -918,6 +918,15 @@
         "imgUrl": "https://drive.google.com/open?id=1fyaAv9DCFW3vW8cYov9XWg7A0uj5-H_k"
     },
     {
+        "name": "Michelle Gil",
+        "email": "gilm@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hello! My name is Michelle and I'm a third year from Hawthorne, California. This is my 3rd time teaching CS61A, and I'm excited to meet you all this semester! #24forever",
+        "imgUrl": "https://drive.google.com/open?id=1Dmw3-5CDvJ0H5Z_h8SkxzlLQo0V6p1Jy"
+    },
+    {
         "name": "Katherine Shu",
         "email": "katherineshu@berkeley.edu",
         "courses": {
@@ -1669,13 +1678,13 @@
         "imgUrl": "https://drive.google.com/open?id=1nz6yIxOm1zbQedkROgsk1ZpnNum0RlwY"
     },
     {
-        "name": "Gabe Khouri-Haddad",
-        "email": "gabykh@berkeley.edu",
+        "name": "Tarang Srivastava",
+        "email": "tarang.sriv@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Junior Mentor"
         },
-        "details": "I've been programming for about five years; I love it so much that I'm currently majoring in Computer Science. Growing up, I lived in California, Dubai, and Lebanon and have learned four languages: English, French, Spanish, and Arabic. Outside of class, I play guitar and piano (self-taught because lessons suck all the fun out of it). My bucket list consists entirely of learning how to moonwalk, because, let\u2019s face it, that\u2019s really cool. ",
-        "imgUrl": "https://drive.google.com/open?id=17yNF4QiaQMenT6wAYZh2Ap6oC5IFLz7T"
+        "details": "I'm studying mathematics and computer science. You can find me at most MUSA events playing board games or just talking about math. I usually spend my Sundays watching football or Formula 1. I love going on spontaneous adventures and looking for some cool spots to explore in the Bay Area.",
+        "imgUrl": "https://drive.google.com/open?id=1Nq89pG6OlcDLo5xI3WyYuZl3cHcmXp6R"
     },
     {
         "name": "Charles Yang",
@@ -1714,13 +1723,40 @@
         "imgUrl": "https://drive.google.com/open?id=1TYxcLwz8gWJZNq-LSM_aLTAbF0yJL-x_"
     },
     {
-        "name": "Tarang Srivastava",
-        "email": "tarang.sriv@berkeley.edu",
+        "name": "Milleno Pan",
+        "email": "milleno@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Junior Mentor"
         },
-        "details": "I'm studying mathematics and computer science. You can find me at most MUSA events playing board games or just talking about math. I usually spend my Sundays watching football or Formula 1. I love going on spontaneous adventures and looking for some cool spots to explore in the Bay Area.",
-        "imgUrl": "https://drive.google.com/open?id=1Nq89pG6OlcDLo5xI3WyYuZl3cHcmXp6R"
+        "details": "Hi!! I'm Milleno Pan, a 2nd year CS/Math double major [yUMMy maths hehe :^)] from New York. Please choose me because I need frens lol",
+        "imgUrl": "https://drive.google.com/open?id=1pjPahEl_FuPF0CYhRgc1kll_Jt4h4L2S"
+    },
+    {
+        "name": "Max Litster",
+        "email": "maxlitster@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Regular guest on the Colgate Comedy hour.",
+        "imgUrl": "https://drive.google.com/open?id=1XUDYaH89spiNbP8BrpTXHHOLjOaSzvzy"
+    },
+    {
+        "name": "Prakash Srivastava",
+        "email": "asrivastava@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Yo. I'm a first-year CS+Econ major from San Jose and Houston. I'm a professional basketball watcher and unprofessional basketball player. I'm training for the NBA Draft this semester so that I don't have the worry about getting a job after graduating. I consider myself a pretty good whistler and have some pretty cool laptop stickers. \n\nJoin my section to find the meaning of life and unlock the mysteries of the universe. Jk, we're gonna do cs70 problems (basically the same thing). ",
+        "imgUrl": "https://drive.google.com/open?id=12LASsrZMz8rZ6PFWkYcYO7Ieh5hyIdTt"
+    },
+    {
+        "name": "James Jung",
+        "email": "jameswsj@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi everyone! I'm a CS major from Millbrae (a.k.a. end of Bart). I personally found CS70 to be very rewarding and hope you do too :) I plan to focus on fundamentals and exam prep in my sections. Some fun facts: I love watching soccer (spurs fan haha...) and making late-night runs for cheddar chalupas or snacking on spicy noodles w/ cheese past midnight. ",
+        "imgUrl": "https://drive.google.com/open?id=1BHj7bu0Gf_sSVueqDNwFK4yHfAzen8LH"
     },
     {
         "name": "Rithvik Chuppala",
@@ -1759,13 +1795,40 @@
         "imgUrl": "https://drive.google.com/open?id=1fHGRLAF6a0peRF9VaqjN3nBsMDqHBxnh"
     },
     {
-        "name": "James Jung",
-        "email": "jameswsj@berkeley.edu",
+        "name": "Brian Wu",
+        "email": "wubrian@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Junior Mentor"
         },
-        "details": "Hi everyone! I'm a CS major from Millbrae (a.k.a. end of Bart). I personally found CS70 to be very rewarding and hope you do too :) I plan to focus on fundamentals and exam prep in my sections. Some fun facts: I love watching soccer (spurs fan haha...) and making late-night runs for cheddar chalupas or snacking on spicy noodles w/ cheese past midnight. ",
-        "imgUrl": "https://drive.google.com/open?id=1BHj7bu0Gf_sSVueqDNwFK4yHfAzen8LH"
+        "details": "Hello! I\u2019m a second-year EECS major from the Bay Area. I like wasting my time watching sitcoms. Looking forward to teaching!",
+        "imgUrl": "https://drive.google.com/open?id=120lpCCHetPpifKW862Am5tDvVEhU4QZW"
+    },
+    {
+        "name": "Austin Lei",
+        "email": "1austinlei@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hello everyone! I am a first year math major, and I'm also a problem writer for Berkeley Math Tournament. I like math and getting disappointed by the San Jose Sharks.",
+        "imgUrl": "https://drive.google.com/open?id=1PxGmkJ3ssxzmOf0edqObSxVsGNOUbBzP"
+    },
+    {
+        "name": "Briana Zhang",
+        "email": "b_zhang@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "I love playing card games and board games such as Avalon! HMU if you ever have a game going. ",
+        "imgUrl": "https://drive.google.com/open?id=0B_Im0j7YpIovc2RYLW1YanJVS3VjTjhMejVUQlNETVVDOUVZ"
+    },
+    {
+        "name": "Angela Jiang",
+        "email": "ajjiang@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hi! I'm Angela, a second year majoring in CS and Econ. I enjoy dance, music, and tennis, watching Netflix, and eating good food. This is my second time teaching CS 70, and I'm excited for a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1_FIjCDMhzQuBVHyxFzGU2prde3LdScKz"
     },
     {
         "name": "Jasper Hu",
@@ -1787,13 +1850,22 @@
         "imgUrl": "https://drive.google.com/open?id=1pFIRw4tys8tD_lE6x9gdKtHu1mKK6JEi"
     },
     {
-        "name": "Angela Jiang",
-        "email": "ajjiang@berkeley.edu",
+        "name": "Michael Li",
+        "email": "michael.li.gb@berkeley.edu",
         "courses": {
             "cs70": "CS 70 Junior Mentor"
         },
-        "details": "Hi! I'm Angela, a second year majoring in CS and Econ. I enjoy dance, music, and tennis, watching Netflix, and eating good food. This is my second time teaching CS 70, and I'm excited for a great semester!",
-        "imgUrl": "https://drive.google.com/open?id=1_FIjCDMhzQuBVHyxFzGU2prde3LdScKz"
+        "details": "Hi, my name is Michael and I am a second-year studying CS. I am currently taking cs161, ee126, and ee16a. I am a big hockey fan and during the weekend I enjoy watching NHL or play Super Smash Bros with friends. It is going to be my first time teaching CSM and I hope y'all are as exciting as I am!",
+        "imgUrl": "https://drive.google.com/open?id=14OyvuhleqHLjE9I-tuRKROxmQe02IMQ0"
+    },
+    {
+        "name": "Sylvia Jin",
+        "email": "swjin@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "I'm a sophomore math and <script>alert(\"???\")</script> major from the Bay Area. I teach the card-counting decal, and I'm also heavily involved with the Mathematics Undergraduate Student Association (MUSA). Check out my website!",
+        "imgUrl": "https://drive.google.com/open?id=1VXMi2hx0dPomRWOhhin32GlXtH5wEZSp"
     },
     {
         "name": "Christianna Xu",
@@ -1803,6 +1875,23 @@
         },
         "details": "Hello I am a sophomore studying CS. I really like food specifically soup and I enjoy watching kdramas and cdramas and playing sports. I like to travel and goof off with friends. ",
         "imgUrl": "https://drive.google.com/open?id=1mke_QcA6NZPwyyBJQiyl3YM1iDkZrHzf"
+    },
+    {
+        "name": "Frank Wang",
+        "email": "frankw084@berkeley.edu",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor",
+            "eecs16b": "EECS 16B Junior Mentor"
+        },
+        "details": "I'm a second-year EECS and EMS major from Sunnyvale, CA. Things I enjoy include exercising, TV shows, food, being a huge sports nerd, music, and some board/card games. Unsurprisingly, these are also what I tend to do/talk about with others - including possibly you! My goal this semester is to make your experience as stress-free as possible.",
+        "imgUrl": "https://drive.google.com/open?id=11nJSoTTtzci-10rKLHaQRkZc_2pk5s1N"
+    },
+    {
+        "name": "Yasoob Khalid Niazi",
+        "email": "",
+        "courses": {
+            "cs70": "CS 70 Junior Mentor"
+        }
     },
     {
         "name": "aniruddha Nrusimha",
@@ -1980,7 +2069,7 @@
         "name": "Catherine Huang",
         "email": "thecatherinehuang@berkeley.edu",
         "courses": {
-            "cs70": "Advisor"
+            "cs70": "CS 70 Content Mentor"
         }
     },
     {
@@ -2457,15 +2546,6 @@
         },
         "details": "Hi I'm Gavin, a second-year EECS student all the way across from Bangkok, Thailand! In my free time, I enjoy playing badminton, occasional fun League games, and love going on any sort of food trip (especially those boba trips ^_^). I also love listening to all sorts of music so feel free to recommend me some good songs. Looking forward to meeting you all this semester :)",
         "imgUrl": "https://drive.google.com/open?id=11AGl3R3eH9WVvOuLws8xLPu2_iV7f43u"
-    },
-    {
-        "name": "Frank Wang",
-        "email": "frankw084@berkeley.edu",
-        "courses": {
-            "eecs16b": "EECS 16B Junior Mentor"
-        },
-        "details": "I'm a second-year EECS and EMS major from Sunnyvale, CA. Things I enjoy include exercising, TV shows, food, being a huge sports nerd, music, and some board/card games. Unsurprisingly, these are also what I tend to do/talk about with others - including possibly you! My goal this semester is to make your experience as stress-free as possible.",
-        "imgUrl": "https://drive.google.com/open?id=11nJSoTTtzci-10rKLHaQRkZc_2pk5s1N"
     },
     {
         "name": "Sravya Basvapatri",
