@@ -301,15 +301,13 @@
         "imgUrl": "https://drive.google.com/open?id=14Clt3epQD0AX6ecXNPbG8fF4IrdqMV96"
     },
     {
-        "name": "Yulie Park",
-        "email": "park.yoosang@berkeley.edu",
+        "name": "Gurkaran Goindi",
+        "email": "gurkarn.goindi@berkeley.edu",
         "courses": {
-            "cs61a": "CS 61A Junior Mentor",
-            "cs61b": "CS 61B Junior Mentor",
-            "cs70": "CS 70 Junior Mentor"
+            "cs61a": "CS 61A Junior Mentor"
         },
-        "details": "Hello! My name is Yulie and I am a second-year CS major. I love to read, hunt for scenic views, catch up with my friends and family, and watch movies. I am excited to be teaching you this semester!",
-        "imgUrl": "https://drive.google.com/open?id=1D3O4AjOwuzDScHyth0ll-gTHGeGe77Gm"
+        "details": "Hey There! I'm Gurkaran, and I'm from New Delhi, India, but for the most part I grew up in West Africa, in Ghana and Nigeria. I'm a sophomore majoring in CS and Economics. Other than teaching, I love taking photos, biking around town, and playing my guitar. I also love listening to music and I'm always open to new suggestions. Looking forward to meeting some awesome people and a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1Scu3OKCQ3KSh-xm7b16p3TaUc1nb4Kkm"
     },
     {
         "name": "Steven",
@@ -366,13 +364,13 @@
         "imgUrl": "https://drive.google.com/open?id=0B_Im0j7YpIovTExJUU44c3hYNm5vQ1g2b3FUcU10NHZpS2M0"
     },
     {
-        "name": "Gurkaran Goindi",
-        "email": "gurkarn.goindi@berkeley.edu",
+        "name": "Nicholas Ngai",
+        "email": "nicholas.ngai@berkeley.edu",
         "courses": {
             "cs61a": "CS 61A Junior Mentor"
         },
-        "details": "Hey There! I'm Gurkaran, and I'm from New Delhi, India, but for the most part I grew up in West Africa, in Ghana and Nigeria. I'm a sophomore majoring in CS and Economics. Other than teaching, I love taking photos, biking around town, and playing my guitar. I also love listening to music and I'm always open to new suggestions. Looking forward to meeting some awesome people and a great semester!",
-        "imgUrl": "https://drive.google.com/open?id=1Scu3OKCQ3KSh-xm7b16p3TaUc1nb4Kkm"
+        "details": "Hey! My name is Nicholas, and I\u2019m actually a freshman coming out of 61A this past fall. I\u2019m an EECS major also considering majoring in Psychology or Linguistics, and I\u2019m really looking forward to being able to help you guys with anything 61A- or CS-related this coming semester!",
+        "imgUrl": "https://drive.google.com/open?id=1vxRo_gKqESsUWyCw2H26JhclrkhUC5rG"
     },
     {
         "name": "Yana Yarmolich",
@@ -420,15 +418,6 @@
         "imgUrl": "https://drive.google.com/open?id=165WKjLHSJii9au8LwIxUCU6DzNJNNGBq"
     },
     {
-        "name": "Nicholas Ngai",
-        "email": "nicholas.ngai@berkeley.edu",
-        "courses": {
-            "cs61a": "CS 61A Junior Mentor"
-        },
-        "details": "Hey! My name is Nicholas, and I\u2019m actually a freshman coming out of 61A this past fall. I\u2019m an EECS major also considering majoring in Psychology or Linguistics, and I\u2019m really looking forward to being able to help you guys with anything 61A- or CS-related this coming semester!",
-        "imgUrl": "https://drive.google.com/open?id=1vxRo_gKqESsUWyCw2H26JhclrkhUC5rG"
-    },
-    {
         "name": "Shreyansh Loharuka",
         "email": "shreyansh@berkeley.edu",
         "courses": {
@@ -447,6 +436,15 @@
         },
         "details": "Hi! My name is Maryam! I'm a first-year studying Electrical Engineering and Computer Science. I enjoy singing, dancing, playing charades, learning (and teaching) cool new things, making useful tools, and walking in nature! I'm excited to meet you and help maximize your knowledge (and most importantly, joy!) of CS61A this semester! I challenge you to say \"Hello, world!\" to me in as many languages as you can! I'll do the same as well! :D",
         "imgUrl": "https://drive.google.com/open?id=0B_Im0j7YpIovOF9jeV9EeWtfM1hvZVdwTldFaXZBRmUxeExV"
+    },
+    {
+        "name": "Victor Jann",
+        "email": "victorjann@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Junior Mentor"
+        },
+        "details": "Hi! I'm a 2nd year CS major, and I've been through 61A a few times, including as a student, academic intern, and CS 370 tutor. I like to attempt to play guitar/sing, and I say I like to read  though I haven't really since break ended. Anyways, I'm excited to meet you all, and I'm always open to talk to meet!",
+        "imgUrl": "https://drive.google.com/open?id=1A6nfChj7XCsN6OCaGQH19NtlEZDxHuar"
     },
     {
         "name": "Melanie Cooray",
@@ -839,11 +837,13 @@
         "imgUrl": "https://drive.google.com/open?id=1k4QAEJdwMeB5j3lvhHhk-5g_Jf1gs8r8"
     },
     {
-        "name": "James Fletcher",
+        "name": "Jake Fletcher",
         "email": "james.fletcher@berkeley.edu",
         "courses": {
             "cs61a": "CS 61A Senior Mentor"
-        }
+        },
+        "details": "Hello! I\u2019m a second year EECS major from central coast California. In the past I\u2019ve taught CS61A and 61B, and I\u2019m excited to be teaching 61A again! In my free time I go out for food way too often, go thrift shopping, and make trips to SF and other places around the bay on weekends. I love to travel and I\u2019ve been to every continent except Antarctica, which I\u2019m hoping to change eventually. I love listening to alt rock, rap, kpop, metal, and just about everything else, and when I have time for video games I like to play DotA, Breath of the Wild, Apex, and smash. Please feel free to contact me anytime, I\u2019m looking forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1Zv1HQJAmZSnMXbFGWkCxbEsRfNjSzExe"
     },
     {
         "name": "Jemmy Zhou",
@@ -925,6 +925,15 @@
         },
         "details": "Hello! My name is Michelle and I'm a third year from Hawthorne, California. This is my 3rd time teaching CS61A, and I'm excited to meet you all this semester! #24forever",
         "imgUrl": "https://drive.google.com/open?id=1Dmw3-5CDvJ0H5Z_h8SkxzlLQo0V6p1Jy"
+    },
+    {
+        "name": "Boren Tsai",
+        "email": "boren.tsai@berkeley.edu",
+        "courses": {
+            "cs61a": "CS 61A Associate Mentor"
+        },
+        "details": "Hi hi! My name is Boren Tsai and I'm a third year CS student from the Far East Bay of Tampa, Florida. I've been teaching 61a for the past 3 semesters and I'm super stoked to help you find your place in and grow as a member of the CS community at Cal. I'm an owner of a corgi, drinker of black coffee, and supporter of the pineapple slice. Looking forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=19FYVSk3XJygs8SdOB3VHPZbQbvhkeFPx"
     },
     {
         "name": "Katherine Shu",
@@ -1486,6 +1495,16 @@
         },
         "details": "Hi! I'm a second year EECS major from SoCal. I like eating food, watching food videos, listening to Kpop, and sometimes trying to make machines learn. I have an unhealthy obsession with boba according to my friends and don't endorse pineapples on pizza. I'm looking forward to teaching 61B and meeting you all!",
         "imgUrl": "https://drive.google.com/open?id=1CRXCK2rdwc__I0nT66LOiQ6OS43lJOjq"
+    },
+    {
+        "name": "Yulie Park",
+        "email": "park.yoosang@berkeley.edu",
+        "courses": {
+            "cs61b": "CS 61B Junior Mentor",
+            "cs70": "CS 70 Junior Mentor"
+        },
+        "details": "Hello! My name is Yulie and I am a second-year CS major. I love to read, hunt for scenic views, catch up with my friends and family, and watch movies. I am excited to be teaching you this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1D3O4AjOwuzDScHyth0ll-gTHGeGe77Gm"
     },
     {
         "name": "Varun Dashora",
