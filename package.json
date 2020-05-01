@@ -35,6 +35,11 @@
       "prettier"
     ]
   },
+  "jest": {
+    "transformIgnorePatterns": [
+      "/node_modules/?!(countup.js)"
+    ]
+  },
   "browserslist": {
     "production": [
       ">0.2%",

@@ -285,19 +285,13 @@ class Home extends React.Component<{}, AnimationState> {
                             </div>
                             <div className="col m4 s10 valign offset-s1 center">
                                 <h5>
-                                    {
-                                        Labels.QUICK_LINKS.BECOME_PARTNER
-                                            .LABEL
-                                    }
+                                    {Labels.QUICK_LINKS.BECOME_PARTNER.LABEL}
                                 </h5>
                                 <Link
                                     to="/partners"
                                     className="waves-effect waves-light green lighten-1 btn"
                                 >
-                                    {
-                                        Labels.QUICK_LINKS.BECOME_PARTNER
-                                            .BUTTON
-                                    }
+                                    {Labels.QUICK_LINKS.BECOME_PARTNER.BUTTON}
                                 </Link>
                                 <br />
                             </div>
