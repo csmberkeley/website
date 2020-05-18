@@ -53,6 +53,8 @@ export default class Mentors extends React.Component {
                     <div className="divider"></div>
                     <div className="faq section">
                         <h5 className="label">{Labels.FAQ.LABEL}</h5>
+                        <h6 className="sublabel">{Labels.FAQ.FA20_ONLINE.Q}</h6>
+                        <p className="info">{Labels.FAQ.FA20_ONLINE.A}</p>
 
                         <h6 className="sublabel">
                             {Labels.FAQ.JM_QUALITIES.Q}
