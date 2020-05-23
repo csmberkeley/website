@@ -94,8 +94,14 @@ export const SECTIONS = {
                     applications will be accepted.
                 </p>
                 <p className="info">
+                    {/*
                     We are not opening Senior Mentor positions at this time. We
                     look forward to reading your application!
+                */}
+                    Senior Mentor recruitment has now finished. If you are
+                    looking to be a Senior Mentor, look out for the application
+                    that's released (interanlly) during the final month of the
+                    semester!
                 </p>
             </span>
         ),
