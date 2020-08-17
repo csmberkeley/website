@@ -1,8 +1,6 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-# Even though we technically use yarn to build/install, running npm commands should be equivalent.
-
 name: Node.js CI
 
 on:
@@ -26,6 +24,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm install # Can't run `npm ci` because we don't have a package-lock due to using yarn
-    - run: npm run build --if-present
-    - run: npm test
+    - run: yarn install
+    - run: yarn build
+    - run: yarn test
