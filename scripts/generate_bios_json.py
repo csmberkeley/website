@@ -1,94 +1,83 @@
 #!/usr/bin/env python3
 
 """
-Generates JSON blobs of bios. Takes in a CSV containing email | name | photo_url | bio, and a CSV
-for every course (including exec) containing name | email | row.
+Generates JSON blobs of bios. Takes in a single CSV, containing at least the following
+columns:
+
+email | name | role | course | preferred name? | photo url | bio
+
+It is recommended to first do some preprocessing within Google Sheets to obtain
+the desired columns or filter any unwanted entries.
 """
 
 import csv
 import json
-import os
 
-
-CLASSES = ("cs61a", "eecs16a", "cs61b", "cs70", "cs61c", "cs88", "eecs16b", "exec")
+CURR_SEMESTER = "fa20"
 
 BIOS_PATH = "./csvs/bios.csv"
-ROSTER_FOLDER = "./csvs/roster/"
 DEST_PATH = "./src/data/bios/mentors.json"
 
-SEMESTER = "sp20"
+class Cols:
+    """
+    The headers of each column as they appear in the CSV.
+    """
+    EMAIL = "Email Address"
+    NAME = "Name"
+    ROLE = "For which position are you accepting/rejecting?"
+    COURSE = "COURSE"
+    PREF_NAME = "Preferred Name"
+    IMG_URL = "Photo"
+    BIO = "Biography"
 
-# Start by keying on email without periods so we can find duplicates easily
-people_by_email = {}
-exec_bios = {} # Written into src/data/bios/exec.json
-exec_roles = {} # Written into src/data/team/[SEMESTER].json
+# This string in the course means we should skip them and move on with life
+NORMALIZED_REJECTIONS = {
+    "iamrejectingallpositionsthatididnotexplicitlyaccept",
+    "iamrejectingallampositionsthatididnotexplicitlyaccept"
+}
 
-# Read the roster first
-for course in CLASSES:
-    with open(os.path.join(ROSTER_FOLDER, course + ".csv"), "r") as roster:
-        reader = csv.reader(roster)
-        # Skip header
-        next(reader)
-        # Columns are: name | email | role
+def parse_bios(csv_path):
+    """
+    Reads bios from the given CSV, returning a dictionary of data keyed by emails.
+    """
+    # Start by keying on email without periods so we can find duplicates easily
+    people_by_email = {}
+    with open(csv_path) as f:
+        reader = csv.DictReader(f)
         for row in reader:
-            name = row[0]
-            email = row[1]
-            role = row[2]
+            email = row[Cols.EMAIL]
             email_no_dot = email.replace(".", "")
-            if course == "exec":
-                # We'll assume nobody is in multiple exec roles
-                exec_bios[email_no_dot] = {
-                    "name": name,
-                    "role": role,
-                    "imgUrl": ""
-                }
-                exec_roles[email_no_dot] = {
-                    "name": name,
-                    "imgUrl": "",
-                    "position": role
-                }
-            elif email_no_dot not in people_by_email:
-                people_by_email[email_no_dot] = {
-                    "name": name,
-                    "email": email,
-                    "courses": {course: role}
-                }
-            else:
-                # Higher roles (like coords) will appear before lower roles (like SMs),
-                # so if a coord is also listed as an SM, they'll still appear as coord.
-                if course not in people_by_email[email_no_dot]["courses"]:
-                    people_by_email[email_no_dot]["courses"][course] = role
+            pref_name = row[Cols.PREF_NAME]
+            name = row[Cols.NAME] if not pref_name or pref_name.isspace() else pref_name
+            photo_url = row[Cols.IMG_URL]
+            bio = row[Cols.BIO]
+            course = row[Cols.COURSE].lower().replace(" ", "")
+            role = row[Cols.ROLE]
+            if course not in NORMALIZED_REJECTIONS:
+                print(f"{name} for {course}")
+                if email_no_dot not in people_by_email:
+                    if not course or course.isspace():
+                        print(f"=== NO COURSE FOUND FOR {name}, SKIPPING FOR NOW ===")
+                    else:
+                        people_by_email[email_no_dot] = {
+                            "name": name,
+                            "details": bio,
+                            "imgUrl": photo_url,
+                            "courses": {course: role},
+                        }
+                else:
+                    if not course or course.isspace():
+                        print(f"=== NO COURSE FOUND FOR {name}, SKIPPING FOR NOW ===")
+                    else:
+                        people_by_email[email_no_dot]["courses"][course] = role
+    return people_by_email
 
-# Read bios
-with open(BIOS_PATH, "r") as bios:
-    reader = csv.reader(bios)
-    # Skip header
-    next(reader)
-    # Columns are: email | name | photo URL | bio | resume
-    for row in reader:
-        email = row[0]
-        email_no_dot = email.replace(".", "")
-        name = row[1]
-        photo_url = row[2]
-        bio = row[3]
-        if email_no_dot in exec_roles:
-            role_obj = exec_roles[email_no_dot]
-            role_obj["imgUrl"] = photo_url
-            bio_obj = exec_bios[email_no_dot]
-            bio_obj["imgUrl"] = photo_url
-            bio_obj["details"] = bio
-        if email_no_dot in people_by_email:
-            obj = people_by_email[email_no_dot]
-            obj["name"] = name
-            obj["details"] = bio
-            obj["imgUrl"] = photo_url
 
-# Write mentor bios
-with open(DEST_PATH, "w") as outfile:
-    json.dump(list(people_by_email.values()), outfile, indent=4)
-
-with open(f"src/data/team/{SEMESTER}.json", "w") as exec_file:
-    json.dump(list(exec_roles.values()), exec_file, indent=4)
-
-with open(f"src/data/bios/exec.json", "w") as exec_bio:
-    json.dump(list(exec_bios.values()), exec_bio, indent=4)
+if __name__ == '__main__':
+    print("Parsing bios...")
+    people_by_email = parse_bios(BIOS_PATH)
+    print("Dumping json...")
+    # Write mentor bios
+    with open(DEST_PATH, "w") as outfile:
+        json.dump(list(people_by_email.values()), outfile, indent=4)
+    print("Done!")

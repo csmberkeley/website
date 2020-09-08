@@ -27,6 +27,7 @@ LOWERCASE_COURSES.forEach(course => {
 // Since we're pre-rendering, some inefficiency is OK
 for (let mentor of mentorBios) {
     for (let [course, role] of Object.entries(mentor.courses)) {
+      console.log(mentor.name + "/", course)
         bios[course].push({
             name: mentor.name,
             role: role!,

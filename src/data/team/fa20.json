@@ -1,102 +1,102 @@
 [
     {
         "name": "Michelle Mao",
-        "role": "President"
+        "position": "President"
     },
     {
         "name": "Katherine Shu",
-        "role": "External Vice President"
+        "position": "External Vice President"
     },
     {
         "name": "Brian Lee",
-        "role": "Internal Vice President"
+        "position": "Internal Vice President"
     },
     {
         "name": "Richard Roggenkemper",
-        "role": "Communications"
+        "position": "Communications"
     },
     {
         "name": "Albert Tang",
-        "role": "Socials Chair"
+        "position": "Socials Chair"
     },
     {
         "name": "Kevin Svetlitski",
-        "role": "Tech Chair"
+        "position": "Tech Chair"
     },
     {
         "name": "Jade Singh",
-        "role": "CS 61A Coordinator"
+        "position": "CS 61A Coordinator"
     },
     {
         "name": "Jason Chang",
-        "role": "CS 61A Coordinator"
+        "position": "CS 61A Coordinator"
     },
     {
         "name": "Samantha Adams",
-        "role": "CS 61B Coordinator"
+        "position": "CS 61B Coordinator"
     },
     {
         "name": "Ryan Nuqui",
-        "role": "CS 61B Coordinator"
+        "position": "CS 61B Coordinator"
     },
     {
         "name": "Eden McEwen",
-        "role": "CS 61C Coordinator"
+        "position": "CS 61C Coordinator"
     },
     {
         "name": "Sunay Poole",
-        "role": "CS 61C Coordinator"
+        "position": "CS 61C Coordinator"
     },
     {
         "name": "Nima Rezaeian",
-        "role": "CS 70 Coordinator"
+        "position": "CS 70 Coordinator"
     },
     {
         "name": "Shadaj Laddad",
-        "role": "CS 70 Coordinator"
+        "position": "CS 70 Coordinator"
     },
     {
         "name": "Shreya Kannan",
-        "role": "CS 88 Coordinator"
+        "position": "CS 88 Coordinator"
     },
     {
         "name": "Sohum Hulyalkar",
-        "role": "CS 88 Coordinator"
+        "position": "CS 88 Coordinator"
     },
     {
         "name": "Mohsin Sarwari",
-        "role": "EECS 16A Coordinator"
+        "position": "EECS 16A Coordinator"
     },
     {
         "name": "Dylan Brater",
-        "role": "EECS 16A Coordinator"
+        "position": "EECS 16A Coordinator"
     },
     {
         "name": "Naomi Sagan",
-        "role": "EECS 16B Coordinator"
+        "position": "EECS 16B Coordinator"
     },
     {
         "name": "Dexter Lee",
-        "role": "EECS 16B Coordinator"
+        "position": "EECS 16B Coordinator"
     },
     {
         "name": "Alex Kassil",
-        "role": "Advisor"
+        "position": "Advisor"
     },
     {
         "name": "Avinash Nandakumar",
-        "role": "Advisor"
+        "position": "Advisor"
     },
     {
         "name": "Catherine Cang",
-        "role": "Advisor"
+        "position": "Advisor"
     },
     {
         "name": "James Chu",
-        "role": "Advisor"
+        "position": "Advisor"
     },
     {
         "name": "Taejin Hwang",
-        "role": "Advisor"
+        "position": "Advisor"
     }
 ]
