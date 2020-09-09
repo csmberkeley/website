@@ -118,6 +118,21 @@ def parse_bios(csv_path, master_roster_path):
                         obj["courses"][course] = role
                         obj["imgUrl"] = photo_url
                         obj["details"] = bio
+    # 61B is doing its own form so I'm just hacking in a snippet here
+    with open("csvs/bios-61b.csv") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            email = row["Email Address"]
+            email_no_dot = email.replace(".", "").lower().strip()
+            name = row["Preferred Name"]
+            photo_url = row["Photo"]
+            bio = row["Biography"]
+            if email_no_dot not in people_by_email:
+                people_by_email[email_no_dot] = {}
+            obj = people_by_email[email_no_dot]
+            obj["name"] = name
+            obj["imgUrl"] = photo_url
+            obj["details"] = bio
     return people_by_email
 
 

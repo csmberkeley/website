@@ -1079,8 +1079,8 @@
         "courses": {
             "cs61b": "Associate Mentor"
         },
-        "imgUrl": "https://drive.google.com/open?id=16vwT2H1Y6gGi5Qs6zxVOHFESY3MPi8rZ",
-        "details": "Hello! I am a third year CS major from SoCal. In my free time, I like to play guitar and watch anime. I really enjoyed taking CS 61B, especially because of the projects, and I am excited to be teaching the subject as part of CSM this semester!"
+        "imgUrl": "https://drive.google.com/open?id=1_ZPyL2VnER8EBwJfjpDaIBCYQFQMYAst",
+        "details": "I am a junior CS Major from SoCal. In my free time, I like to play the guitar and watch anime. I really enjoyed taking CS 61B, especially because of the projects, and I am excited to be teaching the subject as part of CSM this semester!"
     },
     {
         "name": "Michael Chen",
@@ -1096,23 +1096,23 @@
             "cs61b": "Associate Mentor",
             "cs61c": "Junior Mentor"
         },
-        "imgUrl": "",
-        "details": ""
+        "imgUrl": "https://drive.google.com/open?id=1QeEQ9BPeUXgw5NFvTT7r-iT2O9Jgxatj",
+        "details": "Hi, my name is Riddhi! I\u2019m a junior majoring in CS and I took CS61B in Fall 2019. I\u2019ve lost count of the number of times I\u2019ve gone over 61B content. The world of Data Structures and Algorithms has fascinated (and sometimes confused) me and I hope I can help make you feel the same way. I love eating spicy food, travelling, and building random things! I hope you have a great semester and I look forward to meeting you all :)"
     },
     {
         "name": "Smruthi Balajee",
         "courses": {
             "cs61b": "Associate Mentor"
         },
-        "imgUrl": "https://drive.google.com/open?id=1ppieaIuTYQBKg-OyVRtoSeZxguUdKVzR",
-        "details": "Hi! I'm Smruthi and I'm a third year CS major from the Bay Area. I really enjoy drinking tea, hiking, and eating chocolate\u2014once during dead week I bought the pound plus chocolate bar from Trader Joe's and ate it in four days (no regrets). I think 61B is pretty cool so I'm super excited to be a CSM mentor again this semester and meet you all! :)"
+        "imgUrl": "https://drive.google.com/open?id=13ZvLs9Vkoq-IG3VqnEYqNWFjEkb9RlaP",
+        "details": "Hi! I'm Smruthi and I'm a third year CS major from the Bay Area. Outside of school I love hiking, drinking tea, and eating chocolate\u2014once during dead week I bought a pound plus milk chocolate bar from Trader Joe's and ate it in four days (no regrets). I think 61B is pretty cool so I'm super excited to be a mentor again this semester and meet you all (over Zoom)! :)"
     },
     {
-        "name": "Vinay Chadalavada",
+        "name": "Vinay Chadalavada ",
         "courses": {
             "cs61b": "Associate Mentor"
         },
-        "imgUrl": "https://drive.google.com/open?id=17Cx86KpVGIIFH1nJv18yiQYz_4JxFFdv",
+        "imgUrl": "https://drive.google.com/open?id=179flJumtDx-VWjlhWaJbH5DYX0PLO2eR",
         "details": "Hey! I am Vinay, a Junior studying Computer Science and this is my second time mentoring for 61B. I love playing board games and going on long runs in my free time. I look forward to getting to know everyone over the course of the semester!"
     },
     {
@@ -1120,7 +1120,7 @@
         "courses": {
             "cs61b": "Associate Mentor"
         },
-        "imgUrl": "https://drive.google.com/open?id=1YlvZxNVURj51DPpqKFLkFxGQ9F0MYrGX",
+        "imgUrl": "https://drive.google.com/open?id=1Nu253V4cy39rhwEodCUKYbkmwyAmgFk_",
         "details": "Hi everyone! I am a 3rd year CS major. In my free time during quarantine, I like to take long walks, write or read creative non-fiction, and feed wild cats around neighborhoods. Fun fact: I am an ex-almost-English-and-Psychology major."
     },
     {
@@ -1128,16 +1128,16 @@
         "courses": {
             "cs61b": "Associate Mentor"
         },
-        "imgUrl": "",
-        "details": ""
+        "imgUrl": "https://drive.google.com/open?id=19hBqzTbZcxuhJduw9Ia1qybRVN0IvD_b",
+        "details": "Hello! I'm a third year majoring in Computer Science, and this is my third semester teaching 61B. Outside of academics, one of my hobbies is wushu (Chinese martial arts). I love spontaneous adventures, and more specifically, I have an unhealthy obsession with going to the beach. Whenever I get the chance, I enjoy spending my time outdoors and exploring new places, capturing picturesque views on my phone."
     },
     {
         "name": "Enya Xing",
         "courses": {
             "cs61b": "Content Mentor"
         },
-        "imgUrl": "https://drive.google.com/open?id=19yZgWEUPGQRTg_3khlmmzPEgSXoIL4qe",
-        "details": "Hey, I'm a second-year from Fremont, CA. I love ducks, lighthouses, and cloudy weather (especially when that sweet sweet autumn chill hits). "
+        "imgUrl": "https://drive.google.com/open?id=1J7q7xPywttJTEvPm8Uj9jVwXL11PUhbj",
+        "details": "Hey I'm Enya, a second-year from Fremont, CA. I'm excited to teach 61B again this semester and I love ducks, lighthouses, and cloudy weather (especially when that sweet sweet autumn chill hits). "
     },
     {
         "name": "Haiming Xu",
@@ -1455,73 +1455,97 @@
         "name": "Ayush Sehgal",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=113UX8CuXvX59ApdnjOVgEV1u1xP0nb9K",
+        "details": "Hey Guys! I'm a Junior studying CS. I am born and raised in Thailand. I love all things tech. I play the drums and am a big fan of the DC/Marvel universe. I am also on course staff (tutor) for CS61B this semester. Talk to me about all of the above and looking forward to a great semester. "
     },
     {
         "name": "Brian Liu",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=192iyimVOO6NIRW6x6zBWOTz0MKPl-Aoc",
+        "details": "Hello all! So excited to get litty with data structures this semester. I was a JM last semester and am currently an SM for 61B so please come through. Some of my favorite activities include signing up for classes that r too hard for me, running, and playing video games with my mates."
     },
     {
         "name": "Cassidy Hardin",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1i9aQQnWhkE0hYSuaXPxHMLipFGDWnVQ9",
+        "details": "Hey I'm Cassidy, I'm a fourth year international student. I've spent a lot of time quartaine running, surfing and hiking which have now just become excuses to go outside and avoid online school! I'm super excited to be teaching CSM again this semester and I can't wait meet you and share my love of 61b! Come zoom with me and share your favorite outdoor activities and recipes :)  "
     },
     {
         "name": "Christian Wu",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1p1t8I8SktHRsS-IEecYeTer_YL1OQo2L",
+        "details": "im a 61b sm and this is my 5th semester teaching this class. my greatest joy is hunting down lazy students that don't come to section."
     },
     {
         "name": "Cliff Liu",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=126ALkdhbUEbEtAzFZ8M3rra7h-0hxy6A",
+        "details": "Hi! My name is Cliff, and I'm a 4th year studying Computer Science. I enjoy talking about interesting problems and playing pickup. CS61B is my favorite class at Berkeley and I hope it will be for you as well."
     },
     {
         "name": "Elicia Ye",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1QkqK1nUlF9ekO7Qlga87b6lpOmevWZFO",
+        "details": "Hi! I'm Elicia, a third year CS major. This will be my 4th semester in CSM and 3rd semester teaching 61B! Come talk to me about all the good food you have had since March. I miss Asha tea, La Note brunches, and Sweetheart popcorn chicken from Berkeley."
     },
     {
         "name": "Kayli Jiang",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=189miqEw4qusQrodjeXgyVHK1bcUB6SNH",
+        "details": "Hi! I'm Kayli, and I'm from the Bay Area (Pleasanton). I'm a third year studying CS/Philosophy. Feel free to reach out if you wanna to talk about Parks and Rec, chill rap, or any questions about 61B. I'm excited to meet all of you!"
     },
     {
         "name": "Manu Chopra",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1QziPRfmjb94Zyefb2y-SaLNHFxgyEY99",
+        "details": "Hey Everyone! I\u2019m a junior studying Computer Science here at Berkeley. I\u2019m from Gilroy, California - a city an hour and half south of Berkeley. CS61B is one my favorite classes here at Cal, and I am really excited to being teach you all this fall. In my free time, I play/watch a lot of basketball (Go Warriors!) and eat/cook a lot (Indian food and burritos are my jam)."
     },
     {
         "name": "Mike Chou",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1jDLdG48d3z9U35AVXuxpsTdyowi6fxPE",
+        "details": "\u201cHey all! Exciting to be teaching this semester! I\u2019m a junior majoring in CS and I\u2019ve previously mentored for 61b before and TA'd for 61BL this summer. 61b was definitely my favorite class and I hope you\u2019ll find it as interesting as I did. Some other stuff I enjoy doing: tennis, ice skating, weight lifting (pre-quarantine), petting my dog and following current events! Now at home, I started getting back into gaming. Feel free to talk to me about anything!\n"
     },
     {
         "name": "Nikash Khanna",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1OIOp8RTfV5AJIN0F-aVeZ2gwzP3CE6jf",
+        "details": "Hello! My name is Nikash Khanna and I am a junior studying CS at UC Berkeley. I'm from the Bay Area and some things I like to do for fun are play sports, make music, drive my car, and eat food. 61B was one of my favorite classes at Berkeley so I'm really excited to be a mentor this semester!"
     },
     {
         "name": "Robin Qiu",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1GKdkUlTMP2uY83cxRedd1vySR8b_Keh7",
+        "details": "Hi! I\u2019m a third-year EECS major and Linguistics minor. I like mac and cheese, mini crosswords, writing, and hiking. 61B is one of my favorite classes at Berkeley, and I hope you\u2019ll like it too! Looking forward to a great semester :)"
     },
     {
         "name": "Sameer Saptarshi",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1XzIrzO8P4Fe39hgigeBftLxeRZCicRpN",
+        "details": "Hi everyone! I'm a senior studying EECS and Statistics and this is my 4th semester in CSM. I'm super excited to meet all of you! Feel free to reach out with any questions or to just talk about life :)"
     },
     {
         "name": "Shriya Nandwani",
@@ -1530,10 +1554,12 @@
         }
     },
     {
-        "name": "Suhn Hyoung (Sean) Kim",
+        "name": "Sean Kim",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1hQJdfC6aAGmEXmoDsYrMdEAxYwxjd7Q0",
+        "details": "Hi! My name is Sean and I'm a third-year studying EECS. This is my second semester teaching 61B for CSM and I'm really excited to (virtually) meet you all! You can always catch me getting boba at TPTEA (yes, even now) and I really like KBBQ. If I'm not teaching for CSM or drinking boba I'm probably playing games or trying to make machines learn ;)"
     },
     {
         "name": "Stella Wan",
@@ -2178,5 +2204,15 @@
         "courses": {
             "eecs16b": "Senior Mentor"
         }
+    },
+    {
+        "name": "Ryan Nuqui",
+        "imgUrl": "https://drive.google.com/open?id=11Y2YsxWq7onyFxAymJq2BiCdeI2unoeP",
+        "details": "Hi all, my name is Ryan and I'm a fourth year CS and Applied Math major with a minor in Data Science. I'm super excited to be teaching CS 61B again since it's my favorite class to teach (and I hope you'll be able to enjoy it just as much)! I'm very fond of playing board games, trying my best at badminton, and ducks (feel free to ask me for a rubber duck). Looking forward to a great semester :))"
+    },
+    {
+        "name": "Samantha Adams",
+        "imgUrl": "https://drive.google.com/open?id=1KuFwbB_tjM-tXcDNgCSPScF_Cz0ekw05",
+        "details": "Hi there! I'm a graduating senior in EECS and this is my third semester teaching CS 61B. In my free time (lol what's that), I really enjoy hiking, playing video games, and sleeping in. I also drink way too much chai and I've slowly been teaching myself how to play guitar. I really love this class and can't wait to share that love with you!"
     }
 ]
