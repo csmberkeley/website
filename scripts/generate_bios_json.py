@@ -92,6 +92,11 @@ def parse_bios(csv_path, master_roster_path):
             photo_url = row[Cols.IMG_URL]
             bio = row[Cols.BIO]
             course = row[Cols.COURSE].lower().replace(" ", "")
+            # another hack for malformed data
+            if course == "cs61bcs61b":
+                course = "cs61b"
+            elif course == "eecs16beecs16b":
+                course = "eecs16b"
             role = row[Cols.ROLE]
             if role == "Exec":
                 # print(f"\t{name} for exec")
@@ -111,13 +116,17 @@ def parse_bios(csv_path, master_roster_path):
                             "courses": {course: role},
                         }
                 else:
-                    if not course or course.isspace():
-                        print(f"=== NO COURSE FOUND FOR {name}, SKIPPING FOR NOW ===")
-                    elif "details" not in people_by_email[email_no_dot]:
-                        obj = people_by_email[email_no_dot]
+                    # Assume the latest version of the bio is correct
+                    obj = people_by_email[email_no_dot]
+                    # Jank hack for people who put pref names in one col but not
+                    # the other, assuming they did pref name first
+                    if "name" not in obj:
                         obj["name"] = name
+                    if course and not course.isspace():
                         obj["courses"][course] = role
+                    if photo_url and not photo_url.isspace():
                         obj["imgUrl"] = photo_url
+                    if bio and not bio.isspace():
                         obj["details"] = bio
     # 61B is doing its own form so I'm just hacking in a snippet here
     with open("csvs/bios-61b.csv") as f:
@@ -128,7 +137,12 @@ def parse_bios(csv_path, master_roster_path):
             name = row["Preferred Name"]
             photo_url = row["Photo"]
             bio = row["Biography"]
-            if email_no_dot not in people_by_email:
+            # hardcode coords I guess
+            if name in ["Samantha Adams", "Ryan Nuqui"]:
+                exec_roles[email_no_dot]["imgUrl"] = photo_url
+                exec_bios[email_no_dot]["imgUrl"] = photo_url
+                exec_bios[email_no_dot]["details"] = bio
+            elif email_no_dot not in people_by_email:
                 print(f"=== NO ROLE WAS FOUND FOR 61B MENTOR {name}, SKIPPING FOR NOW ===")
             else:
                 obj = people_by_email[email_no_dot]

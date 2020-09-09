@@ -14,7 +14,8 @@
     {
         "name": "Brian Lee",
         "role": "Internal Vice President",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1I5Q8C-7zw5wlHgXguxMjTD1Oy4LzbknG",
+        "details": "Hi everyone - I am Brian, a 5th Year MS student! I tend to drink an unhealthy amount of Coke Zero, but I am trying to lose weight, so if you catch me drinking it, remind me to stop (please)! I look forward to a great semester with all of you! "
     },
     {
         "name": "Richard Roggenkemper",
@@ -25,7 +26,8 @@
     {
         "name": "Albert Tang",
         "role": "Socials Chair",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=15kNh07c4rhL6pAGUbH8r5ApAE1MzYjzr",
+        "details": "I'd like to think of myself as the Kawhi Leonard of CSM - I'm a fun guy. I am here to make sure that all of you enjoy your virtual semester in CSM :)"
     },
     {
         "name": "Kevin Svetlitski",
@@ -47,12 +49,14 @@
     {
         "name": "Samantha Adams",
         "role": "CS 61B Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1KuFwbB_tjM-tXcDNgCSPScF_Cz0ekw05",
+        "details": "Hi there! I'm a graduating senior in EECS and this is my third semester teaching CS 61B. In my free time (lol what's that), I really enjoy hiking, playing video games, and sleeping in. I also drink way too much chai and I've slowly been teaching myself how to play guitar. I really love this class and can't wait to share that love with you!"
     },
     {
         "name": "Ryan Nuqui",
         "role": "CS 61B Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=11Y2YsxWq7onyFxAymJq2BiCdeI2unoeP",
+        "details": "Hi all, my name is Ryan and I'm a fourth year CS and Applied Math major with a minor in Data Science. I'm super excited to be teaching CS 61B again since it's my favorite class to teach (and I hope you'll be able to enjoy it just as much)! I'm very fond of playing board games, trying my best at badminton, and ducks (feel free to ask me for a rubber duck). Looking forward to a great semester :))"
     },
     {
         "name": "Eden McEwen",
@@ -101,7 +105,8 @@
     {
         "name": "Naomi Sagan",
         "role": "EECS 16B Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=17h09sSCu-om1P8oR7354X6hPFGo6Mv1u",
+        "details": "Hi! I'm Naomi, and I'm excited to be your 16B co-coordinator this semester!  In my spare time, I enjoy running, playing flute and cooking. I've been part of CSM 16B since it was first introduced a year ago, and I want to help make this the best semester of CSM 16B yet!"
     },
     {
         "name": "Dexter Lee",
