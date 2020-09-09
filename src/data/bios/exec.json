@@ -1,102 +1,137 @@
 [
     {
         "name": "Michelle Mao",
-        "role": "President"
+        "role": "President",
+        "imgUrl": "https://drive.google.com/open?id=1zrWJW82j-nsibd2nHIh_H6rVzkfzkmSo",
+        "details": "Graduating senior that spends most of her time on the student-teaching community at Cal. I love this community because in a self-selecting fashion it has gathered the most kind, selfless, and wholehearted people I've met in my four years here. When I'm not on campus (or for this semester in my apt) you can find me biking around Berkeley or snowboarding in Tahoe.\n"
     },
     {
         "name": "Katherine Shu",
-        "role": "External Vice President"
+        "role": "External Vice President",
+        "imgUrl": "https://drive.google.com/open?id=1Z8vQENZj9tNr3u22yXRvZ0aiNBnIbKdA",
+        "details": "Hi! I\u2019m a third year EECS Major from around LA. I enjoy traveling, dancing, and drawing. Against popular belief, I don\u2019t like chocolate and I drink boba with no sugar and no ice. I hope you all have an amazing semester!! :)"
     },
     {
         "name": "Brian Lee",
-        "role": "Internal Vice President"
+        "role": "Internal Vice President",
+        "imgUrl": ""
     },
     {
         "name": "Richard Roggenkemper",
-        "role": "Communications"
+        "role": "Communications",
+        "imgUrl": "https://drive.google.com/open?id=10B0T0DvdDCmQYLvjNgBZcBWBKE3tjkFm",
+        "details": "Hi! My name is Richard. I'm a third year student from Los Gatos, California. I\u2019m a Computer Science/Data Science major. I love skiing, cooking, and anything related to food. I\u2019m excited to be Communications Chair and a CS 61a SAM this semester!"
     },
     {
         "name": "Albert Tang",
-        "role": "Socials Chair"
+        "role": "Socials Chair",
+        "imgUrl": ""
     },
     {
         "name": "Kevin Svetlitski",
-        "role": "Tech Chair"
+        "role": "Tech Chair",
+        "imgUrl": ""
     },
     {
         "name": "Jade Singh",
-        "role": "CS 61A Coordinator"
+        "role": "CS 61A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1MeFKSQ9qlOcZvjXMS4e40r_Omb0rQGSh",
+        "details": "Hi, I'm Jade and I'm a senior studying CS and music!  When I'm not doing 61A related things, you can find me eating Chipotle or watching Disney movies, or maybe even eating Chipotle while watching Disney movies.  I'm also a TA for 61A and this is my sixth time teaching the class, so ask me anything about 61A :)"
     },
     {
         "name": "Jason Chang",
-        "role": "CS 61A Coordinator"
+        "role": "CS 61A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1iLWCDr8suBURJTrbIduBB1rAGo5Dg0eQ",
+        "details": "Hiya, my name is Jason! I'm a fourth-year majoring in Computer Science and Applied Math, and this is my 5th semester with CSM. On the rare occasions when I'm not putting my nose to the grindstone, I really enjoy cooking, listening to Korean music I can only half-understand, and daydreaming about the useless things on my Amazon wishlist."
     },
     {
         "name": "Samantha Adams",
-        "role": "CS 61B Coordinator"
+        "role": "CS 61B Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Ryan Nuqui",
-        "role": "CS 61B Coordinator"
+        "role": "CS 61B Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Eden McEwen",
-        "role": "CS 61C Coordinator"
+        "role": "CS 61C Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Sunay Poole",
-        "role": "CS 61C Coordinator"
+        "role": "CS 61C Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Nima Rezaeian",
-        "role": "CS 70 Coordinator"
+        "role": "CS 70 Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Shadaj Laddad",
-        "role": "CS 70 Coordinator"
+        "role": "CS 70 Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Shreya Kannan",
-        "role": "CS 88 Coordinator"
+        "role": "CS 88 Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1xAOMhg6X53eUbBh4mnIuScOaKONkMqwA",
+        "details": "Hiya everyone, I'm super excited to be with CSM and CS 88 for a fourth semester now! A little about me: I prefer musicals over concerts, cold over warm weather, dancing over singing, and sushi over tacos. I'd love to meet you all, so don't hesitate to reach out!"
     },
     {
         "name": "Sohum Hulyalkar",
-        "role": "CS 88 Coordinator"
+        "role": "CS 88 Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=12bVL2eRXHIfPLEAw2FIzzS4rcWpHZupb",
+        "details": "hi! how's life? hopefully life is going well! if its not, smile and it'll be a bit better :)"
     },
     {
         "name": "Mohsin Sarwari",
-        "role": "EECS 16A Coordinator"
+        "role": "EECS 16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1v4WsR6fbUzGJzX5TxO2VMvr7CqUpS60o",
+        "details": "Hi! I'm a third year CS and Stats Major. I love playing squash (the sport, not the vegetable). I am skilled at ruining family photos and dropping contact lenses. I am passionate about teaching and keen on getting better."
     },
     {
         "name": "Dylan Brater",
-        "role": "EECS 16A Coordinator"
+        "role": "EECS 16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1LHzCYWpyfAJde_f3Qi3xJAGNmMV3dq5Q",
+        "details": "Hi everyone, I'm a third year EECS major and this is my third semester in CSM. My favorite Berkeley restaurant is Thai basil, but I'm currently living in my home town of San Diego. My favorite hobby over quarantine has been rewatching a lot of shows that I loved when I was younger. "
     },
     {
         "name": "Naomi Sagan",
-        "role": "EECS 16B Coordinator"
+        "role": "EECS 16B Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Dexter Lee",
-        "role": "EECS 16B Coordinator"
+        "role": "EECS 16B Coordinator",
+        "imgUrl": ""
     },
     {
         "name": "Alex Kassil",
-        "role": "Advisor"
+        "role": "Advisor",
+        "imgUrl": ""
     },
     {
         "name": "Avinash Nandakumar",
-        "role": "Advisor"
+        "role": "Advisor",
+        "imgUrl": ""
     },
     {
         "name": "Catherine Cang",
-        "role": "Advisor"
+        "role": "Advisor",
+        "imgUrl": ""
     },
     {
         "name": "James Chu",
-        "role": "Advisor"
+        "role": "Advisor",
+        "imgUrl": ""
     },
     {
         "name": "Taejin Hwang",
-        "role": "Advisor"
+        "role": "Advisor",
+        "imgUrl": "https://drive.google.com/open?id=1zckHCRlY5bZJwoMqCrrq4_YnEzvI3_0J",
+        "details": "I'm old and give advice."
     }
 ]

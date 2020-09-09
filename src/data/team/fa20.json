@@ -1,102 +1,127 @@
 [
     {
         "name": "Michelle Mao",
+        "imgUrl": "https://drive.google.com/open?id=1zrWJW82j-nsibd2nHIh_H6rVzkfzkmSo",
         "position": "President"
     },
     {
         "name": "Katherine Shu",
+        "imgUrl": "https://drive.google.com/open?id=1Z8vQENZj9tNr3u22yXRvZ0aiNBnIbKdA",
         "position": "External Vice President"
     },
     {
         "name": "Brian Lee",
+        "imgUrl": "",
         "position": "Internal Vice President"
     },
     {
         "name": "Richard Roggenkemper",
+        "imgUrl": "https://drive.google.com/open?id=10B0T0DvdDCmQYLvjNgBZcBWBKE3tjkFm",
         "position": "Communications"
     },
     {
         "name": "Albert Tang",
+        "imgUrl": "",
         "position": "Socials Chair"
     },
     {
         "name": "Kevin Svetlitski",
+        "imgUrl": "",
         "position": "Tech Chair"
     },
     {
         "name": "Jade Singh",
+        "imgUrl": "https://drive.google.com/open?id=1MeFKSQ9qlOcZvjXMS4e40r_Omb0rQGSh",
         "position": "CS 61A Coordinator"
     },
     {
         "name": "Jason Chang",
+        "imgUrl": "https://drive.google.com/open?id=1iLWCDr8suBURJTrbIduBB1rAGo5Dg0eQ",
         "position": "CS 61A Coordinator"
     },
     {
         "name": "Samantha Adams",
+        "imgUrl": "",
         "position": "CS 61B Coordinator"
     },
     {
         "name": "Ryan Nuqui",
+        "imgUrl": "",
         "position": "CS 61B Coordinator"
     },
     {
         "name": "Eden McEwen",
+        "imgUrl": "",
         "position": "CS 61C Coordinator"
     },
     {
         "name": "Sunay Poole",
+        "imgUrl": "",
         "position": "CS 61C Coordinator"
     },
     {
         "name": "Nima Rezaeian",
+        "imgUrl": "",
         "position": "CS 70 Coordinator"
     },
     {
         "name": "Shadaj Laddad",
+        "imgUrl": "",
         "position": "CS 70 Coordinator"
     },
     {
         "name": "Shreya Kannan",
+        "imgUrl": "https://drive.google.com/open?id=1xAOMhg6X53eUbBh4mnIuScOaKONkMqwA",
         "position": "CS 88 Coordinator"
     },
     {
         "name": "Sohum Hulyalkar",
+        "imgUrl": "https://drive.google.com/open?id=12bVL2eRXHIfPLEAw2FIzzS4rcWpHZupb",
         "position": "CS 88 Coordinator"
     },
     {
         "name": "Mohsin Sarwari",
+        "imgUrl": "https://drive.google.com/open?id=1v4WsR6fbUzGJzX5TxO2VMvr7CqUpS60o",
         "position": "EECS 16A Coordinator"
     },
     {
         "name": "Dylan Brater",
+        "imgUrl": "https://drive.google.com/open?id=1LHzCYWpyfAJde_f3Qi3xJAGNmMV3dq5Q",
         "position": "EECS 16A Coordinator"
     },
     {
         "name": "Naomi Sagan",
+        "imgUrl": "",
         "position": "EECS 16B Coordinator"
     },
     {
         "name": "Dexter Lee",
+        "imgUrl": "",
         "position": "EECS 16B Coordinator"
     },
     {
         "name": "Alex Kassil",
+        "imgUrl": "",
         "position": "Advisor"
     },
     {
         "name": "Avinash Nandakumar",
+        "imgUrl": "",
         "position": "Advisor"
     },
     {
         "name": "Catherine Cang",
+        "imgUrl": "",
         "position": "Advisor"
     },
     {
         "name": "James Chu",
+        "imgUrl": "",
         "position": "Advisor"
     },
     {
         "name": "Taejin Hwang",
+        "imgUrl": "https://drive.google.com/open?id=1zckHCRlY5bZJwoMqCrrq4_YnEzvI3_0J",
         "position": "Advisor"
     }
 ]
