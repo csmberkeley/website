@@ -128,11 +128,12 @@ def parse_bios(csv_path, master_roster_path):
             photo_url = row["Photo"]
             bio = row["Biography"]
             if email_no_dot not in people_by_email:
-                people_by_email[email_no_dot] = {}
-            obj = people_by_email[email_no_dot]
-            obj["name"] = name
-            obj["imgUrl"] = photo_url
-            obj["details"] = bio
+                print(f"=== NO ROLE WAS FOUND FOR 61B MENTOR {name}, SKIPPING FOR NOW ===")
+            else:
+                obj = people_by_email[email_no_dot]
+                obj["name"] = name
+                obj["imgUrl"] = photo_url
+                obj["details"] = bio
     return people_by_email
 
 
