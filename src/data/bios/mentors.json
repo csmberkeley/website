@@ -1792,7 +1792,7 @@
             "cs70": "Junior Mentor"
         },
         "imgUrl": "https://drive.google.com/open?id=1GGe0CX2vp6-REEoFhVPcy9o2QkqP53DV",
-        "details": "Hi! I'm a sophomore studying EECS and I'm from the Palo Alto, just an hour from Berkeley. In my free time, you can catch me jamming on my guitar, cooking (a lot), watching sports (basketball, football, soccer), hooping, and watching Netflix."
+        "details": "Hi! I'm a sophomore studying EECS and I'm from Palo Alto, just an hour from Berkeley. In my free time, you can catch me jamming on my guitar, cooking (a lot), watching sports (basketball, football, soccer), hooping, and watching Netflix."
     },
     {
         "name": "Khoa Pham",
@@ -2053,12 +2053,30 @@
         }
     },
     {
+        "name": "Abinav Routhu",
+        "courses": {
+            "cs70": "Content Mentor"
+        }
+    },
+    {
         "name": "Aishani Sil",
         "courses": {
             "cs70": "Content Mentor"
         },
         "imgUrl": "https://drive.google.com/open?id=14YW0CM8zbYqthrjr6pgutgrBf9bNMvxp",
         "details": "Hi there :D I\u2019m Aishani, a third year computer science major, and I\u2019m on the content team for CSM70 this semester! I\u2019m also a reader for this class so say hi if you see me in 70 office hours. I\u2019ve lived in about 7 cities so far, but I consider Plano, TX to be my hometown! Some random things I enjoy are making digital art, listening to kpop, taking kahoot and skribbl way too seriously (pls suggest different quarantine games), and putting stickers on all of my possessions :)) Feel free to reach out to chat about anything!"
+    },
+    {
+        "name": "Austin Lei",
+        "courses": {
+            "cs70": "Content Mentor"
+        }
+    },
+    {
+        "name": "Debayan Bandyopadhyay",
+        "courses": {
+            "cs70": "Content Mentor"
+        }
     },
     {
         "name": "Sydnie Shea Cohen ",
