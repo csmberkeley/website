@@ -115,6 +115,7 @@ def parse_bios(csv_path, master_roster_path):
                         print(f"=== NO COURSE FOUND FOR {name}, SKIPPING FOR NOW ===")
                     elif "details" not in people_by_email[email_no_dot]:
                         obj = people_by_email[email_no_dot]
+                        obj["name"] = name
                         obj["courses"][course] = role
                         obj["imgUrl"] = photo_url
                         obj["details"] = bio
