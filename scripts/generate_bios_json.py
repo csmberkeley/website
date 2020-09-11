@@ -88,7 +88,8 @@ def parse_bios(csv_path, master_roster_path):
             email = row[Cols.EMAIL]
             email_no_dot = email.replace(".", "").lower().strip()
             pref_name = row[Cols.PREF_NAME]
-            name = row[Cols.NAME] if not pref_name or pref_name.isspace() else pref_name
+            use_pref_name = pref_name and not pref_name.isspace()
+            name = row[Cols.NAME] if not use_pref_name else pref_name
             photo_url = row[Cols.IMG_URL]
             bio = row[Cols.BIO]
             course = row[Cols.COURSE].lower().replace(" ", "")
@@ -118,9 +119,7 @@ def parse_bios(csv_path, master_roster_path):
                 else:
                     # Assume the latest version of the bio is correct
                     obj = people_by_email[email_no_dot]
-                    # Jank hack for people who put pref names in one col but not
-                    # the other, assuming they did pref name first
-                    if "name" not in obj:
+                    if use_pref_name:
                         obj["name"] = name
                     if course and not course.isspace():
                         obj["courses"][course] = role

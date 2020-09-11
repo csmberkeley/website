@@ -350,7 +350,7 @@
         "details": "Hi! My name is Elizabeth John, and I'm a sophomore here at UC Berkeley. I came into college protesting that I would never do computer science, but once I tried 61A, I couldn't stop coding. Though my programming experience has been short in duration, it has been very fruitful in learning. I also have a great passion for teaching, and I got to AI for 61A in my second semester. In my free time, I enjoy recording my own music for my YouTube channel, reading books, and watching Indian movies. My favorite food is biriyani (because really, you can't beat that heavenly taste ;~;). I'm really excited to get to know you over the course of this semester!"
     },
     {
-        "name": "Yixin Zhang",
+        "name": "Serena Zhang",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -366,7 +366,7 @@
         "details": "Heyo! I'm Eugenia and I'm a 2nd year intended CS major. I'm also in Cal Band and Cal Women in Gaming. Talk to me about Brooklyn 99, Minecraft, and LCS :)"
     },
     {
-        "name": "Alexander Parra",
+        "name": "Alex Parra",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -374,7 +374,7 @@
         "details": "Hey there! I've been teaching code for a long while now, through summer camps and jobs, and I am excited to be a CSM mentor this semester! I love photography, running, and listening to music. My music tastes range from mainstream pop/rap to underground rave artists. You can normally find me at Asha in Downtown, or Feng Cha and Yifang in Southside\u2014I'm a boba addict. I hope to be a fun mentor and I hope you'll join me in my section this semester!"
     },
     {
-        "name": "Junyang Wang",
+        "name": "Jero Wang",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -406,7 +406,7 @@
         "details": "Hey everybody! My name is Blake Werner; I'm a second year double majoring in Mechanical Engineering and EECS. In what little free time I have, I enjoy playing sports (soccer, tennis, baseball), writing and performing bad music (singing, piano), and messing around with flying things (model rockets, rc airplanes). Looking forward to seeing you all in section!"
     },
     {
-        "name": "Kevin Wang",
+        "name": "Kev Wang",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -500,7 +500,7 @@
         "details": "Hi! My name is Alex and I am a second year majoring in economics and computer science. I am from Shanghai but I am currently in the Berkeley area. I took cs61a with no prior experience and I believe that with enough hard work and the right people, 61a can also be an enjoyable and meaningful experience for you! Looking forward to meeting you! "
     },
     {
-        "name": "Osvaldo Valadez",
+        "name": "Osvaldo 'Ozzy' Valadez",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -524,7 +524,7 @@
         "details": "Hey! I'm Peter (he/him) and I'm a first year intended CS major. I loved 61A and I want you to love it too. When I'm not in a Zoom lecture, I enjoy hiking, philosophy podcasts, Ski Mask the Slump God, and fried rice. I'm excited to meet you!"
     },
     {
-        "name": "Priyans Nishithkumar Desai",
+        "name": "Priyans Desai",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -548,7 +548,7 @@
         "details": "Hi! I'm Grace, and I'm a sophomore intended CS. In my free time, I like to take a nap because naps are great. : ' ) "
     },
     {
-        "name": "John Ian So",
+        "name": "John So",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -636,7 +636,7 @@
         "details": "Fourth Year L&S, CS + Math Major and serial procrastinator. This is my second semester mentoring for CSM, but my first time getting to mentor CS61a and I am very excited to do so! I love watching good music and listening to good movies. I can teach you how to go beep boop on the computer."
     },
     {
-        "name": "Abinaya Srikant",
+        "name": "Abi Srikant",
         "courses": {
             "cs61a": "Junior Mentor"
         },
@@ -749,7 +749,7 @@
         "details": "Hi everyone, I'm Jeffrey! I'm a second-year EECS major and this is my second semester with CSM. I enjoy playing tennis, finding the weirdest home workouts, and eating. Outside of CSM, I'm involved with HKN and XR@Berkeley. Look forward to meeting you all this semester!"
     },
     {
-        "name": "Chi En Tsai",
+        "name": "Chi Tsai",
         "courses": {
             "cs61a": "Associate Mentor",
             "cs61b": "Junior Mentor",
@@ -954,7 +954,7 @@
         "details": "Hello! I'm Jemmy and I'm a fourth year CS major from the Bay Area. My pronouns are he/him. In my spare time, I love watching sports, playing video games, and browsing through r/buildapcsales. This will be my 8th time teaching 61A. Excited to meet everyone!"
     },
     {
-        "name": "Aidan Hew Yeung Tong",
+        "name": "Aidan Tong",
         "courses": {
             "cs61a": "Senior Mentor"
         },
@@ -1069,7 +1069,7 @@
         "details": "Hello! I'm Ethan and I'm a 4th year majoring in CS and physics. In my free time I like to listen to music, play badminton, and eat food. Always down to talk about any of the above things or anything in general!"
     },
     {
-        "name": "Cathering Cang",
+        "name": "Catherine",
         "courses": {
             "cs61a": "Senior Content Mentor"
         },
@@ -1142,7 +1142,7 @@
         "details": "Hey I'm Enya, a second-year from Fremont, CA. I'm excited to teach 61B again this semester and I love ducks, lighthouses, and cloudy weather (especially when that sweet sweet autumn chill hits). "
     },
     {
-        "name": "Haiming Xu",
+        "name": "Eric Xu",
         "courses": {
             "cs61b": "Content Mentor"
         },
@@ -1422,7 +1422,7 @@
         "details": "Hello! I am a 3rd year studying CS and I am excited to get to know y'all this semester! I love playing badminton and binging TV shows, but I also love 61b. I've been helping students as an academic intern ever since I took the class last year, so I hope I can get you to love the class as much as I do. :)"
     },
     {
-        "name": "Saikumar Gantla",
+        "name": "Sai Gantla",
         "courses": {
             "cs61b": "Junior Mentor"
         },
@@ -1614,7 +1614,7 @@
         "details": "Hi! I am a 3rd year EECS major from Mumbai, India. I spend my free time exploring new ways to procrastinate. Most recently I\u2019ve been reading about data analytics in healthcare and algorithms in high performance motorsports. I\u2019ve gotten bored of TV shows in lockdown, so open to suggestions. I really miss Berkeley restaurants and can't wait to be back in the Spring! Let\u2019s make the best of this semester!"
     },
     {
-        "name": "Clara Mohri",
+        "name": "Clara",
         "courses": {
             "cs61c": "Junior Mentor"
         },
@@ -1722,7 +1722,7 @@
         "details": "I am currently a sophomore, and I am majoring in Computer Science. In my spare time, I enjoy playing type-racer and browsing reddit."
     },
     {
-        "name": "Xiaodan Fang",
+        "name": "Isolde Fang",
         "courses": {
             "cs70": "Junior Mentor"
         },
@@ -1859,7 +1859,7 @@
         "details": "Hey everyone! I'm a second year Materials Science and Engineering major from Walnut, CA, and I'm planning to minor in EECS. I really enjoy board games, playing basketball, watching movies (favorites are Fantastic Mr. Fox, Arrival, and La La Land), and getting into a good TV show (currently finishing up Hannibal). My favorite places to get food are Yali's, Top Dog, and Asha's. I like to talk about pretty much anything, so feel free to reach out to chat!"
     },
     {
-        "name": "Vinayaka (Vinny) Srinivas",
+        "name": "Vinny Srinivas",
         "courses": {
             "cs70": "Junior Mentor"
         },
@@ -1923,7 +1923,7 @@
         "details": "Hi! My name is Srisai, and I'm a second-year EECS major from San Ramon, CA. This is my first time teaching CSM, and I'm super excited to mentor this semester! In my free time I like playing basketball, watching Netflix, and spending time with my friends (virtually on Zoom now unfortunately). My favorite animal is a llama if you consider that a personality trait. "
     },
     {
-        "name": "Srinivasan Madhavan",
+        "name": "Seenu Madhavan",
         "courses": {
             "cs70": "Junior Mentor"
         },
@@ -2003,7 +2003,7 @@
         "details": "Hey yall, I'm a second time senior mentor/3rd sem in csm and I'm looking forward to this semester! I'm a junior majoring in CS and applied math, and I worked at amazon last summer, probably returning next summer too. I'm also pretty social so I'm looking to have a comfortable, chill, and interactive section."
     },
     {
-        "name": "Sylvia Wang Jin",
+        "name": "Sylvia Jin",
         "courses": {
             "cs70": "Senior Mentor"
         },
@@ -2031,7 +2031,7 @@
         }
     },
     {
-        "name": "Aniruddha Nrusimha",
+        "name": "Nrusimha Aniruddha",
         "courses": {
             "cs70": "Senior Mentor"
         },
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "name": "Sydnie Shea Cohen ",
+        "name": "Shea Cohen",
         "courses": {
             "cs88": "Junior Mentor"
         },
