@@ -31,7 +31,7 @@ export default class Mentors extends React.Component {
                             {Labels.SECTIONS.RESPONSIBILITIES.BODY_JSX}
                         </div>
                     </div>
-                    <img src="/img/CSMStructurePeople.jpg" style={{
+                    <img src="/img/CSMStructurePeople.jpg" alt="CSM Structure" style={{
                         width: "60em", marginLeft: "auto", marginRight: "auto", display: "block"
                     }}/>
                     <div className="divider"></div>
