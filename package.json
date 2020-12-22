@@ -53,6 +53,9 @@
     ]
   },
   "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.0",
     "prettier": "1.19.1",
     "react-snap": "^1.23.0"
   }
