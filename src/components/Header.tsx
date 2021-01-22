@@ -42,7 +42,7 @@ class LinkList extends React.Component<LinkProps> {
 
 export default class Header extends React.Component {
     componentDidMount() {
-        document.addEventListener("DOMContentLoaded", function() {
+        document.addEventListener("DOMContentLoaded", function () {
             var elems = document.querySelectorAll(".sidenav");
             M.Sidenav.init(elems, {});
         });

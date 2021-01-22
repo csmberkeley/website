@@ -83,7 +83,7 @@ class BioCourse extends React.Component<{ course: string }> {
                                               src={utils.getEmbeddableDriveImageLink(
                                                   bio.imgUrl
                                               )}
-                                              onError={function(e) {
+                                              onError={function (e) {
                                                   (e.target as HTMLImageElement).src = placeholderImg;
                                               }}
                                               style={{ marginTop: "8px" }}

@@ -125,7 +125,7 @@ class SemesterTeam extends React.Component<{ semester: string }> {
                                                   )
                                         }
                                         alt={officer.name}
-                                        onError={function(e) {
+                                        onError={function (e) {
                                             (e.target as HTMLImageElement).src = placeholderImg;
                                         }}
                                     />
