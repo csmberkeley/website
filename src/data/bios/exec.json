@@ -52,7 +52,10 @@
     {
         "name": "Dylan Brater",
         "role": "EECS 16A Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1funtRiYe5EMnxnAtlmURmKKbyPzQfY-p",
+        "pronouns": "He/Him/His",
+        "details": "Hi all, my name is Dylan and I'm one of the 16A coordinators. Over quarantine I've started watching a lot of movies, playing a lot of video games, and running.",
+        "webUrl": ""
     },
     {
         "name": "Mohsin Sarwari",
@@ -83,7 +86,10 @@
     {
         "name": "Ivan Penev",
         "role": "CS 61A Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1OAyy1vgWmVbQ39IZrZhNOUUKCPmwtbLU",
+        "pronouns": "he/him",
+        "details": "Stop Dreamin' Start Schemin'",
+        "webUrl": ""
     },
     {
         "name": "Elicia Ye",
