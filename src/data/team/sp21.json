@@ -1,0 +1,135 @@
+[
+    {
+        "name": "Richard Roggenkemper",
+        "imgUrl": "https://drive.google.com/open?id=14B-H9avoRDwAAJvj60yLvDRQvADsIgm1",
+        "position": "President",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Eden McEwen",
+        "imgUrl": "",
+        "position": "External Vice President"
+    },
+    {
+        "name": "Naomi Sagan",
+        "imgUrl": "https://drive.google.com/open?id=1W3QJqapEe_eefZ_TepYgeugV-jmS3735",
+        "position": "Internal Vice President",
+        "pronouns": "She/her"
+    },
+    {
+        "name": "Kaitlyn Lee",
+        "imgUrl": "https://drive.google.com/open?id=1aF7UAwv1dW7WYXLJy43dJV9IZiLxO7IR",
+        "position": "Communications",
+        "pronouns": ""
+    },
+    {
+        "name": "Cooper Bedin",
+        "imgUrl": "https://drive.google.com/open?id=1EdW29jwVZojkQC7FQ-dlKiVRCTjVaauz",
+        "position": "Socials Chair",
+        "pronouns": "they/them"
+    },
+    {
+        "name": "Rohan D'Souza",
+        "imgUrl": "",
+        "position": "Tech Chair"
+    },
+    {
+        "name": "Jade Singh",
+        "imgUrl": "https://drive.google.com/open?id=1rO-MukbXRZCzvkhQq2erjxgiQbqIbJCV",
+        "position": "DE&I Chair",
+        "pronouns": "She/her"
+    },
+    {
+        "name": "Dylan Brater",
+        "imgUrl": "",
+        "position": "EECS 16A Coordinator"
+    },
+    {
+        "name": "Mohsin Sarwari",
+        "imgUrl": "https://drive.google.com/open?id=1-VtLPsRNb48xaTi3S_jcv3mPRpKQlSMn",
+        "position": "EECS 16A Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Aneesh Nathani",
+        "imgUrl": "",
+        "position": "EECS 16B Coordinator"
+    },
+    {
+        "name": "Risheek Pingili",
+        "imgUrl": "",
+        "position": "EECS 16B Coordinator"
+    },
+    {
+        "name": "Joshua Baum",
+        "imgUrl": "https://drive.google.com/open?id=1I3-2FL-Vk26hTFNiC8Ukyz8fNDFhNPWH",
+        "position": "CS 61A Coordinator",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Ivan Penev",
+        "imgUrl": "",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Elicia Ye",
+        "imgUrl": "https://drive.google.com/open?id=1po7Pn0-1rCbsSYusuX4VtLohhlBcNvSD",
+        "position": "CS 61B Coordinator",
+        "pronouns": ""
+    },
+    {
+        "name": "Ryan Nuqui",
+        "imgUrl": "",
+        "position": "CS 61B Coordinator"
+    },
+    {
+        "name": "Archita Bhattacharya",
+        "imgUrl": "https://drive.google.com/open?id=1lADOMMhGYRwlljoYcoBqoda7sEjXoJTv",
+        "position": "CS 61C Coordinator",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Ivy Li",
+        "imgUrl": "https://drive.google.com/open?id=1dP3jtUY0jpC2yYP3Q-JzlZiHqCAMhGmZ",
+        "position": "CS 61C Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Shadaj Laddad",
+        "imgUrl": "https://drive.google.com/open?id=1optH5pt7hnuG4Kd_Lpxb8zwV09V7DIKL",
+        "position": "CS 70 Coordinator",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Nima Rezaeian ",
+        "imgUrl": "",
+        "position": "CS 70 Coordinator"
+    },
+    {
+        "name": "Ada Hu",
+        "imgUrl": "",
+        "position": "CS 88 Coordinator"
+    },
+    {
+        "name": "Tony Kam",
+        "imgUrl": "",
+        "position": "CS 88 Coordinator"
+    },
+    {
+        "name": "Katherine Shu",
+        "imgUrl": "https://drive.google.com/open?id=1AB9wQAZLQe6_NYQsy1NgBL37f0GWry3j",
+        "position": "Advisor",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Albert Tang",
+        "imgUrl": "https://drive.google.com/open?id=1MQ7UNSyz26MoAFVl9Otv1D8F-qY5aqFO",
+        "position": "Advisor",
+        "pronouns": "He/Him/His"
+    },
+    {
+        "name": "Danny Chu",
+        "imgUrl": "",
+        "position": "Advisor"
+    }
+]

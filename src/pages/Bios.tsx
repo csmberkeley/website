@@ -15,8 +15,10 @@ const LOWERCASE_COURSES = courses.map(s => s.toLowerCase());
 
 interface BioObj {
     name: string;
+    pronouns?: string;
     role: string;
     imgUrl?: string;
+    webUrl?: string;
     details?: string;
 }
 
@@ -29,8 +31,10 @@ for (let mentor of mentorBios) {
     for (let [course, role] of Object.entries(mentor.courses)) {
         bios[course].push({
             name: mentor.name,
+            pronouns: mentor.pronouns,
             role: role!,
             imgUrl: mentor.imgUrl,
+            webUrl: mentor.webUrl,
             details: mentor.details,
         });
     }
@@ -93,9 +97,22 @@ class BioCourse extends React.Component<{ course: string }> {
                                       </div>
                                   </td>
                                   <td className="bio">
-                                      <p className="label">{bio.name}</p>
+                                      <p className="label">
+                                        {bio.webUrl ? 
+                                        (<a href={bio.webUrl}>{bio.name}</a>)
+                                        : bio.name
+                                        }
+                                        {bio.pronouns &&
+                                          <>
+                                            &nbsp;
+                                            <small>
+                                              [{bio.pronouns.toLowerCase()}]
+                                            </small>
+                                          </>
+                                        }
+                                      </p>
                                       <p>{bio.role}</p>
-                                      <div
+                                      <div style={{whiteSpace: "break-spaces"}}
                                           dangerouslySetInnerHTML={{
                                               __html: bio.details
                                                   ? sanitizeHtml(bio.details)

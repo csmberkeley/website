@@ -1,6 +1,6 @@
 const dutyDict: { [role: string]: string } = {
     President:
-        "plans semester's organizational timeline and outreach efforts, leads exec meetings, works " +
+        "Plans semester's organizational timeline and outreach efforts, leads exec meetings, works " +
         "jointly with other exec roles.",
     "Internal Vice President":
         "Acts as ASUC/ESC liasion, drafts CSM budget, in charge of fundraisers, branding, and marketing.",
@@ -18,6 +18,9 @@ const dutyDict: { [role: string]: string } = {
     "Tech Chair":
         "Leads software development of Scheduler, internal interviewing software, and other apps at " +
         "https://github.com/csmberkeley. Acts as product manager.",
+    "DE&I Chair":
+        "Helps create more equitable recruiting and works on initiatives for gender inclusivity in sections, " +
+        "mental health, URM students, and first generation students. Leads DE&I task force within CSM.",
     Advisor:
         "Provides input and advice during meetings to all members of Exec, assists with transition " +
         "/ training of new exec memebers.",

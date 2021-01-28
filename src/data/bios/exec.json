@@ -1,142 +1,161 @@
 [
     {
-        "name": "Michelle Mao",
-        "role": "President",
-        "imgUrl": "https://drive.google.com/open?id=1zrWJW82j-nsibd2nHIh_H6rVzkfzkmSo",
-        "details": "Graduating senior that spends most of her time on the student-teaching community at Cal. I love this community because in a self-selecting fashion it has gathered the most kind, selfless, and wholehearted people I've met in my four years here. When I'm not on campus (or for this semester in my apt) you can find me biking around Berkeley or snowboarding in Tahoe.\n"
-    },
-    {
-        "name": "Katherine Shu",
-        "role": "External Vice President",
-        "imgUrl": "https://drive.google.com/open?id=1Z8vQENZj9tNr3u22yXRvZ0aiNBnIbKdA",
-        "details": "Hi! I\u2019m a third year EECS Major from around LA. I enjoy traveling, dancing, and drawing. Against popular belief, I don\u2019t like chocolate and I drink boba with no sugar and no ice. I hope you all have an amazing semester!! :)"
-    },
-    {
-        "name": "Brian Lee",
-        "role": "Internal Vice President",
-        "imgUrl": "https://drive.google.com/open?id=1I5Q8C-7zw5wlHgXguxMjTD1Oy4LzbknG",
-        "details": "Hi everyone - I am Brian, a 5th Year MS student! I tend to drink an unhealthy amount of Coke Zero, but I am trying to lose weight, so if you catch me drinking it, remind me to stop (please)! I look forward to a great semester with all of you! "
-    },
-    {
         "name": "Richard Roggenkemper",
+        "role": "President",
+        "imgUrl": "https://drive.google.com/open?id=14B-H9avoRDwAAJvj60yLvDRQvADsIgm1",
+        "pronouns": "he/him/his",
+        "details": "Hi! My name is Richard. I'm a third year student from Los Gatos, California. I\u2019m a Computer Science/Data Science major. I love skiing, cooking, and anything related to food. I\u2019m excited to be President of CSM this semester.",
+        "webUrl": ""
+    },
+    {
+        "name": "Eden McEwen",
+        "role": "External Vice President",
+        "imgUrl": ""
+    },
+    {
+        "name": "Naomi Sagan",
+        "role": "Internal Vice President",
+        "imgUrl": "https://drive.google.com/open?id=1W3QJqapEe_eefZ_TepYgeugV-jmS3735",
+        "pronouns": "She/her",
+        "details": "Hi! I'm Naomi and I'm excited to be your IVP this semester. I've been in CSM since my second semester at Berkeley (I was previously 16B Coord), and it's been one of the best parts of my college career. In my free time, I like to play flute, run, cook and watch TV, and before the pandemic I enjoyed trying out brunch spots around Berkeley. ",
+        "webUrl": ""
+    },
+    {
+        "name": "Kaitlyn Lee",
         "role": "Communications",
-        "imgUrl": "https://drive.google.com/open?id=10B0T0DvdDCmQYLvjNgBZcBWBKE3tjkFm",
-        "details": "Hi! My name is Richard. I'm a third year student from Los Gatos, California. I\u2019m a Computer Science/Data Science major. I love skiing, cooking, and anything related to food. I\u2019m excited to be Communications Chair and a CS 61a SAM this semester!"
+        "imgUrl": "https://drive.google.com/open?id=1aF7UAwv1dW7WYXLJy43dJV9IZiLxO7IR",
+        "pronouns": "",
+        "details": "Hello, I\u2019m Kaitlyn! I\u2019m a 3rd year EECS major from the Bay Area. I like to experiment with cooking and find new boba places to try. Looking forward to a great semester!",
+        "webUrl": ""
     },
     {
-        "name": "Albert Tang",
+        "name": "Cooper Bedin",
         "role": "Socials Chair",
-        "imgUrl": "https://drive.google.com/open?id=15kNh07c4rhL6pAGUbH8r5ApAE1MzYjzr",
-        "details": "I'd like to think of myself as the Kawhi Leonard of CSM - I'm a fun guy. I am here to make sure that all of you enjoy your virtual semester in CSM :)"
+        "imgUrl": "https://drive.google.com/open?id=1EdW29jwVZojkQC7FQ-dlKiVRCTjVaauz",
+        "pronouns": "they/them",
+        "details": "Hey there! I'm a third-year majoring in linguistics and computer science, and I'm super excited to be CSM's social chair this semester! I love computational syntax, speech perception, 2000s emo rock, and RuPaul's Drag race, and I also do lots and lots of technical theater with the student group BareStage. If we ever make it back to campus you'll be able to find me firmly planted in the ling department in the basement of Dwinelle, but for now I'm making do with my little desk-under-a-loft-bed at home.",
+        "webUrl": ""
     },
     {
-        "name": "Kevin Svetlitski",
+        "name": "Rohan D'Souza",
         "role": "Tech Chair",
         "imgUrl": ""
     },
     {
         "name": "Jade Singh",
-        "role": "CS 61A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1MeFKSQ9qlOcZvjXMS4e40r_Omb0rQGSh",
-        "details": "Hi, I'm Jade and I'm a senior studying CS and music!  When I'm not doing 61A related things, you can find me eating Chipotle or watching Disney movies, or maybe even eating Chipotle while watching Disney movies.  I'm also a TA for 61A and this is my sixth time teaching the class, so ask me anything about 61A :)"
-    },
-    {
-        "name": "Jason Chang",
-        "role": "CS 61A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1iLWCDr8suBURJTrbIduBB1rAGo5Dg0eQ",
-        "details": "Hiya, my name is Jason! I'm a fourth-year majoring in Computer Science and Applied Math, and this is my 5th semester with CSM. On the rare occasions when I'm not putting my nose to the grindstone, I really enjoy cooking, listening to Korean music I can only half-understand, and daydreaming about the useless things on my Amazon wishlist."
-    },
-    {
-        "name": "Samantha Adams",
-        "role": "CS 61B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1KuFwbB_tjM-tXcDNgCSPScF_Cz0ekw05",
-        "details": "Hi there! I'm a graduating senior in EECS and this is my third semester teaching CS 61B. In my free time (lol what's that), I really enjoy hiking, playing video games, and sleeping in. I also drink way too much chai and I've slowly been teaching myself how to play guitar. I really love this class and can't wait to share that love with you!"
-    },
-    {
-        "name": "Ryan Nuqui",
-        "role": "CS 61B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=11Y2YsxWq7onyFxAymJq2BiCdeI2unoeP",
-        "details": "Hi all, my name is Ryan and I'm a fourth year CS and Applied Math major with a minor in Data Science. I'm super excited to be teaching CS 61B again since it's my favorite class to teach (and I hope you'll be able to enjoy it just as much)! I'm very fond of playing board games, trying my best at badminton, and ducks (feel free to ask me for a rubber duck). Looking forward to a great semester :))"
-    },
-    {
-        "name": "Eden McEwen",
-        "role": "CS 61C Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Sunay Poole",
-        "role": "CS 61C Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Nima Rezaeian",
-        "role": "CS 70 Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Shadaj Laddad",
-        "role": "CS 70 Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Shreya Kannan",
-        "role": "CS 88 Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1xAOMhg6X53eUbBh4mnIuScOaKONkMqwA",
-        "details": "Hiya everyone, I'm super excited to be with CSM and CS 88 for a fourth semester now! A little about me: I prefer musicals over concerts, cold over warm weather, dancing over singing, and sushi over tacos. I'd love to meet you all, so don't hesitate to reach out!"
-    },
-    {
-        "name": "Sohum Hulyalkar",
-        "role": "CS 88 Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=12bVL2eRXHIfPLEAw2FIzzS4rcWpHZupb",
-        "details": "hi! how's life? hopefully life is going well! if its not, smile and it'll be a bit better :)"
-    },
-    {
-        "name": "Mohsin Sarwari",
-        "role": "EECS 16A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1v4WsR6fbUzGJzX5TxO2VMvr7CqUpS60o",
-        "details": "Hi! I'm a third year CS and Stats Major. I love playing squash (the sport, not the vegetable). I am skilled at ruining family photos and dropping contact lenses. I am passionate about teaching and keen on getting better."
+        "role": "DE&I Chair",
+        "imgUrl": "https://drive.google.com/open?id=1rO-MukbXRZCzvkhQq2erjxgiQbqIbJCV",
+        "pronouns": "She/her",
+        "details": "Hi, I'm Jade and I'm a senior studying CS and music!  This is my sixth semester in CSM and I'm super excited to be the club's first ever DE&I Chair.  Outside of CSM, I'm a head TA for CS 184 and I like to watch Food Network shows and pretend I'm a food expert :)",
+        "webUrl": ""
     },
     {
         "name": "Dylan Brater",
         "role": "EECS 16A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1LHzCYWpyfAJde_f3Qi3xJAGNmMV3dq5Q",
-        "details": "Hi everyone, I'm a third year EECS major and this is my third semester in CSM. My favorite Berkeley restaurant is Thai basil, but I'm currently living in my home town of San Diego. My favorite hobby over quarantine has been rewatching a lot of shows that I loved when I was younger. "
+        "imgUrl": ""
     },
     {
-        "name": "Naomi Sagan",
+        "name": "Mohsin Sarwari",
+        "role": "EECS 16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1-VtLPsRNb48xaTi3S_jcv3mPRpKQlSMn",
+        "pronouns": "he/him/his",
+        "details": "Hi! I'm a 3rd year CS + Stats Major interested in all things Robotics and AI. In my free time, I enjoy playing squash, discussing politics, and ruining family photos. Looking forward to another semester at Zoom University!",
+        "webUrl": ""
+    },
+    {
+        "name": "Aneesh Nathani",
         "role": "EECS 16B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=17h09sSCu-om1P8oR7354X6hPFGo6Mv1u",
-        "details": "Hi! I'm Naomi, and I'm excited to be your 16B co-coordinator this semester!  In my spare time, I enjoy running, playing flute and cooking. I've been part of CSM 16B since it was first introduced a year ago, and I want to help make this the best semester of CSM 16B yet!"
+        "imgUrl": ""
     },
     {
-        "name": "Dexter Lee",
+        "name": "Risheek Pingili",
         "role": "EECS 16B Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "Alex Kassil",
-        "role": "Advisor",
+        "name": "Joshua Baum",
+        "role": "CS 61A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1I3-2FL-Vk26hTFNiC8Ukyz8fNDFhNPWH",
+        "pronouns": "He/Him",
+        "details": "Hello I'm Josh! I'm a 3rd year CS student. I've been in CSM 61a and CS61a Course Staff since Fall 2019. Looking forward to the semester and hopefully returning to campus next year!",
+        "webUrl": ""
+    },
+    {
+        "name": "Ivan Penev",
+        "role": "CS 61A Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "Avinash Nandakumar",
-        "role": "Advisor",
+        "name": "Elicia Ye",
+        "role": "CS 61B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1po7Pn0-1rCbsSYusuX4VtLohhlBcNvSD",
+        "pronouns": "",
+        "details": "Hey! I'm Elicia, I'm a third year studying CS. I'm excited for my fifth semester in CSM and first time coording! Come talk to me about dumplings in all shapes, sizes, and forms :')",
+        "webUrl": ""
+    },
+    {
+        "name": "Ryan Nuqui",
+        "role": "CS 61B Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "Catherine Cang",
-        "role": "Advisor",
+        "name": "Archita Bhattacharya",
+        "role": "CS 61C Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1lADOMMhGYRwlljoYcoBqoda7sEjXoJTv",
+        "pronouns": "she/her/hers",
+        "details": "Hello! I'm a third year EECS major and this is my third semester in CSM 61C. Outside of school I like to read and have high ambitions, but questionable execution as a cook. I'm looking forward to the semester, feel free to reach out if you have any questions!",
+        "webUrl": ""
+    },
+    {
+        "name": "Ivy Li",
+        "role": "CS 61C Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1dP3jtUY0jpC2yYP3Q-JzlZiHqCAMhGmZ",
+        "pronouns": "she/her",
+        "details": "If you ask Rick Astley for a copy of the movie \"UP\", he cannot give you it as he can never give you up. But, by doing that, he is letting you down, and thus, is creating something known as the Astley Paradox.",
+        "webUrl": ""
+    },
+    {
+        "name": "Shadaj Laddad",
+        "role": "CS 70 Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1optH5pt7hnuG4Kd_Lpxb8zwV09V7DIKL",
+        "pronouns": "he/him",
+        "details": "Hello! I'm a third-year EECS major from San Jose, CA. I love exploring and contributing to programming languages (especially those involving functional programming) and am always working on fun side projects (right now, an NES emulator)! Outside of school, I play the sitar (and am learning the piano), drink lots of chai, and attempt to learn new languages on Duolingo.",
+        "webUrl": "https://www.shadaj.me"
+    },
+    {
+        "name": "Nima Rezaeian ",
+        "role": "CS 70 Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "James Chu",
-        "role": "Advisor",
+        "name": "Ada Hu",
+        "role": "CS 88 Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "Taejin Hwang",
+        "name": "Tony Kam",
+        "role": "CS 88 Coordinator",
+        "imgUrl": ""
+    },
+    {
+        "name": "Katherine Shu",
         "role": "Advisor",
-        "imgUrl": "https://drive.google.com/open?id=1zckHCRlY5bZJwoMqCrrq4_YnEzvI3_0J",
-        "details": "I'm old and give advice."
+        "imgUrl": "https://drive.google.com/open?id=1AB9wQAZLQe6_NYQsy1NgBL37f0GWry3j",
+        "pronouns": "she/her/hers",
+        "details": "Hi! I\u2019m a third year EECS Major from around LA. I enjoy traveling, dancing, and drawing. Against popular belief, I don\u2019t like chocolate and I drink boba with no sugar and no ice. I hope you all have an amazing semester!! :)",
+        "webUrl": ""
+    },
+    {
+        "name": "Albert Tang",
+        "role": "Advisor",
+        "imgUrl": "https://drive.google.com/open?id=1MQ7UNSyz26MoAFVl9Otv1D8F-qY5aqFO",
+        "pronouns": "He/Him/His",
+        "details": "Head empty. No thoughts.",
+        "webUrl": ""
+    },
+    {
+        "name": "Danny Chu",
+        "role": "Advisor",
+        "imgUrl": ""
     }
 ]
