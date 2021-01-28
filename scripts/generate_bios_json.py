@@ -135,6 +135,8 @@ def parse_bios(csv_path, master_roster_path):
                         obj["imgUrl"] = photo_url
                     if bio and not bio.isspace():
                         obj["details"] = bio
+                    if web_url and not web_url.isspace():
+                        obj["webUrl"] = web_url
     # # 61B is doing its own form so I'm just hacking in a snippet here
     # with open("csvs/bios-61b.csv") as f:
     #     reader = csv.DictReader(f)

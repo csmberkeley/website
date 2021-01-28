@@ -13,7 +13,8 @@
         },
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1X8hSHQg6aVz3K8qBag8u8ELYS9oE6B2y",
-        "details": "Hey there! I\u2019m a second-year CS major from the Bay Area. I was a JM for 16A last semester, and I'm excited to be a part of 61A this semester. In my free time, I enjoy browsing Reddit, playing rhythm games, and following sports. I love mentoring for CSM, and I can't wait to meet new people in my section. Let's have a great semester :)"
+        "details": "Hey there! I\u2019m a second-year CS major from the Bay Area. I was a JM for 16A last semester, and I'm excited to be a part of 61A this semester. In my free time, I enjoy browsing Reddit, playing rhythm games, and following sports. I love mentoring for CSM, and I can't wait to meet new people in my section. Let's have a great semester :)",
+        "webUrl": "https://brywong.github.io/"
     },
     {
         "name": "Viren Khandal",
@@ -21,7 +22,8 @@
             "eecs16a": "Junior Mentor"
         },
         "imgUrl": "https://drive.google.com/open?id=1u8Ti5LCN2ZkSS77vglmyGlDb2IMkRP-C",
-        "details": "Hey, I\u2019m Viren! I am a second year CS and Applied Math major from the Bay Area. I love teaching and always find real world examples and analogies super helpful, so you\u2019ll see a lot of that throughout the semester. Outside of teaching, I love playing chess and listening to music (literally any genre).. Looking forward to a great online semester with you all!"
+        "details": "Hey, I\u2019m Viren! I am a second year CS and Applied Math major from the Bay Area. I love teaching and always find real world examples and analogies super helpful, so you\u2019ll see a lot of that throughout the semester. Outside of teaching, I love playing chess and listening to music (literally any genre).. Looking forward to a great online semester with you all!",
+        "webUrl": "https://virenkhandal.me/"
     },
     {
         "name": "Anvitha Kachinthaya",
@@ -223,7 +225,8 @@
         },
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1RsGJJSpgt6sysjigLGYkmCPuo0K3xEgs",
-        "details": "Hey! I'm a third-year CS major from San Jose, CA. I'm really interested in applications of CS and EE in biology and medicine. Outside of class, I'm working on computational neuroscience research and searching for new indie/alt/postrock music."
+        "details": "Hey! I'm a third-year CS major from San Jose, CA. I'm really interested in applications of CS and EE in biology and medicine. Outside of class, I'm working on computational neuroscience research and searching for new indie/alt/postrock music.",
+        "webUrl": "https://maxwellchen.dev/"
     },
     {
         "name": "Aneesh Nathani",
@@ -706,7 +709,8 @@
             "cs61b": "Associate Mentor"
         },
         "imgUrl": "https://drive.google.com/open?id=1KeWIhKLRCsRQhRN1eLkgDIzA-qLeSu8W",
-        "details": "Hey, I'm Todd. Let's do some 61B. Yaw yeet. Feel free to reach out."
+        "details": "Hey, I'm Todd. Let's do some 61B. Yaw yeet. Feel free to reach out.",
+        "webUrl": "https://todd-yu.com/"
     },
     {
         "name": "Parth Gupta",
@@ -772,7 +776,8 @@
         },
         "pronouns": "he/him",
         "imgUrl": "https://drive.google.com/open?id=1LJ5rOH7Q9te7J3jovWeZyeP0rlH6Y51g",
-        "details": "Hello! My name is Laryn (he/him) and I'm a second year CS and Music major. 61A has been my favorite class at Cal thus far, so I'm really excited to teach it. Outside of CS, I enjoy plaing video games and drumming. Looking forward to an awesome semester :D"
+        "details": "Hello! My name is Laryn (he/him) and I'm a second year CS and Music major. 61A has been my favorite class at Cal thus far, so I'm really excited to teach it. Outside of CS, I enjoy plaing video games and drumming. Looking forward to an awesome semester :D",
+        "webUrl": "https://larynqi.github.io/sp21"
     },
     {
         "name": "Krish Nayar",
@@ -810,7 +815,8 @@
         },
         "pronouns": "she/her",
         "imgUrl": "https://drive.google.com/open?id=1YJtJykxwtTmi4QevNYQ-25FrbG1Ajk0M",
-        "details": "Hi! I\u2019m Uma, a senior CS and Data Science major from the Bay Area. I like rubik\u2019s cubes, mac n cheese, and the Oxford comma. Looking forward to working with you all!"
+        "details": "Hi! I\u2019m Uma, a senior CS and Data Science major from the Bay Area. I like rubik\u2019s cubes, mac n cheese, and the Oxford comma. Looking forward to working with you all!",
+        "webUrl": "https://umaunni3.github.io/student-resources.html"
     },
     {
         "name": "Kevin Moy",
@@ -831,7 +837,8 @@
         },
         "pronouns": "He/Him/His",
         "imgUrl": "https://drive.google.com/open?id=1n0gzqDhF_QrZXY55QyV7quWYosAgQ7_k",
-        "details": "Hey I\u2019m Jake (He/Him). I\u2019ll be teaching from home this semester in San Luis Obispo, CA, but missing Berkeley! This will be my 5th semester teaching 61a, and my third year at Cal. I\u2019m in to cooking, food, fashion, video games, leftist theory and literature, and CS for social good. I also have a long list of good places to eat in the bay, so hmu."
+        "details": "Hey I\u2019m Jake (He/Him). I\u2019ll be teaching from home this semester in San Luis Obispo, CA, but missing Berkeley! This will be my 5th semester teaching 61a, and my third year at Cal. I\u2019m in to cooking, food, fashion, video games, leftist theory and literature, and CS for social good. I also have a long list of good places to eat in the bay, so hmu.",
+        "webUrl": "http://www.jamesbfletcher.com"
     },
     {
         "name": "Ivan Penev",
@@ -872,7 +879,8 @@
         },
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1EQs8FL-0piR0RS6Sj3CJddkJdv4VaJWq",
-        "details": "Hello! I'm Aidan and I'm a junior studying CS. I'm passionate about teaching and this is my 4th semester in CSM. Some things I enjoy are soccer, reading, and watching movies/anime. I look forward to meeting you guys!"
+        "details": "Hello! I'm Aidan and I'm a junior studying CS. I'm passionate about teaching and this is my 4th semester in CSM. Some things I enjoy are soccer, reading, and watching movies/anime. I look forward to meeting you guys!",
+        "webUrl": "https://aidantong.github.io/"
     },
     {
         "name": "Lauren Meier",
@@ -895,7 +903,8 @@
         },
         "pronouns": "he/him",
         "imgUrl": "https://drive.google.com/open?id=1EOHahDVxCr1MsWqGwlOnFtE8VJ5LxITj",
-        "details": "Take a look at my Animal Crossing island! My Dream Address is DA-3284-6025-1117"
+        "details": "Take a look at my Animal Crossing island! My Dream Address is DA-3284-6025-1117",
+        "webUrl": "http://kunal-agarwal.com"
     },
     {
         "name": "Bridget Cheng",
@@ -950,7 +959,8 @@
         },
         "pronouns": "He/Him/His",
         "imgUrl": "https://drive.google.com/open?id=1MtBCkzY8LaRUs-wIH5y4kxXHvdTReips",
-        "details": "one hundred seventeen bugs in the code\none hundred seventeen bugs\npatch one down, push it around\none hundred forty two bugs in the code"
+        "details": "one hundred seventeen bugs in the code\none hundred seventeen bugs\npatch one down, push it around\none hundred forty two bugs in the code",
+        "webUrl": "https://jamieip.com/"
     },
     {
         "name": "Alina Trinh",
@@ -1029,7 +1039,8 @@
         },
         "pronouns": "she/her/hers",
         "imgUrl": "https://drive.google.com/open?id=1BLTYlmrNO3BhLngGnWn068edAClkj5FV",
-        "details": "Hello! I\u2019m Cindy, a third year CS major from Cupertino, CA. Outside of academics, one of my hobbies is wushu (Chinese martial arts). I love spontaneous adventures, but more specifically, I have an unhealthy obsession with going to the beach. I hope y\u2019all have a great semester, and don\u2019t hesitate to reach out to me about anything."
+        "details": "Hello! I\u2019m Cindy, a third year CS major from Cupertino, CA. Outside of academics, one of my hobbies is wushu (Chinese martial arts). I love spontaneous adventures, but more specifically, I have an unhealthy obsession with going to the beach. I hope y\u2019all have a great semester, and don\u2019t hesitate to reach out to me about anything.",
+        "webUrl": "https://cindyzhang977.github.io/cxz/#/"
     },
     {
         "name": "Enya Xing",
@@ -1099,7 +1110,8 @@
         },
         "pronouns": "he/him",
         "imgUrl": "https://drive.google.com/open?id=1asVnIAUGr7B7yB1VOrjsZBOtGCDCAFou",
-        "details": "Hello!! I'm Ben, a second year CS/Psych major from the Bay Area. I like making pretty much everything (games, music, etc etc) even if I'm terrible at most of them \u0295 \u2022\u1d25\u2022\u0294 You're most welcome to send over an email whenever you want to talk about life, the universe, or 61A!"
+        "details": "Hello!! I'm Ben, a second year CS/Psych major from the Bay Area. I like making pretty much everything (games, music, etc etc) even if I'm terrible at most of them \u0295 \u2022\u1d25\u2022\u0294 You're most welcome to send over an email whenever you want to talk about life, the universe, or 61A!",
+        "webUrl": "https://bencuan.me"
     },
     {
         "name": "Boxi Fu",
@@ -1177,7 +1189,8 @@
         },
         "pronouns": "he/him",
         "imgUrl": "https://drive.google.com/open?id=17uzxs1CdcQ80uRLTFsjGG22IrNyqn9A4",
-        "details": "Hello! I\u2019m a sophomore majoring in EECS and currently live in LA. I really enjoyed taking CS 61B and I love helping teach it! I was an AI last semester and this is my second semester in CSM teaching a CS 61B section. In my free time, I like playing golf, making videos, drawing, and have been hiking a lot more recently. I\u2019m also missing the Berkeley Feng Cha more than ever\u2026 \nFeel free to reach out with any questions and I hope to see some of y'all virtually!"
+        "details": "Hello! I\u2019m a sophomore majoring in EECS and currently live in LA. I really enjoyed taking CS 61B and I love helping teach it! I was an AI last semester and this is my second semester in CSM teaching a CS 61B section. In my free time, I like playing golf, making videos, drawing, and have been hiking a lot more recently. I\u2019m also missing the Berkeley Feng Cha more than ever\u2026 \nFeel free to reach out with any questions and I hope to see some of y'all virtually!",
+        "webUrl": "https://jshen13.github.io"
     },
     {
         "name": "John Le",
@@ -1186,7 +1199,8 @@
         },
         "pronouns": "He/Him",
         "imgUrl": "https://drive.google.com/open?id=15knA-PYov8rI1qw_e1hGELsSOBmI3zBF",
-        "details": "Hi, I'm John. I like to cook and play badminton. :)"
+        "details": "Hi, I'm John. I like to cook and play badminton. :)",
+        "webUrl": "https://johnthanhle.github.io/"
     },
     {
         "name": "Kyle Yu",
@@ -1228,7 +1242,8 @@
         },
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1P2BSW9ZDtI-S9t4Xg5nVU_ELXE07_RLL",
-        "details": "Hey! I\u2019m Pranav and I am a sophomore EECS major from Seattle, Washington. In my spare time I love playing Basketball, Cricket, and Spikeball. I enjoy rooting for the LA Lakers and Seattle Seahawks :) . I\u2019m a Harry Potter, Star Wars, and Marvel fan! I am a Project Manager for Data Science Society and have been an Academic Intern for 61B. CS 61B was one of my favorite classes so far and I am super hyped to teach it and hope you all will love the course as much as I did!"
+        "details": "Hey! I\u2019m Pranav and I am a sophomore EECS major from Seattle, Washington. In my spare time I love playing Basketball, Cricket, and Spikeball. I enjoy rooting for the LA Lakers and Seattle Seahawks :) . I\u2019m a Harry Potter, Star Wars, and Marvel fan! I am a Project Manager for Data Science Society and have been an Academic Intern for 61B. CS 61B was one of my favorite classes so far and I am super hyped to teach it and hope you all will love the course as much as I did!",
+        "webUrl": "https://pranav-sukumar.github.io/"
     },
     {
         "name": "Raymond Ji",
@@ -1268,7 +1283,8 @@
         },
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1FxA_mBxQk_xxrEMggZy-SzNC7YsMSZr7",
-        "details": "Hi! I'm Ritik, a junior studying EECS from the Bay Area. I love watching (and rewatching) Marvel movies, listening/dancing to Hip-Hop/Bollywood, and making animations/graphic art in my free time. If you're interested in any of these things or just want to talk, always feel free to reach out. CS61B was one of my favorite classes at Berkeley and I'm super excited to get to know you this semester!"
+        "details": "Hi! I'm Ritik, a junior studying EECS from the Bay Area. I love watching (and rewatching) Marvel movies, listening/dancing to Hip-Hop/Bollywood, and making animations/graphic art in my free time. If you're interested in any of these things or just want to talk, always feel free to reach out. CS61B was one of my favorite classes at Berkeley and I'm super excited to get to know you this semester!",
+        "webUrl": "http://ritikbatra.com/"
     },
     {
         "name": "Rohit Mehta",
@@ -1330,7 +1346,8 @@
             "cs61b": "Senior Mentor"
         },
         "imgUrl": "https://drive.google.com/open?id=1jYEstrstSlNUqlVjUzH5MJc4D0TxaKSw",
-        "details": "Hey Guys! I'm a Junior studying CS. I am born and raised in Thailand. I love all things tech. I play the drums and am a big fan of the DC/Marvel universe. I've been in CSM for a while and I love weird analogies and have some cool tricks for understanding Data Structures, so come to my section to see what I am talking about. Talk to me about all of the above and looking forward to a great semester."
+        "details": "Hey Guys! I'm a Junior studying CS. I am born and raised in Thailand. I love all things tech. I play the drums and am a big fan of the DC/Marvel universe. I've been in CSM for a while and I love weird analogies and have some cool tricks for understanding Data Structures, so come to my section to see what I am talking about. Talk to me about all of the above and looking forward to a great semester.",
+        "webUrl": "https://ayushsehgal.github.io/"
     },
     {
         "name": "Brian Liu",
@@ -1667,7 +1684,8 @@
         },
         "pronouns": "His/him/he.",
         "imgUrl": "https://drive.google.com/open?id=1NpRLYiVuG_gx2VodkpPln3KSuvt5jDtp",
-        "details": "Hi! I\u2019m a sophomore CS and Applied Math major from Irvine, CA. In my free time, I love playing basketball, watching the NBA, and working out. This will be my second time teaching CS70. I'm also currently a reader for CS170. Feel free to ask me any question about the class or anything in general. I look forward to meeting you all! You can find my section materials on my personal website: https://kelvinlee200113.github.io/ ."
+        "details": "Hi! I\u2019m a sophomore CS and Applied Math major from Irvine, CA. In my free time, I love playing basketball, watching the NBA, and working out. This will be my second time teaching CS70. I'm also currently a reader for CS170. Feel free to ask me any question about the class or anything in general. I look forward to meeting you all! You can find my section materials on my personal website: https://kelvinlee200113.github.io/ .",
+        "webUrl": "https://kelvinlee200113.github.io/"
     },
     {
         "name": "Darby Clement",
@@ -1780,6 +1798,7 @@
         },
         "imgUrl": "https://drive.google.com/open?id=1dl-yQNz2GCXj_zDkb662hmbyuEwqe_m-",
         "details": "I am a reinforcement learning agent optimizing my students' learning (among other things). I exploit pedagogy practices that are known to work well (giving breaks, giving food, student interaction, etc.) and I explore interesting pedagogy practices and seek feedback from my students so that I can maximize their learning! I run and bike a lot. In the before-times I also used to lift weights.",
+        "webUrl": "https://sagnibak.github.io/",
         "pronouns": "he/him/his"
     },
     {
@@ -1828,7 +1847,8 @@
             "cs70": "Senior Mentor"
         },
         "imgUrl": "https://drive.google.com/open?id=1jd844L4nJ6-qDlE9yV606pnJkrRylQyi",
-        "details": "Hey everyone, I'm a third year CS and applied math major. Looking forward to the semester!"
+        "details": "Hey everyone, I'm a third year CS and applied math major. Looking forward to the semester!",
+        "webUrl": "https://jasonkeung.me"
     },
     {
         "name": "Sylvia Wang Jin",
@@ -1947,7 +1967,8 @@
         },
         "pronouns": "he/him",
         "imgUrl": "https://drive.google.com/open?id=1in4acsw2bVQzyp2doPRDe29h0l1O2IIF",
-        "details": "Hello, my name is Amit, and I'm a sophomore and an SM for CS 88. My hobbies are chess, League, anime, and doomscrolling Twitter. Aside from that I love to code, teach, and work on stuff related to making our planet somewhat more livable."
+        "details": "Hello, my name is Amit, and I'm a sophomore and an SM for CS 88. My hobbies are chess, League, anime, and doomscrolling Twitter. Aside from that I love to code, teach, and work on stuff related to making our planet somewhat more livable.",
+        "webUrl": "http://amitsant.com"
     },
     {
         "name": "Joanna Yoo",
