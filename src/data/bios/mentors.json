@@ -46,7 +46,10 @@
         "name": "Ella Schwarz",
         "courses": {
             "eecs16a": "Senior Mentor"
-        }
+        },
+        "pronouns": "she/her",
+        "imgUrl": "https://drive.google.com/open?id=1aisso-kxOS2b7Gm2Lb0s7cp-QS3bY1OM",
+        "details": "Hello! I'm Ella, a second year CS and math major. This is my second semester teaching 16A for CSM and I'm excited to bust out some fresh powerpoints and teach some new worksheets. Outside of CSM, I'm a discussion ASE for EECS16B. My main interest in CS is computer architecture and just generally the hardware/firmware side of things, but I also have a fondness for CS theory and the math behind it. When I'm not doing hw, I like to spend my time watching a wide variety of niche youtube videos, writing my trashy fantasy novel, and moving around flowers in animal crossing."
     },
     {
         "name": "Wilson Wu",
@@ -163,8 +166,11 @@
     {
         "name": "Vron Vance",
         "courses": {
-            "eecs16b": "Junior Mentor"
-        }
+            "eecs16b": "Senior Mentor"
+        },
+        "pronouns": "they/them",
+        "imgUrl": "https://drive.google.com/open?id=1UnpMWAgelDzStxhFw5or--99I5naNnWU",
+        "details": "Hi! I'm Vron, they/them. As a nontraditional student, I care a lot about making computer science and electrical engineering accessible to historically underserved students. I also really love cats and colored pens! If you find yourself lost or stuck this semester, feel free to reach out. I can get you connected to resources, or find other ways CSM can support you. Good luck this semester!"
     },
     {
         "name": "Jiu Chang",
@@ -603,10 +609,13 @@
         }
     },
     {
-        "name": "Abinaya Srikant",
+        "name": "Abi Srikant",
         "courses": {
-            "cs61a": "Junior Mentor"
-        }
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "imgUrl": "https://drive.google.com/open?id=1g40Bu6N-9zktWBaFu_IKsgps4RrJMxJl",
+        "details": "Hi! My name is Abi and I\u2019m a sophomore from the Bay Area studying CS. This is my second time teaching CS61A with CSM, and I hope that I can help you have as enjoyable of an experience as possible! Outside CSM, I\u2019m a part of Net Impact Berkeley and I dance on Natya, a classical Indian dance team. In my free time I love cooking/baking, calligraphy, and rewatching The Office. Can\u2019t wait to meet you all!"
     },
     {
         "name": "Rosalie Fang",
@@ -690,7 +699,10 @@
         "name": "Jeffrey Deng",
         "courses": {
             "cs61a": "Associate Mentor"
-        }
+        },
+        "pronouns": "he/him",
+        "imgUrl": "https://drive.google.com/open?id=1geJdN0-PN9um1mU1L7fnJAaELaz5yh2p",
+        "details": "Hi everyone, I'm Jeffrey (he/him)! I am a second-year EECS major from Minnesota. I love playing tennis, finding the weirdest home workouts to do, and eating. Feel free to reach out to me with any questions or if you just want to talk about random stuff!"
     },
     {
         "name": "Chi Tsai",
@@ -1358,6 +1370,7 @@
         "courses": {
             "cs61b": "Senior Mentor"
         },
+        "pronouns": "He/Him/His",
         "imgUrl": "https://drive.google.com/open?id=1jYEstrstSlNUqlVjUzH5MJc4D0TxaKSw",
         "details": "Hey Guys! I'm a Junior studying CS. I am born and raised in Thailand. I love all things tech. I play the drums and am a big fan of the DC/Marvel universe. I've been in CSM for a while and I love weird analogies and have some cool tricks for understanding Data Structures, so come to my section to see what I am talking about. Talk to me about all of the above and looking forward to a great semester.",
         "webUrl": "https://ayushsehgal.github.io/"
@@ -2010,8 +2023,11 @@
     {
         "name": "Tommy Joseph",
         "courses": {
-            "cs88": "Associate Mentor"
-        }
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "He/Him/His",
+        "imgUrl": "https://drive.google.com/open?id=1-t2lR25bTMVahJHFUwaaNLkQU9dL8SOn",
+        "details": "Hi, I\u2019m a second-year CS major from Southern California. I like cooking, watching youtube/tv, and playing sports that involve rackets or paddles. Happy to help with all things CS 88!"
     },
     {
         "name": "Jack Wang",
@@ -3330,6 +3346,76 @@
         "courses": {
             "cs61a": "Junior Mentor",
             "eecs16a": "Junior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Rahul Kaparaboyna",
+        "pronouns": "He/Him/His",
+        "details": "Hi! I'm Rahul, and I'm a freshman studying CS. I enjoy trying new food, watching movies/tv shows, and following sports (basketball and football). I look forward to meeting you guys! Feel free to reach out to me if you have questions about pretty much anything.",
+        "imgUrl": "https://drive.google.com/open?id=19ov2nXQ8nptAb93yCgznt_7YWilvEIJQ",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Tarun Amarnath",
+        "pronouns": "he/him/his",
+        "details": "Hello, I'm Tarun! I'm from the Bay Area, and my primary academic interests include robotics and the intersection of hardware and software. I really enjoy playing and watching basketball (huge Warriors fan) and like creating new things, whether that's on a CAD software or Photoshop. The Imagine Dragons are probably my favorite band, and if I could own a fictional pet, it would probably be Snowy from Tintin or Appa from ATLA. In the Before Times(TM), my favorite restaurant at Berkeley was Thai Noodle II. I look forward to getting to know you!",
+        "imgUrl": "https://drive.google.com/open?id=1CvPQ-3qFBi3xHSSMp7T2VWbR0yqg7crR",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Aymeric Barrier",
+        "pronouns": "He/Him/His",
+        "details": "Hey, my name is Aymeric and I am a sophomore studying Data Science, along with whatever grabs my attention. I actually came to Berkeley as a PoliSci major, so I am the living proof that anyone can be a code monkey! Feel free to hit me up for anything , especially about Europe or food!",
+        "imgUrl": "https://drive.google.com/open?id=1hsJLGdABNUzp65OyCo29dcD6oBHe-4Pi",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Seung-Hyun Kwon",
+        "pronouns": "He/him/his",
+        "details": "What's up y'all! I'm a first year intended CS major from Rockville, Maryland. I had a blast taking 61A last summer and I hope you will enjoy it too! When I'm not teaching or drowning in schoolwork, I love to binge watch kdramas/anime (It's Okay to Not be Okay is my favorite so far), take walks around the neighborhood, and try new foods from around the world. Looking forward to an exciting semester of 61A and feel free to reach out if you have any questions or would just like to chat! :D",
+        "imgUrl": "https://drive.google.com/open?id=1LhhR0O6f2Guxboaa2P-vogBuaHEgkhbt",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Yuanhan Li",
+        "pronouns": "He/Him/His",
+        "details": "Hi! I am Yuanhan Li and you can call me William! I go by he/him/his. I am a sophomore international student studying CS and Applied Mathematics. Feel free to talk to me about the course, movies, favorite milk tea, or what it's like to be a Hufflepuff. Hope to meet you in section and have a wonderful semester!",
+        "imgUrl": "https://drive.google.com/open?id=1xGGCkiJupWXuFLLF6DCKx9eFguV1_ssE",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "webUrl": "https://williamlyh.com/"
+    },
+    {
+        "name": "Tony Yu",
+        "pronouns": "He/Him",
+        "details": "Hi! I am a second year studying Data Science and Economics. I was born and raised in Beijing, but I have been living in the bay for 7 years now. I took CS 61B last semester, and it was one of the most intellectually stimulating things that I have ever done! Outside of CSM, I am a tutor for Data 8 and a PM at the Association for Socially Responsible Business. In my free time, I like sleeping, cooking, eating (top 3: fried chicken wings, hotpot, Peking duck), drinking boba (top 3: Coco, Fantasia, TP Tea), binging shows (top 3: Modern Family, Parks & Rec, The Office), listening to music (top 3: Ed Sheeran, Lauv, Wrabel), and watching sports (top 3: Man United, Warriors, Beijing Guoan)! Super excited to meet you all this semester :)",
+        "imgUrl": "https://drive.google.com/open?id=1GJUTXN_giAMfyzHibvbiJZv5AnUMUXSf",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Rohan Tibrewal",
+        "pronouns": "he/him/his",
+        "details": "Hey! I'm Rohan, I'm a freshman intending to study CS and maybe Cognitive Science as well. I took 61A last semester and loved it, and I really enjoy teaching so I decided to be a mentor. Little bit about me: I play guitar (lately a lot of acoustic fingerstyle) and alto sax and sing (occasionally). I love playing basketball and volleyball, and I recently picked up spikeball too. I also have been playing prob too much Valorant lately. Hmu if you're tryna run duos, or ball, or talk computers or music, or just chat about anything, I love an interesting conversation.",
+        "imgUrl": "https://drive.google.com/open?id=1IUl2o6AdM_erVbdvtvXPj9wrf1GQOa_V",
+        "courses": {
+            "cs61a": "Junior Mentor"
         },
         "webUrl": ""
     }

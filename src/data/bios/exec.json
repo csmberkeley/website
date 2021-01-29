@@ -68,7 +68,10 @@
     {
         "name": "Aneesh Nathani",
         "role": "EECS 16B Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1Ef6ibCQkEjPkKwQwfVRPmPpD9fyKq8c9",
+        "pronouns": "he/him/his",
+        "details": "Hey, I'm Aneesh, a Computer Science and Economics major from a city called Pune in India. I love animals, soccer, and music. My favourite restaurant in Berkeley, which I have been craving on a daily basis is Imm Thai!",
+        "webUrl": ""
     },
     {
         "name": "Risheek Pingili",
@@ -102,7 +105,10 @@
     {
         "name": "Ryan Nuqui",
         "role": "CS 61B Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1nVLVlwfefELZ2-5E9hThpvz3XMR2gxhC",
+        "pronouns": "he/him/his",
+        "details": "Hello!\nI'm a fourth year studying CS + Applied Math and this will be my sixth semester involved in CSM. I'm particularly passionate about CS theory, the issues surrounding diversity in education, and the Portland Trail Blazers. When I'm not doing work, I enjoy playing games with my friends, taking long walks, and watching random Youtube videos. I'm always free to chat whether it's about CS 61B, teaching, or anything at all. Looking forward to meeting you all and a great semester!",
+        "webUrl": ""
     },
     {
         "name": "Archita Bhattacharya",
@@ -141,7 +147,10 @@
     {
         "name": "Tony Kam",
         "role": "CS 88 Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1FlX50LZ323E0Uv_hHHL47PyTPUSYdOCk",
+        "pronouns": "he/him",
+        "details": "Hi! I'm a sophomore EECS major from Orange County, CA. If I could, I would be a big wave surfer in Hawaii (like Kai Lenny). But as of now, I am working on IoT devices, Robots, and Satellites. ",
+        "webUrl": "https://www.linkedin.com/in/tonyshekkam/"
     },
     {
         "name": "Katherine Shu",
