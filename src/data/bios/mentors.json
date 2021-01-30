@@ -148,14 +148,21 @@
     {
         "name": "Anthony Ding",
         "courses": {
-            "eecs16a": "Content Mentor"
-        }
+            "eecs16a": "Senior Mentor"
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=16XgzStLtlv177jdaMCKVtNxiHxvOSk93",
+        "details": "Hi! I'm Anthony and I'm a third-year EECS major from the Bay Area. I love chess, the Premier League and NBA, and board games. This is my third semester with CSM 16A, and I'm really looking forward to meeting everyone!",
+        "webUrl": "https://anthonyding.me"
     },
     {
         "name": "Diyah Mettupalli",
         "courses": {
             "eecs16a": "Content Mentor"
-        }
+        },
+        "pronouns": "she/her/hers",
+        "imgUrl": "https://drive.google.com/open?id=1iLy3JfGsOskcMn4YcuV3hh41b_nXXPWS",
+        "details": "Hi! I'm Diyah, and I'm from Florida. I love being a part of CSM and meeting new people every semester! I was once a junior mentor for 16A, but have focused on creating content for two semesters now. "
     },
     {
         "name": "Dean Zhang",
@@ -823,6 +830,7 @@
         "courses": {
             "cs61a": "Senior Mentor"
         },
+        "pronouns": "She/Her",
         "imgUrl": "https://drive.google.com/open?id=1_EfnRPLpTxbPXnBp1znOTyjOT0Q6CW6G",
         "details": "Hi! My name is Nikhita and I am a senior Computer Science & Data Science Major from the Bay Area. It is also my 6th (and last!) semester involved with 61A and am super excited to meet y'all. CS 61A was one of my favorite classes and I hope you will have a great time as well. In my free time, I like to read, watch TV, and exploring new boba places in Berkeley. Feel free to reach out to me if you have any questions. Looking forward to virtually *meeting* you all."
     },
@@ -1066,8 +1074,11 @@
     {
         "name": "Enya Xing",
         "courses": {
-            "cs61b": "Content Mentor"
-        }
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "she/her/hers",
+        "imgUrl": "https://drive.google.com/open?id=1Ijxs50-VCSaXoOh_UNfwWHetpZvtC2t8",
+        "details": "Big fan of tofu in all shapes and forms, you really can't go wrong!"
     },
     {
         "name": "Haiming Xu",
@@ -1126,7 +1137,7 @@
     {
         "name": "Ben Cuan",
         "courses": {
-            "cs61b": "Junior Mentor",
+            "cs61b": "Senior Mentor",
             "cs61a": "Junior Mentor"
         },
         "pronouns": "he/him",
@@ -1173,8 +1184,11 @@
     {
         "name": "Emily Su",
         "courses": {
-            "cs61b": "Junior Mentor"
-        }
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "She/Her/Hers",
+        "imgUrl": "https://drive.google.com/open?id=1_wYGguwWhRP4NpenQF3mvoWtiQmUqz-i",
+        "details": "Heyoo!! I'm Emily and I'm a sophomore studying CS & ORMS! I'm from Toronto, Canada, so I love maple syrup and snow (and maple taffy!). In my free time, I enjoy swimming, sewing, and listening to indie or French pop! I'm super excited to be teaching 61B!"
     },
     {
         "name": "Felicity Liao",
@@ -1412,13 +1426,19 @@
         "name": "Kayli Jiang",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "pronouns": "she / her",
+        "imgUrl": "https://drive.google.com/open?id=1IGzuYZJoLZLZW-lJ7fDeLMoC_u5P0kt7",
+        "details": "Hi! I'm Kayli, and I'm from the Bay Area (Pleasanton). I'm a third year studying CS/Philosophy. In my free time, I love listening to chill music, I've been rewatching Parks and Rec, and I'm back in the baking phase of quarantine. I'm excited to meet all of you!"
     },
     {
         "name": "Manu Chopra",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1d6jj77iso-2Oq0Uz38eODGOimVP-NZs6",
+        "details": "Hey Everyone! I\u2019m a Junior studying Computer Science here at Berkeley. I\u2019m from Gilroy, California - a city an hour and half south of Berkeley. CS61B is one my favorite classes here at Cal, and I am really excited to being teach you all this Spring. In my free time, I play/watch a lot of basketball (Go Warriors!) and eat/cook a lot (Indian food and burritos are my jam)."
     },
     {
         "name": "Mike Chou",
@@ -1496,8 +1516,11 @@
     {
         "name": "Aadith Srinivasan",
         "courses": {
-            "cs61c": "Junior Mentor"
-        }
+            "cs61c": "Senior Mentor"
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1N8Zk8PDczgo00EjhFfo_Z_UYKc0_01AC",
+        "details": "I'm a junior studying EECS. I really enjoyed taking 61c and am looking forward to helping others learn the material. In my free time, I like playing video games and editing videos. Excited to meet you all and hope you guys have a fun semester!"
     },
     {
         "name": "Raghav Singh",
@@ -1534,8 +1557,11 @@
     {
         "name": "Shayan Islam",
         "courses": {
-            "cs61c": "Junior Mentor"
-        }
+            "cs61c": "Senior Mentor"
+        },
+        "pronouns": "He/Him/His",
+        "imgUrl": "https://drive.google.com/open?id=1AKWTcnO5S5RJ_9HUAaLAXuo1W_wTSmNp",
+        "details": "Hey everyone! I\u2019m a third-year computer science major from Phoenix, Arizona. This is my second time mentoring for CSM, so I hope to learn from you as much as I hope you learn from me. CS 61C can be a heavy class, especially with the online learning environment, so feel free to reach out to me if you have any questions or concerns, or if you just want to talk about sports, chess, video games, or life in general."
     },
     {
         "name": "Lucas Huang",
@@ -2128,10 +2154,10 @@
         "webUrl": ""
     },
     {
-        "name": "Nathanael Oh",
-        "pronouns": "",
-        "details": "I've been coding since high school, but I really enjoy teaching too, so I've also been teaching computer science for three years now! In my free time, I play Valorant and catch up on the animanga that I miss because of Berkeley. On the other hand, I also play volleyball in the glade sometimes (although I used to be a swimmer). Music-wise, I'm all over the place. I really enjoy EDEN, Illenium, Chainsmokers, Powfu, and old Taylor Swift just to name a few of my favorite artists. I'm on campus currently, but I can't really say if I have a favorite restaurant here, all I know is that I've been to Bunz at 3 am way too many times and the tacos here can't beat the ones from back in LA. Hope we can get along!",
-        "imgUrl": "https://drive.google.com/open?id=1V2ZXHImpPe3wSRnpL0tw2xLH5YqIaqW_",
+        "name": "Nathan Oh",
+        "pronouns": "He/Him",
+        "details": "Heyo! I've been coding for the past 3 years, but since I really enjoy teaching, I've also taught computer science for the past 2 years. In my free time, I usually read/watch animanga, grind Valorant, or go to the glade and play volleyball with my friends. Music wise, I'm pretty spread apart. Some of my favorite artists are EDEN, Illenium, Chainsmokers, Powfu, Imagine Dragons, and the old Taylor Swift. I am currently on campus and as a result, last semester, I've consumed an unhealthy amount of Artichokes pizza, which is good no doubt, but I lowk need to chill with my midnight food runs.",
+        "imgUrl": "https://drive.google.com/open?id=1s1plEUzKurWqANwTwKJX5SaVlpe5SZFl",
         "courses": {
             "cs61a": "Junior Mentor"
         },
