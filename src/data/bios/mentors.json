@@ -1,44 +1,5 @@
 [
     {
-        "name": "Richard Roggenkemper ",
-        "courses": {
-            "": "President"
-        }
-    },
-    {
-        "name": "Eden McEwen",
-        "courses": {
-            "": "External Vice President"
-        }
-    },
-    {
-        "name": "Naomi Sagan",
-        "courses": {
-            "": "Internal Vice President"
-        }
-    },
-    {
-        "name": "Kaitlyn Lee",
-        "courses": {
-            "": "Communications",
-            "cs88": "Senior Mentor"
-        },
-        "imgUrl": "https://drive.google.com/open?id=1sKnzWC67gNhhhek89ZmaThnlx5IwnSpF",
-        "details": "Hello, I\u2019m Kaitlyn! I\u2019m a 3rd year EECS major from the Bay Area. I like to experiment with cooking and find new boba places to try. Looking forward to a great semester!"
-    },
-    {
-        "name": "Cooper Bedin",
-        "courses": {
-            "": "Socials"
-        }
-    },
-    {
-        "name": "Rohan D'Souza",
-        "courses": {
-            "": "Tech"
-        }
-    },
-    {
         "name": "Dylan Brater",
         "courses": {
             "eecs16a": "Coordinator"
@@ -120,30 +81,6 @@
         "name": "Tony Kam",
         "courses": {
             "cs88": "Coordinator"
-        }
-    },
-    {
-        "name": "Katherine Shu",
-        "courses": {
-            "": "Advisor"
-        }
-    },
-    {
-        "name": "Albert Tang",
-        "courses": {
-            "": "Advisor"
-        }
-    },
-    {
-        "name": "Danny Chu",
-        "courses": {
-            "": "Advisor"
-        }
-    },
-    {
-        "name": "Jade Singh",
-        "courses": {
-            "": "DE&I"
         }
     },
     {
@@ -1037,6 +974,16 @@
         "imgUrl": "https://drive.google.com/open?id=1LPsRENGuJDWwfhQUAyhAQ1WdOfQ1YJct",
         "courses": {
             "cs61b": "Associate Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Kaitlyn Lee",
+        "pronouns": "",
+        "details": "Hello, I\u2019m Kaitlyn! I\u2019m a 3rd year EECS major from the Bay Area. I like to experiment with cooking and find new boba places to try. Looking forward to a great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1sKnzWC67gNhhhek89ZmaThnlx5IwnSpF",
+        "courses": {
+            "cs88": "Senior Mentor"
         },
         "webUrl": ""
     },
