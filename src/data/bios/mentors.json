@@ -2494,7 +2494,8 @@
         "details": "Hi! I am Anthony, a second-year studying math and CS. In my free time, I like to cook and play some board/card/video games. I look forward to mentoring you in section, and don't hesitate to reach out if you have questions!",
         "imgUrl": "https://drive.google.com/open?id=1D-LBkrgsjAUEo_sQ1z4KoBv8EPK4TFXb",
         "courses": {
-            "eecs16b": "Senior Mentor"
+            "eecs16b": "Senior Mentor",
+            "cs61c": "Content Mentor"
         },
         "webUrl": ""
     },
@@ -2751,9 +2752,9 @@
     },
     {
         "name": "Sean Kim",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "he/him/his",
+        "details": "Hi! My name is Sean, and I'm a third-year EECS major from SoCal. I have a slight boba addiction, enjoy playing video games, and like trying new foods. CS61B was one of my favorite courses and I hope it is for you too! I'm looking forward to meeting you all :)",
+        "imgUrl": "https://drive.google.com/open?id=1i1VJznYiYyxB2FBXl_XbhFDbAw11Lmi2",
         "courses": {
             "cs61b": "Senior Mentor"
         },
@@ -2888,5 +2889,35 @@
             "cs61b": "Senior Mentor"
         },
         "webUrl": ""
+    },
+    {
+        "name": "Nikash Khanna",
+        "pronouns": "he/him/his",
+        "details": "Hello! My name is Nikash and I'm a senior studying Computer Science. 61B was one of my favorite classes at Berkeley and I'm excited to teach it this semester. Outside of school, I love watching/playing sports, driving my car, and eating yummy food around Berkeley!",
+        "imgUrl": "https://drive.google.com/open?id=1Z2H_ubuwqyAsLqD5-hWt7ealINko6uDO",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Viren Khandal",
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Jessica Yu",
+        "pronouns": "she/her/hers",
+        "details": "Hey! My name is Jessica and I'm a third year majoring in CS and minoring in history. This is my fifth semester teaching 61A. I'm also involved with the Leetcode 101 Decal and 61C. I like basic shows and basic music, including but not limited to The Good Place and Taylor Swift. Chances are we'll have something in common!",
+        "imgUrl": "https://drive.google.com/open?id=1PMyEv9U9EiNismFLDHGZ3giK2TzBFz3B",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "webUrl": "https://jyunicorn.github.io"
     }
 ]
