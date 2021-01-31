@@ -488,7 +488,7 @@
         "name": "Rahul Shah",
         "pronouns": "",
         "details": "Hello, I'm a freshman from Princeton NJ majoring in CS+DS. When I'm not helping TA for the algorithmic thinking DeCal or applying practiced pedagogical techniques, you can find me spreading cute Panda pictures!",
-        "imgUrl": "https://drive.google.com/open?id=1gLarN0pDGTGjGT2su9R6pTes7rmU8y3I",
+        "imgUrl": "https://drive.google.com/open?id=1AGVtNvW-SFYeWxgMaQdFC10pXvAu0GmS",
         "courses": {
             "cs88": "Junior Mentor",
             "cs70": "Junior Mentor"
@@ -2676,7 +2676,7 @@
         "imgUrl": "https://drive.google.com/open?id=1ifXEz9v1ZAT6qa4rqqbzbS2Rg-ZnRDps",
         "courses": {
             "cs61a": "Junior Mentor",
-            "eecs16a": "Junior Mentor"
+            "cs61b": "Junior Mentor"
         },
         "webUrl": ""
     },
@@ -2918,6 +2918,16 @@
         "courses": {
             "cs61a": "Senior Mentor"
         },
-        "webUrl": "https://jyunicorn.github.io"
+        "webUrl": ""
+    },
+    {
+        "name": "Abishek Shankar",
+        "pronouns": "he/him/his",
+        "details": "Hi everyone! I am Abishek and am a Junior majoring in EECS and Economics. I am really passionate about data analytics and the application of AI in Finance. I love binge watching Netflix and some of my top show recs include Sherlock, Suits and Ozark. Please hit my up with any movie/tv show suggestions. I also enjoy cooking and trying out different recipes when I am bored and can make a strong case that Great China is the best restaurant in Berkeley. This is my third semester in CSM and I am super excited to help all of you succeed in 16A!",
+        "imgUrl": "https://drive.google.com/open?id=1nqqVxyEriuSUSADSchbZ7p8Jdtq4XmCB",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "webUrl": ""
     }
 ]
