@@ -3,19 +3,28 @@
         "name": "Dylan Brater",
         "courses": {
             "eecs16a": "Coordinator"
-        }
+        },
+        "pronouns": "He/Him/His",
+        "imgUrl": "https://drive.google.com/open?id=1funtRiYe5EMnxnAtlmURmKKbyPzQfY-p",
+        "details": "Hi all, my name is Dylan and I'm one of the 16A coordinators. Over quarantine I've started watching a lot of movies, playing a lot of video games, and running."
     },
     {
         "name": "Mohsin Sarwari",
         "courses": {
             "eecs16a": "Coordinator"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1-VtLPsRNb48xaTi3S_jcv3mPRpKQlSMn",
+        "details": "Hi! I'm a 3rd year CS + Stats Major interested in all things Robotics and AI. In my free time, I enjoy playing squash, discussing politics, and ruining family photos. Looking forward to another semester at Zoom University!"
     },
     {
         "name": "Aneesh Nathani",
         "courses": {
             "eecs16b": "Coordinator"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1Ef6ibCQkEjPkKwQwfVRPmPpD9fyKq8c9",
+        "details": "Hey, I'm Aneesh, a Computer Science and Economics major from a city called Pune in India. I love animals, soccer, and music. My favourite restaurant in Berkeley, which I have been craving on a daily basis is Imm Thai!"
     },
     {
         "name": "Risheek Pingili",
@@ -27,43 +36,64 @@
         "name": "Joshua Baum",
         "courses": {
             "cs61a": "Coordinator"
-        }
+        },
+        "pronouns": "He/Him",
+        "imgUrl": "https://drive.google.com/open?id=1I3-2FL-Vk26hTFNiC8Ukyz8fNDFhNPWH",
+        "details": "Hello I'm Josh! I'm a 3rd year CS student. I've been in CSM 61a and CS61a Course Staff since Fall 2019. Looking forward to the semester and hopefully returning to campus next year!"
     },
     {
         "name": "Ivan Penev",
         "courses": {
             "cs61a": "Coordinator"
-        }
+        },
+        "pronouns": "he/him",
+        "imgUrl": "https://drive.google.com/open?id=1OAyy1vgWmVbQ39IZrZhNOUUKCPmwtbLU",
+        "details": "Stop Dreamin' Start Schemin'"
     },
     {
         "name": "Elicia Ye",
         "courses": {
             "cs61b": "Coordinator"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1po7Pn0-1rCbsSYusuX4VtLohhlBcNvSD",
+        "details": "Hey! I'm Elicia, I'm a third year studying CS. I'm excited for my fifth semester in CSM and first time coording! Come talk to me about dumplings in all shapes, sizes, and forms :')"
     },
     {
         "name": "Ryan Nuqui",
         "courses": {
             "cs61b": "Coordinator"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1nVLVlwfefELZ2-5E9hThpvz3XMR2gxhC",
+        "details": "Hello!\nI'm a fourth year studying CS + Applied Math and this will be my sixth semester involved in CSM. I'm particularly passionate about CS theory, the issues surrounding diversity in education, and the Portland Trail Blazers. When I'm not doing work, I enjoy playing games with my friends, taking long walks, and watching random Youtube videos. I'm always free to chat whether it's about CS 61B, teaching, or anything at all. Looking forward to meeting you all and a great semester!"
     },
     {
         "name": "Archita Bhattacharya",
         "courses": {
             "cs61c": "Coordinator"
-        }
+        },
+        "pronouns": "she/her/hers",
+        "imgUrl": "https://drive.google.com/open?id=1lADOMMhGYRwlljoYcoBqoda7sEjXoJTv",
+        "details": "Hello! I'm a third year EECS major and this is my third semester in CSM 61C. Outside of school I like to read and have high ambitions, but questionable execution as a cook. I'm looking forward to the semester, feel free to reach out if you have any questions!"
     },
     {
         "name": "Ivy Li",
         "courses": {
             "cs61c": "Coordinator"
-        }
+        },
+        "pronouns": "she/her",
+        "imgUrl": "https://drive.google.com/open?id=1dP3jtUY0jpC2yYP3Q-JzlZiHqCAMhGmZ",
+        "details": "If you ask Rick Astley for a copy of the movie \"UP\", he cannot give you it as he can never give you up. But, by doing that, he is letting you down, and thus, is creating something known as the Astley Paradox."
     },
     {
         "name": "Shadaj Laddad",
         "courses": {
             "cs70": "Coordinator"
-        }
+        },
+        "pronouns": "he/him",
+        "imgUrl": "https://drive.google.com/open?id=1optH5pt7hnuG4Kd_Lpxb8zwV09V7DIKL",
+        "details": "Hello! I'm a third-year EECS major from San Jose, CA. I love exploring and contributing to programming languages (especially those involving functional programming) and am always working on fun side projects (right now, an NES emulator)! Outside of school, I play the sitar (and am learning the piano), drink lots of chai, and attempt to learn new languages on Duolingo.",
+        "webUrl": "https://www.shadaj.me"
     },
     {
         "name": "Nima Rezaeian ",
@@ -75,13 +105,20 @@
         "name": "Ada Hu",
         "courses": {
             "cs88": "Coordinator"
-        }
+        },
+        "pronouns": "she/her/hers",
+        "imgUrl": "https://drive.google.com/open?id=1TxbNVy7guyUC6abyVTBweEq8PlMwdjv5",
+        "details": "Hello! My name is Ada, and I really like to say uwu, owo, and iwi (it's a crying owo). Looking forward to meeting y'all this semester!"
     },
     {
         "name": "Tony Kam",
         "courses": {
             "cs88": "Coordinator"
-        }
+        },
+        "pronouns": "he/him",
+        "imgUrl": "https://drive.google.com/open?id=1FlX50LZ323E0Uv_hHHL47PyTPUSYdOCk",
+        "details": "Hi! I'm a sophomore EECS major from Orange County, CA. If I could, I would be a big wave surfer in Hawaii (like Kai Lenny). But as of now, I am working on IoT devices, Robots, and Satellites. ",
+        "webUrl": "https://www.linkedin.com/in/tonyshekkam/"
     },
     {
         "name": "James Nguyen",
@@ -2174,7 +2211,7 @@
         "name": "Kaitlyn Lee",
         "pronouns": "",
         "details": "Hello, I\u2019m Kaitlyn! I\u2019m a 3rd year EECS major from the Bay Area. I like to experiment with cooking and find new boba places to try. Looking forward to a great semester!",
-        "imgUrl": "https://drive.google.com/open?id=1sKnzWC67gNhhhek89ZmaThnlx5IwnSpF",
+        "imgUrl": "https://drive.google.com/open?id=1aF7UAwv1dW7WYXLJy43dJV9IZiLxO7IR",
         "courses": {
             "cs88": "Senior Mentor"
         },
@@ -2943,11 +2980,11 @@
     {
         "name": "Sylvia Jin",
         "pronouns": "she/her/hers",
-        "details": "I'm a junior math and stats major currently in Berkeley! I don't teach a CSM section this semester, but formerly I taught the card-counting decal, and I'm also heavily involved with Berkeley Math Tournament (<a href=\"https://bmt.berkeley.edu/\">MUSA</a>).<br><br>Check out my <a href=\"https://www.youtube.com/watch?v=doEqUhFiQS4\">website</a>!",
+        "details": "I'm a junior math and stats major currently in Berkeley! I don't teach a CSM section this semester, but formerly I taught the card-counting decal, and I'm also heavily involved with Berkeley Math Tournament (<a href=\"https://bmt.berkeley.edu/\">BMT</a>).<br><br>Check out my <a href=\"https://www.youtube.com/watch?v=doEqUhFiQS4\">website</a>!",
         "imgUrl": "https://drive.google.com/open?id=1yDzW94lfBU4MN9XDVD6j5I108BgQqhws",
         "courses": {
             "cs70": "Content Mentor"
         },
-        "webUrl": "https://www.youtube.com/watch?v=doEqUhFiQS4"
+        "webUrl": "https://ugtcs.berkeley.edu/"
     }
 ]

@@ -100,6 +100,22 @@ def parse_bios(csv_path, master_roster_path):
             role = row[Cols.ROLE]
             pronouns = row[Cols.PRONOUNS]
             web_url = row[Cols.WEB_URL]
+            def update(email_no_dot):
+                # Assume the latest version of the bio is correct
+                obj = people_by_email[email_no_dot]
+                if use_pref_name:
+                    obj["name"] = name
+                if pronouns and not pronouns.isspace():
+                    obj["pronouns"] = pronouns
+                if course and not course.isspace():
+                    obj["courses"][course] = role
+                if photo_url and not photo_url.isspace():
+                    obj["imgUrl"] = photo_url
+                if bio and not bio.isspace():
+                    obj["details"] = bio
+                if web_url and not web_url.isspace():
+                    obj["webUrl"] = web_url
+
             if role == "Exec":
                 # print(f"\t{name} for exec")
                 exec_roles[email_no_dot]["imgUrl"] = photo_url
@@ -108,6 +124,10 @@ def parse_bios(csv_path, master_roster_path):
                 exec_bios[email_no_dot]["pronouns"] = pronouns
                 exec_bios[email_no_dot]["details"] = bio
                 exec_bios[email_no_dot]["webUrl"] = web_url
+                if email_no_dot in people_by_email:
+                    update(email_no_dot)
+                else:
+                    print(f"=== SKIPPING EXEC {name} ===")
             elif course not in NORMALIZED_REJECTIONS:
                 # print(f"\t{name} for {course}")
                 if email_no_dot not in people_by_email:
@@ -123,20 +143,7 @@ def parse_bios(csv_path, master_roster_path):
                             "webUrl": web_url,
                         }
                 else:
-                    # Assume the latest version of the bio is correct
-                    obj = people_by_email[email_no_dot]
-                    if use_pref_name:
-                        obj["name"] = name
-                    if pronouns and not pronouns.isspace():
-                        obj["pronouns"] = pronouns
-                    if course and not course.isspace():
-                        obj["courses"][course] = role
-                    if photo_url and not photo_url.isspace():
-                        obj["imgUrl"] = photo_url
-                    if bio and not bio.isspace():
-                        obj["details"] = bio
-                    if web_url and not web_url.isspace():
-                        obj["webUrl"] = web_url
+                    update(email_no_dot)
     # # 61B is doing its own form so I'm just hacking in a snippet here
     # with open("csvs/bios-61b.csv") as f:
     #     reader = csv.DictReader(f)
