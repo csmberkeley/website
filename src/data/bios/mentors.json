@@ -2939,5 +2939,15 @@
             "cs61b": "Senior Mentor"
         },
         "webUrl": ""
+    },
+    {
+        "name": "Sylvia Jin",
+        "pronouns": "she/her/hers",
+        "details": "I'm a junior math and stats major currently in Berkeley! I don't teach a CSM section this semester, but formerly I taught the card-counting decal, and I'm also heavily involved with Berkeley Math Tournament (<a href=\"https://bmt.berkeley.edu/\">MUSA</a>).<br><br>Check out my <a href=\"https://www.youtube.com/watch?v=doEqUhFiQS4\">website</a>!",
+        "imgUrl": "https://drive.google.com/open?id=1yDzW94lfBU4MN9XDVD6j5I108BgQqhws",
+        "courses": {
+            "cs70": "Content Mentor"
+        },
+        "webUrl": "https://www.youtube.com/watch?v=doEqUhFiQS4"
     }
 ]
