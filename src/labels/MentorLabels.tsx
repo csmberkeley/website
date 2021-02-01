@@ -115,10 +115,10 @@ export const SECTIONS = {
 export const FAQ = {
     LABEL: "FAQ",
     FA20_ONLINE: {
-        Q: "Will CSM continue to operate if Fall 2020 is hybrid or online?",
+        Q: "Will CSM continue to operate if the semester is hybrid or online?",
         A:
             "CSM will continue to offer services in accordance with campus decisions on remote " +
-            "and/or in-person instruction for Fall 2020.",
+            "and/or in-person instruction for the current semester.",
     },
     JM_QUALITIES: {
         Q: "What are you looking for in a Junior Mentor?",

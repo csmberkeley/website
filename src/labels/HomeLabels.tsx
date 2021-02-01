@@ -33,7 +33,7 @@ export const WHO_WE_ARE = {
             week to learn from each other, and use another time of the week to
             teach a section. Our <b>Associate Mentors</b> are either tutors,
             readers, or other experienced teachers who teach a section without a
-            Senior Mentor."
+            Senior Mentor.
         </p>
     ),
 };

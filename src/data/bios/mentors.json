@@ -598,7 +598,7 @@
     {
         "name": "Angela Zhang",
         "pronouns": "she/her/hers",
-        "details": "Hi! I'm a freshman EECS major from Fremont, CA, who just took the same virtual style of CS 61A last semester as you are right now! I loved this class, and I really enjoy teaching, so I hope I can help you guys in any way I can even if it's just through a screen. Outside of CS, I love design, painting/digitally doodling for my friends, watching sports (football is my newest fixation), and playing a variety of games. My teaching style is going through and figuring out the logic of the problems first before we dive into writing actual code, and I strongly support experimenting with various low fidelity methods, even if a lot of them quickly turn out to be wrong, when trying to solve problems.",
+        "details": "Hi! I'm a freshman EECS major from Fremont, CA, who just took the same virtual style of CS 61A last semester as you are right now! I loved this class, so I hope I can help you guys in any way I can even if it's just through a screen. Outside of CS, I love design, painting/digitally doodling for my friends, watching sports (football is my newest fixation), and playing a variety of games. Definitely look forward to learning more about you guys as well!",
         "imgUrl": "https://drive.google.com/open?id=1LSOcF3ejwSKxGRC6MLPCmsOZo41fUbMS",
         "courses": {
             "cs61a": "Junior Mentor"
@@ -1120,9 +1120,9 @@
     },
     {
         "name": "Esther Cai",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "she/her/hers",
+        "details": "Hihi :) I'm a second year studying Computer Science and Physics from Irvine, CA. Besides grinding school works, I like to explore new hobbies, draw/paint, \nrun and pretend to understand philosophy books. I'm also a huge fan of Dostoyevsky and Tolkien. \nI really loved the content when taking cs70, so I wish to make your experience w this class enjoyable too",
+        "imgUrl": "https://drive.google.com/open?id=1tBa6Js1iZ-sTKpUtAtIZa8uII3dM3G_0",
         "courses": {
             "cs70": "Junior Mentor"
         },
@@ -2012,9 +2012,9 @@
     },
     {
         "name": "Rosalie Fang",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "she/her/hers",
+        "details": "Hi y'all! I'm a sophomore studying CS and Econ, and this is my 2nd semester teaching 70 with CSM! I love cooking, ice skating, physics and a bunch of other things. If you're into reading fiction books feel free to ask for/give me book recs!",
+        "imgUrl": "https://drive.google.com/open?id=1p3nxZJCNxuYKYPvmnCuwAAXs_jzgoKya",
         "courses": {
             "cs70": "Senior Mentor"
         },
@@ -2927,6 +2927,16 @@
         "imgUrl": "https://drive.google.com/open?id=1nqqVxyEriuSUSADSchbZ7p8Jdtq4XmCB",
         "courses": {
             "eecs16a": "Senior Mentor"
+        },
+        "webUrl": ""
+    },
+    {
+        "name": "Cassidy Hardin",
+        "pronouns": "She/Her",
+        "details": "Hi I'm Cassidy I am a big foodie and have REALLY missed going to restaurants and trying new foods so I've been spending most of quarantine cooking, so please (pretty please) send me recipe recommendations :) When I'm not cooking you'll probably find me outside hiking, surfing, running or skiing basically anything to avoid being on zoom...but come zoom with me to learn some awesome data structures! ",
+        "imgUrl": "https://drive.google.com/open?id=1njToQeko_f9j0P7XoHa75VJPlF81j5ey",
+        "courses": {
+            "cs61b": "Senior Mentor"
         },
         "webUrl": ""
     }
