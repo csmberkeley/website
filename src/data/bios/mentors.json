@@ -2928,6 +2928,16 @@
         "webUrl": ""
     },
     {
+        "name": "Christina Fan",
+        "pronouns": "she/her",
+        "details": "Hi! I'm Christina and I'm a second year computer science major. 61B is my favorite class at Berkeley, and I hope it will be yours too. I love binging Netflix, making Spotify playlists, and photography. Hmu if you wanna talk about tech, movies, food, or anything in between! :)",
+        "imgUrl": "https://drive.google.com/open?id=1byPHNRpX9Vi4Wvbzi7sV3ToppcMgfz6y",
+        "courses": {
+            "cs61b": "Content Mentor"
+        },
+        "webUrl": ""
+    },
+    {
         "name": "Nikash Khanna",
         "pronouns": "he/him/his",
         "details": "Hello! My name is Nikash and I'm a senior studying Computer Science. 61B was one of my favorite classes at Berkeley and I'm excited to teach it this semester. Outside of school, I love watching/playing sports, driving my car, and eating yummy food around Berkeley!",
@@ -2986,5 +2996,15 @@
             "cs70": "Content Mentor"
         },
         "webUrl": "https://ugtcs.berkeley.edu/"
+    },
+    {
+        "name": "Shriya Nandwani",
+        "pronouns": "she/her/hers",
+        "details": "Hey everyone! I'm Shriya, and I'm a junior studying CS. I'm from the Bay Area, and I love 61B! I also love hiking, bullet journaling, and watching The Office. ",
+        "imgUrl": "https://drive.google.com/open?id=1X9NBSiCn7DLCcRHC96PRM-2V9uYjKPQi",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "webUrl": ""
     }
 ]
