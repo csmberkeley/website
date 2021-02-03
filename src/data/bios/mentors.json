@@ -403,9 +403,9 @@
     },
     {
         "name": "Noor Mahini",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "He/him/his",
+        "details": "Hello there! I'm Noor and I'm a sophomore majoring in EECS. In my free time, I like to play video games (mostly Nintendo games), piano, viola, tennis. I recently picked up the kalimba too, so that's been really fun! If you ever want to talk about any of the above or anything 61B related, hit me up!\n",
+        "imgUrl": "https://drive.google.com/open?id=1qVeDAdoGP8MbWMme4vzig2fPY8uFqiCm",
         "courses": {
             "cs61b": "Junior Mentor"
         },
@@ -906,7 +906,7 @@
     {
         "name": "Rachel Kim",
         "pronouns": "she/her",
-        "details": "Hi! I'm Rachel and I'm a first year studying CS from the Bay Area. I took 61A last fall and loved it :) In my free time I like to go get food, play animal crossing, and binge shows on netflix (+the occasional kdrama). Looking forward to meeting you all!",
+        "details": "Hi! I'm Rachel and I'm a first year studying CS from the Bay Area. I took 61A last fall and loved it :) In my free time I like to go get food, play animal crossing, and binge shows on Netflix (+the occasional kdrama). Looking forward to meeting you all!",
         "imgUrl": "https://drive.google.com/open?id=1BXGRSJX1bhclpgVWNx1NG0Uqh8ziP6Km",
         "courses": {
             "cs61a": "Junior Mentor"
@@ -1748,10 +1748,10 @@
         "webUrl": ""
     },
     {
-        "name": "Michelle Chen",
-        "pronouns": "",
+        "name": "Michelle Chen`",
+        "pronouns": "she/hers",
         "details": "Hi I'm Michelle! I'm a second year studying computer science and cognitive science (CS^2) and this is my second semester teaching 61A. In my free time, I binge tv shows (just started the bachelor), bake with my housemates, listen to music, draw, and game. Feel free to let me know if you're looking for advice, drama recs, or to co-op on Genshin. Excited to meet you all! :)",
-        "imgUrl": "https://drive.google.com/open?id=1tK_F_DlJnmbqWNr4nIWv6jMaMSvYzt6b",
+        "imgUrl": "https://drive.google.com/open?id=1OUHeEnH8AZucXJEXdpbfquHROVdNsPus",
         "courses": {
             "cs61a": "Associate Mentor"
         },
@@ -2720,7 +2720,7 @@
     {
         "name": "Aditi Raja",
         "pronouns": "she/her/hers",
-        "details": "Shortened version: Hi! I'm Aditi, and I am currently a second year studying CS and Music. In my free time, I like to drink boba, play with my corgi, go hiking or on drives with my friends, and play some music. Feel free to reach out to me if you ever want to have a jam session or if you just wanna talk :))",
+        "details": "Hi! I'm Aditi, and I am currently a second year studying CS and Music. In my free time, I like to drink boba, play with my corgi, go hiking or on drives with my friends, and play some music. Feel free to reach out to me if you ever want to have a jam session or if you just wanna talk :))",
         "imgUrl": "https://drive.google.com/open?id=1N-Rhg5O678lwv6_wkoBH3TVlqLODvPDo",
         "courses": {
             "cs61a": "Associate Mentor"
@@ -2759,9 +2759,9 @@
     },
     {
         "name": "Jonathan Wang",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "he/him/his",
+        "details": "I'm a junior EECS major and tryina get a minor in math and marine science. I enjoyed 61C as much as I passed hidden auto grader tests on the projects, so about 50% jk I loved it so much and I wish to impart as much as I can to everyone! Favorite music genre is mongolian throat singing.",
+        "imgUrl": "https://drive.google.com/open?id=1S7-mjYQWK7PJ5_muDxZEihymMeH5iRTw",
         "courses": {
             "cs61c": "Senior Mentor"
         },
@@ -2828,10 +2828,10 @@
         "webUrl": ""
     },
     {
-        "name": "Brian",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "name": "Brian Liu",
+        "pronouns": "He/him/his",
+        "details": "Hello everyone! My name is Brian and I've been a JM for 1 semester and this is my second semester as an SM! Some of my hobbies include talking to people, running, recreational basketball, or just chilling honestly. Im really excited for a new semester please sign up for my section thank u! :)",
+        "imgUrl": "https://drive.google.com/open?id=1an2TiNbdkup_K9Zxvi9NG1xdSEnMP2Zh",
         "courses": {
             "cs61b": "Senior Mentor"
         },
