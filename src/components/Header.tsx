@@ -33,7 +33,7 @@ class LinkList extends React.Component<LinkProps> {
                     <Link to="/sage">Teaching Tips</Link>
                 </li>
                 <li>
-                    <a href="https://scheduler.csmentors.org">Scheduler</a>
+                    <a href="https://scheduler.csmentors.org">Enroll in a Section</a>
                 </li>
             </ul>
         );

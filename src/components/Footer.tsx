@@ -72,7 +72,7 @@ export default class Footer extends React.Component {
                                         to="/scheduler"
                                         className="grey-text text-lighten-3"
                                     >
-                                        Scheduler
+                                        Scheduler (section enrollment)
                                     </Link>
                                 </li>
                                 <li>
