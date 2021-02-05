@@ -1440,7 +1440,7 @@
     {
         "name": "William Xu",
         "pronouns": "He/him/his",
-        "details": "Hi, my name is William and I'm a first year studying Engineering Math and Statistics. I enjoy include trivia, drawing, and poetry.",
+        "details": "Hi, my name is William and I'm a first year studying Engineering Math and Statistics. I enjoy trivia, drawing, and poetry.",
         "imgUrl": "https://drive.google.com/open?id=1b_0A0TNo4nVJReNxbqGxc4HIH4HO7YhM",
         "courses": {
             "cs88": "Junior Mentor"
@@ -1779,9 +1779,9 @@
     },
     {
         "name": "Jiu Chang",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "she/her/hers",
+        "details": "Hey! I'm a third year studying Physics and CS. I will be staying in Korea over Spring, so hit me up any time, even after midnight!",
+        "imgUrl": "https://drive.google.com/open?id=1KoKfRpgxFY_qMNLozUJ_HcZS0yU-20Nv",
         "courses": {
             "eecs16b": "Senior Mentor"
         },

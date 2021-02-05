@@ -72,7 +72,7 @@ export const FAQ = {
         A:
             "Yes! Each student can receive 1 unit of P/NP credit. We will provide you the " +
             "appropriate CCN when the time comes. You are not required to enroll. You must attend " +
-            "90% of your assigned weekly sessions in order to pass. If you are enrolled in multiple" +
+            "90% of your assigned weekly sessions in order to pass. If you are enrolled in multiple " +
             "CSM sections, you may receive 1 unit for each.",
     },
     CONTACT: FAQ_CONTACT,

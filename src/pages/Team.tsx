@@ -18,7 +18,16 @@ import * as utils from "./utils";
 
 const CURRENT_SEM = "sp21";
 // TODO display older of these in a dropdown maybe?
-const SEMESTERS = ["fa17", "sp18", "fa18", "sp19", "fa19", "sp20", "fa20", "sp21"].slice(-4);
+const SEMESTERS = [
+    "fa17",
+    "sp18",
+    "fa18",
+    "sp19",
+    "fa19",
+    "sp20",
+    "fa20",
+    "sp21",
+].slice(-4);
 
 interface NewOfficer {
     kind: "new";

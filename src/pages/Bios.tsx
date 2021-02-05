@@ -98,21 +98,27 @@ class BioCourse extends React.Component<{ course: string }> {
                                   </td>
                                   <td className="bio">
                                       <p className="label">
-                                        {bio.webUrl ? 
-                                        (<a href={bio.webUrl}>{bio.name}</a>)
-                                        : bio.name
-                                        }
-                                        {bio.pronouns &&
-                                          <>
-                                            &nbsp;
-                                            <small>
-                                              [{bio.pronouns.toLowerCase()}]
-                                            </small>
-                                          </>
-                                        }
+                                          {bio.webUrl ? (
+                                              <a href={bio.webUrl}>
+                                                  {bio.name}
+                                              </a>
+                                          ) : (
+                                              bio.name
+                                          )}
+                                          {bio.pronouns && (
+                                              <>
+                                                  &nbsp;
+                                                  <small>
+                                                      [
+                                                      {bio.pronouns.toLowerCase()}
+                                                      ]
+                                                  </small>
+                                              </>
+                                          )}
                                       </p>
                                       <p>{bio.role}</p>
-                                      <div style={{whiteSpace: "break-spaces"}}
+                                      <div
+                                          style={{ whiteSpace: "break-spaces" }}
                                           dangerouslySetInnerHTML={{
                                               __html: bio.details
                                                   ? sanitizeHtml(bio.details)
