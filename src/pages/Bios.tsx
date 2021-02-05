@@ -28,15 +28,17 @@ LOWERCASE_COURSES.forEach(course => {
 });
 // Since we're pre-rendering, some inefficiency is OK
 for (let mentor of mentorBios) {
-    for (let [course, role] of Object.entries(mentor.courses)) {
-        bios[course].push({
-            name: mentor.name,
-            pronouns: mentor.pronouns,
-            role: role!,
-            imgUrl: mentor.imgUrl,
-            webUrl: mentor.webUrl,
-            details: mentor.details,
-        });
+    if (mentor.courses) {
+        for (let [course, role] of Object.entries(mentor.courses)) {
+            bios[course].push({
+                name: mentor.name,
+                pronouns: mentor.pronouns,
+                role: role!,
+                imgUrl: mentor.imgUrl,
+                webUrl: mentor.webUrl,
+                details: mentor.details,
+            });
+        }
     }
 }
 for (let bioList of Object.values(bios)) {

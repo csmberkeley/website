@@ -103,11 +103,15 @@ def parse_bios(csv_path, master_roster_path):
             def update(email_no_dot):
                 # Assume the latest version of the bio is correct
                 obj = people_by_email[email_no_dot]
+                if "Viren" in email_no_dot:
+                    print(f"{name} {pronouns} {role} {bio} {web_url}")
                 if use_pref_name:
                     obj["name"] = name
                 if pronouns and not pronouns.isspace():
                     obj["pronouns"] = pronouns
                 if course and not course.isspace():
+                    if "courses" not in obj:
+                        obj["courses"] = {}
                     obj["courses"][course] = role
                 if photo_url and not photo_url.isspace():
                     obj["imgUrl"] = photo_url
@@ -131,17 +135,17 @@ def parse_bios(csv_path, master_roster_path):
             elif course not in NORMALIZED_REJECTIONS:
                 # print(f"\t{name} for {course}")
                 if email_no_dot not in people_by_email:
+                    people_by_email[email_no_dot] = {
+                        "name": name,
+                        "pronouns": pronouns,
+                        "details": bio,
+                        "imgUrl": photo_url,
+                        "webUrl": web_url,
+                    }
                     if not course or course.isspace():
-                        print(f"=== NO COURSE FOUND FOR {name}, SKIPPING FOR NOW ===")
+                        print(f"=== NO COURSE FOUND FOR {name} ===")
                     else:
-                        people_by_email[email_no_dot] = {
-                            "name": name,
-                            "pronouns": pronouns,
-                            "details": bio,
-                            "imgUrl": photo_url,
-                            "courses": {course: role},
-                            "webUrl": web_url,
-                        }
+                        people_by_email[email_no_dot]["courses"] = {course: role}
                 else:
                     update(email_no_dot)
     # # 61B is doing its own form so I'm just hacking in a snippet here
