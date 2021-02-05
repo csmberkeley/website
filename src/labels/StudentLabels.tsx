@@ -63,17 +63,18 @@ export const FAQ = {
     DEADLINE_PASSED: {
         Q: "The deadline to sign up has already passed, can I still sign up?",
         A:
-            "Yes. CSM's biggest priority is reaching out to as many students as we can. However, " +
-            "if you aren't enrolled on Calcentral, you will still be required to regularly attend " +
-            "the specific section you are assigned to.",
+            "Yes! CSM's biggest priority is reaching out to as many students as we can. However, " +
+            "even if you aren't enrolled on CalCentral, you will still be required to regularly " +
+            "attend the specific section you are assigned to.",
     },
     UNITS: {
         Q: "Can I get units for attending a section?",
         A:
             "Yes! Each student can receive 1 unit of P/NP credit. We will provide you the " +
-            "appropriate CCN when the time comes. You are not required to enroll. You must attend " +
+            "appropriate CCN after signups. You are not required to enroll. You must attend " +
             "90% of your assigned weekly sessions in order to pass. If you are enrolled in multiple " +
-            "CSM sections, you may receive 1 unit for each.",
+            "CSM sections, you may receive 1 unit for each, and must meet attendance requirements " +
+            "for all your sections in order to pass.",
     },
     CONTACT: FAQ_CONTACT,
 };
