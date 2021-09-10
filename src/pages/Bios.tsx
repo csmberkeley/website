@@ -30,6 +30,9 @@ LOWERCASE_COURSES.forEach(course => {
 for (let mentor of mentorBios) {
     if (mentor.courses) {
         for (let [course, role] of Object.entries(mentor.courses)) {
+            if (!(course in bios)) {
+                console.error("invalid course: " + course, mentor);
+            }
             bios[course].push({
                 name: mentor.name,
                 pronouns: mentor.pronouns,

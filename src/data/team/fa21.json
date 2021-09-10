@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Richard Roggenkemper",
+        "imgUrl": "https://drive.google.com/open?id=1TSbB5-O8TsEmO3K-1umAnWic9y2g-id9",
+        "position": "President",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Cooper Bedin",
+        "imgUrl": "https://drive.google.com/open?id=17dLgvdCAtfS2F0lruqy183ldJjkdsvXW",
+        "position": "External Vice President",
+        "pronouns": "they/them"
+    },
+    {
+        "name": "Mohsin Sarwari",
+        "imgUrl": "https://drive.google.com/open?id=1Wpos4mKkzmHVenb-fbMn_a0XB4gHoLVr",
+        "position": "Internal Vice President",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Kaitlyn Lee",
+        "imgUrl": "https://drive.google.com/open?id=1oaU1KSH_7wI6ijmySIyAmUP80WYqM0lm",
+        "position": "Communications",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Vivian Lu",
+        "imgUrl": "https://drive.google.com/open?id=1xi08ZdzVfcdDTWxyquJchOA0EyuQWu13",
+        "position": "Socials Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Ryan Nuqui",
+        "imgUrl": "",
+        "position": "DE&I Chair"
+    },
+    {
+        "name": "Rohan D'Souza",
+        "imgUrl": "",
+        "position": "Tech Chair"
+    },
+    {
+        "name": "Diyah Mettupalli",
+        "imgUrl": "https://drive.google.com/open?id=1QiXA0M6UnEAANUQHfHflF8GsaZ2lGkqS",
+        "position": "EECS 16A Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Viren Khandal",
+        "imgUrl": "https://drive.google.com/open?id=1oIoNkRJVd6mUnjM7cvNomcNm_8gO8mcD",
+        "position": "EECS 16A Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Jiu Chang",
+        "imgUrl": "https://drive.google.com/open?id=1VXkkcBOT5TU7UF_P1whyTXRCuOF49vTc",
+        "position": "EECS 16B Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Risheek Pingili",
+        "imgUrl": "https://drive.google.com/open?id=1NU9NQYXcN9MerewbPjB6XaRN8Ro_vSJ8",
+        "position": "EECS 16B Coordinator",
+        "pronouns": "He/His/Him"
+    },
+    {
+        "name": "Joshua Baum",
+        "imgUrl": "",
+        "position": "CS 61A Coordinator"
+    },
+    {
+        "name": "Ruslana Yurtyn",
+        "imgUrl": "https://drive.google.com/open?id=1WsYbN28B6ghZDUwAKLYoITZXroQ5DhKU",
+        "position": "CS 61A Coordinator",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Emily Su",
+        "imgUrl": "https://drive.google.com/open?id=11mzY0lKjMQhLfJnriWGbgtQ7AjI3qTzj",
+        "position": "CS 61B Coordinator",
+        "pronouns": "She/Her"
+    },
+    {
+        "name": "Aryan Agarwal",
+        "imgUrl": "https://drive.google.com/open?id=1y43coOC3nwYreac1-SOJFqe-8W9EbcEw",
+        "position": "CS 61B Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Yana Yarmolich",
+        "imgUrl": "",
+        "position": "CS 61C Coordinator"
+    },
+    {
+        "name": "Aadith Srinivasan",
+        "imgUrl": "",
+        "position": "CS 61C Coordinator"
+    },
+    {
+        "name": "Sagnik Bhattacharya",
+        "imgUrl": "https://drive.google.com/open?id=14r8VzBeCHk1Iu6F8IUAL-eGfjMzP3p7h",
+        "position": "CS 70 Coordinator",
+        "pronouns": "they/them"
+    },
+    {
+        "name": "Abinav Routhu",
+        "imgUrl": "https://drive.google.com/open?id=1K-e5AWiFa0URiMSY_j_XkUd_Y_ZJeo7g",
+        "position": "CS 70 Coordinator",
+        "pronouns": "He/Him/His"
+    },
+    {
+        "name": "Ada Hu",
+        "imgUrl": "",
+        "position": "CS 88 Coordinator"
+    },
+    {
+        "name": "Chi Tsai",
+        "imgUrl": "https://drive.google.com/open?id=1V-23ccpZzwZ-LBVoZTFFnF63kUL7cFEB",
+        "position": "CS 88 Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Eden McEwen",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Naomi Sagan",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Alex Kassil",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Shadaj Laddad",
+        "imgUrl": "",
+        "position": "Advisor"
+    }
+]

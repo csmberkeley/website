@@ -17,7 +17,7 @@ the desired columns or filter any unwanted entries.
 import csv
 import json
 
-CURR_SEMESTER = "sp21" # CHANGE ME
+CURR_SEMESTER = "fa21" # CHANGE ME
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_PATH = "./csvs/roster.csv"
@@ -76,6 +76,8 @@ def parse_bios(csv_path, master_roster_path):
             name, email, role, preproc_course = row
             course = preproc_course.lower().replace(" ", "")
             email_no_dot = email.replace(".", "").lower().strip()
+            if not role:
+                print("=== WARNING: EMPTY ROLE IN MASTER ROSTER FOR {email} ===")
             if email_no_dot not in people_by_email:
                 people_by_email[email_no_dot] = {
                     "name": name,
@@ -96,7 +98,7 @@ def parse_bios(csv_path, master_roster_path):
             name = row[Cols.NAME] if not use_pref_name else pref_name
             photo_url = row[Cols.IMG_URL]
             bio = row[Cols.BIO]
-            course = row[Cols.COURSE].lower().replace(" ", "")
+            course = row[Cols.COURSE].lower().replace(" ", "").strip()
             role = row[Cols.ROLE]
             pronouns = row[Cols.PRONOUNS]
             web_url = row[Cols.WEB_URL]
