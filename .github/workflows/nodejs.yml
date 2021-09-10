@@ -16,7 +16,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x] # Version on both Jonathan's local and the NVM install on our OCF account
+        node-version: [16.x] # Version on both Jonathan's local and the NVM install on our OCF account
 
     steps:
     - uses: actions/checkout@v2
