@@ -168,7 +168,10 @@
         "name": "Ada Hu",
         "courses": {
             "cs88": "Coordinator"
-        }
+        },
+        "pronouns": "she/her/hers",
+        "imgUrl": "https://drive.google.com/open?id=15jRUbSnlEDf6RAECW2mTVIbxF412_E5n",
+        "details": "hehe xd "
     },
     {
         "name": "Chi Tsai",
@@ -2812,9 +2815,9 @@
     },
     {
         "name": "Charlotte Le",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "she/her",
+        "details": "Hey I'm Charlotte! I'm a second year from Qatar majoring in computer science and minoring in politics, philosophy, and law! I love travelling, soccer, and working out. I'm really into rap and my favourite artists include J. Cole, Pop Smoke, and Stormzy! I'm so excited to teach 61A this semester! :)",
+        "imgUrl": "https://drive.google.com/open?id=1tA1rtPJV-JT7ZXnqMH1ybw3GwQCJmeSS",
         "webUrl": "",
         "courses": {
             "cs61a": "Associate Mentor"
