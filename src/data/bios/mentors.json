@@ -3092,5 +3092,15 @@
         "courses": {
             "cs61c": "Senior Mentor"
         }
+    },
+    {
+        "name": "Jay Monga",
+        "pronouns": "he/him/his",
+        "details": "table tennis",
+        "imgUrl": "https://drive.google.com/open?id=1yoMDW00WKPj8NAfIWvmH2D03Euq3k2Gb",
+        "webUrl": "",
+        "courses": {
+            "eecs16b": "Senior Mentor"
+        }
     }
 ]
