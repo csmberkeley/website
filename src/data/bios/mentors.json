@@ -1477,9 +1477,9 @@
     },
     {
         "name": "Isolde Fang ",
-        "pronouns": "",
-        "details": "",
-        "imgUrl": "",
+        "pronouns": "she/her/hers",
+        "details": "Hi everyone, I am a third-year studying CS and Applied Math. This is my third semester at CSM CS70! I like biking, hiking, and playing with my cats in my free time. Fun fact: I have two adorable and naughty cats, Bugsy and Finny!!!",
+        "imgUrl": "https://drive.google.com/file/d/1ArgAWvsP3YD3qMs017W_RQ9VaqVlGX8q/view?usp=sharing",
         "webUrl": "",
         "courses": {
             "cs70": "Senior Mentor"
@@ -3101,6 +3101,36 @@
         "webUrl": "",
         "courses": {
             "eecs16b": "Senior Mentor"
+        }
+    },
+    {
+        "name": "Grace Yi",
+        "pronouns": "she/her",
+        "details": "Hi everyone! I'm Grace, a third year CS major from Union City, California. This is my 3rd semester with CSM and I am super excited to meet you all this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1eA4l38Ik5BOS6_EDj5YBxmvGpMCRbOQD",
+        "webUrl": "",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        }
+    },
+    {
+        "name": "Jennifer Huang ",
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": "",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        }
+    },
+    {
+        "name": "Ivan Penev",
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": "",
+        "courses": {
+            "cs61a": "Senior Mentor"
         }
     },
     {
