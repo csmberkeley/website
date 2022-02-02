@@ -116,7 +116,11 @@
         "name": "Anirudh Rengarajan",
         "courses": {
             "eecs16b": "Senior Mentor"
-        }
+        },
+        "pronouns": "he/him",
+        "imgUrl": "https://drive.google.com/open?id=1c9SA5VQfRF40J_-8NHwV8FhlFG2Utj4f",
+        "details": "Hey Everyone! I'm Ani, a senior studying EECS entering my 3rd semester as a mentor in CSM (2nd as a Senior Mentor). Some of my passions including watching sports (go Warriors, 49ers and Giants!), tinkering my PC rig, exploring the city, finding new food spots, as well as frequenting r/frugalmalefashion (lmk if I missed anything)!",
+        "webUrl": "arengarajan.me"
     },
     {
         "name": "Ryan Nuqui",
@@ -303,7 +307,9 @@
         "name": "Nikhil Kandkur",
         "courses": {
             "cs61b": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1TO3wZ5Nh3XqgwbmStM4TMtAdDP_YuJJ5",
+        "details": "Hi everybody! My name's Nikhil, and I'm a second year from Fremont, CA studying CS and CalTeach. This is my third semester on CSM, and I could not be more excited to mentor this semester! Some of my favorite things to do are watch TV (currently (re)watching Euphoria), bike, and listen to pop music."
     },
     {
         "name": "Vron Vance",
@@ -593,12 +599,6 @@
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1rxHV1nU1OdNkoCyaWBTXQGX2CPrKVHbd",
         "details": "I like sharks and hopefully you do too!"
-    },
-    {
-        "name": "Ajay Sridhar",
-        "courses": {
-            "eecs16b": "Senior Mentor"
-        }
     },
     {
         "name": "Efsane Soyer",
@@ -1274,11 +1274,11 @@
         "details": "Hi! My name is Matthew and I am a Freshman studying Physics and CS, and I am from San Diego. I am a part of the Society of Physics Students (SPS) at Berkeley. My interests are playing the piano (I have been doing this for 14 years), volleyball, and chess. I took 61A last Fall and loved the experience! This is my first semester in CSM, and I am super excited to be a mentor for 61A this semester! Feel free to ask me about anything (course-related or not). I'm looking forward to meeting you all! "
     },
     {
-        "name": "Aditya",
+        "name": "Aditya Murali",
         "courses": {
             "cs61a": "Junior Mentor"
         },
-        "pronouns": "Murali",
+        "pronouns": "he/his/him",
         "imgUrl": "https://drive.google.com/open?id=1BhI_XV54Di34Sc7UJZKzFbJ9brtgq-Hh",
         "details": "Hi! My name is Aditya(he/his/him) and I am a sophomore from San Diego majoring in Bioengineering. Last semester, I was an academic intern for this class and I hope to make this experience as enjoyable as possible. In my free time, I enjoy browsing twitter and rewatching old Naruto episodes. If you want to chat or have any questions, feel free to email me!"
     },
@@ -1470,7 +1470,7 @@
             "cs61b": "Junior Mentor"
         },
         "pronouns": "He/Him/His",
-        "imgUrl": "https://drive.google.com/open?id=1qDQ08a4giJiOvv-5c5002-a3XfCfZu-q",
+        "imgUrl": "https://drive.google.com/open?id=1Ons5FMiEL7F5XSHmEHHC3p_aF4Hqw77I",
         "details": "Hi, I am a second year majoring in EECS. I was born in LA but lived almost my entire life in Seoul, South Korea! In my free time, I love watching sports (NFL, NBA, you name it), working out and playing poker. I had a great time taking Professor Hug's 61B so I will try my best to guide your learning of data structures and algorithms. I'm looking forward to working with you all!"
     },
     {
@@ -1969,7 +1969,6 @@
         "courses": {
             "eecs16b": "Junior Mentor"
         },
-        "pronouns": "why are pronouns required again? I brought this up to exec 2 semesters ago",
         "imgUrl": "https://drive.google.com/open?id=16tjCJ88nDzq7edUD-dL3y7zytanLjSFP",
         "details": "I'm a senior math major currently on a gap semester! I'm teaching remotely, but formerly I taught and made content for CSM CS 70, taught the card-counting DeCal, and am involved with Berkeley Math Tournament (<a href=\"https://bmt.berkeley.edu/\">MUSA</a>). Outside of school, I spend much more time on my hobbies, mainly fixing electronics. When I'm back on campus, you may often find me in Cory 246, or Supernode! Feel free to email me with pictures if you have any old dead electronics you want me to try to revive.<br><br>Check out my <a href=\"https://www.youtube.com/watch?v=doEqUhFiQS4\">website</a>!",
         "webUrl": "https://bmt.berkeley.edu/"
