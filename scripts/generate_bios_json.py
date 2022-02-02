@@ -17,7 +17,7 @@ the desired columns or filter any unwanted entries.
 import csv
 import json
 
-CURR_SEMESTER = "fa21" # CHANGE ME
+CURR_SEMESTER = "sp22" # CHANGE ME
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_PATH = "./csvs/roster.csv"
@@ -77,7 +77,13 @@ def parse_bios(csv_path, master_roster_path):
             course = preproc_course.lower().replace(" ", "")
             email_no_dot = email.replace(".", "").lower().strip()
             if not role:
-                print("=== WARNING: EMPTY ROLE IN MASTER ROSTER FOR {email} ===")
+                print(f"=== WARNING: EMPTY ROLE IN MASTER ROSTER FOR {email.strip()} ===")
+            if not course:
+                if email_no_dot not in exec_bios:
+                    print(f"=== WARNING: EMPTY COURSE IN MASTER ROSTER FOR {email.strip()} AS {role} ===")
+                continue  # skip exec because they're already in exec roster
+            if role.lower() == "coordinator":
+                continue  # also skip coords because they're already in the exec roster
             if email_no_dot not in people_by_email:
                 people_by_email[email_no_dot] = {
                     "name": name,
@@ -105,8 +111,6 @@ def parse_bios(csv_path, master_roster_path):
             def update(email_no_dot):
                 # Assume the latest version of the bio is correct
                 obj = people_by_email[email_no_dot]
-                if "Viren" in email_no_dot:
-                    print(f"{name} {pronouns} {role} {bio} {web_url}")
                 if use_pref_name:
                     obj["name"] = name
                 if pronouns and not pronouns.isspace():
@@ -122,7 +126,9 @@ def parse_bios(csv_path, master_roster_path):
                 if web_url and not web_url.isspace():
                     obj["webUrl"] = web_url
 
-            if role == "Exec":
+            if course in NORMALIZED_REJECTIONS:
+                pass
+            elif role == "Exec" or email_no_dot in exec_bios:
                 # print(f"\t{name} for exec")
                 exec_roles[email_no_dot]["imgUrl"] = photo_url
                 exec_roles[email_no_dot]["pronouns"] = pronouns
@@ -132,9 +138,9 @@ def parse_bios(csv_path, master_roster_path):
                 exec_bios[email_no_dot]["webUrl"] = web_url
                 if email_no_dot in people_by_email:
                     update(email_no_dot)
-                else:
-                    print(f"=== SKIPPING EXEC {name} ===")
-            elif course not in NORMALIZED_REJECTIONS:
+                # else:
+                #     print(f"=== SKIPPING EXEC {name} ===")
+            else:
                 # print(f"\t{name} for {course}")
                 if email_no_dot not in people_by_email:
                     people_by_email[email_no_dot] = {
@@ -171,6 +177,11 @@ def parse_bios(csv_path, master_roster_path):
     #             obj["name"] = name
     #             obj["imgUrl"] = photo_url
     #             obj["details"] = bio
+    
+    # filter exec from people_by_email
+    for email, bio in people_by_email.items():
+        if "exec" in bio["courses"]:
+            del bio["courses"]["exec"]
     return people_by_email
 
 
