@@ -199,7 +199,9 @@
         "name": "Aditya Satyadeep",
         "courses": {
             "cs70": "Senior Mentor"
-        }
+        },
+        "pronouns": "he/him",
+        "details": "Hey everyone! I'm a 2nd-year from Cupertino, CA studying CS and applied math. Come talk to me about CS70, NBA basketball, music, or literally anything else!"
     },
     {
         "name": "Zachary Adler",
@@ -767,8 +769,8 @@
             "cs61a": "Junior Mentor"
         },
         "pronouns": "she/her",
-        "imgUrl": "https://drive.google.com/open?id=1_M9Nb_QhsbzDsnHcn5qNRHbIY6qxxI3S",
-        "details": "Hi! I'm Ayushi, and I'm studying EECS and Business. I love to learn about random things, have philosophical conversations at 3:02 AM, and make others smile. Once my friends asked me why I don't do stand-up comedy, and I said, \"Because I like to sit down.\"  61A was one of my favorite classes\u2014I'm so excited to be teaching it this semester!   \n\nif (learning + 61a_jokes) in your_alley:\n     return 'sign up for my section :)'"
+        "imgUrl": "https://drive.google.com/open?id=11843keIsr1RQxq48_TqC6FRea5e-tDv8",
+        "details": "Hi! I'm Ayushi, and I'm studying EECS and Business. I love to learn about random things, have philosophical conversations at 3:02 AM, and make others smile. Once my friends asked me why I don't do stand up comedy, and I said, \"Because I like to sit down.\"\n\n61A was one of my favorite classes, so I'm so excited to be teaching it this semester!\nif (learning + 61a_jokes) in your_alley:\n     return 'sign up for my section :)'"
     },
     {
         "name": "Boxi Fu",
@@ -1211,7 +1213,11 @@
         "name": "Carolyn Wang",
         "courses": {
             "cs61a": "Junior Mentor"
-        }
+        },
+        "pronouns": "she/her",
+        "imgUrl": "https://drive.google.com/open?id=1yCQj3IYjaIto4LNcVCjGwKXrtzWq593y",
+        "details": "hi! I'm a sophomore studying CS and minoring in Political Economy. I like drawing, playing my ukulele, and I am a big fan of the red bean mochi buns from sheng kee c:",
+        "webUrl": "https://carolyn-wang.github.io/"
     },
     {
         "name": "Michelle Wu",
@@ -1264,8 +1270,8 @@
             "cs61a": "Junior Mentor"
         },
         "pronouns": "He/him",
-        "imgUrl": "https://drive.google.com/open?id=1Qt_onoUwXnv_ceDFE-1WmboSRfh-rtq2",
-        "details": "Sup people. My name is David Tan and I am a L&S freshman intending to major in Computer Science and Statistics. I was born in Shanghai, China, where I stayed until the end of primary school. My family then travelled to New Zealand where I finished intermediate and high school, before coming to the US for university.\n\n- Hobbies: playing league of legends, watching league of legends highlights, making games, origami\n- Favourite artist: don't really have one but generally enjoys pop with some edm element to it.\n- Sunday: wake up after noon, order Riceful on Snackpass, do homework + hang out, have dinner, do homework + hang out, set 8 alarms for 8am on Monday and sleep\n- Favourite restaurant: Alley Kitchen\n- Other clubs: I was part of the IEEE and Game Design and Development club last semester. "
+        "imgUrl": "https://drive.google.com/open?id=1b_702D3I9r4koHiDHuAoTVpG_8WKIMZ7",
+        "details": "Sup people. My name is David Tan and I am a L&S freshman intending to major in Computer Science and Statistics. I was born in Shanghai, China, where I stayed until the end of primary school. My family then travelled to New Zealand where I finished intermediate and high school, before coming to the US. In my spare time, I like to play RPGs and make games~ This is my first semester being a junior mentor for 61A, and I'm looking forward to meet y'all!"
     },
     {
         "name": "Matthew Dharmawan",
@@ -1372,7 +1378,7 @@
             "cs61b": "Junior Mentor"
         },
         "pronouns": "he/him",
-        "imgUrl": "https://drive.google.com/open?id=1ELmdbwLY6sQWKQYic6_5G91MycZPLb4l",
+        "imgUrl": "https://drive.google.com/open?id=12DXC1hRn1Qt6D6OOfiKVepRwIHKc0Ltn",
         "details": "\ud83e\udd78"
     },
     {
@@ -1540,7 +1546,10 @@
         "name": "Evelyn Koo",
         "courses": {
             "cs70": "Junior Mentor"
-        }
+        },
+        "pronouns": "she/her",
+        "imgUrl": "https://drive.google.com/open?id=162obc82ji7TsSql8m29IDZ_D3A3UcedP",
+        "details": "Hi! I'm a math and CS enjoyer interested in theory and mathematical applications of computer science but I also enjoy teaching and writing. As someone who has gone through CS 70, I would like to think that I have mathematical maturity but 127 never fails to convince me otherwise. Outside of academics, I can be found cycling, reading (text)books, giving relationship advice, and trolling in video games with my friends. Can't wait to meet you all!\n\nAlso, I haven't been taking selfies ever since I sold my photo data to Google Photos to save on storage a while ago, so here's a very accurate drawing of me done by a CS 70 TA."
     },
     {
         "name": "Kanav Mittal",
@@ -1694,7 +1703,7 @@
             "cs70": "Junior Mentor"
         },
         "pronouns": "she/her",
-        "imgUrl": "https://drive.google.com/open?id=1VETaF812ikaMsB0FMXO6oczncY2CutR5",
+        "imgUrl": "https://drive.google.com/open?id=1_Pe5p0rKvy8wVjHb_TXEq3ts7UhIW3El",
         "details": "Hi everyone! I'm Karen (but not a Karen!) and I'm a sophomore studying Computer Science and Cognitive Science. I love swimming (literally hit me up anytime if you wanna lap swim), dogs, reading (give me book recs!), journaling, and meeting new people. I'm super excited to be teaching CSM 70 this semester and I hope I can make your experience a positive and not-too-stressful one!"
     },
     {
@@ -1873,7 +1882,9 @@
         "name": "Pradyun Kumar",
         "courses": {
             "cs61a": "Junior Mentor"
-        }
+        },
+        "pronouns": "he/him",
+        "details": "hi guys, my name is Pradyun and I’m excited to be a CSM mentor for 61a this semester. I enjoyed 61a when I took it but I know a lot of people who did not (it’s cool if that’s you!). I want to be able to help you learn whether you’re trying CS for the first time, trying to get through the class for a requirement, or just want to see what it’s like! I love CS but I also like anime, kpop, basketball, and deep conversations! Look forward to meeting you!"
     },
     {
         "name": "Shiv Sethi",
@@ -1899,8 +1910,8 @@
             "cs61b": "Junior Mentor"
         },
         "pronouns": "he/him",
-        "imgUrl": "https://drive.google.com/open?id=1Z6Nq5k3nmtVwru0S7CBsXeEtmiVwcDPD",
-        "details": "Hello! I'm a second-year CS Major from Fremont, California, and I'm excited to be a mentor this semester for CS 61B! I love playing Smash, video editing, taking walks and hikes, and playing Go when I have time. Let's have a great semester together!"
+        "imgUrl": "https://drive.google.com/open?id=1RawGfeoyIWie708VRjsrWzTflbAJj1UC",
+        "details": "Hello! I'm Austen, a second-year CS Major from Fremont, California, and I'm excited to be a mentor this semester for CS 61B! I love playing Smash, video editing, taking walks and hikes, watching the NBA, and playing Go. I am also a devout Kirby-ist. Let's have a great semester together!"
     },
     {
         "name": "Olivia Huang",
@@ -2065,7 +2076,11 @@
         "name": "Anish Kachinthaya",
         "courses": {
             "cs61c": "Junior Mentor"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1tK8pZHH4r5wNIVsj2xbQGb2Qyr1OqixP",
+        "details": "Hey! I'm Anish and I'm a second-year EECS and Business major. In my free time, I enjoy binging shows, reading, working out, and playing video games. Excited to meet you all!",
+        "webUrl": "https://anishk.ml/"
     },
     {
         "name": "Michael Huang",
@@ -2302,8 +2317,8 @@
             "cs61b": "Associate Mentor"
         },
         "pronouns": "she/her",
-        "imgUrl": "https://drive.google.com/open?id=1LhtWNJ2WyNSFtpN34c6y8aS5pra-sf7r",
-        "details": "hi! This is my fourth semester teaching 61b. Join my section, I really enjoy teaching and chatting with you all. I also like reading (currently: the night circus), chess (what openings do you play?), lauryn hill (plz listen to The Miseducation of Lauryn Hill), skiing, sitcoms, the phantom of the opera, photography (do u wanna see my pinterest boards?), and weird hair colors. welcome to 61b c: "
+        "imgUrl": "https://drive.google.com/open?id=1QgjzjkygFvNKto6pHvIYJkPugeyqEgjW",
+        "details": "hi! This is my fourth semester teaching 61b and I still enjoy blabbering about data structures. I also enjoy reading (currently: the night circus), chess (pre-berkeley time blitz matches, anyone?), lauryn hill, skiing, sitcoms, the phantom of the opera, photography (do u wanna see my pinterest boards?), and weird hair colors. welcome aboard c:"
     },
     {
         "name": "Maanav Khaitan",
@@ -2624,7 +2639,7 @@
             "cs61a": "Associate Mentor"
         },
         "pronouns": "he/him",
-        "imgUrl": "https://drive.google.com/open?id=1Xj7YDceXbjqkMqwMAR0IbJnc51ctnxKA",
+        "imgUrl": "https://drive.google.com/open?id=1TBE8EDtzZGvLzJKdY5FfeGZraGYJc9UJ",
         "details": "Hey! I'm Erg\u00fcn, a sophomore from Istanbul. I love traveling and hiking and I like learning random things about different countries/languages. So if you are up to trivia night, hit me up. I'm excited to meet you and feel free to reach out - also any good food recommendation is appreciated :)"
     },
     {
@@ -2788,5 +2803,13 @@
         },
         "details": "Avid table tennis, soccer, and volleyball player. Enjoys drinking coffee (Indian filter coffee atm), pondering deeply about life, working out, reading (from time to time), journaling, blogging and occasionally running when his lower back doesn't hurt.",
         "webUrl": "https://adit-bala.github.io/juicer-blog-frontend/"
+    },
+    {
+        "name": "Yufan Liu",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "He/him/his",
+        "details": "I am a Batista! Feel free to ask me to make a drink from y'all!"
     }
 ]
