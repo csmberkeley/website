@@ -91,7 +91,10 @@
         "name": "Bowen Wang",
         "courses": {
             "cs70": "Senior Mentor"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1BKu1RLilKEktaobcSXkCtGzaVemoDrne",
+        "details": "Hello! My name is Bowen Wang and I'm a sophomore majoring in CS and Econ. I am from Vancouver, Canada and this is my first semester in CSM! During my spare time at home, I would be watching movies and dramas, or playing board games and computer games. On my spare weekends, I would be going out to try new food and drink bubble tea, as well as hiking and exploring new trails. I look forward to meeting new people and having a fun time!"
     },
     {
         "name": "Gavin Liu",
@@ -706,16 +709,6 @@
         "pronouns": "he/him/his",
         "imgUrl": "https://drive.google.com/open?id=1lVdAj5T_G63ebmFfjY-h0L_Wnz-7nHRM",
         "details": "Hello everyone! I'm a first year intended CS major here with lots of prior programming experience. Aside from hanging out with friends, some of my hobbies include hiking, super smash bros, anime, and playing ping pong. I listen to all kinds of music, from Bollywood to pop to 80s music -- feel free to recommend anything! I'm also a boba lover, though I'm chronically addicted to taro only. Looking forward to meeting y'all this Spring :)\n"
-    },
-    {
-        "name": "Adit Bala",
-        "courses": {
-            "cs61a": "Junior Mentor"
-        },
-        "pronouns": "He/Him/His",
-        "imgUrl": "https://drive.google.com/open?id=1B5xtx_8LDeBX24jzKoF4YmD6ZJj4n-JF",
-        "details": "Avid table tennis, soccer, and volleyball player. Enjoys drinking coffee (Indian filter coffee atm), pondering deeply about life, working out, reading (from time to time), journaling and occasionally running when his lower back doesn't hurt. I also blog (https://adit-bala.github.io/juicer-blog-frontend). I'm also bald rn lol.",
-        "webUrl": "https://adit-bala.github.io/juicer-blog-frontend/"
     },
     {
         "name": "Sonika Vuyyuru",
@@ -2484,7 +2477,7 @@
             "cs70": "Associate Mentor"
         },
         "pronouns": "he/him/his",
-        "imgUrl": "https://drive.google.com/open?id=1-ec2Umzl_EoBPgGJpX9x473vaD9EuJKh",
+        "imgUrl": "https://drive.google.com/open?id=1o1FDqcjGgc6mUcCwJvlxw_nuTod8NBKY",
         "details": "Hi there! My name is Shivam, and I am a third-year EECS major from the Bay Area. I am really excited to be teaching CS70 for the third time this semester, and I hope you are ready for this challenging, yet rewarding class. In my free time, I love watching comedy, political dramas, and mysteries, and I enjoy biking around town. Feel free to reach out to me if you ever have any questions or just want to chat!"
     },
     {
@@ -2801,6 +2794,7 @@
         "courses": {
             "cs61a": "Junior Mentor"
         },
+        "imgUrl": "https://drive.google.com/open?id=1B5xtx_8LDeBX24jzKoF4YmD6ZJj4n-JF",
         "details": "Avid table tennis, soccer, and volleyball player. Enjoys drinking coffee (Indian filter coffee atm), pondering deeply about life, working out, reading (from time to time), journaling, blogging and occasionally running when his lower back doesn't hurt.",
         "webUrl": "https://adit-bala.github.io/juicer-blog-frontend/"
     },
