@@ -106,13 +106,13 @@
         "details": "Hi! I'm Gavin, a senior studying in EECS and this is my third time being part of the 16B CSM and 4th time being on course staff in 16B I enjoy studying robotics, controls and many types of circuit design. If you don't happen to find me listening to music by myself at Cory, you can probably find me grinding away at mainstacks without much sleep :) "
     },
     {
-        "name": "Anna",
+        "name": "Anna Chou",
         "courses": {
             "eecs16a": "Content Mentor"
         },
         "pronouns": "she/her",
         "imgUrl": "https://drive.google.com/open?id=1iofjaytsXAb-9pK88ZekNWWLD1lMh70a",
-        "details": "Hi there, I'm Anna:) a senior EECS major from Taiwan and the Bay Area! You're probably not gonna often see me teaching in section as I'm actually the one behind a screen who make all the hard problems you see on worksheets haha. I like computer architectures, digital design, and device physics.  I'm also learning Japanese now, so...\u306f\u3058\u3081\u307e\u3057\u3066 (nice to meet you)! I'm excited to see you all on campus :D",
+        "details": "Hi there, I'm Anna:) a senior EECS major from Taiwan and the Bay Area! You're probably not gonna see me often teaching in sections as I'm actually the one behind screens who makes all the hard problems you see on worksheets haha. I like computer architectures, digital design, and device physics.  I'm also learning Japanese now, so...はじめまして (nice to meet you)! I'm excited to see you all on campus :D",
         "webUrl": "https://menghuichou.github.io/"
     },
     {
@@ -1180,9 +1180,9 @@
         "courses": {
             "cs70": "Junior Mentor"
         },
-        "pronouns": "He/him",
+        "pronouns": "He/Him/His",
         "imgUrl": "https://drive.google.com/open?id=1AYVlGghsWc1valbbgKRf4JSm-Lzo_CjV",
-        "details": "Hey guys I'm a second year stats/CS major. I'm looking forward to helping you guys navigate cs70. A lot of people make it seem more intimidating than it is, don't be too worried. \n\nIn my rare free time I like playing soccer, tennis, or guitar. "
+        "details": "Hey everyone, I'm a second year stats/CS major. I'm looking forward to helping you guys navigate cs70. I know it seems like an intimidating class, but you all are capable of doing great.\n\nIn my rare free time I like playing soccer, tennis, or guitar."
     },
     {
         "name": "Esther Shen",
@@ -1542,7 +1542,8 @@
         },
         "pronouns": "she/her",
         "imgUrl": "https://drive.google.com/open?id=162obc82ji7TsSql8m29IDZ_D3A3UcedP",
-        "details": "Hi! I'm a math and CS enjoyer interested in theory and mathematical applications of computer science but I also enjoy teaching and writing. As someone who has gone through CS 70, I would like to think that I have mathematical maturity but 127 never fails to convince me otherwise. Outside of academics, I can be found cycling, reading (text)books, giving relationship advice, and trolling in video games with my friends. Can't wait to meet you all!\n\nAlso, I haven't been taking selfies ever since I sold my photo data to Google Photos to save on storage a while ago, so here's a very accurate drawing of me done by a CS 70 TA."
+        "details": "Hi! I'm a math and CS enjoyer interested in theory and mathematical applications of computer science but I also enjoy teaching and writing. As someone who has gone through CS 70, I would like to think that I have mathematical maturity but 127 never fails to convince me otherwise. Outside of academics, I can be found cycling, reading (text)books, giving relationship advice, and trolling in video games with my friends. Can't wait to meet you all!\n\nAlso, I haven't been taking selfies ever since I sold my photo data to Google Photos to save on storage a while ago, so here's a very accurate drawing of me done by a CS 70 TA.",
+        "webUrl": "https://www.eecs70.org/assets/pdf/notes/n7.pdf"
     },
     {
         "name": "Kanav Mittal",
