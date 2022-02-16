@@ -95,7 +95,10 @@
     {
         "name": "Maxwell Chen",
         "role": "EECS 16B Coordinator",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=15t3NpKdyyAzrrsIlktf0qzhcDqs1q0KV",
+        "pronouns": "he/him/his",
+        "details": "Hi! I'm Maxwell, a senior studying Computer Science from San Jose, CA. I'm broadly interested in machine learning, signal processing, and neuroscience. Outside of academics, I'm passionate about UI/UX design, music production, and generative art. Looking forward to a great (last) semester!",
+        "webUrl": "https://maxwellchen.dev/"
     },
     {
         "name": "Risheek Pingili",
