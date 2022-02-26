@@ -839,10 +839,13 @@
         "details": "Hey! My name is Aldrin and I\u2019m a freshman wanting to major in computer science. I\u2019m from the Bay Area and I like to dance. I also like to play video games, watch anime, work out, and chill with friends. I\u2019m really excited to help teach students and can\u2019t wait to meet you. "
     },
     {
-        "name": "Jason",
+        "name": "Jason Lee",
         "courses": {
             "cs61a": "Junior Mentor"
-        }
+        },
+        "pronouns": "He/him",
+        "imgUrl": "https://drive.google.com/open?id=1QakI8IYnxNlB4mEVKkiN3arZhBG3qw-c",
+        "details": "Yo. I’m Jason, a first year CS major. I enjoy cooking, drawing, watching anime, and playing league. I also love to ski and workout. Class is now in session!"
     },
     {
         "name": "Kesava Viswanadha",
