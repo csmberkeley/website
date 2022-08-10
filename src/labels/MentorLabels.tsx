@@ -100,7 +100,7 @@ export const SECTIONS = {
                 */}
                     Senior Mentor recruitment has now finished. If you are
                     looking to be a Senior Mentor, look out for the application
-                    that's released (interanlly) during the final month of the
+                    that's released (internally) during the final month of the
                     semester!
                 </p>
             </span>
