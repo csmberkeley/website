@@ -1,111 +1,153 @@
 [
     {
-        "name": "Cooper Bedin",
-        "role": "President",
-        "imgUrl": "https://drive.google.com/open?id=1_Nyv6_6GAymwiee4rKLMAidKsqx3D7gG",
-        "pronouns": "they/them",
-        "details": "I'm a senior majoring in linguistics and computer science, with a special interest in queer and trans language and self-expression in linguistics. I also do lots of tech theater with the student group BareStage and spend lots of time hanging out with my cat, Jellybean.",
-        "webUrl": ""
-    },
-    {
-        "name": "Sagnik Bhattacharya",
-        "role": "External Vice President",
-        "imgUrl": ""
-    },
-    {
         "name": "Emily Su",
-        "role": "Internal Vice President",
+        "role": "President",
         "imgUrl": ""
     },
     {
-        "name": "Ruslana Yurtyn",
-        "role": "CS 61A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1rnEGT4XAJHVLmNoqoU--pxxCBiVPfP0e",
-        "pronouns": "she/her",
-        "details": "I'm a junior studying computer science. I love knitting and dancing, and I'm the President of the Association of Women in EE&CS",
-        "webUrl": ""
-    },
-    {
-        "name": "Jennifer Huang",
-        "role": "CS 61A Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1N17HBAppTgxRqrHOxtE8iPGGjhwmRnrc",
-        "pronouns": "She/her/hers",
-        "details": "I\u2019m a senior studying CS/Math/Music. In my free time I like playing video games, cooking, hunting down newest boba shops, and singing to Korean HipHop. Nice to meet you all!",
-        "webUrl": ""
-    },
-    {
-        "name": "Chi Tsai",
-        "role": "CS 88 Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1CT1d-0hYinLZkckoTqhO00gwt3bgjfkw"
-    },
-    {
-        "name": "Lukas Chang",
-        "role": "CS 88 Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1zWVXaSKDHx7TTQKSsA-cfGpvVbvXFVmn",
-        "pronouns": "he/him",
-        "details": "Hi everyone I'm Lukas, a 3rd year CS major from the South Bay Area. In my free time I love listening to music and producing music on Ableton. I hope I can share my love for CS with you all!",
-        "webUrl": ""
+        "name": "Risheek Pingili",
+        "role": "External Vice President",
+        "imgUrl": "https://drive.google.com/open?id=1eT153MmZT_iwe4Yt2lh2UjrzR6d742ro",
+        "pronouns": "He/Him/His",
+        "details": "4th-year, BioEECS, Central Valley, Dog Owner <br>\nML is overrated, and coding is hard :( <br>\n4 Years with 16B Course staff (send help) <br>\nI like working on robotics and bio-interfacing electronics <br>\nAsk me about Smash, Hozier, Set It Off, Nier Automata, 13 Sentinels, From the New World, or Burn Notice!",
+        "webUrl": "https://www.linkedin.com/in/risheekp"
     },
     {
         "name": "Aryan Agrawal",
-        "role": "CS 61B Coordinator",
+        "role": "Internal Vice President",
+        "imgUrl": "https://drive.google.com/open?id=1Z9Xl05U99aWqBkZLZTEnvdr4kxV05JRq",
+        "pronouns": "he/him",
+        "details": "Hi! I\u2019m a senior from Frisco, TX, and some things I\u2019m involved in on campus include CSM and chasing for the Cal Quidditch team. I love trying new restaurants, watching NBA basketball, and learning fun geography trivia!",
+        "webUrl": ""
+    },
+    {
+        "name": "Ella Schwarz",
+        "role": "EECS16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1z9z-2zcKKDke1vDSPfd-H8uPABuHty0D",
+        "pronouns": "she/her",
+        "details": "Hi everyone! I'm Ella, and I'm one of the EECS16A coordinators for this semester. I'm a CS and Math double major, with a research focus in digital design and computer architecture. Outside of CSM, I'm a TA for EECS 151 and I do undergraduate research with SLICE lab. When I'm not responding to the 10 billion slack messages I get per hour, I like to watch dead by daylight streams on twitch and build low-efficiency farms in minecraft. ",
+        "webUrl": "https://github.com/schwarz-em"
+    },
+    {
+        "name": "Viraj Ramakrishnan",
+        "role": "EECS16A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=183p1tzmuAdekNo5u0WCylwmmatLSYLna",
+        "pronouns": "he/him",
+        "details": "Hi, I'm Viraj! In my free time, I love to play guitar, (attempt to) sing, go for runs, and evangelize EE120 to the general public. My favorite haunts include 4th floor Moffitt, Trader Joe's and the Southside D'yar.",
+        "webUrl": ""
+    },
+    {
+        "name": "Bryan Ngo",
+        "role": "EECS16B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1eyi_tLuLjLIEQ7ZmSs43lhZ_j7Xu4Ae0",
+        "pronouns": "he/him/his",
+        "details": "Hi, I'm Bryan, and I'm excited to be your coord for 16B! When I'm procrastinating for classes, some of my hobbies include gaming, flags, or mechanical keyboards, so ask away!",
+        "webUrl": ""
+    },
+    {
+        "name": "Ben Liao",
+        "role": "EECS16B Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "Ada Hu",
-        "role": "CS 61B Coordinator",
+        "name": "Jordan Schwartz",
+        "role": "CS61A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1c67zzmSIWwfQd2TUnhC0X2VavSAT_yVK",
+        "pronouns": "she/they",
+        "details": "Hi!! I'm Jordan, and I'm a junior from the Bay Area. In addition to teaching, in my free time I like to crochet, cook and bake, play board games, and swing dance!! I'm super excited to be in CSM again this semester :))",
+        "webUrl": ""
+    },
+    {
+        "name": "Vibha Tantry",
+        "role": "CS61A Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1wpqvrSrQP492Z-LUMI2c7a3ncB1LPArq",
+        "pronouns": "she/her",
+        "details": "Hi! I\u2019m a third year CS major from the Bay Area, and is my third semester with CSM! I'm also on course staff, teaching a Decal (shameless plug for Tech + Social Impact), and research. In my free time I love to read, explore obscure music genres, do puzzles, and work out. Looking forward to a silly fun time this semester!",
+        "webUrl": ""
+    },
+    {
+        "name": "Jeffrey Shen",
+        "role": "CS61B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1aakO48DTGyJ3akldl6ZMLKWPERsEaO4R",
+        "pronouns": "he/him",
+        "details": "Hello! I\u2019m a senior majoring in EECS from LA. I really enjoyed taking CS 61B and love being able to help teach it! This will be my 5th semester in CSM and I\u2019ll be Coord for 61B this semester and previously helped create content as well. In my free time, I like playing golf, flying drones/video editing, drawing, and hiking. Feel free to reach out with any questions and I\u2019m excited to meet y\u2019all!",
+        "webUrl": "https://jshen13.github.io"
+    },
+    {
+        "name": "Dexter To",
+        "role": "CS61B Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1MpIgUsjD8i-GC8QC2kYH9UsMAlonLpSs",
+        "pronouns": "he/him/his",
+        "details": "hey! you can call me dex :) I'm a senior CS major from LA. I'm in my last semester in Berkeley (studying abroad in Japan in the spring!). Catch me watching the Lakers, jamming out to Kendrick/IU/Beatles, saving money on boba, or taking naps on the glade. Thanks for reading!",
+        "webUrl": ""
+    },
+    {
+        "name": "Ojhan Ardalan",
+        "role": "CS61C Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1Q7gTKc477mjJ-SLTi2x1nu9f3rmu-LOM",
+        "pronouns": "He/Him",
+        "details": "Hi everyone! Very excited to be a coordinator for 61C this semester. In my free time I like to perform bitwise operations by hand, debug segfaults, and argue why RISC is superior to CISC. ",
+        "webUrl": ""
+    },
+    {
+        "name": "Anjan Das",
+        "role": "CS61C Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1xWkzrXy4jbRWTliR5_WfLmw0Av4mGMmB",
+        "pronouns": "he/him/his",
+        "details": "Hey everyone! I'm Anjan and I'm a senior studying CS and Applied Math. This is my fourth semester in CSM 61C, and I'm also a TA for the class. In my free time, I enjoy napping and playing video games. Fun fact: 61C is the best class at Cal. Looking forward to a great semester with all of you!",
+        "webUrl": ""
+    },
+    {
+        "name": "Rosalie Fang",
+        "role": "CS70 Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1DjHJX8UR270YhLWIAQaTuqVNIpNkRwAF",
+        "pronouns": "she/her/hers",
+        "details": "Hello! I'm a 4th year studying CS and Econ. I love traveling and restaurant hopping, and teaching, of course. A fun fact about me is I've probably watched LOTR more than 20 times.",
+        "webUrl": ""
+    },
+    {
+        "name": "Pranav Muralikrishnan",
+        "role": "CS70 Coordinator",
         "imgUrl": ""
     },
     {
-        "name": "Aadith Srinivasan",
-        "role": "CS 61C Coordinator",
-        "imgUrl": ""
+        "name": "Lukas Chang",
+        "role": "CS88 Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1jHiZKGfVJOWcUcGREtAqMRG4q3yNOtkN",
+        "pronouns": "he series",
+        "details": "Hi everyone I'm Lukas, a 4th year CS major from the south bay area. This is my second semester coording for CS88 and I'm excited to meet you all! A little about me\u2014in my free time I love making/listening to music, thrifting, and watching anime. Feel free to reach out to me about your interests, I'd love to chat with you!",
+        "webUrl": ""
     },
     {
-        "name": "Ivy Li",
-        "role": "CS 61C Coordinator",
-        "imgUrl": ""
+        "name": "Hetal Shah",
+        "role": "CS88 Coordinator",
+        "imgUrl": "https://drive.google.com/open?id=1AsLgItL9G8XsIZwWw_uoWQFLEhh9YU7M",
+        "pronouns": "she/her",
+        "details": "Hello! I am a 4th year studying CS. I am from Redondo Beach, CA. I love going to the beach, running/working out, and being in the sun. I also love reading, and I like finding books in the mini neighborhood libraries around Berkeley. I think that Berkeley Bowl is the best grocery store, and that everyone has to go explore its wonders. Email me about whatever you feel like!",
+        "webUrl": ""
     },
     {
-        "name": "Abinav Routhu",
-        "role": "CS 70 Coordinator",
+        "name": "Aymeric Barrier",
+        "role": "Communications",
         "imgUrl": "",
         "pronouns": "",
         "details": "",
         "webUrl": ""
     },
     {
-        "name": "Rosalie Fang",
-        "role": "CS 70 Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=1rgFjNqfQyk1UGwkVZGbaE1snFlY5-5En",
-        "pronouns": "she/her/hers",
-        "details": "Hi y'all! I'm Rosalie, a junior majoring CS and Econ, and minoring in Physics. I'm TA-ing for 61C which in my opinion is (one of) the best class on campus. I love traveling, eating good food, and have an (un)healthy addiction for boba. My trivial fact is that I have watched the entire LOTR trilogy more than 20 times.",
+        "name": "Ruslana Yurtyn",
+        "role": "DE&I Chair",
+        "imgUrl": "https://drive.google.com/open?id=1mJH-53xh74dsvDK4XKiGhzTWYp7dVkYk",
+        "pronouns": "she/her",
+        "details": "I'm a senior studying Computer Science and Minoring in Data Science (if you see me in Data 8 this semester, no you didn't). Outside of classes, I'm the President of AWE (message me if you have questions!) and also a TA for 61A. I also dance with Thrive Dance Company. Outside of school, I love to cook, knit, and watch movies :) ",
         "webUrl": ""
     },
     {
-        "name": "Diyah Mettupalli",
-        "role": "EECS 16A Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Viren Khandal",
-        "role": "EECS 16A Coordinator",
-        "imgUrl": ""
-    },
-    {
-        "name": "Maxwell Chen",
-        "role": "EECS 16B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=15t3NpKdyyAzrrsIlktf0qzhcDqs1q0KV",
-        "pronouns": "he/him/his",
-        "details": "Hi! I'm Maxwell, a senior studying Computer Science from San Jose, CA. I'm broadly interested in machine learning, signal processing, and neuroscience. Outside of academics, I'm passionate about UI/UX design, music production, and generative art. Looking forward to a great (last) semester!",
-        "webUrl": "https://maxwellchen.dev/"
-    },
-    {
-        "name": "Risheek Pingili",
-        "role": "EECS 16B Coordinator",
-        "imgUrl": "https://drive.google.com/open?id=13n_msjzmQkeFrRQAGMFkzDt3vSlERmjM",
-        "pronouns": "He/His",
-        "details": "4th-year, BioEECS, Central Valley, Dog Person <br>\nML is overrated; coding is hard :( <br>\n6 Semesters with 16B Course staff <br> \nI like working on robotics and bio-interfacing electronics <br>\nAsk me about Smash, Mr. Robot,  Nier Automata, From the New World, or Burn Notice",
+        "name": "Max Ye",
+        "role": "Socials Chair",
+        "imgUrl": "https://drive.google.com/open?id=1vdD0_5HkPIEwPBhWpMZXevnXJ2oKlowJ",
+        "pronouns": "He/him/his",
+        "details": "Hello everyone! I\u2019m Max and I\u2019m a sophomore majoring in CS. CSM is one of my favorite clubs, and I hope you enjoy it as much as I do. My hobbies include swimming, yoga, meditation, and cooking. Don\u2019t hesitate to reach out to me about CSM or anything else \u2014 especially if you want to swim some laps together!",
         "webUrl": ""
     },
     {
@@ -113,7 +155,7 @@
         "role": "Tech Chair",
         "imgUrl": "https://drive.google.com/open?id=1weTOnbjFjc4G1mJHr67MJQW0JeAatxgs",
         "pronouns": "he/him/his",
-        "details": "Hello there! My name is Noor and I'm a 3rd year EECS major from Berkeley. In my free time, I enjoy playing video games, tennis, viola, and piano. I also like anime and Marvel, so feel free to talk to me about those! This is my 3rd semester in CSM and I'm super excited to meet you all!",
+        "details": "Hello there! My name is Noor and I\u2019m a 4th year EECS major from Berkeley. In my free time, I enjoy playing video games and piano. On days where I decide to touch grass, I also like to play tennis. This is my 5th semester in CSM and I\u2019m super excited to meet you all!",
         "webUrl": ""
     },
     {
@@ -121,26 +163,59 @@
         "role": "Tech Chair",
         "imgUrl": "https://drive.google.com/open?id=1sFT4XuYPz38ExaSaEWR5jZiHxEJ7NTMO",
         "pronouns": "he/him/his",
-        "details": "Hi! My name is Alec and I'm a sophomore CS and Applied Math double major. I enjoy composing music as a hobby, and I spend way too much time typesetting in LaTeX and doing random coding projects.",
-        "webUrl": "https://smartspot2.github.io"
+        "details": "Hi! My name is Alec and I'm a junior CS and Applied Math double major. I enjoy composing music as a hobby, and I spend way too much time typesetting in LaTeX and doing random coding projects.",
+        "webUrl": "https://smartspot2.github.io/"
     },
     {
-        "name": "Joshua Baum",
-        "role": "DE&I Chair",
+        "name": "Jamie Jhoe",
+        "role": "Media Chair",
+        "imgUrl": "",
+        "pronouns": "",
+        "details": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Richard Roggenkemper",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Ryan Nuqui",
+        "role": "Advisor",
+        "imgUrl": "https://drive.google.com/open?id=11Oo5-3xtstZbQ0dFyT-4QC64cNdWQsbG",
+        "pronouns": "he/him/his",
+        "details": "Hi y\u2019all! I hope you are doing well :) My name is Ryan and I am a Computer Science & Applied Math major. I\u2019m super excited to be teaching 61B again (this will be my fifth time as a 61B(L) TA). CS 61B was the class that made me want to do Computer Science and I hope that I can help make your experience great too. In my free time, I like to try out different restaurants, play board games with friends, and watch movies. Please feel free to chat if you have questions about CS, places to eat in Berkeley, or if you want weird film recs :)",
+        "webUrl": "https://letterboxd.com/"
+    },
+    {
+        "name": "Ada Hu",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Chi Tsai",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Abinav Routhu",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Aadith Srinivasan",
+        "role": "Advisor",
+        "imgUrl": ""
+    },
+    {
+        "name": "Viren Khandal",
+        "role": "Advisor",
         "imgUrl": ""
     },
     {
         "name": "Vivian Lu",
-        "role": "Socials Chair",
+        "role": "Advisor",
         "imgUrl": ""
-    },
-    {
-        "name": "Simon Tsui",
-        "role": "Communications",
-        "imgUrl": "https://drive.google.com/open?id=1cgxRr-YxhzX3k3gY70dnn0OxIVwRMgb4",
-        "pronouns": "he/him/his",
-        "details": "Hello! I am a junior studying Computer Science and Statistics. Feel free to reach out to me if you want to talk about classes at Berkeley, food recs, or anything else. Looking forward to a great CS 88 experience this semester!\n",
-        "webUrl": ""
     },
     {
         "name": "Shadaj Laddad",
@@ -153,20 +228,12 @@
         "imgUrl": ""
     },
     {
-        "name": "Richard Roggenkemper",
+        "name": "Cooper Bedin",
         "role": "Advisor",
         "imgUrl": ""
     },
     {
-        "name": "Ryan Nuqui",
-        "role": "Advisor",
-        "imgUrl": "https://drive.google.com/open?id=1T6zJAS9xK4v_7BEdxIh9luO9sAn_Frbv",
-        "pronouns": "he/him/his",
-        "details": "hi y'all!\nI'm ryan and I'm a fifth year studying cs & applied math. this will be my eighth semester of CSM and I'm really excited to get the opportunity to meet and mentor more folks :) talk to me if you're fond of ducks, trying out new restaurants (try Rose Pizzeria!), or if you have any questions about anything. looking forward to meeting you!",
-        "webUrl": ""
-    },
-    {
-        "name": "Rohan D'Souza",
+        "name": "Sagnik Bhattacharya",
         "role": "Advisor",
         "imgUrl": ""
     }

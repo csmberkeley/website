@@ -21,6 +21,9 @@ const dutyDict: { [role: string]: string } = {
     "DE&I Chair":
         "Helps create more equitable recruiting and works on initiatives for gender inclusivity in sections, " +
         "mental health, URM students, and first generation students. Leads DE&I task force within CSM.",
+    "Media Chair":
+        "Manages external-facing social media accounts, creates graphics for club-related needs, " +
+        "collaborates with communications chair on newsletters and the EVP on fundraiser promotion",
     Advisor:
         "Provides input and advice during meetings to all members of Exec, assists with transition " +
         "/ training of new exec memebers.",

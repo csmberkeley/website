@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Emily Su",
+        "imgUrl": "",
+        "position": "President"
+    },
+    {
+        "name": "Risheek Pingili",
+        "imgUrl": "https://drive.google.com/open?id=1eT153MmZT_iwe4Yt2lh2UjrzR6d742ro",
+        "position": "External Vice President",
+        "pronouns": "He/Him/His"
+    },
+    {
+        "name": "Aryan Agrawal",
+        "imgUrl": "https://drive.google.com/open?id=1Z9Xl05U99aWqBkZLZTEnvdr4kxV05JRq",
+        "position": "Internal Vice President",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Ella Schwarz",
+        "imgUrl": "https://drive.google.com/open?id=1z9z-2zcKKDke1vDSPfd-H8uPABuHty0D",
+        "position": "EECS16A Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Viraj Ramakrishnan",
+        "imgUrl": "https://drive.google.com/open?id=183p1tzmuAdekNo5u0WCylwmmatLSYLna",
+        "position": "EECS16A Coordinator",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Bryan Ngo",
+        "imgUrl": "https://drive.google.com/open?id=1eyi_tLuLjLIEQ7ZmSs43lhZ_j7Xu4Ae0",
+        "position": "EECS16B Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Ben Liao",
+        "imgUrl": "",
+        "position": "EECS16B Coordinator"
+    },
+    {
+        "name": "Jordan Schwartz",
+        "imgUrl": "https://drive.google.com/open?id=1c67zzmSIWwfQd2TUnhC0X2VavSAT_yVK",
+        "position": "CS61A Coordinator",
+        "pronouns": "she/they"
+    },
+    {
+        "name": "Vibha Tantry",
+        "imgUrl": "https://drive.google.com/open?id=1wpqvrSrQP492Z-LUMI2c7a3ncB1LPArq",
+        "position": "CS61A Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Jeffrey Shen",
+        "imgUrl": "https://drive.google.com/open?id=1aakO48DTGyJ3akldl6ZMLKWPERsEaO4R",
+        "position": "CS61B Coordinator",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Dexter To",
+        "imgUrl": "https://drive.google.com/open?id=1MpIgUsjD8i-GC8QC2kYH9UsMAlonLpSs",
+        "position": "CS61B Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Ojhan Ardalan",
+        "imgUrl": "https://drive.google.com/open?id=1Q7gTKc477mjJ-SLTi2x1nu9f3rmu-LOM",
+        "position": "CS61C Coordinator",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Anjan Das",
+        "imgUrl": "https://drive.google.com/open?id=1xWkzrXy4jbRWTliR5_WfLmw0Av4mGMmB",
+        "position": "CS61C Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Rosalie Fang",
+        "imgUrl": "https://drive.google.com/open?id=1DjHJX8UR270YhLWIAQaTuqVNIpNkRwAF",
+        "position": "CS70 Coordinator",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Pranav Muralikrishnan",
+        "imgUrl": "",
+        "position": "CS70 Coordinator"
+    },
+    {
+        "name": "Lukas Chang",
+        "imgUrl": "https://drive.google.com/open?id=1jHiZKGfVJOWcUcGREtAqMRG4q3yNOtkN",
+        "position": "CS88 Coordinator",
+        "pronouns": "he series"
+    },
+    {
+        "name": "Hetal Shah",
+        "imgUrl": "https://drive.google.com/open?id=1AsLgItL9G8XsIZwWw_uoWQFLEhh9YU7M",
+        "position": "CS88 Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Aymeric Barrier",
+        "imgUrl": "",
+        "position": "Communications",
+        "pronouns": ""
+    },
+    {
+        "name": "Ruslana Yurtyn",
+        "imgUrl": "https://drive.google.com/open?id=1mJH-53xh74dsvDK4XKiGhzTWYp7dVkYk",
+        "position": "DE&I Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Max Ye",
+        "imgUrl": "https://drive.google.com/open?id=1vdD0_5HkPIEwPBhWpMZXevnXJ2oKlowJ",
+        "position": "Socials Chair",
+        "pronouns": "He/him/his"
+    },
+    {
+        "name": "Noor Mahini",
+        "imgUrl": "https://drive.google.com/open?id=1weTOnbjFjc4G1mJHr67MJQW0JeAatxgs",
+        "position": "Tech Chair",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Alec Li",
+        "imgUrl": "https://drive.google.com/open?id=1sFT4XuYPz38ExaSaEWR5jZiHxEJ7NTMO",
+        "position": "Tech Chair",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Jamie Jhoe",
+        "imgUrl": "",
+        "position": "Media Chair",
+        "pronouns": ""
+    },
+    {
+        "name": "Richard Roggenkemper",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Ryan Nuqui",
+        "imgUrl": "https://drive.google.com/open?id=11Oo5-3xtstZbQ0dFyT-4QC64cNdWQsbG",
+        "position": "Advisor",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Ada Hu",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Chi Tsai",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Abinav Routhu",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Aadith Srinivasan",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Viren Khandal",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Vivian Lu",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Shadaj Laddad",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Kaitlyn Lee",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Cooper Bedin",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Sagnik Bhattacharya",
+        "imgUrl": "",
+        "position": "Advisor"
+    }
+]

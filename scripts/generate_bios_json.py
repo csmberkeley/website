@@ -17,7 +17,7 @@ the desired columns or filter any unwanted entries.
 import csv
 import json
 
-CURR_SEMESTER = "sp22" # CHANGE ME
+CURR_SEMESTER = "fa22" # CHANGE ME
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_PATH = "./csvs/roster.csv"
