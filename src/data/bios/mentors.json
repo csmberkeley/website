@@ -322,7 +322,7 @@
         },
         "pronouns": "she/her",
         "imgUrl": "https://drive.google.com/open?id=1_u22QXsQwCMkJS2gzqnGaC8_AaD6mSjS",
-        "details": "Hi! I'm a freshman studying computer science, and I'm super excited to help out with 61b! If you see me on campus, you'll probably catch me reading, humming, or listening to music, hopefully in the glade with a lot of sun :) I'm an academic intern for 61b and was an AI for 61a, and I'm generally interested in anything tech, healthcare, or economics related!\n\nhi! i'm janani (pronounced juh-nuh-nee), and i'm a sophomore studying computer science. you'll probably catch me on campus singing or reading in a sunny spot, so feel free to say hi! super excited to meet you and teach 61b this semester :)",
+        "details": "hi! i'm janani (pronounced juh-nuh-nee), and i'm a sophomore studying computer science. you'll probably catch me on campus singing or reading in a sunny spot, so feel free to say hi! super excited to meet you and teach 61b this semester :)",
         "webUrl": "https://jananisriram.github.io/"
     },
     {
@@ -338,10 +338,13 @@
         }
     },
     {
-        "name": "Siddharth Jha",
+        "name": "Sid Jha",
         "courses": {
             "cs61c": "Senior Mentor"
-        }
+        },
+        "pronouns": "He/Him/His",
+        "imgUrl": "https://drive.google.com/open?id=1lNp34V-2iGTysQiKFHHXBiO2YhKsnZZW",
+        "details": "Hi! This is my second semester teaching 61C in CSM and my first as a SM. Hit me up if you ever want to talk about music, your chipotle order, or computer systems."
     },
     {
         "name": "Arunan Thiviyanathan",
@@ -421,7 +424,10 @@
         "name": "Anthony Zhang",
         "courses": {
             "cs70": "Senior Mentor"
-        }
+        },
+        "pronouns": "he/him",
+        "imgUrl": "https://drive.google.com/open?id=1obEHBBxiG-n2oUYNZgCvrNihAESPbJm4",
+        "details": "Hey y'all! I'm Anthony, a junior studying math and CS; in my free time, I love cycling, tennis, drawing, and video games. Excited to be part of CSM this semester!"
     },
     {
         "name": "Allen Gu",
@@ -1110,10 +1116,13 @@
         "details": "I'm excited to help out with CSM for 61A! In addition to helping people understand computer science, I like ideas, learning, languages, writing, cybersecurity, and having good-natured but rigorous arguments about politics and philosophy."
     },
     {
-        "name": "Solomon Cheung",
+        "name": "Sol Cheung",
         "courses": {
             "cs61a": "Junior Mentor"
-        }
+        },
+        "pronouns": "he/him/his",
+        "imgUrl": "https://drive.google.com/open?id=1zaQnnwBC9VflByzwB50ACTV7z6lv1Vf1",
+        "details": "Hey everyone! My name is Solomon but everyone calls me Sol. I'm a sophomore studying CS, originally from socal. Outside of teaching, you can find me trying new energy drinks and killing flies with my electric fly swatter. Super stoked to be mentoring CS61A this semester!"
     },
     {
         "name": "Sandhya Ganesan",
