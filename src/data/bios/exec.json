@@ -2,7 +2,9 @@
     {
         "name": "Emily Su",
         "role": "President",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1Yhk79sWFawHyyv-0SKxBQ2SnTD11Qrw3",
+        "pronouns": "she/her",
+        "details": "Hiya!! I’m Emily and I’m a senior from Toronto, Canada studying CS & ORMS! I love drinking matcha lattes, taking film photos, and listening to French pop! SUPER excited to be a part of CSM this semester :~)"
     },
     {
         "name": "Risheek Pingili",
@@ -129,9 +131,9 @@
     {
         "name": "Aymeric Barrier",
         "role": "Communications",
-        "imgUrl": "",
-        "pronouns": "",
-        "details": "",
+        "imgUrl": "https://drive.google.com/open?id=1Z2RYqCplfwOWDz4SQNZulsSoSDBvrkr_",
+        "pronouns": "He/Him/His",
+        "details": "Looking forward to a great semester with everyone :)",
         "webUrl": ""
     },
     {
@@ -188,22 +190,7 @@
         "webUrl": "https://letterboxd.com/"
     },
     {
-        "name": "Ada Hu",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
-        "name": "Chi Tsai",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
         "name": "Abinav Routhu",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
-        "name": "Aadith Srinivasan",
         "role": "Advisor",
         "imgUrl": ""
     },
@@ -214,16 +201,6 @@
     },
     {
         "name": "Vivian Lu",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
-        "name": "Shadaj Laddad",
-        "role": "Advisor",
-        "imgUrl": ""
-    },
-    {
-        "name": "Kaitlyn Lee",
         "role": "Advisor",
         "imgUrl": ""
     },

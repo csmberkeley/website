@@ -6,11 +6,11 @@
  */
 export function getEmbeddableDriveImageLink(url?: string): string {
     if (!url) {
-        return "ERROR";
+        return "ERROR-blank-url";
     }
     let chunks = url.split("id=");
     if (chunks.length < 2) {
-        return "ERROR";
+        return "ERROR-too-few-chunks";
     }
     let id = chunks[1];
     return `https://docs.google.com/uc?id=${id}`;
