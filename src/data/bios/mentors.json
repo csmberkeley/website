@@ -601,14 +601,14 @@
         "details": "Looking forward to a great semester with everyone :)"
     },
     {
-        "name": "Anna",
+        "name": "Anna Chou",
         "courses": {
             "eecs16a": "Senior Mentor"
         },
         "pronouns": "she/her",
         "imgUrl": "https://drive.google.com/open?id=1vj8s0G7q1GmEqeSPQJ_Q5b7JBTRLrGmc",
         "details": "Hi there, I'm Anna:) a senior EECS major from Taiwan and the Bay Area! This is my third time teaching EECS16A and also my last time since I'll graduate this semester :< I like computer architecture and digital IC design, but I don't like coding in plain C for my interested area :P I'm excited to see you all on campus !",
-        "webUrl": "https://menghuichou.github.io/"
+        "webUrl": "https://www.linkedin.com/in/menghui-chou/"
     },
     {
         "name": "Vivian Wu",
@@ -974,8 +974,8 @@
             "cs61a": "Associate Mentor"
         },
         "pronouns": "he/him",
-        "imgUrl": "https://drive.google.com/open?id=1Ha4V9TrMthNaD-lTDaYwNPQ1uMP_VMqQ",
-        "details": "Hello! I am Naveen, a Sophomore (and recently, a declared CS major) from Fremont, CA. I took CS61A the summer before my freshman year and was amazed by the broad scope of the course. I have been fortunate enough to have been a CSM mentor from the beginning of my first year, and thoroughly enjoy speaking with students about course concepts. I have also AI\u2019d for CS61A and CS61B, and learned quite a bit about teaching from the experience. Outside school, I enjoy playing chess, table tennis, and visiting my family in Fremont. I also enjoy hiking, so hit me up if you know any good places! As a side note: I can explain Python concepts using their counterparts in Java if you are more familiar with Java than you are with Python. Feel free to reach out to me about anything! I look forward to meeting you!",
+        "imgUrl": "https://drive.google.com/open?id=1AOLW0xI9LqXF2IZhG_IihHRGPLvYnNcH",
+        "details": "Hello! I am Naveen, a Sophomore (and recently, a declared CS major) from Fremont, CA. I took CS61A the summer before my freshman year and was amazed by the broad scope of the course. I have been fortunate enough to have been a CSM mentor from the beginning of my first year, and thoroughly enjoy speaking with students about course concepts. I have also AI’d for CS61A and CS61B, and learned quite a bit about teaching from the experience. Outside school, I enjoy playing chess, table tennis, and visiting my family in Fremont. I also enjoy hiking, so hit me up if you know any good places! As a side note: I can explain Python concepts using their counterparts in Java if you are more familiar with Java than you are with Python. Feel free to reach out to me about anything! I look forward to meeting you!",
         "webUrl": "https://www.linkedin.com/in/nathannaveen/"
     },
     {
@@ -1720,9 +1720,9 @@
             "cs70": "Junior Mentor"
         },
         "pronouns": "he/him/his",
-        "imgUrl": "https://drive.google.com/open?id=1peceZPsHJog0PDPmuCCVDtkiAEeHl2-q",
+        "imgUrl": "https://drive.google.com/open?id=1U6sbK9UfcdxMK_7ezViesglDiHX0XPdr",
         "details": "2nd year CS major addicted to sports (basketball, soccer, and f1), music (honestly anything), lifting, and bad jokes. HMU anytime for music recs and CS70 help. ",
-        "webUrl": "GitHub.com/AmoghTantradi"
+        "webUrl": "https://github.com/AmoghTantradi"
     },
     {
         "name": "Anand Shankar",
