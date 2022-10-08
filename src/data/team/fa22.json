@@ -1,8 +1,9 @@
 [
     {
         "name": "Emily Su",
-        "imgUrl": "",
-        "position": "President"
+        "imgUrl": "https://drive.google.com/open?id=1Yhk79sWFawHyyv-0SKxBQ2SnTD11Qrw3",
+        "position": "President",
+        "pronouns": "she/her"
     },
     {
         "name": "Risheek Pingili",
@@ -35,9 +36,10 @@
         "pronouns": "he/him/his"
     },
     {
-        "name": "Ben Liao",
-        "imgUrl": "",
-        "position": "EECS16B Coordinator"
+        "name": "Anirudh Rengarajan",
+        "imgUrl": "https://drive.google.com/open?id=1fcCvMX55nZCHhDo9xL-dOdNtWY-0Dj90",
+        "position": "EECS16B Coordinator",
+        "pronouns": "he/him/his"
     },
     {
         "name": "Jordan Schwartz",
@@ -100,9 +102,9 @@
     },
     {
         "name": "Aymeric Barrier",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/open?id=1PGDafpa5rmVW9h4TBAMy9o9giU0Kfia5",
         "position": "Communications",
-        "pronouns": ""
+        "pronouns": "He/Him/His"
     },
     {
         "name": "Ruslana Yurtyn",
@@ -146,22 +148,7 @@
         "pronouns": "he/him/his"
     },
     {
-        "name": "Ada Hu",
-        "imgUrl": "",
-        "position": "Advisor"
-    },
-    {
-        "name": "Chi Tsai",
-        "imgUrl": "",
-        "position": "Advisor"
-    },
-    {
         "name": "Abinav Routhu",
-        "imgUrl": "",
-        "position": "Advisor"
-    },
-    {
-        "name": "Aadith Srinivasan",
         "imgUrl": "",
         "position": "Advisor"
     },
@@ -176,19 +163,10 @@
         "position": "Advisor"
     },
     {
-        "name": "Shadaj Laddad",
-        "imgUrl": "",
-        "position": "Advisor"
-    },
-    {
-        "name": "Kaitlyn Lee",
-        "imgUrl": "",
-        "position": "Advisor"
-    },
-    {
         "name": "Cooper Bedin",
-        "imgUrl": "",
-        "position": "Advisor"
+        "imgUrl": "https://drive.google.com/open?id=1kjn965tBxD0FvKN77WGw_sSpuBkI3l_8",
+        "position": "Advisor",
+        "pronouns": "any/all"
     },
     {
         "name": "Sagnik Bhattacharya",

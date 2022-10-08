@@ -329,7 +329,9 @@
         "name": "Ken Ning",
         "courses": {
             "cs61c": "Senior Mentor"
-        }
+        },
+        "imgUrl": "https://drive.google.com/open?id=1EymO61P3SExBcpJ6Mr__TQIw3MWukUHO",
+        "details": "I'm something of a computer scientist myself."
     },
     {
         "name": "Lucas Huang",
@@ -372,7 +374,10 @@
         "name": "Grace Chen",
         "courses": {
             "cs61c": "Senior Mentor"
-        }
+        },
+        "pronouns": "She/her/hers",
+        "imgUrl": "https://drive.google.com/open?id=1yM0clDJGOZxjhQV57VgC0HYiNdQhISq5",
+        "details": "Hi everyone! I'm a fourth year CS major (maybe DS double major). This is my fourth semester in CSM and I've really enjoyed teaching and meeting the wonderful people here!  In my free time, I love watching movies, reading, hiking, snowboarding, traveling, trying new restaurants, and catching up with friends! Excited to meet you! Don't hesitate to reach out! "
     },
     {
         "name": "Jainil Ajmera",
@@ -717,12 +722,6 @@
     },
     {
         "name": "Daniel Endraws",
-        "courses": {
-            "eecs16b": "Senior Mentor"
-        }
-    },
-    {
-        "name": "Anirudh Rengarajan",
         "courses": {
             "eecs16b": "Senior Mentor"
         }
