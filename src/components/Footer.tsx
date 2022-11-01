@@ -75,14 +75,6 @@ export default class Footer extends React.Component {
                                         Scheduler (section enrollment)
                                     </Link>
                                 </li>
-                                <li>
-                                    <Link
-                                        to="/sage"
-                                        className="grey-text text-lighten-3"
-                                    >
-                                        Sage (teaching tips)
-                                    </Link>
-                                </li>
                             </ul>
                         </div>
                     </div>
