@@ -48,7 +48,6 @@ function App() {
                         <ExternalRedirect path="/scheduler" target={ urls.scheduler } />
                         <ExternalRedirect path="/facebook" target={ urls.facebook } />
                         <ExternalRedirect path="/github" target={ urls.github } />
-                        <ExternalRedirect path="/sage" target={ urls.sage } />
                         {/* TODO add mail url? */}
                         {/* TODO replace this with a proper 404, or redirect home */}
                         <Route render={() => <div>Not found</div>} />
