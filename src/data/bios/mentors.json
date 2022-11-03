@@ -2098,5 +2098,15 @@
         "courses": {
             "eecs16a": "Junior Mentor"
         }
+    },
+    {
+        "name": "Max Vogel",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Howdy! I'm a second year EECS student from Wisconsin. My favorite place to grab a bite at night is Top Dog. In my free time I enjoy playing poker, <a href='https://open.spotify.com/playlist/2uEoR9SXgtMSgjIjgohVnz'>jamming out</a>, snowboarding park, and am a hobby mycologist. Stoked to have the chance to mentor you in 16A this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1GmQXy0ZXfUjJcwwM6ky4lKOBjCK7BGnm",
+        "webUrl": "https://www.mehvix.com"
     }
 ]
