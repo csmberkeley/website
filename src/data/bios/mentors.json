@@ -143,8 +143,7 @@
     {
         "name": "Abby Brooks Ramirez",
         "courses": {
-            "cs61a": "Senior Mentor",
-            "de&ichair": "Exec"
+            "cs61a": "Senior Mentor"
         },
         "pronouns": "she/her",
         "imgUrl": "https://drive.google.com/open?id=1LSFNXSUbRe1_tsOXl8jZJ592Eck1m_V4",
@@ -2279,8 +2278,7 @@
     {
         "name": "Rohan Goyal",
         "courses": {
-            "cs61a": "Associate Mentor",
-            "iamrejectingallcmpositionsthatididnotexplicitlyaccept": "Content Mentor"
+            "cs61a": "Associate Mentor"
         },
         "pronouns": "They/He",
         "imgUrl": "https://drive.google.com/open?id=1svvL3GZZ3oXic582mMPUvZlk58iS797t",
