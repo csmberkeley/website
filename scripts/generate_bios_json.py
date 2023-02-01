@@ -41,7 +41,8 @@ class Cols:
 # This string in the course means we should skip them and move on with life
 NORMALIZED_REJECTIONS = {
     "iamrejectingallpositionsthatididnotexplicitlyaccept",
-    "iamrejectingallampositionsthatididnotexplicitlyaccept"
+    "iamrejectingallampositionsthatididnotexplicitlyaccept",
+    "iamrejectingallcmpositionsthatididnotexplicitlyaccept"
 }
 
 # global variables lmao
