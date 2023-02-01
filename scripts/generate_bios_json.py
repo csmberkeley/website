@@ -17,7 +17,7 @@ the desired columns or filter any unwanted entries.
 import csv
 import json
 
-CURR_SEMESTER = "fa22" # CHANGE ME
+CURR_SEMESTER = "sp23" # CHANGE ME
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_PATH = "./csvs/roster.csv"
@@ -41,7 +41,8 @@ class Cols:
 # This string in the course means we should skip them and move on with life
 NORMALIZED_REJECTIONS = {
     "iamrejectingallpositionsthatididnotexplicitlyaccept",
-    "iamrejectingallampositionsthatididnotexplicitlyaccept"
+    "iamrejectingallampositionsthatididnotexplicitlyaccept",
+    "iamrejectingallcmpositionsthatididnotexplicitlyaccept"
 }
 
 # global variables lmao
