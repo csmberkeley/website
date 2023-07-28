@@ -67,7 +67,7 @@ export const SECTIONS = {
         ),
     },
     APPLICATIONS_OPEN: {
-        LABEL: `Applications for ${dates.applicationSemester} Junior Mentors and Associate Mentors are now open!`,
+        LABEL: `Applications for ${dates.applicationSemester} Junior, Associate, and Content Mentors are now open!`,
         BODY_JSX: (
             <span>
                 <p className="info">
@@ -76,7 +76,7 @@ export const SECTIONS = {
                     <br />
                     The{" "}
                     <Link to="/apply">
-                        Junior Mentor and Associate Mentor application is
+                        Junior, Associate, and Content Mentor application is
                         available now!
                     </Link>{" "}
                     Applications are due{" "}
