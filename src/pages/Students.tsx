@@ -1,8 +1,16 @@
 import React from "react";
-
 import * as Labels from "../labels/StudentLabels";
+import dates from "../data/dates.json";
 
 export default class Students extends React.Component {
+    isApplicationOpen() {
+        const now = new Date();
+        return (
+            now > new Date(dates.interestFormOpen) &&
+            now < new Date(dates.interestFormClose)
+        );
+    }
+
     render() {
         return (
             <div>
@@ -31,10 +39,21 @@ export default class Students extends React.Component {
                     </div>
                     <div className="divider"></div>
                     <div className="section">
-                        <h5 className="label">
-                            {Labels.SECTIONS.APPLICATION.LABEL}
-                        </h5>
-                        {Labels.SECTIONS.APPLICATION.BODY_JSX}
+                        {this.isApplicationOpen() ? (
+                            <div>
+                                <h5 className="label">
+                                    {Labels.SECTIONS.APPLICATIONS_OPEN.LABEL}
+                                </h5>
+                                {Labels.SECTIONS.APPLICATIONS_OPEN.BODY_JSX}
+                            </div>
+                        ) : (
+                            <div>
+                                <h5 className="label">
+                                    {Labels.SECTIONS.APPLICATIONS_CLOSE.LABEL}
+                                </h5>
+                                {Labels.SECTIONS.APPLICATIONS_CLOSE.BODY_JSX}
+                            </div>
+                        )}
                     </div>
                     <div className="divider"></div>
                     <div className="faq section">

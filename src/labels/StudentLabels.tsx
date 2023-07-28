@@ -12,12 +12,13 @@ export const SECTIONS = {
     SUPPORT: {
         LABEL: "Support",
         BODY:
-            "CSM offers group tutoring to all students in these four classes. Students are " +
-            "sorted into one of the timeslots of their preference. Session are held weekly, in " +
-            "the same room typically in Soda or Cory, for 1 hour to 90 minutes during times " +
-            "ranging from 9:00 AM to 7:00 PM. Mentors will go over a worksheet in section with " +
-            "extra problems to be worked on in groups. Homework, lab, and project help will not " +
-            "be provided during these sessions.",
+            "CSM offers group tutoring to all students in these seven classes. " +
+            "Students can sign up for time slots on a first-come, first-serve basis. " +
+            "Sessions are held once or twice a week, in Soda, Cory, or library rooms, " +
+            "for 1 hour to 90 minutes during times ranging from 9:00 AM to 9:00 PM. " +
+            "Mentors will go over a worksheet in section with extra problems to be worked " +
+            "on in groups. Homework, lab, and project help will not be provided during these " +
+            "sessions.",
     },
     EXPECTATIONS: {
         LABEL: "Expectations",
@@ -43,7 +44,20 @@ export const SECTIONS = {
             </span>
         ),
     },
-    APPLICATION: {
+    APPLICATIONS_OPEN: {
+        LABEL: "Application Process",
+        BODY_JSX: (
+            <p className="info">
+                Applications are currently closed for the semester and will open 
+                around 2 weeks into the semester. In the meantime, fill out{" "}
+                <Link to="/interest">
+                    this interest form
+                </Link>{" "}
+                if you plan on signing up for a section.
+            </p>
+        ),
+    },
+    APPLICATIONS_CLOSE: {
         LABEL: "Application Process",
         BODY_JSX: (
             <p className="info">
