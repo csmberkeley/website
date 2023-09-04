@@ -13,8 +13,44 @@ export default class Mentors extends React.Component {
             now < new Date(dates.applicationsClose)
         );
     }
+    isExtendedApplicationOpen() {
+        const now = new Date();
+        return (
+            now > new Date(dates.extendedApplicationsOpen) &&
+            now < new Date(dates.extendedApplicationsClose)
+        );
+    }
 
     render() {
+        let section;
+        if (this.isApplicationOpen()) {
+            section = (
+                <div>
+                    <h5 className="label">
+                        {Labels.SECTIONS.APPLICATIONS_OPEN.LABEL}
+                    </h5>
+                    {Labels.SECTIONS.APPLICATIONS_OPEN.BODY_JSX}
+                </div>
+            );
+        } else if (this.isExtendedApplicationOpen()) {
+            section = (
+                <div>
+                    <h5 className="label">
+                        {Labels.SECTIONS.APPLICATIONS_EXTENDED.LABEL}
+                    </h5>
+                    {Labels.SECTIONS.APPLICATIONS_EXTENDED.BODY_JSX}
+                </div>
+            );
+        } else {
+            section = (
+                <div>
+                    <h6 className="sublabel">
+                        {Labels.SECTIONS.APPLICATIONS_CLOSED.LABEL}
+                    </h6>
+                </div>
+            );
+        }
+
         return (
             <div>
                 <section className="center green lighten-1 stats header">
@@ -44,20 +80,7 @@ export default class Mentors extends React.Component {
                     <div className="divider"></div>
                     <div className="divider"></div>
                     <div className="section">
-                        {this.isApplicationOpen() ? (
-                            <div>
-                                <h5 className="label">
-                                    {Labels.SECTIONS.APPLICATIONS_OPEN.LABEL}
-                                </h5>
-                                {Labels.SECTIONS.APPLICATIONS_OPEN.BODY_JSX}
-                            </div>
-                        ) : (
-                            <div>
-                                <h6 className="sublabel">
-                                    {Labels.SECTIONS.APPLICATIONS_CLOSED.LABEL}
-                                </h6>
-                            </div>
-                        )}
+                        {section}
                         <br />
                     </div>
                     <div className="divider"></div>

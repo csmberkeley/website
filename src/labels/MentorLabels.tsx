@@ -1,7 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import { COURSE_STRING_WITH_AND, FAQ_CONTACT } from "./common";
+import {
+    COURSE_STRING_WITH_AND,
+    EXTENDED_COURSES_STRING_WITH_AND,
+    FAQ_CONTACT,
+} from "./common";
 import dates from "../data/dates.json";
 
 export const TITLE = "For Mentors";
@@ -102,6 +106,39 @@ export const SECTIONS = {
                     looking to be a Senior Mentor, look out for the application
                     that's released (internally) during the final month of the
                     semester!
+                </p>
+            </span>
+        ),
+    },
+    APPLICATIONS_EXTENDED: {
+        LABEL: `Applications for ${EXTENDED_COURSES_STRING_WITH_AND} ${dates.applicationSemester} Junior, Associate, and Content Mentors are extended!`,
+        BODY_JSX: (
+            <span>
+                <p className="info">
+                    We are currently recruiting mentors for{" "}
+                    {EXTENDED_COURSES_STRING_WITH_AND}.
+                    <br />
+                    The{" "}
+                    <Link to="/apply">
+                        Junior, Associate, and Content Mentor application is
+                        here!
+                    </Link>{" "}
+                    Applications are due{" "}
+                    {new Date(dates.extendedApplicationsClose).toLocaleString(
+                        "en-US",
+                        {
+                            day: "numeric",
+                            weekday: "long",
+                            year: "numeric",
+                            month: "long",
+                            hour: "numeric",
+                            minute: "2-digit",
+                            timeZone: "America/Los_Angeles",
+                            timeZoneName: "short",
+                        }
+                    )}
+                    . More information is in the application, and no late
+                    applications will be accepted.
                 </p>
             </span>
         ),
