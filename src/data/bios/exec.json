@@ -42,10 +42,10 @@
     {
         "name": "SooHyuk Cho",
         "role": "Socials Chair",
-        "imgUrl": "",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=1AIcmuTLDie-ju4aZ_zB6bemWve9-fyEc",
+        "pronouns": "he/him",
+        "details": "Hello! My name is SooHyuk Cho and I'm a sophomore double majoring in CS and DS from Seoul, South Korea. This is my third time as a CS 70 & EECS 16A mentor at CSM, and my first time on Exec team as a social chair :) I like playing the piano during my free time unless I'm stuck in the library. Any recommendations for classical piano pieces are always welcome! Looking forward to another great semester!",
+        "webUrl": "https://soohyuk-cho.github.io/"
     },
     {
         "name": "Thomas Chen",
@@ -133,6 +133,14 @@
         "imgUrl": "https://drive.google.com/open?id=1qkfpMEbjJB-Yht8jWvmfJ3TcIPPFVYnG",
         "pronouns": "he/him",
         "details": "Hi! I\u2019m Suchir, a 3rd year math and CS major. It\u2019s my fourth semester in CSM, and I\u2019m super excited to be here! A bit about me: I hail from Pennsylvania and am an avid classical music enthusiast. I\u2019m excited to meet you all and hope you have a great semester!",
+        "webUrl": ""
+    },
+    {
+        "name": "Viraj Ramakrishnan",
+        "role": "IVP",
+        "imgUrl": "",
+        "pronouns": "he/him",
+        "details": "Heyo! I'm Viraj, the IVP for this semester. I love a lot of things, here are some of them: playing guitar, going for runs and hiking, playing tennis, playing SET, doing fun math stuff, eating new kinds of food, listening to new music, running fun lil python experiments, learning languages... the list goes on. You'll find me running around campus, late to class, enjoying Pad See Ew at Racha's, shopping for Gold Nugget oranges at Berkeley Bowl and Zhoug Sauce at Trader Joe's. Always down to chat! (I love to talk)",
         "webUrl": ""
     }
 ]

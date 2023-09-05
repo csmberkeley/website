@@ -12,8 +12,8 @@
     {
         "name": "Sydney Tung",
         "pronouns": "she/her",
-        "details": "Hi, I'm Sydney! I'm a sophomore studying computer science/data science and maybe cog sci. I love dancing, watching Studio Ghibli movies, and fall vibes. I'm so excited to meet you all!",
-        "imgUrl": "https://drive.google.com/open?id=1-gjZ1A9C4zQNTS89D_yUcKsOz3ad7Z7B",
+        "details": "Hi, I'm Sydney! I'm a sophomore from the bay area studying computer science/data science and maybe cog sci. I love dancing, watching Studio Ghibli movies, and fall vibes. I'm so excited to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1i90zOYW4K-Ez9a0bie-JE71Tny1DZ45c",
         "webUrl": "",
         "courses": {
             "cs61a": "Junior Mentor"
@@ -162,7 +162,7 @@
     {
         "name": "Andrew Li",
         "pronouns": "",
-        "details": "Hi I am Andrew, I am from SF and CS61A is one of my favorite classes and I hope it will become your favorite class as well. I like to gym, watch football and basketball - go 49ers and Warriors. I like to play TFT. ",
+        "details": "Hi I am Andrew, I am a second year from SF and CS61A is one of my favorite classes and I hope it will become your favorite class as well. I like to gym, watch football and basketball - go 49ers and Warriors and I like to play TFT!!!!!!",
         "imgUrl": "https://drive.google.com/open?id=1kmbymMVTie9FNSd6y-txYmDktiz75yCB",
         "webUrl": "",
         "courses": {
@@ -598,7 +598,7 @@
         "name": "Elizabeth Yeh",
         "pronouns": "she/ her/ hers",
         "details": "Hi, I'm Elizabeth! I'm a senior studying CS, and in my free time, I love to bake and watch movies. Looking forward to meeting you all!",
-        "imgUrl": "https://drive.google.com/open?id=1p3EhGktS8yZLeEQlkf14fRqWYyx1lGcp",
+        "imgUrl": "https://drive.google.com/open?id=1puw3rzqUpb7IDbiwRZJot5fLbNDv2I61",
         "webUrl": "",
         "courses": {
             "cs61c": "Junior Mentor",
@@ -670,7 +670,7 @@
         "name": "Andrew Tao",
         "pronouns": "he/him",
         "details": "Hey! I'm a sophomore studying CS. My favorite musical artists are Bowie and Arcade Fire, and in my free time you'll probably catch me rewatching yet again another episode of my favorite show, Community. Super psyched to teach 70 and meet you all this semester :)",
-        "imgUrl": "https://drive.google.com/open?id=19LJDpniDXyP0ZZPGYSJrT_yLLnYQfIFc",
+        "imgUrl": "https://drive.google.com/open?id=1KMqs1CdFpldpdySdTO1TRnDgr6HVATKO",
         "webUrl": "",
         "courses": {
             "cs70": "Junior Mentor"
@@ -1482,9 +1482,9 @@
     {
         "name": "Aathreya Kadambi",
         "pronouns": "He/Him",
-        "details": "Aathreya is a Math/CS major at Berkeley. He's done lots of competitions in high school and also taken all the required lower division CS classes at Berkeley. In his free time, he loves doing spontaneous things like listening to random music, walking around Berkeley, or chilling with friends. ",
-        "imgUrl": "https://drive.google.com/open?id=1hWUO7czOGpSzj654LbMTDp_1m5nWwVMc",
-        "webUrl": "http://aathreyakadambi.rf.gd/",
+        "details": "Aathreya is a Math/CS major at Berkeley. He's done lots of competitions in high school and also taken CS 61A, 61B, and 70. In his free time, he loves doing spontaneous things like listening to random music, walking around Berkeley, or chilling with friends.",
+        "imgUrl": "https://drive.google.com/open?id=1jZPcMLQU80bwZiQWCtlv6fJNf0JOK97-",
+        "webUrl": "redflame.rf.gd",
         "courses": {
             "cs61b": "Content Mentor"
         }
@@ -1867,8 +1867,8 @@
         }
     },
     {
-        "name": "Justin",
-        "pronouns": "Xue",
+        "name": "Justin Xue",
+        "pronouns": "",
         "details": "Hi! My name is Justin and I'm a second year EECS major. I've dabbled in coding on and off through high school and really fell in love with it taking 61A and hope to help you enjoy it as much as I did! Outside of school I enjoy climbing, cooking, eating, going to concerts (EDM!), and watching movies (love animated ones).",
         "imgUrl": "https://drive.google.com/open?id=1_qCSWEMDJiWWghmWvY3bUh1zs23Z0U4l",
         "webUrl": "",
@@ -2170,6 +2170,27 @@
         "webUrl": "",
         "courses": {
             "cs61a": "Senior Mentor"
+        }
+    },
+    {
+        "name": "SooHyuk Cho",
+        "pronouns": "he/him",
+        "details": "Hello! My name is SooHyuk Cho and I'm a sophomore double majoring in CS and DS from Seoul, South Korea. This is my third time as a CS 70 & EECS 16A mentor at CSM, and my first time on Exec team as a social chair :) I like playing the piano during my free time unless I'm stuck in the library. Any recommendations for classical piano pieces are always welcome! Looking forward to another great semester!",
+        "imgUrl": "https://drive.google.com/open?id=1AIcmuTLDie-ju4aZ_zB6bemWve9-fyEc",
+        "webUrl": "https://soohyuk-cho.github.io/",
+        "courses": {
+            "cs70": "Senior Mentor",
+            "eecs16a": "Senior Mentor"
+        }
+    },
+    {
+        "name": "Archie Lee",
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": "",
+        "courses": {
+            "eecs16a": "Senior Mentor"
         }
     }
 ]
