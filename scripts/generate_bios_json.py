@@ -17,7 +17,7 @@ the desired columns or filter any unwanted entries.
 import csv
 import json
 
-CURR_SEMESTER = "sp23" # CHANGE ME
+CURR_SEMESTER = "fa23" # CHANGE ME
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_PATH = "./csvs/roster.csv"
@@ -181,7 +181,7 @@ def parse_bios(csv_path, master_roster_path):
     
     # filter exec from people_by_email
     for email, bio in people_by_email.items():
-        if "exec" in bio["courses"]:
+        if "courses" in bio.keys() and "exec" in bio["courses"]:
             del bio["courses"]["exec"]
     return people_by_email
 
