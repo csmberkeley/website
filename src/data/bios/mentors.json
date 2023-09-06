@@ -2190,7 +2190,17 @@
         "imgUrl": "",
         "webUrl": "",
         "courses": {
-            "eecs16a": "Senior Mentor"
+            "cs61a": "Senior Mentor"
+        }
+    },
+    {
+        "name": "Vy Ho",
+        "pronouns": "She/Her",
+        "details": "hi pals.",
+        "imgUrl": "https://drive.google.com/open?id=1mUsxcYkeF5F8TLyRKCzUTjX811HTUdx_",
+        "webUrl": "",
+        "courses": {
+            "cs61a": "Senior Mentor"
         }
     }
 ]
