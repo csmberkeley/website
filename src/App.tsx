@@ -46,6 +46,7 @@ function App() {
                         }
                         <ExternalRedirect path="/apply" target={ urls.applicationForm } />
                         <ExternalRedirect path="/interest" target={ urls.interestForm } />
+                        <ExternalRedirect path="/mentorInterest" target={ urls.mentorInterestForm } />
                         <ExternalRedirect path="/scheduler" target={ urls.scheduler } />
                         <ExternalRedirect path="/facebook" target={ urls.facebook } />
                         <ExternalRedirect path="/github" target={ urls.github } />

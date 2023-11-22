@@ -47,6 +47,7 @@ export default class Mentors extends React.Component {
                     <h6 className="sublabel">
                         {Labels.SECTIONS.APPLICATIONS_CLOSED.LABEL}
                     </h6>
+                    {Labels.SECTIONS.APPLICATIONS_CLOSED.BODY_JSX}
                 </div>
             );
         }
