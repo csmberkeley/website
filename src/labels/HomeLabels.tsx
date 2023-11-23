@@ -27,7 +27,7 @@ export const WHO_WE_ARE = {
         <p className="info">
             We are a group of UC Berkeley students passionate about teaching and
             helping students succeed in computer science. CSM provides a tiered
-            system of mentoring opportunities.
+            system of mentoring opportunities.{" "}
             <b>Senior Mentors</b> write material and provide tips to{" "}
             <b>Junior Mentors</b> on how to teach. All mentors meet up once a
             week to learn from each other, and use another time of the week to

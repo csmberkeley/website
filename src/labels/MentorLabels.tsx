@@ -162,25 +162,26 @@ export const SECTIONS = {
 
 export const FAQ = {
     LABEL: "FAQ",
+    /* // COVID-19 complications are mostly over now
     FA20_ONLINE: {
         Q: "Will CSM continue to operate if the semester is hybrid or online?",
         A:
             "CSM will continue to offer services in accordance with campus decisions on remote " +
             "and/or in-person instruction for the current semester.",
     },
+    */
     JM_QUALITIES: {
         Q: "What are you looking for in a Junior Mentor?",
         A:
             "We look for applicants who are dedicated to their students. This could be in the form " +
             "of previous tutoring experience, mastery of the material, and flexible time " +
-            "commitments. While we do take grades into account, it is not a prioritized metric. " +
-            "Many successful mentors have received a variety of grades.",
+            "commitments. Note we do not take grades into account, only that applicants have passed the " +
+            "class, and many successful mentors have received a variety of grades.",
     },
     JM_PREREQS: {
         Q: "Are there any prerequisites to be a Junior Mentor?",
         A:
-            "There are no formal requirements, but we prefer mentors who have had at least one " +
-            "semester of academic interning, either in past semesters or concurrently.",
+            "There are no formal requirements!",
     },
     JM_COMMITMENT: {
         Q: "What is the time commitment for a Junior Mentor?",
@@ -203,6 +204,7 @@ export const FAQ = {
             "Yes! Each Junior Mentor can receive 1 unit of P/NP credit. We will provide you the " +
             "appropriate CCN when the time comes. You are not required to enroll.",
     },
+    /* // Other types of tutoring isn't really a question we have to answer anymore
     OTHER_TUTORING: {
         Q: "Can I also do other forms of tutoring other than group?",
         A:
@@ -212,6 +214,8 @@ export const FAQ = {
             "or assist in office hours or guerrilla sections, provided you have received a passing " +
             "grade in your respective class.",
     },
+    */
+    /* // CS 370 is no longer as relevant to CSM
     CS_370: {
         Q: "What is CS 370?",
         A:
@@ -221,5 +225,6 @@ export const FAQ = {
             "a class of their choice. Many of our mentors have taken this class concurrently or " +
             "previously, and it is highly recommended!",
     },
+    */
     CONTACT: FAQ_CONTACT,
 };

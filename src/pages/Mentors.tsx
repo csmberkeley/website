@@ -87,8 +87,6 @@ export default class Mentors extends React.Component {
                     <div className="divider"></div>
                     <div className="faq section">
                         <h5 className="label">{Labels.FAQ.LABEL}</h5>
-                        <h6 className="sublabel">{Labels.FAQ.FA20_ONLINE.Q}</h6>
-                        <p className="info">{Labels.FAQ.FA20_ONLINE.A}</p>
 
                         <h6 className="sublabel">
                             {Labels.FAQ.JM_QUALITIES.Q}
@@ -104,14 +102,6 @@ export default class Mentors extends React.Component {
                         <p className="info">{Labels.FAQ.JM_COMMITMENT.A}</p>
                         <h6 className="sublabel">{Labels.FAQ.JM_UNITS.Q}</h6>
                         <p className="info">{Labels.FAQ.JM_UNITS.A}</p>
-
-                        <h6 className="sublabel">
-                            {Labels.FAQ.OTHER_TUTORING.Q}
-                        </h6>
-                        <p className="info">{Labels.FAQ.OTHER_TUTORING.A}</p>
-
-                        <h6 className="sublabel">{Labels.FAQ.CS_370.Q}</h6>
-                        <p className="info">{Labels.FAQ.CS_370.A}</p>
 
                         <h6 className="sublabel">
                             Who can I contact if I have more questions?

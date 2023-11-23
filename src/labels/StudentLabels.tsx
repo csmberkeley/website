@@ -26,7 +26,7 @@ export const SECTIONS = {
             <span>
                 <p className="info">
                     Students enrolled in group tutoring are eligible for 1 unit
-                    of P/NP credit. Grades are based on attendance. Those
+                    of P/NP credit. Students will be given a P grade based on attendance. Those
                     attending the session for a grade are required to attend 90%
                     of weekly assigned sessions.
                 </p>
@@ -45,7 +45,7 @@ export const SECTIONS = {
         ),
     },
     APPLICATIONS_CLOSE: {
-        LABEL: "Application Process",
+        LABEL: "Enrollment Process",
         BODY_JSX: (
             <p className="info">
                 Applications are currently closed for the Spring 2024 semester and will open 
@@ -58,15 +58,24 @@ export const SECTIONS = {
         ),
     },
     APPLICATIONS_OPEN: {
-        LABEL: "Application Process",
+        LABEL: "Enrollment Process",
         BODY_JSX: (
             <p className="info">
                 Check out our{" "}
                 <Link to="/scheduler" rel="noopener noreferrer" target="_blank">
                     Scheduler
                 </Link>{" "}
-                website around 2 weeks into the semester to sign up! Create an
-                account, select a class, and enroll in a empty section.
+                website around 2 weeks into the semester to sign up! Create an account, select
+                a class, and enroll in a empty section. To sign up for a unit, you must do so
+                seperately through CalCentral. More in depth instructions can be found{" "}
+                <a
+                  href="https://docs.google.com/document/d/1fmzgepezzdEzfi97u_jEw3OS88gsKDh7AjpuB4pnuLA/edit"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
+                    here
+                </a>
+                .
             </p>
         ),
     },
