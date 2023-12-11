@@ -14,6 +14,19 @@ export const SUBTITLE =
     "computer science courses as a Junior Mentor.";
 
 export const SECTIONS = {
+    INFOSESSION: {
+        LABEL: "Infosession",
+        BODY_JSX: (
+            <span>
+                <p className="info">
+                    Infosession Slides: <a href="https://tinyurl.com/csm-infosession-sp24">https://tinyurl.com/csm-infosession-sp24</a>
+                </p>
+                <p className="info">
+                    Infosession Recording (12/08/2023): <a href="https://tinyurl.com/csm-infosession-sp24-recording">https://tinyurl.com/csm-infosession-sp24-recording</a>
+                </p>
+            </span>
+        )
+    },
     RESPONSIBILITIES: {
         LABEL: "Responsibilities",
         BODY_JSX: (

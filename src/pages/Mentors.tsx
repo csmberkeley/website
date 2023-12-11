@@ -63,6 +63,14 @@ export default class Mentors extends React.Component {
                     <div className="section">
                         <div className="col l8 offset-l2 s10 offset-s1">
                             <h5 className="label">
+                                {Labels.SECTIONS.INFOSESSION.LABEL}
+                            </h5>
+                            {Labels.SECTIONS.INFOSESSION.BODY_JSX}
+                        </div>
+                    </div>
+                    <div className="section">
+                        <div className="col l8 offset-l2 s10 offset-s1">
+                            <h5 className="label">
                                 {Labels.SECTIONS.RESPONSIBILITIES.LABEL}
                             </h5>
                             {Labels.SECTIONS.RESPONSIBILITIES.BODY_JSX}
