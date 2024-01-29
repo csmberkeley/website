@@ -9,9 +9,9 @@ const dutyDict: { [role: string]: string } = {
     "Communications Chair":
         "Manages CSM email lists, drafts and sends feedback forms, newsletters, and emails, manages " +
         "CSM apparel.",
-    Coord:
+    "Coord":
         "Plans course timelines based on semester + curriculum, main point of contact for course " +
-        "staff, leads Senior Mentor meetings, mentor recruitment, attendace, feedback, and Piazza.",
+        "mentors, leads Senior Mentor meetings, mentor recruitment, attendance, and feedback.",
     "Socials Chair":
         "Leads direction on social aspect of orientation w/ a committee, mentor training, facilitates " +
         "discussions and brainstorming on developing a CSM community.",
@@ -23,8 +23,8 @@ const dutyDict: { [role: string]: string } = {
         "mental health, URM students, and first generation students. Leads DE&I task force within CSM.",
     "Media Chair":
         "Manages external-facing social media accounts, creates graphics for club-related needs, " +
-        "collaborates with communications chair on newsletters and the EVP on fundraiser promotion",
-    Advisor:
+        "collaborates with communications chair on newsletters and the EVP on fundraiser promotion.",
+    "Advisor":
         "Provides input and advice during meetings to all members of Exec, assists with transition " +
         "/ training of new exec memebers.",
 };
