@@ -1,8 +1,9 @@
 /**
  * Returns a URL for a Google Drive image that can be embedded in an img tag.
  * The argument should be a URL of the form
- * https://drive.google.com/open?id=[id]
- * See https://stackoverflow.com/questions/10311092/
+ * https://drive.google.com/thumbnail?id=[id]&sz=w240
+ * Old StackOverflow (new 2024 CORS update): https://stackoverflow.com/q/10311092/
+ * New StackOverflow: https://stackoverflow.com/q/77803187/
  */
 export function getEmbeddableDriveImageLink(url?: string): string {
     if (!url) {
@@ -13,5 +14,5 @@ export function getEmbeddableDriveImageLink(url?: string): string {
         return "ERROR-too-few-chunks";
     }
     let id = chunks[1];
-    return `https://docs.google.com/uc?id=${id}`;
+    return `https://drive.google.com/thumbnail?id=${id}&sz=w240`;
 }

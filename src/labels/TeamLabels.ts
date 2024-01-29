@@ -6,7 +6,7 @@ const dutyDict: { [role: string]: string } = {
         "Acts as ASUC/ESC liasion, drafts CSM budget, in charge of fundraisers, branding, and marketing.",
     "External Vice President":
         "Organizes outreach to companies, manages social media, also helps with branding and marketing.",
-    Communications:
+    "Communications Chair":
         "Manages CSM email lists, drafts and sends feedback forms, newsletters, and emails, manages " +
         "CSM apparel.",
     Coord:

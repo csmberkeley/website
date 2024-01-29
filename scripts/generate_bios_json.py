@@ -17,7 +17,7 @@ the desired columns or filter any unwanted entries.
 import csv
 import json
 
-CURR_SEMESTER = "fa23" # CHANGE ME
+CURR_SEMESTER = "sp24" # CHANGE ME
 
 BIOS_PATH = "./csvs/bios.csv"
 ROSTER_PATH = "./csvs/roster.csv"
@@ -31,11 +31,11 @@ class Cols:
     EMAIL = "Berkeley Email"
     NAME = "Name"
     ROLE = "For which position are you accepting/rejecting?"
-    COURSE = "COURSE"
+    COURSE = "Which course are you accepting for? "
     PRONOUNS = "Pronouns"
     PREF_NAME = "Preferred Name"
     IMG_URL = "Photo"
-    BIO = "Biography"
+    BIO = "Biography (300 character limit)"
     WEB_URL =  "(Optional) Website"
 
 # This string in the course means we should skip them and move on with life
