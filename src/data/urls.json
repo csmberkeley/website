@@ -1,7 +1,7 @@
 {
     "applicationForm": "https://tinyurl.com/sp24-csm-app",
     "interestForm": "https://tinyurl.com/sp24-student-interest",
-    "mentorInterestForm": "https://tinyurl.com/sp24-mentor-interest",
+    "mentorInterestForm": "http://tinyurl.com/fa24-mentor-interest",
     "scheduler": "https://scheduler.csmentors.org",
     "facebook": "https://www.facebook.com/BerkeleyCSM/",
     "github": "https://github.com/csmberkeley",

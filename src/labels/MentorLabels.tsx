@@ -164,7 +164,7 @@ export const SECTIONS = {
                 <p className="info">
                     In the meantime, please fill out{" "}
                     <Link to="/mentorInterest">
-                        this interest form for the Spring 2024 semester
+                        this interest form for the Fall 2024 semester
                     </Link>{" "}
                     if you are interested in becoming a mentor.
                 </p>
