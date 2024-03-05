@@ -2,7 +2,7 @@
     {
         "name": "Viraj Ramakrishnan",
         "role": "President",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/open?id=1j6EfARCUbRGfkgTKhxioY_lNsViUD39B",
         "pronouns": "",
         "details": "Hi! I'm Viraj and welcome to my bio! I love many things: math, teaching, languages, listening to music, guitar, singing, running, tennis, cooking, and, (who could forget) CSM. In my spare time you'll catch me trying to find the best Thai restaurant in Berkeley, sermonizing to anyone who will listen about the dread of impending graduation, or making CSM acronyms with considerable sentence mangling. Above everything i love learning and I'd love to learn about you! If you see me, approach me and ask to play a game of set, I will not refuse.",
         "webUrl": ""
@@ -71,7 +71,10 @@
     {
         "name": "Ekansh Agrawal",
         "role": "61C Coord",
-        "imgUrl": ""
+        "imgUrl": "https://drive.google.com/open?id=187qzkKn8eyC4ar28a5Sg6rFN0pHdqtkh",
+        "pronouns": "he series",
+        "details": "Hey everyone! I\u2019m Ekansh, a fourth-year from the Bay Area studying CS and ISF. In my free time I really enjoy kayaking, woodworking, and listening to rock music. I\u2019ve recently picked up climbing, so if you\u2019re interested let\u2019s go together! I\u2019m excited to be a part of CSM and I can\u2019t wait to meet all of you!",
+        "webUrl": "ekanshagrawal.com"
     },
     {
         "name": "Andy Chen",
