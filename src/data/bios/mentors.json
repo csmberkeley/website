@@ -119,7 +119,7 @@
       "details": "I'm Ben! I'm from Thailand but I went to high school in SoCal. I am a first year planning to major in Cognitive Science and CS. I play A LOT of tennis in my free time :) and I also love rock climbing and running as well! I genuinely enjoy tutoring and I look forward to getting to know you all :)"
   },
   {
-      "name": "Bryan Ventura ",
+      "name": "Bryan Ventura",
       "courses": {
           "cs61a": "Junior Mentor"
       },
@@ -597,7 +597,7 @@
           "cs61b": "Junior Mentor"
       },
       "pronouns": "she/her",
-      "imgUrl": "https://drive.google.com/open?id=1-SP8XyQSC6GvI26N5FksCo22dtoQbxnQ",
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1-SP8XyQSC6GvI26N5FksCo22dtoQbxnQ",
       "details": "Hi everyone! My name is Isabella, and I\u2019m a second year majoring in EECS and minoring in Data Science. In my free time, I love playing video games, drinking coffee, and watching random video essays on YouTube :)"
   },
   {
@@ -645,7 +645,7 @@
       "details": "Hi My name is Kenny. I'm a second year studying CS. I'm a music producer so hit me up if you want to cook up some BEATS together \ud83e\udd75. Speaking of cooking, I also enjoy cooking (food). Excited to meet yall and cats (slightly)> dogs."
   },
   {
-      "name": "Lakshya Nagal ",
+      "name": "Lakshya Nagal",
       "courses": {
           "cs61b": "Junior Mentor"
       },
@@ -974,11 +974,11 @@
       "details": "Hi everyone! I'm Sarthak, a freshman from Sacramento intending CS. I like running, listening to music, and finding places to study outside of my dorm. Outside of CSM you'll probably find me in Cory Hall jamming out to Bollywood music. Looking forward to meeting you all!"
   },
   {
-      "name": "Shravan",
+      "name": "Shravan Balaji",
       "courses": {
           "cs70": "Junior Mentor"
       },
-      "pronouns": "Balaji",
+      "pronouns": "",
       "imgUrl": "https://drive.google.com/open?id=1wCp4S92ArX2O_z1hB4tpV6-Egs6jW5Xr",
       "details": "Hi! I'm Shravan Balaji, a freshman double majoring in Computer Science and MCB! I enjoy singing, reading, playing soccer, and making new friends! I love math and biology, and I\u2019ve competed in many olympiads for them. My favorite artists are the Weeknd and Jubin Nautiyal (Hindi). "
   },
@@ -1364,8 +1364,8 @@
           "eecs16b": "Junior Mentor"
       },
       "pronouns": "He/Him",
-      "imgUrl": "https://drive.google.com/open?id=11lGTXjkI_wyrxGijV_r-b-sskC2N2GMx",
-      "details": "Hello! I am Hosny and I am a second year EECS major. This is my first time mentoring for CSM and I am super excited. Feel free to reach out whenever, I am always down to talk about anything (related to 16b or not) !"
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1qaz2GbdJ4ZNMU01_PLKpDJ9PCvZcDmpF",
+      "details": "Hello ! I am Hosny and I am a second year EECS major. This is my first semester with CSM and I am super excited. Feel free to reach out whenever, I am always down to talk about anything!"
   },
   {
       "name": "Alan Wang",
@@ -1871,8 +1871,8 @@
       "courses": {
           "cs61a": "Associate Mentor"
       },
-      "imgUrl": "https://drive.google.com/open?id=1YsTuy-1l6u0RMhkYL_6n4Z_0Bz7xyqAO",
-      "details": "Low-end mediocrity is worse than abject failure."
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1V0jDOCi9jbrJD7y9ysPJck1ueDuspfqP",
+      "details": "Low-end mediocrity is worse than abject failure. "
   },
   {
       "name": "Kelly Coutinho",
@@ -1906,7 +1906,68 @@
           "cs61b": "Content Mentor"
       },
       "pronouns": "he/him/his",
-      "imgUrl": "https://drive.google.com/open?id=1mWWbDSeY4slRCLC5y_so5hEPeVbvrcvO",
-      "details": "Hi everyone, my name is Robert. I'm a freshman studying EECS. I enjoy mountain biking, hiking, lifting, and chess. I'm excited for my first semester in CSM and mentoring for 61B!"
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1nlrskffNKv0p_kdWXlf-yD8W2knszcNB",
+      "details": "Hi everyone! My name is Robert, a current first year studying EECS. I'm from the Bay Area and went to high school only 15 minutes away from Cal, so I know the area well! This will be my first semester in CSM and mentoring for 61B, and I'm very excited."
+  },
+  {
+      "name": "Jia Jun Luo",
+      "courses": {
+          "cs70": "Junior Mentor"
+      },
+      "pronouns": "he/him",
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1JzO-xbxOkZsEnrDyvj5f5pnIvFdNtyWc",
+      "details": "Hi! I'm Jia Jun Luo, a 2nd year studying CS and intending to double major in philosophy! This is my first time teaching at CSM, and I'm so excited to meet you :D. I like playing music, and I play piccolo in Cal Band! Hmu if you wanna join, or if you want to invite me to join your music ensemble :)))"
+  },
+  {
+      "name": "Balaji Ganapathi",
+      "courses": {
+          "cs88": "Junior Mentor"
+      },
+      "pronouns": "",
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=11wQjuYjNPsqETIGCwrkqWHMRsrzR8Btu",
+      "details": "Hi! I'm Balaji and this will be my third semester in CSM. I'm a sophomore from Massachusetts studying MCB & Data Science. In Berkeley, I enjoy impulsively going to Menchie's and/or La Burrita for food. I'm also trying to learn how to cook better this semester, so let me know if y'all have recipes."
+  },
+  {
+      "name": "Timothy Gao",
+      "courses": {
+          "cs70": "Associate Mentor"
+      },
+      "pronouns": "He/Him",
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=12CgUdTN2SsXP5BmqDeG2h8Fs-jEs54p-",
+      "details": "Hi! My name is Timothy Gao and I'm a first-year at Berkeley majoring in EECS. I love listening to music, especially Labrinth. Over the past year, I've gone to Chipotle over 100 times."
+  },
+  {
+      "name": "Brandon Chin",
+      "courses": {
+          "cs61a": "Associate Mentor"
+      },
+      "pronouns": "He/Him",
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1G0Mp5GMiRzUNZv6h27RPyuJa6iV8PmK7",
+      "details": "Hi y'all, my name is Brandon and I'm a junior majoring in EECS! This is my fourth semester with CSM, and I'm looking forward to meeting everyone :D"
+  },
+  {
+      "name": "Carl Ji",
+      "courses": {
+          "cs61a": "Junior Mentor"
+      },
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=157-t3eY2e-WgRKlCiysMYNxgWGkZLSJU",
+      "details": "Hey! I'm a third year studying CS from Beijing. In my free time, you'll find me in the kitchen trying to recreate recipes I found on Youtube. I'm also (for the longest time) teaching myself how to play the ukulele. Talk to me about food, music, standup comedy, sports, and anything at all!"
+  },
+  {
+      "name": "Zoe Tenenbaum",
+      "courses": {
+          "cs61c": "Junior Mentor"
+      },
+      "pronouns": "she/her",
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1Gq_GCHyId6WK8om58uHv7Ea93IDMr86v",
+      "details": "Hi!! I'm Zoe, a second year EECS major and I'm super excited to mentor 61C this sem. Some of my hobbies include vegetable gardening, doing events with my sorority, and learning how to cook! I also am addicted to caffeine and am a super bad speller lol. (I had to spell check this like 3 times)"
+  },
+  {
+      "name": "Minjae Kwak",
+      "courses": {
+          "cs70": "Senior Mentor"
+      },
+      "imgUrl": "https://drive.google.com/u/1/open?usp=forms_web&id=1WLxnPM-KIMgNgmsW3g-wW5Ct8uOR8BVg",
+      "details": "Hi! I'm Minjae, and this is my second semester mentoring for CS 70. Taking the class with  CSM helped me understand and appreciate the materials, and I hope you enjoy it too!"
   }
 ]
