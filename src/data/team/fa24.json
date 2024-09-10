@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Gabe Classon",
+        "imgUrl": "",
+        "position": "President",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Christine Zhang",
+        "imgUrl": "",
+        "position": "External Vice President",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Noemi Chulo",
+        "imgUrl": "",
+        "position": "Internal Vice President",
+        "pronouns": ""
+    },
+    {
+        "name": "Apollo Loh",
+        "imgUrl": "",
+        "position": "CS 61A Coordinator",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Steven Luo",
+        "imgUrl": "",
+        "position": "CS 61A Coordinator",
+        "pronouns": ""
+    },
+    {
+        "name": "Carolyn Liu",
+        "imgUrl": "",
+        "position": "CS 61B Coordinator",
+        "pronouns": ""
+    },
+    {
+        "name": "Nehal Sindhu",
+        "imgUrl": "",
+        "position": "CS 61B Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Aaron L Xu",
+        "imgUrl": "",
+        "position": "CS 61C Coordinator",
+        "pronouns": ""
+    },
+    {
+        "name": "Richard Yu",
+        "imgUrl": "",
+        "position": "CS 61C Coordinator",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Samantha Huang",
+        "imgUrl": "",
+        "position": "CS 70 Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Yutong Du",
+        "imgUrl": "",
+        "position": "CS 70 Coordinator",
+        "pronouns": "he/hiim"
+    },
+    {
+        "name": "Mohamed Ganda",
+        "imgUrl": "",
+        "position": "CS 88 Coordinator"
+    },
+    {
+        "name": "Ramya Chitturi",
+        "imgUrl": "",
+        "position": "CS 88 Coordinator",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Raviteja Kanthamneni",
+        "imgUrl": "",
+        "position": "EECS 16A Coordinator",
+        "pronouns": "Kanthamneni"
+    },
+    {
+        "name": "SooHyuk Cho",
+        "imgUrl": "",
+        "position": "EECS 16A Coordinator",
+        "pronouns": "He/him"
+    },
+    {
+        "name": "Bill Zheng",
+        "imgUrl": "",
+        "position": "EECS 16B Coordinator"
+    },
+    {
+        "name": "Damanic Luck",
+        "imgUrl": "",
+        "position": "EECS 16B Coordinator",
+        "pronouns": ""
+    },
+    {
+        "name": "Christy Quang",
+        "imgUrl": "",
+        "position": "Communications Chair",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Viviana Tran",
+        "imgUrl": "",
+        "position": "Communications Chair",
+        "pronouns": ""
+    },
+    {
+        "name": "Matthew Ybarra ",
+        "imgUrl": "",
+        "position": "DE&I Chair",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Pooja Agarwal",
+        "imgUrl": "",
+        "position": "DE&I Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Esther Shen",
+        "imgUrl": "",
+        "position": "Media Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Alyssa Smith",
+        "imgUrl": "",
+        "position": "Socials Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Edward Lee",
+        "imgUrl": "",
+        "position": "Tech Chair",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Jacob Taegon Kim",
+        "imgUrl": "",
+        "position": "Tech Chair",
+        "pronouns": "He/Him/His"
+    },
+    {
+        "name": "Viraj Ramakrishnan",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Alec Li",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": "he/him/his"
+    },
+    {
+        "name": "Rebecca Dang",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Vy Ho",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Suchir Agarwal",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Thomas Chen",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Andy Chen",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Saloni Agarwal",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Ekansh Agrawal",
+        "imgUrl": "",
+        "position": "Advisor"
+    },
+    {
+        "name": "Pranav Muralikrishnan",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": ""
+    },
+    {
+        "name": "Janani Sriram",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": "she/her"
+    }
+]
