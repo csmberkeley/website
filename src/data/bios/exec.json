@@ -2,7 +2,7 @@
     {
         "name": "Gabe Classon",
         "role": "President",
-        "imgUrl": "https://drive.google.com/file/d/1PeC_TFrnT0mimVCcBQ2d_RDN3B04Yi5J/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1PeC_TFrnT0mimVCcBQ2d_RDN3B04Yi5J",
         "pronouns": "he/him",
         "details": "Hi, my name is Gabe, and I'm super excited to be the President of CSM this semester! I'm a senior studying math and computer science from Palatine, Illinois. In 6 semesters of CSM, I've seen first-hand how core we are to Berkeley's amazing undergraduate teaching community. Let's teach and learn together :)",
         "webUrl": "gabeclasson.com/teaching"
@@ -10,7 +10,7 @@
     {
         "name": "Christine Zhang",
         "role": "External Vice President",
-        "imgUrl": "https://drive.google.com/file/d/1o3DBoCtpFIPl3LQZwIc-zZigTIRSZkPa/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1o3DBoCtpFIPl3LQZwIc-zZigTIRSZkPa",
         "pronouns": "she/her",
         "details": "Hi! I\u2019m a fourth-year EECS major and I like books, food, badminton, oversized sweaters, and wearing socks while sleeping. I also study physics and linguistics, and this is my 6th semester as a CSM mentor. Feel free to reach out anytime for anything :)",
         "webUrl": ""
@@ -42,7 +42,7 @@
     {
         "name": "Carolyn Liu",
         "role": "CS 61B Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/1hz9h4Cjsw2MLjKuXoO7cpQ0jp5lR_Nl9/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1hz9h4Cjsw2MLjKuXoO7cpQ0jp5lR_Nl9",
         "pronouns": "",
         "details": "",
         "webUrl": ""
@@ -50,7 +50,7 @@
     {
         "name": "Nehal Sindhu",
         "role": "CS 61B Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/1bVwwWx6HPH0SHBzRky4FPrW8LCOg0DPP/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1bVwwWx6HPH0SHBzRky4FPrW8LCOg0DPP",
         "pronouns": "she/her",
         "details": "\ud83d\udc3c",
         "webUrl": ""
@@ -66,7 +66,7 @@
     {
         "name": "Richard Yu",
         "role": "CS 61C Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/16monMh_BzPe5-pRuYWVayZbhcVfAPUHM/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=16monMh_BzPe5-pRuYWVayZbhcVfAPUHM",
         "pronouns": "he/him",
         "details": "Hello hello! I'm Richard and I'm a junior studying CS and Data Science. Super excited to meet you all!",
         "webUrl": "https://www.linkedin.com/in/rrichardyu/"
@@ -74,7 +74,7 @@
     {
         "name": "Samantha Huang",
         "role": "CS 70 Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/1NOURbDJB2V1kmWGm6V2a92uEbBRC4Uxl/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1NOURbDJB2V1kmWGm6V2a92uEbBRC4Uxl",
         "pronouns": "she/her",
         "details": "Hi, I'm Samantha! This will be my 5th semester in CSM and my 2nd time as 70 Coord :)). I am also a full stack developer for CSM Tech :pp. I enjoy listening to music, taking pictures of sunsets, and eating yummy food (lmk if ya\u2019ll know any secret spots ;)). Hope to see you around this semester :DD!!",
         "webUrl": ""
@@ -82,7 +82,7 @@
     {
         "name": "Yutong Du",
         "role": "CS 70 Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/120aqO6gGGsjiq4gJZM7hdWhNS05ISoz1/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=120aqO6gGGsjiq4gJZM7hdWhNS05ISoz1",
         "pronouns": "he/hiim",
         "details": "Hello! I'm a senior double majoring in physics and CS. In my free time, I like to play piano, badminton, and practice photography! Feel free to talk to me about anything :D",
         "webUrl": ""
@@ -95,7 +95,7 @@
     {
         "name": "Ramya Chitturi",
         "role": "CS 88 Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/1Zf4AqzbT4rEi3dncjIPl0HFNWknj8fI3/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1Zf4AqzbT4rEi3dncjIPl0HFNWknj8fI3",
         "pronouns": "she/her",
         "details": "Hi! I'm Ramya, a senior majoring in CS and linguistics. I enjoy sci-fi/fantasy books, crosswords, rock music, museums, CSM, and more! Excited to get to know you this semester :)",
         "webUrl": ""
@@ -103,7 +103,7 @@
     {
         "name": "Raviteja Kanthamneni",
         "role": "EECS 16A Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/1SC9c_fDK0g9banWSJqYCtV33gr7sxQSf/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1SC9c_fDK0g9banWSJqYCtV33gr7sxQSf",
         "pronouns": "Kanthamneni",
         "details": "Hey, my name is Teja and I'm a senior studying CS from Allentown, Pennsylvania! Some of my hobbies include basketball, hiking, anime, and video games.",
         "webUrl": ""
@@ -111,7 +111,7 @@
     {
         "name": "SooHyuk Cho",
         "role": "EECS 16A Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/11mD9xZZcNoM2fITxYWECMN9Fry4sKE15/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=11mD9xZZcNoM2fITxYWECMN9Fry4sKE15",
         "pronouns": "He/him",
         "details": "Hi all! I\u2019m SooHyuk, a senior double majoring CS and DS from Seoul, South Korea. I'm a returning 16A coordinator this semester :) I like playing the piano in my free time unless I\u2019m stuck in the library lol. Any recommendations for classical or new age piano pieces are always welcome! ",
         "webUrl": "https://soohyuk-cho.github.io/"
@@ -124,7 +124,7 @@
     {
         "name": "Damanic Luck",
         "role": "EECS 16B Coordinator",
-        "imgUrl": "https://drive.google.com/file/d/15irpotFkvLS3dXI2yqubu4pUrupHEJXU/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=15irpotFkvLS3dXI2yqubu4pUrupHEJXU",
         "pronouns": "",
         "details": "Hi, I'm Damanic. I like to crochet and play video games. Welcome to CSM!",
         "webUrl": ""
@@ -132,7 +132,7 @@
     {
         "name": "Christy Quang",
         "role": "Communications Chair",
-        "imgUrl": "https://drive.google.com/file/d/1QFf33CUVNerEy370u7J6QSfPLNr-sMTf/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1QFf33CUVNerEy370u7J6QSfPLNr-sMTf",
         "pronouns": "she/her/hers",
         "details": "N/A",
         "webUrl": ""
@@ -140,7 +140,7 @@
     {
         "name": "Viviana Tran",
         "role": "Communications Chair",
-        "imgUrl": "https://drive.google.com/file/d/10c9VMFF9iBIaDnO2RfuEdVsUNeG83MNv/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=10c9VMFF9iBIaDnO2RfuEdVsUNeG83MNv",
         "pronouns": "",
         "details": "",
         "webUrl": ""
@@ -148,7 +148,7 @@
     {
         "name": "Matthew Ybarra ",
         "role": "DE&I Chair",
-        "imgUrl": "https://drive.google.com/file/d/1QlfU5U2_F7h4eB98ZWOw6bLln3E62dVE/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1QlfU5U2_F7h4eB98ZWOw6bLln3E62dVE",
         "pronouns": "He/Him",
         "details": "Hey! I'm Matt and I'm a 4th year EECS major and I'll be one of your DEI Chairs this semester. You'll often find me procrastinating by playing games, taking naps, or spending time with friends. I love cheese, cats, and nice long 40 hour YouTube essay about some obscure show you watched as a kid. I can't wait to meet you all!",
         "webUrl": ""
@@ -156,7 +156,7 @@
     {
         "name": "Pooja Agarwal",
         "role": "DE&I Chair",
-        "imgUrl": "https://drive.google.com/file/d/1xRdxNtYgh-P7u497BdCooFB9v27dHwqo/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1xRdxNtYgh-P7u497BdCooFB9v27dHwqo",
         "pronouns": "she/her",
         "details": "Hi! I'm Pooja, a second year in MCB and CS. I'm passionate about computational biology, and I'm also a part of Women in Computing and Data Science (join WiCDS!). I'm a bullet journal enthusiast, y\u2019all over-user, and sucker for sour candies. I spend far too much time every other weekend getting emotionally invested in Formula 1 drivers going around a race track (I swear it\u2019s fun) and trying to convince other people to also mindlessly participate in the viewing experience. I religiously follow the Great British Bake Off, but can't bake, and love reading in my free time, all while attempting to keep my one \u201clow-maintenance\u201d plant alive.",
         "webUrl": ""
@@ -164,7 +164,7 @@
     {
         "name": "Esther Shen",
         "role": "Media Chair",
-        "imgUrl": "https://drive.google.com/file/d/1tGXOJQwMdnZ9HMmVXu3IfBvWNrxyiZL4/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1tGXOJQwMdnZ9HMmVXu3IfBvWNrxyiZL4",
         "pronouns": "she/her",
         "details": "Haii!! I'm Esther, a senior studying Data Science and Linguistics. In my free time I enjoy going to concerts, changing up my hair, and looking at cool designs :>",
         "webUrl": ""
@@ -172,7 +172,7 @@
     {
         "name": "Alyssa Smith",
         "role": "Socials Chair",
-        "imgUrl": "https://drive.google.com/file/d/1ep9fnx1Gy8HwUDEarRZxIjFGLgTc5d-B/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1ep9fnx1Gy8HwUDEarRZxIjFGLgTc5d-B",
         "pronouns": "she/her",
         "details": "hiya! i\u2019m a fourth-year CS + DS major from seattle, and this is my fifth semester in CSM! hmu to talk about JRPGs, why title fight needs to go on a reunion tour, and/or the best cafes in berkeley :3 feel free to reach out anytime, especially with cool social ideas!",
         "webUrl": ""
@@ -196,7 +196,7 @@
     {
         "name": "Viraj Ramakrishnan",
         "role": "Advisor",
-        "imgUrl": "https://drive.google.com/file/d/1awwhOLZJMu0wacst5-UjU8DlG7Bfig6P/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1awwhOLZJMu0wacst5-UjU8DlG7Bfig6P",
         "pronouns": "he/him",
         "details": "Hi! I'm Viraj, and I'm an advisor this semester! I love listening to and playing music, doing maths, learning languages, racket sports and running! I'm not going to be around Berkeley that much this semester, but please feel free to slack me about anything at all :)) \ud83c\udf31go csm \ud83c\udf31",
         "webUrl": ""
@@ -204,7 +204,7 @@
     {
         "name": "Alec Li",
         "role": "Advisor",
-        "imgUrl": "https://drive.google.com/file/d/1O6jp6ieQPCNzErM2jVAZ0qeKsBYv3fRU/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1O6jp6ieQPCNzErM2jVAZ0qeKsBYv3fRU",
         "pronouns": "he/him/his",
         "details": "Hello! I'm a 5th year EECS masters student, doing research in cloud computing and security; I've been part of CSM exec for a while now, mostly involved in tech and infrastructure. In my free time, I like to do some music composition as a hobby, and I also like to go swimming as well.",
         "webUrl": "https://smartspot2.github.io"
@@ -212,7 +212,7 @@
     {
         "name": "Rebecca Dang",
         "role": "Advisor",
-        "imgUrl": "https://drive.google.com/file/d/1cAf9up44oKP4r6DURjF9jDCUyxDFpT9i/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1cAf9up44oKP4r6DURjF9jDCUyxDFpT9i",
         "pronouns": "she/her",
         "details": "Hey there! I'm a 4th year EECS major from San Jose, CA and I <3 CSM! Feel free to chat with me about CS 88, classes at Berkeley, professional development, course staff, guitar, books, movies, TV, music, and more :D",
         "webUrl": "https://phrdang.github.io/"
@@ -225,7 +225,7 @@
     {
         "name": "Suchir Agarwal",
         "role": "Advisor",
-        "imgUrl": "https://drive.google.com/file/d/1zfNuFsNELKNQb1juxx2QVxs0-4G4fQow/view?usp=drivesdk",
+        "imgUrl": "https://drive.google.com/open?id=1zfNuFsNELKNQb1juxx2QVxs0-4G4fQow",
         "pronouns": "he/him",
         "details": "Hi! I\u2019m Suchir, a 4th year math and CS major. This is my sixth semester in CSM, and I\u2019m super excited to be here. A bit about me: I hail from Pennsylvania and am an avid classical music enthusiast. I\u2019m excited to meet you all and hope you have a great semester.",
         "webUrl": ""
