@@ -18,11 +18,12 @@ import fa22 from "../data/team/fa22.json";
 import sp23 from "../data/team/sp23.json";
 import fa23 from "../data/team/fa23.json";
 import sp24 from "../data/team/sp24.json";
+import fa24 from "../data/team/fa24.json";
 
 import { duties } from "../labels/TeamLabels";
 import * as utils from "./utils";
 
-const CURRENT_SEM = "sp24";
+const CURRENT_SEM = "fa24";
 // TODO display older of these in a dropdown maybe?
 const SEMESTERS = [
     "fa17",
@@ -39,6 +40,7 @@ const SEMESTERS = [
     "sp23",
     "fa23",
     "sp24",
+    "fa24",
 ].slice(-4);
 
 interface NewOfficer {
@@ -93,6 +95,8 @@ function getOfficerTeamFromSemStr(semester: string): Officer[] {
             return fa23.map(newDiscriminator);
         case "sp24":
             return sp24.map(newDiscriminator); 
+        case "fa24":
+            return fa24.map(newDiscriminator); 
         default:
             throw new Error(`Bad semester provided: ${semester}`);
     }
