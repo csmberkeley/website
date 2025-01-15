@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import dates from "../data/dates.json"
 
 import { COURSE_STRING_WITH_AND, FAQ_CONTACT } from "./common";
 
@@ -48,7 +49,7 @@ export const SECTIONS = {
         LABEL: "Enrollment Process",
         BODY_JSX: (
             <p className="info">
-                Applications are currently closed for the Spring 2024 semester and will open 
+                Applications are currently closed for the {dates.applicationSemester} semester and will open 
                 around 2 weeks into the semester. In the meantime, fill out{" "}
                 <Link to="/interest">
                     this interest form
