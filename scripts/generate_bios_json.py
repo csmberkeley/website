@@ -58,7 +58,7 @@ def parse_bios(csv_path, master_roster_path):
     with open(EXEC_ROLE_PATH) as f:
         reader = csv.reader(f)
         for name, email, role in reader:
-            email_no_dot = email.replace(".", "").lower().strip()
+            email_no_dot = email.replace(".", "") if email else ""
             # We'll assume nobody is in multiple exec roles
             exec_roles[email_no_dot] = {
                 "name": name,
@@ -76,7 +76,8 @@ def parse_bios(csv_path, master_roster_path):
         for row in reader:
             name, email, role, preproc_course = row
             course = preproc_course.lower().replace(" ", "")
-            email_no_dot = email.replace(".", "").lower().strip()
+            email_no_dot = email.replace(".", "") if email else ""
+            email_no_dot = email_no_dot.lower().strip()
             if not role:
                 print(f"=== WARNING: EMPTY ROLE IN MASTER ROSTER FOR {email.strip()} ===")
             if not course:
@@ -99,7 +100,8 @@ def parse_bios(csv_path, master_roster_path):
         reader = csv.DictReader(f)
         for row in reader:
             email = row[Cols.EMAIL]
-            email_no_dot = email.replace(".", "").lower().strip()
+            email_no_dot = email.replace(".", "") if email else ""
+            email_no_dot = email_no_dot.lower().strip()
             pref_name = row[Cols.PREF_NAME]
             use_pref_name = pref_name and not pref_name.isspace()
             name = row[Cols.NAME] if not use_pref_name else pref_name
@@ -109,6 +111,10 @@ def parse_bios(csv_path, master_roster_path):
             role = row[Cols.ROLE]
             pronouns = row[Cols.PRONOUNS]
             web_url = row[Cols.WEB_URL]
+
+            if email_no_dot not in exec_roles:
+                print(f"=== MISSING EXEC ROLE FOR {email_no_dot} ===")
+
             def update(email_no_dot):
                 # Assume the latest version of the bio is correct
                 obj = people_by_email[email_no_dot]

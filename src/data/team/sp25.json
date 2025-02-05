@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Alec Li",
+        "imgUrl": "alec.li@berkeley.edu.jpg",
+        "position": "Advisor",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Alyssa Smith",
+        "imgUrl": "alyssa.427@berkeley.edu.jpg",
+        "position": "Advisor",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Andy Chen",
+        "imgUrl": "achen9734@berkeley.edu.jpeg",
+        "position": "Advisor",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Nathan Huynh",
+        "imgUrl": "nathan1nathan@berkeley.edu.jpg",
+        "position": "Advisor",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Nehal Sindhu",
+        "imgUrl": "nehalsindhu@berkeley.edu.png",
+        "position": "Advisor",
+        "pronouns": ""
+    },
+    {
+        "name": "Saloni Agarwal",
+        "imgUrl": "sagarwal2@berkeley.edu.JPG",
+        "position": "Advisor",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "SooHyuk Cho",
+        "imgUrl": "soohyuk.cho@berkeley.edu.jpg",
+        "position": "Advisor",
+        "pronouns": ""
+    },
+    {
+        "name": "Suchir Agarwal",
+        "imgUrl": "suchiragarwal@berkeley.edu.png",
+        "position": "Advisor",
+        "pronouns": ""
+    },
+    {
+        "name": "Vy Ho",
+        "imgUrl": "vyho@berkeley.edu.jpg",
+        "position": "Advisor",
+        "pronouns": "she/jer"
+    },
+    {
+        "name": "Angie Baik",
+        "imgUrl": "23angieb@berkeley.edu.JPG",
+        "position": "Communications Chair",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Apollo Loh",
+        "imgUrl": "",
+        "position": "CS 61A Co-ord"
+    },
+    {
+        "name": "Steven Luo",
+        "imgUrl": "sfluo@berkeley.edu.jpeg",
+        "position": "CS 61A Co-ord",
+        "pronouns": ""
+    },
+    {
+        "name": "Carolyn Liu",
+        "imgUrl": "caliu@berkeley.edu",
+        "position": "CS 61B Co-ord",
+        "pronouns": ""
+    },
+    {
+        "name": "Prisha Singh",
+        "imgUrl": "prishasingh@berkeley.edu.JPG",
+        "position": "CS 61B Co-ord",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Richard Yu",
+        "imgUrl": "richardyu@berkeley.edu.jpeg",
+        "position": "CS 61C Co-ord",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Shashwat Bansal",
+        "imgUrl": "shashwat@berkeley.edu.JPG",
+        "position": "CS 61C Co-ord",
+        "pronouns": "He/him"
+    },
+    {
+        "name": "Eric Du",
+        "imgUrl": "eric.du03@berkeley.edu.jpg",
+        "position": "CS 70 Co-ord",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Grant Zhao",
+        "imgUrl": "gz220310@berkeley.edu.jpg",
+        "position": "CS 70 Co-ord",
+        "pronouns": "He/Him/His"
+    },
+    {
+        "name": "Mohamed Ganda",
+        "imgUrl": "mohamedganda166@berkeley.edu",
+        "position": "CS 88 Co-ord",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Ramya Chitturi",
+        "imgUrl": "ramya.chitturi@berkeley.edu.png",
+        "position": "CS 88 Co-ord",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Divya Sundar",
+        "imgUrl": "divya.sundar@berkeley.edu.jpg",
+        "position": "DE&I Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Pooja Agarwal",
+        "imgUrl": "poojaagarwal@berkeley.edu.jpg",
+        "position": "DE&I Chair",
+        "pronouns": ""
+    },
+    {
+        "name": "Jaimyn Drake",
+        "imgUrl": "jaimyndrake@berkeley.edu.jpg",
+        "position": "EECS 16A Co-ord",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Teja Kanthamneni",
+        "imgUrl": "tk164@berkeley.edu.jpg",
+        "position": "EECS 16A Co-ord",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Robert Zhang",
+        "imgUrl": "robertrzhang@berkeley.edu",
+        "position": "EECS 16B Co-ord",
+        "pronouns": ""
+    },
+    {
+        "name": "Christine Zhang",
+        "imgUrl": "cyuzhang@berkeley.edu.jpg",
+        "position": "EVP",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Anya Agarwal",
+        "imgUrl": "anya.agarwal@berkeley.edu.jpg",
+        "position": "Media Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Gabriel  Classon",
+        "imgUrl": "classon@berkeley.edu.jpg",
+        "position": "President",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Alan Wang",
+        "imgUrl": "awang18847@berkeley.edu.HEIC",
+        "position": "Socials Chair",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Elaine Shu",
+        "imgUrl": "elaineshu@berkeley.edu.png",
+        "position": "Tech Chair",
+        "pronouns": "she/her"
+    },
+    {
+        "name": "Isabella Durante Alpert",
+        "imgUrl": "isabella.alps@berkeley.edu.png",
+        "position": "Tech Chair",
+        "pronouns": "she/her"
+    }
+]
