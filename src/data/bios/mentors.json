@@ -288,8 +288,7 @@
     {
         "name": "Pooja Agarwal",
         "courses": {
-            "cs61a": "Senior Mentor",
-            "de&ichair": "Exec"
+            "cs61a": "Senior Mentor"
         },
         "pronouns": "she/her",
         "imgUrl": "poojaagarwal@berkeley.edu.jpg"
@@ -1416,8 +1415,7 @@
     {
         "name": "SooHyuk Cho",
         "courses": {
-            "eecs16a": "Senior Mentor",
-            "advisor": "Exec"
+            "eecs16a": "Senior Mentor"
         },
         "pronouns": "he/him",
         "imgUrl": "soohyuk.cho@berkeley.edu.jpg"
