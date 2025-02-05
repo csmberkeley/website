@@ -146,16 +146,6 @@
         "details": "hii, i'm jaansi, a freshman studying EECS & business! apart from teaching, i love chocolate chip cookies, all things nature, and my 450+ day duolingo streak. so so excited to get to know you all!"
     },
     {
-        "name": "Jonny Luo",
-        "courses": {
-            "cs61a": "Junior Mentor",
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Content Mentor"
-        },
-        "pronouns": "He/him",
-        "imgUrl": "jonnyjluo@berkeley.edu",
-        "details": "Hello! I'm a freshman from South Bay who enjoys hiking and spending time in nature, jigsaw puzzling, and eating. Catch me at random restaurants throughout the semester, but particularly Tasty Pot, Kimchi Garden, and Little Gem. "
-    },
-    {
         "name": "Jyrel Mendoza",
         "courses": {
             "cs61a": "Junior Mentor"
@@ -189,17 +179,6 @@
         },
         "imgUrl": "naisha_jain@berkeley.edu",
         "details": "Hey! I'm Naisha and I'm a freshman studying EECS & Business from Dallas, TX. In my free time, I love to read, crochet, dance, grab treats from Sharetea and Chipotle, and listen to music! I really enjoyed taking this course last semester, and I can't wait to meet you soon!"
-    },
-    {
-        "name": "Phoenix Wilson",
-        "courses": {
-            "cs61a": "Junior Mentor",
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "phoenixw@berkeley.edu.JPG",
-        "details": "3rd year transfer EECS student from essj. a fun fact about me is that I can touch my fingers together!",
-        "webUrl": "phoenixw.info"
     },
     {
         "name": "Zixian Li",
@@ -505,14 +484,6 @@
         "pronouns": "he/him",
         "imgUrl": "jeffreygong@berkeley.edu.jpg",
         "details": "Hi! I'm Jeffrey a second year from socal studying eecs + business. I enjoy playing badminton, chess, looking at planes and taking advantage of restaurant reward systems. I'm also involved in venture and the business community as well! looking forward to meeting you all :)"
-    },
-    {
-        "name": "Jonathan Mui",
-        "courses": {
-            "cs61b": "Junior Mentor",
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Associate Mentor"
-        },
-        "imgUrl": "jrmui@berkeley.edu.png"
     },
     {
         "name": "Juhi Jadav",
@@ -1526,30 +1497,6 @@
         },
         "pronouns": "he/him",
         "imgUrl": "maxphillips@berkeley.edu.jpeg"
-    },
-    {
-        "name": "Alex Li",
-        "courses": {
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
-        }
-    },
-    {
-        "name": "Mahika Valluri",
-        "courses": {
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
-        }
-    },
-    {
-        "name": "Nicole Lee",
-        "courses": {
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
-        }
-    },
-    {
-        "name": "Xuan Zhang",
-        "courses": {
-            "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
-        }
     },
     {
         "name": "Anirudh Chaudhary",
