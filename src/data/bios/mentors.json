@@ -1,87 +1,5 @@
 [
     {
-        "name": "Alec Li",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "alec.li@berkeley.edu.jpg",
-        "details": "Hello! I'm a 5th year EECS masters student, doing research in cloud computing and security; I've been part of CSM exec for a while now, mostly involved in tech and infrastructure. In my free time, I like to do some music composition as a hobby, and I also like to go swimming as well.",
-        "webUrl": "https://smartspot2.github.io"
-    },
-    {
-        "name": "Alyssa Smith",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "alyssa.427@berkeley.edu.jpg"
-    },
-    {
-        "name": "Andy Chen",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "achen9734@berkeley.edu.jpeg"
-    },
-    {
-        "name": "Nathan Huynh",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "pronouns": "He/Him",
-        "imgUrl": "nathan1nathan@berkeley.edu.jpg",
-        "details": "I <3 CSM"
-    },
-    {
-        "name": "Nehal Sindhu",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "imgUrl": "nehalsindhu@berkeley.edu.png"
-    },
-    {
-        "name": "Saloni Agarwal",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "sagarwal2@berkeley.edu.JPG"
-    },
-    {
-        "name": "SooHyuk Cho",
-        "courses": {
-            "advisor": "Exec",
-            "eecs16a": "Senior Mentor"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "soohyuk.cho@berkeley.edu.jpg"
-    },
-    {
-        "name": "Suchir Agarwal",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "imgUrl": "suchiragarwal@berkeley.edu.png"
-    },
-    {
-        "name": "Vy Ho",
-        "courses": {
-            "advisor": "Exec"
-        },
-        "pronouns": "she/jer",
-        "imgUrl": "vyho@berkeley.edu.jpg"
-    },
-    {
-        "name": "Angie Baik",
-        "courses": {
-            "communicationschair": "Exec"
-        },
-        "pronouns": "she/her/hers",
-        "imgUrl": "23angieb@berkeley.edu.JPG"
-    },
-    {
         "name": "Ethan Stone",
         "courses": {
             "cs61a": "Associate Mentor"
@@ -445,20 +363,6 @@
         },
         "pronouns": "she/her",
         "imgUrl": "y.han@berkeley.edu"
-    },
-    {
-        "name": "Apollo Loh",
-        "courses": {
-            "cs61aco-ord": "Exec"
-        }
-    },
-    {
-        "name": "Steven Luo",
-        "courses": {
-            "cs61aco-ord": "Exec"
-        },
-        "imgUrl": "sfluo@berkeley.edu.jpeg",
-        "details": "Hey everyone! My name is Steven, and I\u2019m a third-year studying CS, DS, and Public Policy. I love music (especially classical), cats, dogs, bullet journaling, and baking. This year I\u2019m reading a book every week \u2014 would appreciate new recommendations :)"
     },
     {
         "name": "Alex Chang",
@@ -847,22 +751,6 @@
         "imgUrl": "vjchen2003@berkeley.edu.png"
     },
     {
-        "name": "Carolyn Liu",
-        "courses": {
-            "cs61bco-ord": "Exec"
-        },
-        "imgUrl": "caliu@berkeley.edu",
-        "details": "hi :p"
-    },
-    {
-        "name": "Prisha Singh",
-        "courses": {
-            "cs61bco-ord": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "prishasingh@berkeley.edu.JPG"
-    },
-    {
         "name": "Alfonso Portilla",
         "courses": {
             "cs61c": "Junior Mentor"
@@ -1007,23 +895,6 @@
         "imgUrl": "rohanb@berkeley.edu.jpg",
         "pronouns": "he/him",
         "details": "Hello! I'm Rohan, a sophomore from Fremont studying CS and Cognitive Science! I love teaching and I'm super excited to have a fun time this semester! :)\n"
-    },
-    {
-        "name": "Richard Yu",
-        "courses": {
-            "cs61cco-ord": "Exec"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "richardyu@berkeley.edu.jpeg"
-    },
-    {
-        "name": "Shashwat Bansal",
-        "courses": {
-            "cs61cco-ord": "Exec"
-        },
-        "pronouns": "He/him",
-        "imgUrl": "shashwat@berkeley.edu.JPG",
-        "details": "Hello, I am Shashwat Bansal, a CS/DS/Math/Econ major from New Delhi. My favorite videogame is probably osugame. This semester, I am 1/2 of the 61Coordinators."
     },
     {
         "name": "Tejasv Bhatia",
@@ -1185,22 +1056,6 @@
         },
         "pronouns": "he/him",
         "imgUrl": "thanhctran@berkeley.edu.heic"
-    },
-    {
-        "name": "Eric Du",
-        "courses": {
-            "cs70co-ord": "Exec"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "eric.du03@berkeley.edu.jpg"
-    },
-    {
-        "name": "Grant Zhao",
-        "courses": {
-            "cs70co-ord": "Exec"
-        },
-        "pronouns": "He/Him/His",
-        "imgUrl": "gz220310@berkeley.edu.jpg"
     },
     {
         "name": "Caleigh Deyer",
@@ -1447,30 +1302,6 @@
         "imgUrl": "#N/A"
     },
     {
-        "name": "Mohamed Ganda",
-        "courses": {
-            "cs88co-ord": "Exec"
-        },
-        "pronouns": "He/Him",
-        "imgUrl": "mohamedganda166@berkeley.edu"
-    },
-    {
-        "name": "Ramya Chitturi",
-        "courses": {
-            "cs88co-ord": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "ramya.chitturi@berkeley.edu.png"
-    },
-    {
-        "name": "Divya Sundar",
-        "courses": {
-            "de&ichair": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "divya.sundar@berkeley.edu.jpg"
-    },
-    {
         "name": "Alok Thakrar",
         "courses": {
             "eecs16a": "Content Mentor"
@@ -1612,20 +1443,13 @@
         "imgUrl": "#N/A"
     },
     {
-        "name": "Jaimyn Drake",
+        "name": "SooHyuk Cho",
         "courses": {
-            "eecs16aco-ord": "Exec"
+            "eecs16a": "Senior Mentor",
+            "advisor": "Exec"
         },
         "pronouns": "he/him",
-        "imgUrl": "jaimyndrake@berkeley.edu.jpg"
-    },
-    {
-        "name": "Teja Kanthamneni",
-        "courses": {
-            "eecs16aco-ord": "Exec"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "tk164@berkeley.edu.jpg"
+        "imgUrl": "soohyuk.cho@berkeley.edu.jpg"
     },
     {
         "name": "Cecilia Sanjaya",
@@ -1704,21 +1528,6 @@
         "imgUrl": "maxphillips@berkeley.edu.jpeg"
     },
     {
-        "name": "Robert Zhang",
-        "courses": {
-            "eecs16bco-ord": "Exec"
-        },
-        "imgUrl": "robertrzhang@berkeley.edu"
-    },
-    {
-        "name": "Christine Zhang",
-        "courses": {
-            "evp": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "cyuzhang@berkeley.edu.jpg"
-    },
-    {
         "name": "Alex Li",
         "courses": {
             "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
@@ -1741,46 +1550,6 @@
         "courses": {
             "iamrejectingallpositionsthatididnotexplicitlyaccept": "Junior Mentor"
         }
-    },
-    {
-        "name": "Anya Agarwal",
-        "courses": {
-            "mediachair": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "anya.agarwal@berkeley.edu.jpg"
-    },
-    {
-        "name": "Gabe Classon",
-        "courses": {
-            "president": "Exec"
-        },
-        "pronouns": "he/him",
-        "imgUrl": "classon@berkeley.edu.jpg"
-    },
-    {
-        "name": "Alan Wang",
-        "courses": {
-            "socialschair": "Exec"
-        },
-        "pronouns": "He/Him",
-        "imgUrl": "awang18847@berkeley.edu.HEIC"
-    },
-    {
-        "name": "Elaine Shu",
-        "courses": {
-            "techchair": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "elaineshu@berkeley.edu.png"
-    },
-    {
-        "name": "Isabella Durante Alpert",
-        "courses": {
-            "techchair": "Exec"
-        },
-        "pronouns": "she/her",
-        "imgUrl": "isabella.alps@berkeley.edu.png"
     },
     {
         "name": "Anirudh Chaudhary",
