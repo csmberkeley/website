@@ -1,5 +1,5 @@
 const dutyDict: { [role: string]: string } = {
-    President:
+    "President":
         "Plans semester's organizational timeline and outreach efforts, leads exec meetings, works " +
         "jointly with other exec roles.",
     "Internal Vice President":
