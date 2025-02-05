@@ -16,13 +16,20 @@ the desired columns or filter any unwanted entries.
 
 import csv
 import json
+import os
 
 CURR_SEMESTER = "sp25" # CHANGE ME
 
-BIOS_PATH = "./csvs/bios.csv"
-ROSTER_PATH = "./csvs/roster.csv"
-DEST_PATH = "./src/data/bios/mentors.json"
-EXEC_ROLE_PATH = "./csvs/exec_roles.csv"
+BIOS_PATH = os.path.abspath("../csvs/bios.csv")
+ROSTER_PATH = os.path.abspath("../csvs/roster.csv")
+EXEC_ROLE_PATH = os.path.abspath("../csvs/exec_roles.csv")
+DEST_PATH = os.path.abspath("../src/data/bios/mentors.json")
+# IMG_DIR = os.path.abspath("../csvs/img/")  # Directory where images are stored
+
+# BIOS_PATH = "./csvs/bios.csv"
+# ROSTER_PATH = "./csvs/roster.csv"
+# DEST_PATH = "./src/data/bios/mentors.json"
+# EXEC_ROLE_PATH = "./csvs/exec_roles.csv"
 
 class Cols:
     """
@@ -74,6 +81,7 @@ def parse_bios(csv_path, master_roster_path):
     with open(master_roster_path) as f:
         reader = csv.reader(f)
         for row in reader:
+            print(row)
             name, email, role, preproc_course = row
             course = preproc_course.lower().replace(" ", "")
             email_no_dot = email.replace(".", "").lower().strip()
