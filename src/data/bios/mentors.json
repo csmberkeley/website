@@ -248,8 +248,8 @@
             "cs61a": "Senior Mentor",
             "cs61b": "Junior Mentor"
         },
-        "imgUrl": "egale@berkeley.edu.png",
         "pronouns": "He/Him",
+        "imgUrl": "egale@berkeley.edu.png",
         "details": "Hi, I\u2019m Ethan! I\u2019m in my second year studying EECS. I like to run and lift but in a chill way. On campus, you can always find me in VLSB vibing to music rather than locking in. I am currently in my crossword puzzle and classical music era, but I am very open to music recommendations. Cheers! :D"
     },
     {
@@ -290,8 +290,8 @@
         "courses": {
             "cs61a": "Senior Mentor"
         },
-        "pronouns": "she/her",
-        "imgUrl": "poojaagarwal@berkeley.edu.jpg"
+        "imgUrl": "poojaagarwal@berkeley.edu.jpg",
+        "pronouns": "she/her"
     },
     {
         "name": "Priya Venugopal",
@@ -412,7 +412,7 @@
         },
         "pronouns": "she/they",
         "imgUrl": "akanshajain@berkeley.edu.jpg",
-        "details": "hi! I'm a sophomore studying ds and cogsci :) I love yapping with my friends, music, matcha, wearing the same 3 colors, and reading (getting back into it!). I also love to cook, try new foods, and recreationally grocery shop. Super excited for this semester!"
+        "details": "hi"
     },
     {
         "name": "Alex Wang",
@@ -446,8 +446,8 @@
         "courses": {
             "cs61b": "Junior Mentor"
         },
-        "pronouns": "she/her",
         "imgUrl": "bpeddi@berkeley.edu.jpg",
+        "pronouns": "she/her",
         "details": "Hey! I'm Bhavita and I'm a second-year studying EECS from the Bay! I love art, exploring, and I'm also big matcha enthusiast! I really enjoyed taking 61B and look forward to teaching. So excited to meet you :)"
     },
     {
@@ -753,8 +753,8 @@
             "cs61c": "Junior Mentor",
             "eecs16a": "Content Mentor"
         },
-        "pronouns": "He/Him",
         "imgUrl": "huijae.an@berkeley.edu.PNG",
+        "pronouns": "He/Him",
         "details": "Hi! I'm Huijae (pronounced hee-jay), a 2nd year EECS major. I like to think of myself as a computer architecture explorer, a hardcore UFC fan, and an awful fisher. Excited to meet you all!"
     },
     {
@@ -1418,7 +1418,8 @@
             "eecs16a": "Senior Mentor"
         },
         "pronouns": "he/him",
-        "imgUrl": "soohyuk.cho@berkeley.edu.jpg"
+        "imgUrl": "soohyuk.cho@berkeley.edu.jpg",
+        "details": "Hi all! I\u2019m SooHyuk, a senior double majoring CS and DS from Seoul, South Korea. I'm a advisor and 16A SM advisor this semester :) I like playing the piano in my free time unless I\u2019m stuck in the library lol. Any recommendations for classical or new age piano pieces are always welcome!"
     },
     {
         "name": "Cecilia Sanjaya",

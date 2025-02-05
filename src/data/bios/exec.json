@@ -12,7 +12,7 @@
         "role": "Advisor",
         "imgUrl": "alyssa.427@berkeley.edu.jpg",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hiya! I\u2019m a fourth-year CS + DS major from Seattle, and this is my third time on exec, first as an advisor! I love JRPGs, midwest emo/indie rock, and trying to get under 10 seconds on the NYT Mini crossword :3 Feel free to reach out anytime!",
         "webUrl": ""
     },
     {
@@ -20,7 +20,7 @@
         "role": "Advisor",
         "imgUrl": "achen9734@berkeley.edu.jpeg",
         "pronouns": "he/him",
-        "details": "",
+        "details": "I like CSM",
         "webUrl": ""
     },
     {
@@ -36,7 +36,7 @@
         "role": "Advisor",
         "imgUrl": "nehalsindhu@berkeley.edu.png",
         "pronouns": "",
-        "details": "",
+        "details": ":)",
         "webUrl": ""
     },
     {
@@ -44,7 +44,7 @@
         "role": "Advisor",
         "imgUrl": "sagarwal2@berkeley.edu.JPG",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hey! I'm Saloni a senior from Colorado. I love to paint, hike, play boardgames, and binge sitcoms. CSM has been an amazing part of my undergrad experience and I cannot wait to meet you all :)",
         "webUrl": ""
     },
     {
@@ -60,7 +60,7 @@
         "role": "Advisor",
         "imgUrl": "suchiragarwal@berkeley.edu.png",
         "pronouns": "",
-        "details": "",
+        "details": "Hi! I\u2019m Suchir, a 4th year math and CS major. I hail from Pennsylvania, am an avid classical music enthusiast, and enjoy my time in CSM (best club on campus!). Have a lovely day.",
         "webUrl": ""
     },
     {
@@ -68,7 +68,7 @@
         "role": "Advisor",
         "imgUrl": "vyho@berkeley.edu.jpg",
         "pronouns": "she/jer",
-        "details": "",
+        "details": "Hey y'all, I'm Viv. I've been in CSM for about 4 semesters now. I like food, I like hiking, I like sleeping. Chat with me about anything and I'll likely talk a lot with you.",
         "webUrl": ""
     },
     {
@@ -76,13 +76,16 @@
         "role": "Communications Chair",
         "imgUrl": "23angieb@berkeley.edu.JPG",
         "pronouns": "she/her/hers",
-        "details": "",
+        "details": "Hi!!! I\u2019m Angie and I\u2019m a sophomore studying CS and Math. I\u2019m from SoCal and love watching  TV shows while making crafts. Baking is a hobby I\u2019m trying to bring back. I love going out on spontaneous trips while also staying in at home :)",
         "webUrl": ""
     },
     {
         "name": "Apollo Loh",
         "role": "CS 61A Co-ord",
-        "imgUrl": ""
+        "imgUrl": "",
+        "pronouns": "he/him/his",
+        "details": "Hi there! I'm Apollo, and I'm a junior studying EECS & Philosophy from Singapore. I've been on the hunt for the best ramen around Berkeley and really enjoy hiking the fire trails. Feel free to reach about transitioning to college life or just about anything!",
+        "webUrl": ""
     },
     {
         "name": "Steven Luo",
@@ -105,7 +108,7 @@
         "role": "CS 61B Co-ord",
         "imgUrl": "prishasingh@berkeley.edu.JPG",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hi! I'm a junior studying CS and Physics and I've been a part of CSM for 4 semesters now and this is my first time being a co-ord. 61B is my favorite class at Berkeley and I'm so excited to help our mentors help you find a bit of joy in the course content!",
         "webUrl": ""
     },
     {
@@ -113,7 +116,7 @@
         "role": "CS 61C Co-ord",
         "imgUrl": "richardyu@berkeley.edu.jpeg",
         "pronouns": "he/him",
-        "details": "",
+        "details": "hey!",
         "webUrl": ""
     },
     {
@@ -129,7 +132,7 @@
         "role": "CS 70 Co-ord",
         "imgUrl": "eric.du03@berkeley.edu.jpg",
         "pronouns": "he/him",
-        "details": "",
+        "details": "Hi! I'm a CS + Physics double major who likes to play badminton and listen to classical music. Hot take: Rach 3 > 2.",
         "webUrl": ""
     },
     {
@@ -137,7 +140,7 @@
         "role": "CS 70 Co-ord",
         "imgUrl": "gz220310@berkeley.edu.jpg",
         "pronouns": "He/Him/His",
-        "details": "",
+        "details": "Hi everyone! This is my 6th semester in CSM and I can't wait to work as the new CS70 Coordinator!  I love reading novels and playing mobile games. I am very interested in the new Kura Sushi restaurant that is about to open in downtown Berkeley!",
         "webUrl": ""
     },
     {
@@ -145,7 +148,7 @@
         "role": "CS 88 Co-ord",
         "imgUrl": "mohamedganda166@berkeley.edu",
         "pronouns": "He/Him",
-        "details": "",
+        "details": "Hey everyone! I hope you had an amazing break, im one of the coords for 88 and the two main sports I watch are F1 and futbol.",
         "webUrl": ""
     },
     {
@@ -153,7 +156,7 @@
         "role": "CS 88 Co-ord",
         "imgUrl": "ramya.chitturi@berkeley.edu.png",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hi! I'm Ramya, a senior majoring in CS and linguistics. I enjoy sci-fi/fantasy books, crosswords, rock/metal music, cats, museums, CSM, and more! Excited to get to know you this semester :)",
         "webUrl": ""
     },
     {
@@ -161,14 +164,14 @@
         "role": "DE&I Chair",
         "imgUrl": "divya.sundar@berkeley.edu.jpg",
         "pronouns": "she/her",
-        "details": "",
+        "details": "This is my fourth semester in CSM and my first semester on exec! I love playing indie games, watching other people play horror games, and drinking matcha from Mind \ud83d\ude0b I\u2019m trying to read more books this semester; hit me up with any recs!",
         "webUrl": ""
     },
     {
         "name": "Pooja Agarwal",
         "role": "DE&I Chair",
         "imgUrl": "poojaagarwal@berkeley.edu.jpg",
-        "pronouns": "",
+        "pronouns": "she/her",
         "details": "",
         "webUrl": ""
     },
@@ -177,7 +180,7 @@
         "role": "EECS 16A Co-ord",
         "imgUrl": "jaimyndrake@berkeley.edu.jpg",
         "pronouns": "he/him",
-        "details": "",
+        "details": "Hey guys! I'm a junior in EECS with a focus on robotics and machine learning. When I'm not doing homework, making homework, or procrastinating on related works research, I play Dragonvale, binge random video essays, and relish a good shower. Let's make this semester a great one!",
         "webUrl": ""
     },
     {
@@ -185,7 +188,7 @@
         "role": "EECS 16A Co-ord",
         "imgUrl": "tk164@berkeley.edu.jpg",
         "pronouns": "he/him",
-        "details": "",
+        "details": "Hey, my name is Teja and I'm a senior studying CS from Allentown, Pennsylvania! Some of my hobbies include basketball, hiking, anime, and video games.",
         "webUrl": ""
     },
     {
@@ -193,7 +196,7 @@
         "role": "EECS 16B Co-ord",
         "imgUrl": "robertrzhang@berkeley.edu",
         "pronouns": "",
-        "details": "",
+        "details": "I'm a 2nd year EECS major.",
         "webUrl": ""
     },
     {
@@ -201,7 +204,7 @@
         "role": "EVP",
         "imgUrl": "cyuzhang@berkeley.edu.jpg",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hi! I\u2019m a fourth-year EECS major and I like books, food, badminton, oversized sweaters, and wearing socks while sleeping. I love CSM :)",
         "webUrl": ""
     },
     {
@@ -209,7 +212,7 @@
         "role": "Media Chair",
         "imgUrl": "anya.agarwal@berkeley.edu.jpg",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hi! I\u2019m a fourth year studying computer science, and this is my fifth semester in CSM! I love exploring new coffee shops, reading, 3D modeling/animating, and cultivating my Stardew Valley farm. Feel free to reach out anytime with questions or just to chat :)",
         "webUrl": ""
     },
     {
@@ -217,7 +220,7 @@
         "role": "President",
         "imgUrl": "classon@berkeley.edu.jpg",
         "pronouns": "he/him",
-        "details": "",
+        "details": "Hi, my name is Gabe, and I'm super excited to be the President of CSM this semester! I'm a senior studying math and computer science from Palatine, Illinois. In 7 semesters of CSM, I've seen first-hand how core we are to Berkeley's amazing undergraduate teaching community. Let's teach and learn together :)",
         "webUrl": ""
     },
     {
@@ -225,7 +228,7 @@
         "role": "Socials Chair",
         "imgUrl": "awang18847@berkeley.edu.HEIC",
         "pronouns": "He/Him",
-        "details": "",
+        "details": "Hey peeps! I\u2019m Alan, and this will be my sixth semester as a part of CSM. I like music anywhere from kpop to rap and read a lot of manga. Recently I\u2019ve had a putrid hatred for my umbrella because it hasn\u2019t been doing enough to protect me from the rain.",
         "webUrl": ""
     },
     {
@@ -233,7 +236,7 @@
         "role": "Tech Chair",
         "imgUrl": "elaineshu@berkeley.edu.png",
         "pronouns": "she/her",
-        "details": "",
+        "details": "Hi! I'm Elaine and I'm one of the tech chairs. In my spare time, I enjoy playing tennis, reading, and taking care of my plants.",
         "webUrl": ""
     },
     {
@@ -241,7 +244,7 @@
         "role": "Tech Chair",
         "imgUrl": "isabella.alps@berkeley.edu.png",
         "pronouns": "she/her",
-        "details": "",
+        "details": "hi y'all :) super excited to be one of the two tech chairs this semester! feel free to hit me up if you're curious about CSM Tech or if you want to yap about matcha <3",
         "webUrl": ""
     }
 ]

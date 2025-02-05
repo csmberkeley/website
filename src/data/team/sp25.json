@@ -62,7 +62,8 @@
     {
         "name": "Apollo Loh",
         "imgUrl": "",
-        "position": "CS 61A Co-ord"
+        "position": "CS 61A Co-ord",
+        "pronouns": "he/him/his"
     },
     {
         "name": "Steven Luo",
@@ -128,7 +129,7 @@
         "name": "Pooja Agarwal",
         "imgUrl": "poojaagarwal@berkeley.edu.jpg",
         "position": "DE&I Chair",
-        "pronouns": ""
+        "pronouns": "she/her"
     },
     {
         "name": "Jaimyn Drake",
