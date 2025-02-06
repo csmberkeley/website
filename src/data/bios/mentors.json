@@ -247,7 +247,7 @@
         },
         "pronouns": "he/him",
         "details": "Hi! My name is Alex and I'm a second-year CS major from the bay area. Outside of class, I like drumming/playing music, and learning how to cook better. 61B is my favorite course and I'm excited for a great semester! Looking forward to meeting everyone!",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/file/d/1un26_F61TCUiQKXnPahxOdoOpeF6yygh",
         "webUrl": "https://alexwang.tech/"
     },
     {
@@ -458,7 +458,7 @@
             "cs61a": "Senior Mentor"
         },
         "pronouns": "",
-        "details": "",
+        "details": "Hi, I’m Ethan! I’m in my second year studying EECS. I like to run and lift but in a chill way. On campus, you can always find me in VLSB vibing to music rather than locking in. I am currently in my crossword puzzle and classical music er, but I am very open to music recommendations. Cheers! :D",
         "imgUrl": "https://drive.google.com/open?id=1vvwi5pxB0pjVEEUtCKmpsD7VdggiSF1X",
         "webUrl": ""
     },
@@ -530,7 +530,7 @@
         },
         "pronouns": "He/Him",
         "details": "Hi my name is Hjalmar, I am a senior year EECS major. I transferred to Berkeley from Foothill College. When I\u2019m not in school I\u2019m most likely watching or playing soccer \u26bd\ufe0f. ",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/file/d/1pt1wFR4TtcTlRAqnPQgZW4wBbZQNJOYe",
         "webUrl": ""
     },
     {
@@ -752,6 +752,16 @@
         "details": "Hey!! I'm Jyrel, a 1st year student studying CS. Excited to be helping out at CSM with 61A (loved the class so much!!). If I'm not busy, I love playing basketball and thinking of serious answers to the dumbest questions ever. Can't wait to get to know all of you!!",
         "imgUrl": "https://drive.google.com/open?id=1FeJA0c0LpGX88S5PqD9U3TaomrOLod9s",
         "webUrl": ""
+    },
+    {
+        "name": "Karen Meng",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! I’m Karen, a second-year EECS major from Davis. This is my first time mentoring for CSM, though I’ve been a CSM student for six(!) courses over the past three semesters. I’m also a tutor for CS 61B, but don’t ask me which class I like better… In my free time, I like listening to music (165k mins in 2024 - yikes?), going on Sharetea runs, scrolling through Ed, and thinking about CS 70 (or maybe not). Looking forward to a great semester!",
+        "imgUrl": "",
+        "webUrl": "https://www.youtube.com/watch?v=0tYFtgKfo6U&t=191s"
     },
     {
         "name": "Kat Cheng",
@@ -1060,7 +1070,7 @@
         },
         "pronouns": "she/her",
         "details": "Hi! I'm Shriyaa and I'm an EECS major! I've been an academic intern for CS 61B last semester and super excited to do CSM this semester! On campus other than CSM, I'm involved with AWE, RCSA, and CSM Tech! Outside of classes, I love to play tennis, swim, voice act, and dance so if you're ever interested in any of those, definitely feel free to reach out!",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/file/d/13LTmpSPCiorp0vLINHXwsnHazOf-9ZlS",
         "webUrl": ""
     },
     {
@@ -1191,6 +1201,16 @@
         "pronouns": "he/him",
         "details": "old(er)",
         "imgUrl": "https://drive.google.com/open?id=1Vbk2KJ1K0V5YVfH2pZ-NwuGrXF8APZ0h",
+        "webUrl": ""
+    },
+    {
+        "name": "Iris Zhou",
+        "courses": {
+            "cs88": "Senior Content Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "hii! i'm iris, a junior from san jose studying cs & astrophysics. this is my 3rd time as a senior mentor with cs 88! in my free time, i enjoy cafe hopping, skiing, thrifting, and (trying to) make my own matcha. looking forward to meeting everyone this semester :)",
+        "imgUrl": "https://drive.google.com/file/d/1JUPs0eMai6rvwpVNHY1g6yfRG6SaoAFe",
         "webUrl": ""
     },
     {
@@ -1671,7 +1691,7 @@
         },
         "pronouns": "she/her",
         "details": "Hi! My name is Michelle, I\u2019m currently a sophomore studying EECS from Lompoc, CA and am super excited to be an academic intern for 61B this semester! Outside of classes, I love listening to Taylor Swift and Noah Kahan, swimming, reading, journaling, and I\u2019ve been getting into rock climbing recently. Feel free to reach out about anything! :)",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/file/d/1qAXt9rjI1J-qTkI2WklCBsUmBucGUNtI/view?usp=drive_link",
         "webUrl": ""
     },
     {
@@ -1722,6 +1742,16 @@
         "pronouns": "",
         "details": "Hi! I'm a third year majoring in data science and history of art! When I'm not studying or hanging out with friends, I love to spend my time crocheting or visiting various art galleries and museums. When time allows I love getting into a good book, and I\u2019m always on the lookout for recommendations!",
         "imgUrl": "https://drive.google.com/open?id=15VQlzCG6IxVCX2I9XBjbQHpDzzXI1cKo",
+        "webUrl": ""
+    },
+    {
+        "name": "Pooja Agarwal",
+        "courses" : {
+            "cs61a" :"Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm Pooja, I'm a sophomore from the Bay studying Molecular and Cell Biology. This is my third semester in CSM, and I am DE&I chair and an SM for 61A! Outside of classes, I enjoy doing computational biology research, traveling, studying at new coffee shops, and watching Formula 1!",
+        "imgUrl": "https://drive.google.com/open?id=1mDPxr9szsq0bE12eRqEr-G0YmomHpzYi",
         "webUrl": ""
     },
     {
