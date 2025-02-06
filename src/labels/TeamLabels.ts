@@ -4,7 +4,11 @@ const dutyDict: { [role: string]: string } = {
         "jointly with other exec roles.",
     "Internal Vice President":
         "Acts as ASUC/ESC liasion, drafts CSM budget, in charge of fundraisers, branding, and marketing.",
+    "IVP":
+        "Acts as ASUC/ESC liasion, drafts CSM budget, in charge of fundraisers, branding, and marketing.",
     "External Vice President":
+        "Organizes outreach to companies, manages social media, also helps with branding and marketing.",
+    "EVP":
         "Organizes outreach to companies, manages social media, also helps with branding and marketing.",
     "Communications Chair":
         "Manages CSM email lists, drafts and sends feedback forms, newsletters, and emails, manages " +
@@ -35,6 +39,8 @@ export function duties(role: string): string {
     }
     if (role.includes("Coord")) {
         return dutyDict["Coord"];
+    } else if (role.includes("Co-ord")) {
+        return dutyDict["Coord"]
     }
     throw new Error(`Duty not found for exec role: ${role}`);
 }
