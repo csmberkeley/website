@@ -1777,10 +1777,11 @@
     {
         "name": "Rohan Bhagat",
         "courses": {
-            "cs61c": "Senior Mentor"
+            "cs61c": "Senior Mentor",
+            "cs61a": "Associate Mentor"
         },
         "pronouns": "",
-        "details": "",
+        "details": "Hello! I'm Rohan, a sophomore from Fremont studying CS and Cognitive Science! I love teaching and I'm super excited to have a fun time this semester! :)",
         "imgUrl": "https://drive.google.com/open?id=1CcOd_ukR3lbHR4tleDjiTYcbf6q_jKP1",
         "webUrl": ""
     },
