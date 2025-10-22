@@ -1,20 +1,146 @@
 [
-    {"name":"Angie Baik","role":"Communications Chair","imgUrl":"","pronouns":"","details":"","webUrl":""},
-    {"name":"Alvin Lin","role":"Media Chair","imgUrl":"https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy","pronouns":"","details":"🐿️ Hi friends! My name is Alvin and I'm a junior from the south bay area studying math and computer science. Things I enjoy include music, reading, tea, and gaming. I also love sandwiches, gym, and the colour green and you can find me awake at diabolically late hours. Feel free to reach out and chat :))","webUrl":"https://open.spotify.com/playlist/0Z4SoXgwNIgXZNIkqMnb0i?si=cc5c98b297994940"},
-    {"name":"Chrys Thomas","role":"DE&I Chair","imgUrl":"https://drive.google.com/open?id=1ioJp9kpmfbDqZseMwC9Glq214YqaTYhS&usp=drive_copy","pronouns":"He/Him","details":"Hi! I like food, animals, and Minecraft! But mostly food. Run up to me and say hello if you see me I’ll give you a bajillion dollars! ","webUrl":""},
-    {"name":"Dhruva Bhagwat","role":"CS 88 Co-ord","imgUrl":"","pronouns":"he/him","details":"Hey everyone! I'm Dhruva and I'm a junior studying Applied Math & Data Science. I like playing chess, poker, running and watching basketball & TV shows. I love Japanese & Italian food (especially ramen & pasta), and enjoy nighttime walks. ","webUrl":""},
-    {"name":"Ella Hammond","role":"CS 88 Co-ord","imgUrl":"https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy","pronouns":"","details":"Hi all! Excited to be a coordinator for 88 this semester. ","webUrl":""},
-    {"name":"Jia Jun Luo","role":"CS 70 Co-ord","imgUrl":"https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy","pronouns":"he/him","details":"Hello! I'm Jia Jun, and I am a 4th year Computer Science, Data Science, and Philosophy major! This is my 4th semester on CSM and first semester as a 70 coord :). I play flute and piccolo, and you'll see me performing in Cal Band!","webUrl":""},
-    {"name":"Lenci Ni","role":"Communications Chair","imgUrl":"","pronouns":"","details":"","webUrl":""},
-    {"name":"Mallika Agrawal","role":"EECS 16A Co-ord","imgUrl":"https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy","pronouns":"she/her/hers","details":"Hi everyone! My name is Mallika, and I'm a 3rd-year EECS major from the Bay Area. I love baking, going to the gym, knitting, and trying new cuisines.","webUrl":""},
-    {"name":"Paulina A.","role":"CS 61A Co-ord","imgUrl":"https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy","pronouns":"she/her","details":"Hello! I'm Paulina, your CSM 61A coord. I love all kinds of music (opium, country, indie, rap, classical) and cafes. Ask me for my cafe tierlist! This semester I'm trying to go outside more and become the GOAT at volleyball. :p ","webUrl":""},
-    {"name":"Pooja Agarwal","role":"CS 61A Co-ord","imgUrl":"https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy","pronouns":"she/her","details":":D","webUrl":""},
-    {"name":"Richard Yu","role":"Advisor","imgUrl":"https://drive.google.com/open?id=1IthxjvXxYnc_xM5JqITK_Xxoa0Vi4dou&usp=drive_copy","pronouns":"","details":"i love csm","webUrl":""},
-    {"name":"Robert Tian","role":"CS 61B Co-ord","imgUrl":"https://drive.google.com/open?id=1QitsWUMoiGsSWrQHYAv6Ld98xLiZF2Qz&usp=drive_copy","pronouns":"he/him/his","details":"csm is cool","webUrl":""},
-    {"name":"Robert Zhang","role":"EECS 16B Co-ord","imgUrl":"https://drive.google.com/open?id=1y4S1gq2h2sS4Lzy2iFTlG64UrDVmbIuH&usp=drive_copy","pronouns":"","details":"Hello! I’m a 3rd year EECS major! Outside of school, I like to run, go to the gym, and watch football :)","webUrl":""},
-    {"name":"Shashwat Bansal","role":"CS 61C Co-ord","imgUrl":"https://drive.google.com/open?id=1lvi_VAoo4dyitSSb_vE9_d4HubmBgnPj&usp=drive_copy","pronouns":"","details":"Hello, I am Shashwat Bansal, a 61Coord for Fall 2025! In the past, I have had the opportunities to be on course staff for Data 100 and CS 168. I am also teaching Data 101 this semester.","webUrl":"https://github.com/shashwatbansal1/"},
-    {"name":"Alex Um","role":"CS 61C Co-ord","imgUrl":"","pronouns":"He/Him","details":"erm ackshually ☝️","webUrl":""},
-    {"name":"Thanh Tran","role":"CS 70 Co-ord","imgUrl":"https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy","pronouns":"he/him","details":"Hey, I’m Thanh! I’m a senior from Boston studying computer science and applied math. Big fan of video editing, word games (esp word hunt), fb marketplace, and all types of outdoorsy activities. Looking forward to a fun semester with y’all! ◡̈","webUrl":""},
-    {"name":"Viviana Tran","role":"President","imgUrl":"https://drive.google.com/open?id=1uYN6AsqnuDd-5i4apU5fhI4y2A8wbPIT&usp=drive_copy","pronouns":"She/Her","details":"Hi! I’m Viv, this is my 5th semester in CSM and I’m excited to be able to connect with you all. I love bonding through food, running, and admiring every dog I see. On weekends, catch me running and exploring  Berkeley's food scene (favorites: Zachary's Pizza / Vins Chaat).","webUrl":""},
-    {"name": "Gabriel Han", "role": "Tech Chair", "imgUrl": "", "pronouns": "he/him", "details": "Hi there", "webUrl": ""}
+    {
+        "name": "Angie Baik",
+        "role": "Communications Chair",
+        "imgUrl": "",
+        "pronouns": "",
+        "details": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Alvin Lin",
+        "role": "Media Chair",
+        "imgUrl": "https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy",
+        "pronouns": "",
+        "details": "🐿️ Hi friends! My name is Alvin and I'm a junior from the south bay area studying math and computer science. Things I enjoy include music, reading, tea, and gaming. I also love sandwiches, gym, and the colour green and you can find me awake at diabolically late hours. Feel free to reach out and chat :))",
+        "webUrl": "https://open.spotify.com/playlist/0Z4SoXgwNIgXZNIkqMnb0i?si=cc5c98b297994940"
+    },
+    {
+        "name": "Chrys Thomas",
+        "role": "DE&I Chair",
+        "imgUrl": "https://drive.google.com/open?id=1ioJp9kpmfbDqZseMwC9Glq214YqaTYhS&usp=drive_copy",
+        "pronouns": "He/Him",
+        "details": "Hi! I like food, animals, and Minecraft! But mostly food. Run up to me and say hello if you see me I’ll give you a bajillion dollars! ",
+        "webUrl": ""
+    },
+    {
+        "name": "Dhruva Bhagwat",
+        "role": "CS 88 Co-ord",
+        "imgUrl": "",
+        "pronouns": "he/him",
+        "details": "Hey everyone! I'm Dhruva and I'm a junior studying Applied Math & Data Science. I like playing chess, poker, running and watching basketball & TV shows. I love Japanese & Italian food (especially ramen & pasta), and enjoy nighttime walks. ",
+        "webUrl": ""
+    },
+    {
+        "name": "Ella Hammond",
+        "role": "CS 88 Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
+        "pronouns": "",
+        "details": "Hi all! Excited to be a coordinator for 88 this semester. ",
+        "webUrl": ""
+    },
+    {
+        "name": "Jia Jun Luo",
+        "role": "CS 70 Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
+        "pronouns": "he/him",
+        "details": "Hello! I'm Jia Jun, and I am a 4th year Computer Science, Data Science, and Philosophy major! This is my 4th semester on CSM and first semester as a 70 coord :). I play flute and piccolo, and you'll see me performing in Cal Band!",
+        "webUrl": ""
+    },
+    {
+        "name": "Lenci Ni",
+        "role": "Communications Chair",
+        "imgUrl": "",
+        "pronouns": "",
+        "details": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Mallika Agrawal",
+        "role": "EECS 16A Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
+        "pronouns": "she/her/hers",
+        "details": "Hi everyone! My name is Mallika, and I'm a 3rd-year EECS major from the Bay Area. I love baking, going to the gym, knitting, and trying new cuisines.",
+        "webUrl": ""
+    },
+    {
+        "name": "Paulina A.",
+        "role": "CS 61A Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy",
+        "pronouns": "she/her",
+        "details": "Hello! I'm Paulina, your CSM 61A coord. I love all kinds of music (opium, country, indie, rap, classical) and cafes. Ask me for my cafe tierlist! This semester I'm trying to go outside more and become the GOAT at volleyball. :p ",
+        "webUrl": ""
+    },
+    {
+        "name": "Pooja Agarwal",
+        "role": "CS 61A Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy",
+        "pronouns": "she/her",
+        "details": ":D",
+        "webUrl": ""
+    },
+    {
+        "name": "Richard Yu",
+        "role": "Advisor",
+        "imgUrl": "https://drive.google.com/open?id=1IthxjvXxYnc_xM5JqITK_Xxoa0Vi4dou&usp=drive_copy",
+        "pronouns": "",
+        "details": "i love csm",
+        "webUrl": ""
+    },
+    {
+        "name": "Robert Tian",
+        "role": "CS 61B Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1QitsWUMoiGsSWrQHYAv6Ld98xLiZF2Qz&usp=drive_copy",
+        "pronouns": "he/him/his",
+        "details": "csm is cool",
+        "webUrl": ""
+    },
+    {
+        "name": "Robert Zhang",
+        "role": "EECS 16B Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1y4S1gq2h2sS4Lzy2iFTlG64UrDVmbIuH&usp=drive_copy",
+        "pronouns": "",
+        "details": "Hello! I’m a 3rd year EECS major! Outside of school, I like to run, go to the gym, and watch football :)",
+        "webUrl": ""
+    },
+    {
+        "name": "Shashwat Bansal",
+        "role": "CS 61C Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1lvi_VAoo4dyitSSb_vE9_d4HubmBgnPj&usp=drive_copy",
+        "pronouns": "",
+        "details": "Hello, I am Shashwat Bansal, a 61Coord for Fall 2025! In the past, I have had the opportunities to be on course staff for Data 100 and CS 168. I am also teaching Data 101 this semester.",
+        "webUrl": "https://github.com/shashwatbansal1/"
+    },
+    {
+        "name": "Alex Um",
+        "role": "CS 61C Co-ord",
+        "imgUrl": "",
+        "pronouns": "He/Him",
+        "details": "erm ackshually ☝️",
+        "webUrl": ""
+    },
+    {
+        "name": "Thanh Tran",
+        "role": "CS 70 Co-ord",
+        "imgUrl": "https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy",
+        "pronouns": "he/him",
+        "details": "Hey, I’m Thanh! I’m a senior from Boston studying computer science and applied math. Big fan of video editing, word games (esp word hunt), fb marketplace, and all types of outdoorsy activities. Looking forward to a fun semester with y’all! ◡̈",
+        "webUrl": ""
+    },
+    {
+        "name": "Viviana Tran",
+        "role": "President",
+        "imgUrl": "https://drive.google.com/open?id=1uYN6AsqnuDd-5i4apU5fhI4y2A8wbPIT&usp=drive_copy",
+        "pronouns": "She/Her",
+        "details": "Hi! I’m Viv, this is my 5th semester in CSM and I’m excited to be able to connect with you all. I love bonding through food, running, and admiring every dog I see. On weekends, catch me running and exploring  Berkeley's food scene (favorites: Zachary's Pizza / Vins Chaat).",
+        "webUrl": ""
+    },
+    {
+        "name": "Gabriel Han",
+        "role": "Tech Chair",
+        "imgUrl": "",
+        "pronouns": "he/him",
+        "details": "Hi there",
+        "webUrl": ""
+    }
 ]

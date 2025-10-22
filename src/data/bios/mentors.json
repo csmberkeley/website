@@ -1,150 +1,1312 @@
 [
-    {"name":"Dan Wu","courses":{"cs61a":"Junior Mentor"},"pronouns":"he/him","details":"Hey, I’m Dan! I’m someone who loves exploring new ideas, meeting interesting people, and finding creative ways to challenge myself. I’m curious by nature, and I enjoy diving into projects or experiences that push me out of my comfort zone. Whether it’s picking up a new skill, trying something I’ve never done before, or collaborating with others on a meaningful goal, I like staying active and engaged with the world around me.\n\nWhen I’m not working on something new, I’m usually balancing life with a few favorite hobbies. I love photography because it’s a way to slow down and capture little moments that most people walk right past. I’m also into basketball — both playing and watching — since it keeps me energized and sharp. Music is another big part of my life. My playlists range from Kendrick Lamar and Tyler, the Creator to Joji, Glass Animals, and a lot of chill lo-fi beats when I want to relax.\n\nSundays are my reset button. Sometimes that means catching up with friends over coffee, sometimes it’s hitting the gym, and other times it’s just taking a walk and listening to music. Food also plays a big role in how I spend my downtime. Berkeley has some amazing spots, but if I had to pick a go-to, it’s Sliver Pizza — perfect every single time.\n\nI’ve also been part of different clubs and organizations on campus, especially ones centered around creativity, teamwork, and community. These experiences gave me the chance to meet people from different backgrounds, learn new perspectives, and contribute to projects that actually meant something. I like being around motivated people and believe that’s the best way to grow and have fun at the same time.","imgUrl":"https://drive.google.com/open?id=1PaP7tZa9CVfD9qaUMtZWvO47Qbwv-Lxa&usp=drive_copy","webUrl":""},
-
-    {"name":"Abinav Rao","courses":{"cs61a":"Junior Mentor"},"pronouns":"","details":"","imgUrl":"","webUrl":""},
-    {"name":"Adelina Chau","courses":{"eecs16a":"Junior Mentor"},"pronouns":"She/Her","details":"Hi! My name is Adelina and I'm a second year studying EECS & Business. Outside of classes, you may find me dancing, trying new cafes and matcha places, or jamming out to some feel good Indie pop. Can’t wait to meet you soon!","imgUrl":"https://drive.google.com/open?id=1M_juk1xaXC8XqvtTjMCQhXTIad8z01px&usp=drive_copy","webUrl":""},
-    {"name":"Adit Chintamaneni ","courses":{"cs61c":"Junior Mentor"},"pronouns":"he/him","details":"Hi everyone! My name is Adit and I'm a second year. Some of my hobbies include cycling, tennis, and watching football. Looking forward to seeing you all in section!","imgUrl":"","webUrl":""},
-    {"name":"Ansel Flores","courses":{"cs61c":"Junior Mentor"},"pronouns":"he/him/his","details":"Hi :7! I entered Berkeley CS with no experience and ended falling in love with 61C and I hope I can make you love it as well! I also love making music, talking about music, playing video games, and Taco Bell. Shout out to Golden Records, ANova, and PASS! ","imgUrl":"https://drive.google.com/open?id=1FJ43_BcKiJe85DC2Bge5uD36ML0vhv5N&usp=drive_copy","webUrl":""},
-    {"name":"Alex Wang","courses":{"cs61b":"Senior Mentor"},"pronouns":"","details":"Hi! I'm a third-year CS major from the Bay Area. Outside of class, I like drumming, playing music, and learning how to cook better. I'm here to help folks have a great semester—looking forward to meeting you!","imgUrl":"https://drive.google.com/open?id=1QSFzMD_I5iuYIqo67el6QhP6evw0jxQ0&usp=drive_copy","webUrl":"https://alexwang.tech/"},
-    {"name":"Alicia Gullon","courses":{"cs61a":"Senior Mentor"},"pronouns":"she/they","details":"Hi! I'm Alicia, I'm a senior studying CS and CogSci! I love all things martial arts (cal judo :D), and as for music I listen to a lot of alternative pop (Dominic Fike, The Marias). Looking forward to meeting y'all, feel free to email me with any questions or to chat!","imgUrl":"https://drive.google.com/open?id=1Z6R-a5H_2vrY8Q6fqX74Ba7iDLaFljCe&usp=drive_copy","webUrl":""},
-    {"name":"Allison Yen","courses":{"cs61b":"Junior Mentor"},"pronouns":"she/her","details":"Hi! I’m a sophomore studying data science. I love exploring new food spots, grabbing boba with friends, and listening to music in my free time.","imgUrl":"https://drive.google.com/open?id=1Gsd0sXxhE1Byh0mfzz1cPtyWPlHeVoj2&usp=drive_copy","webUrl":""},
-
-    {"name":"Alvin Lin","courses":{"cs61a":"Senior Mentor"},"pronouns":"","details":"","imgUrl":"https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy","webUrl":""},
-    {"name":"Amith Vasantha","courses":{"cs61a":"Junior Mentor"},"pronouns":"he/him","details":"Hey all! I'm a junior in ECE and DS -- I took CS 61A in the summer and I'm excited to be a JM for CS 61A this semester! Feel free to reach out if you have any questions!","imgUrl":"https://drive.google.com/open?id=17SnNu_RRYYSfcUO4-t9aV20HEcF14qp1&usp=drive_copy","webUrl":""},
-    {"name":"Zixian(Amy) Li","courses":{"cs61a":"Senior Mentor"},"pronouns":"","details":"; )","imgUrl":"https://drive.google.com/open?id=1QrsY5zH33X1YJ5sRFvg-uogVpTXCJEkh&usp=drive_copy","webUrl":""},
-    {"name":"Anaisha Das","courses":{"cs61b":"Junior Mentor"},"pronouns":"","details":"hi! im anaisha and am a sophomore studying EECS! i like food, sitcoms and side quests! excited for a good semester :D","imgUrl":"","webUrl":""},
-    {"name":"Andrew Xu","courses":{"cs61b":"Content Mentor"},"pronouns":"","details":"Hi! I’m Andrew. I’m a second year studying CS. I enjoy playing basketball. Excited to meet yall.","imgUrl":"https://drive.google.com/open?id=1kd9R0j3DsM0DvVcfd4R1EsWv29QXzRfa&usp=drive_copy","webUrl":""},
-    {"name":"Anirudh Suresh","courses":{"cs61b":"Senior Content Mentor"},"pronouns":"He/Him","details":"Hi! I’m a senior majoring in CS and Economics. This is my fifth semester in CSM and my fourth semester as a content mentor. I enjoy board games, crosswords and reading in my free time. Looking forward to a great semester!","imgUrl":"","webUrl":""},
-    {"name":"Aniruthan Ravisankar","courses":{"cs88":"Junior Mentor"},"pronouns":"he/him","details":"Hey everyone! I'm Aniruthan, a second year majoring in Data Science with an interest in Cognitive Science and Economics. In my free time, I play/watch sports and working out. In the past, I've worked as a STEM and basketball coach, and i'm excited to begin aiding students with C88C topics!","imgUrl":"https://drive.google.com/open?id=1b0DC5E-v3nCyGgDDBtyr0PdGrR5h3dOT&usp=drive_copy","webUrl":""},
-    {"name":"Annie Zhang","courses":{"eecs16a":"Content Mentor"},"pronouns":"she/her","details":"Hey everyone! :D I'm Annie, a junior studying eecs and I'm also in Launchpad! If I'm not studying, I enjoy going to the gym, spending time with friends, and watching anime (I love spy x family). I also really love listening to Taylor Swift and Cpop music a lot. \n\nExcited to meet you all!","imgUrl":"https://drive.google.com/open?id=1tZhDW1Y3vMSmvI9D5zsH9jDg3ACPcr5D&usp=drive_copy","webUrl":""},
-    {"name":"Ansh Thakkar","courses":{"eecs16b":"Junior Mentor"},"pronouns":"","details":"Sophomore in EECS; I play tennis and basketball (Dallas Mavericks fan), and I love listening to music (even country)","imgUrl":"https://drive.google.com/open?id=1iIqMRssKYYvSGhV3jfqo7PBythWCYbmf&usp=drive_copy","webUrl":""},
-    {"name":"Anthony Tafoya ","courses":{"cs61c":"Junior Mentor"},"pronouns":"He/Him","details":"Hi! My name is Anthony Tafoya and I am from Temecula, California. I am senior studying EECS. Excited to convince others that C is the best language!","imgUrl":"https://drive.google.com/open?id=1ZQSshkTEeVlGtjxncuJ8W4WZZkcUR-2b&usp=drive_copy","webUrl":""},
-    {"name":"Alok Thakrar","courses":{"eecs16a":"Senior Content Mentor"},"pronouns":"he/him","details":"senior chipotle mentor","imgUrl":"","webUrl":"alokthakrar.github.io"},
-    {"name":"Averi Luo","courses":{"cs61a":"Junior Mentor"},"pronouns":"","details":"Hello, my name is Averi and I am currently a second year! I enjoy doing crafts such as crocheting or building miniature doll houses. My favorite restaurant in Berkeley is Zhangliang Malatang :)","imgUrl":"","webUrl":""},
-    {"name":"Andy Yang","courses":{"cs61b":"Junior Mentor"},"pronouns":"he/him","details":"Hi, I'm Andy, and I'm a junior studying EECS from Redmond Washington. I like swimming, tennis, Radiohead, and doom scrolling on my bed. Super excited for this semester!","imgUrl":"https://drive.google.com/open?id=1diezXrhFoT5v8-0DakSglznfY7pRmO4r&usp=drive_copy","webUrl":""},
-    {"name":"Bella De Vita","courses":{"cs61a":"Junior Mentor"},"pronouns":"she/her","details":"Hey! I’m Bella, and I’m a sophomore! I love dancing, drawing mike wazowski, and debating whether M is an upside down W or W is an upside down M. I’m interested in lots of things, like philosophy, cs, and cogsci! Reach out to talk about anything and everything, I’d love to get to know you all! :)","imgUrl":"https://drive.google.com/open?id=1w7OyUafqJfzAwP1V9jdzKOTw9YIyX3T_&usp=drive_copy","webUrl":""},
-    {"name":"William Xu","courses":{"cs61a":"Junior Mentor"},"pronouns":"","details":"Hi! I'm a current Sophomore at UC Berkeley and I'm interested in most sports (especially ping pong), poker, fantasy sports, and catan.","imgUrl":"https://drive.google.com/open?id=1H8HnGN0dfQ1YcEIm4kQIsWd8zh7IfB8p&usp=drive_copy","webUrl":""},
-    {"name":"Cathy Sheng","courses":{"cs61b":"Junior Mentor"},"pronouns":"","details":"Hi guys!!!! I'm Cathy Sheng, sophomore studying EECS. I'm from Palo Alto, south bay area, let me know if you are also from the bay. I love research, nlp, cv, and ai safety/ethics! I'm a big bookworm, matcha over coffee person, Swiftie, and outdoors person. ","imgUrl":"https://drive.google.com/open?id=1hVUMxZNHCQG5n9g7f9dZab94Rbszz49t&usp=drive_copy","webUrl":"https://www.linkedin.com/in/cathy-sheng"},
-    {"name":"Cecilia Sanjaya","courses":{"eecs16b":"Senior Mentor"},"pronouns":"she/her","details":"Hi! My name is Cecilia and I am a third year EECS. I’m from Indonesia but I moved to Irvine, CA in 6th grade. My hobbies include exploring new things and places, making new friends, doing adrenaline activities, going to concerts, and many more. I’m so excited to be in CSM this semester!","imgUrl":"","webUrl":""},
-    {"name":"Andy Chen","courses":{"cs61b":"Content Mentor"},"pronouns":"","details":"Hey everyone, I'm Andy a sophomore studying DS at Berkeley. I have some experience in ML and Software Engineering. In my free time I play basketball at RSF pretty much every day, explore the bay, and try new things. Currently I listen to a lot of Kendrick and Khalid and I'm looking forward to meeting all of you guys.","imgUrl":"https://drive.google.com/open?id=1qJ2OU8mmcuP_hI90rASA1AD-NHrEEVJV&usp=drive_copy","webUrl":""},
-    {"name":"Connor Lu","courses":{"cs61c":"Junior Mentor"},"pronouns":"he/him","details":"Hi everyone! I’m Connor, a rising sophomore in EECS from the Bay Area. I enjoy building computers, cooking, and video games. My academic interests are computer architecture/VLSI and systems. I'm involved with the IEEE student branch and I’m excited to meet everyone! Feel free to reach out and chat with me about anything :)","imgUrl":"https://drive.google.com/open?id=1GsqIyrMNHt_uU0cu6msQwYM9urF_qT0G&usp=drive_copy","webUrl":""},
-    {"name":"Cris Dunn","courses":{"cs61a":"Content Mentor"},"pronouns":"He/Him","details":"Hi, I’m Cris, I’m a junior studying CS. Ive been a 61a JM and a 70 JM, but this is my first time being a content mentor. I like reading (2666!) and biking (Cal Tri!). Im here to help so reach out for whatever :)","imgUrl":"","webUrl":""},
-
-    {"name":"Derek Sun","courses":{"cs61a":"Junior Mentor"},"pronouns":"he/him","details":"Hi, I'm Derek from Shanghai. In my spare time I hoop and also doomscroll on reels. My personal goat is Lebron. 61A was one of the most rewarding classes I've taken at Berkeley, so looking forward to be a mentor this semester. ","imgUrl":"https://drive.google.com/open?id=1KUTFIxONS3aD_m6G1nOFtlNe4LKuJV99&usp=drive_copy","webUrl":"https://sunnidunni.github.io/"},
-
-    {"name":"Daniel Lin","courses":{"cs61b":"Junior Mentor"},"pronouns":"he/him","details":"Hi y'all, I'm Daniel, a 3rd year EECS major from Colorado. I love watching/playing soccer, singing, playing piano, gaming, and traveling. I loved taking 61B so I'm looking forward to teaching it!","imgUrl":"https://drive.google.com/open?id=1c8Ii-0FxMH5bcCs2h8ORgdYn0TWeShmS&usp=drive_copy","webUrl":""},
-    {"name":"Danny Ramos","courses":{"cs61a":"Junior Mentor"},"pronouns":"She/Her","details":"I'm a sophomore studying EECS. My favorite class so far was CS61A (took it last semester). On my free time, I knit, read poems, and do some amateur photography. Feel free to talk to me about whatever music you've been into! ^_^","imgUrl":"https://drive.google.com/open?id=14yJCti3Dlymz4iemVLgt9_pWwQ4b8XPn&usp=drive_copy","webUrl":""},
-    {"name":"Elaine Liu","courses":{"cs61b":"Junior Mentor"},"pronouns":"","details":"Hi! I'm a senior studying Environmental Sciences and Data Science. I started coding as a sophomore in college and now I can't stop! In my free time I make jewelry, play Stardew Valley and Minecraft, and organise my database of plant and bug photos. I’m also an artist for Atrium. Excited to meet you!","imgUrl":"https://drive.google.com/open?id=1o8XaN5ei4vU5M6XnypMEA7XhdHK8gjK7&usp=drive_copy","webUrl":""},
-    {"name":"Eric Liang","courses":{"eecs16a":"Senior Mentor"},"pronouns":"","details":"Hey everyone! I'm a third year from the Bay Area studying EECS. I've been enjoying playing pickleball and ping pong along with being on the everlasting hunt for great food in my free time. Looking forward to meet you all this semester :)","imgUrl":"https://drive.google.com/open?id=1SW8T6Fig7MvlD62yZBSLN51mkRPLiiaE&usp=drive_copy","webUrl":""},
-
-    {"name":"Esha Bansiya","courses":{"cs88":"Senior Content Mentor"},"pronouns":"she/her","details":"Hi! My name is Esha and I'm a sophmore studying Data Science and Public Policy! I took Data C88C last fall and am super excited to support students taking it this semester. My big three are SZA, Ariana Grande, and Sabrina Carpenter. I have been really getting into exploring Berkeley and all the cool nature places around!","imgUrl":"https://drive.google.com/open?id=1RZhP7gWFifjWDZqcoFCDVIdfsBTOshkF&usp=drive_copy","webUrl":""},
-    {"name":"Ethan Ngo","courses":{"cs61b":"Junior Mentor"},"pronouns":"he/him","details":"Hi everyone! I'm Ethan and I'm a fourth year studying EECS. I love everything music: listening, going to live events, and discovering new music genres/songs. Feel free to reach out for anything!","imgUrl":"https://drive.google.com/open?id=1FGUX7dMsugnJQsPiI_UE4L-oMMnlyGrB&usp=drive_copy","webUrl":""},
-    {"name":"Ethelyn Huang","courses":{"cs61a":"Associate Mentor"},"pronouns":"She/Her","details":"Hi, I'm Ethelyn and I'm really excited to be mentoring for 61A for my second semester! I really like music, mint chocolate, and dad jokes. I'm always down to check out new restaurants or another scenic spot, but my all time favourite place in Berkeley is Noodle Dynasty <3","imgUrl":"","webUrl":""},
-    {"name":"Felicity Matthews","courses":{"cs61c":"Junior Mentor"},"pronouns":"she/her","details":"What's up 61squad! I'm a junior from Torrance, CA. I love swimming and mezzo! Get ready for the best semester of you life in cs61CLASSY <3 I hope you all enjoy computer architecture as much as I did! CS61Cache you later!","imgUrl":"https://drive.google.com/open?id=1mOiT09kZkxfO47ySTB-y6BwT_L-n6onB&usp=drive_copy","webUrl":""},
-    {"name":"Gabriel Moreno","courses":{"cs88":"Junior Mentor"},"pronouns":"He/Him","details":"Hey!  I’m Gabe, a second-year EECS major, super excited to mentor for C88C!  I love Pokémon (Gen V!), adventure-era Sonic, sci-fi novels, vocaloid, and horror games.  I’m also happy to help newcomers to programming, since that was me when I came to Cal! ","imgUrl":"https://drive.google.com/open?id=1wFYQxI3TZCqOuSi94oeDU14ixkyiIEgR&usp=drive_copy","webUrl":""},
-    {"name":"Gautam Bhooma","courses":{"cs88":"Senior Mentor"},"pronouns":"","details":"","imgUrl":"","webUrl":""},
-    {"name":"Grant Liu","courses":{"eecs16b":"Junior Mentor"},"pronouns":"He/Him","details":"Hello! I'm Grant, and I'm from Shanghai, majoring in EECS. Feel free to talk to me about anything tech or car-related. I love them all.","imgUrl":"https://drive.google.com/open?id=17et6TT-ioB3iOKq2Z0wp1KGygw1Wgej6&usp=drive_copy","webUrl":""},
-    {"name":"Harshil Pathri","courses":{"cs70":"Junior Mentor"},"pronouns":"he/him","details":"Hi! I'm Harshil and I'm a sophomore majoring in EECS. This is my first semester teaching with CSM. In my free time, I love climbing, math, and playing video games. My favorite restaurant in Berkeley is either Artichoke's or Noodle Dynasty. I'm also a part of Formula Electric at Berkeley.","imgUrl":"","webUrl":""},
-    {"name":"Hershraj Niranjani","courses":{"cs70":"Senior Mentor"},"pronouns":"He/Him/His","details":"Hiya! I am Hershraj, a 3rd year EECS major from Moorpark. My interests are somewhere in between deep learning and randomized algorithms. Outside of academics, I love climbing, board games, experimental hip-hop, pizza, and yapping.","imgUrl":"https://drive.google.com/open?id=1iSuPG2373NXP3xS1LX_2euwZG8pwWo-l&usp=drive_copy","webUrl":"hershrajn.com"},
-    {"name":"Ishtinarah Quazi","courses":{"cs70":"Senior Mentor"},"pronouns":"she/her","details":"Hi, I’m Narah! I'm a senior studying CS and CogSci, with a minor in Linguistics. I’m super interested in mental health accessibility, human-computer interaction, and creative takes on tech. I love trying random hobbies, crocheting, drawing, and experimenting with coffee recipes. Excited to meet everyone this semester!","imgUrl":"https://drive.google.com/open?id=1WiniyYMA0cgoUsRaT9L_2IIjR-Td3Evd&usp=drive_copy","webUrl":""},
-    {"name":"Jaclyn Huynh","courses":{"cs88":"Senior Mentor"},"pronouns":"she/her","details":"hey there! im jaclyn, a sophomore majoring in DS. feel free to reach out to me for anything and i'm super excited to meet you all! :)","imgUrl":"https://drive.google.com/open?id=1NtgQXoEOi4tDTKlAGw28OWJfvSlgkfjr&usp=drive_copy","webUrl":""},
-    {"name":"Jacob Shin","courses":{"cs70":"Senior Mentor"},"pronouns":"He/Him","details":"Hi, I’m Jacob Shin, a senior studying Computer Science. I’m a transfer student and originally from South Korea 🇰🇷! I love soccer, guitar, and lately I’ve been picking up chess. On Sundays I like heading to the Berkeley Marina to chill by the ocean. Excited to meet everyone!","imgUrl":"https://drive.google.com/open?id=1spgpaAEnTU9uArI2YFFtN4o8nTA2ZYf-&usp=drive_copy","webUrl":"https://jacobshindev.netlify.app"},
-    {"name":"Jacob Kwon","courses":{"eecs16b":"Junior Mentor"},"pronouns":"he/him","details":"Hi I'm Jacob and I'm interested in electrical engineering. I took 16B last semester and I'm currently taking EE 105 and 140. Some of my favorite hobbies include cooking, eating, singing, playing my guitar, or staring at the ceiling. ","imgUrl":"https://drive.google.com/open?id=11D2JKNsdqf205thvLxU1Gx8aWOBMWjvR&usp=drive_copy","webUrl":""},
-    {"name":"Jai Sharma","courses":{"cs70":"Senior Mentor"},"pronouns":"He/Him","details":"Jai loves soccer, playing cards, and music. He has never tried coffee before. (Junior, EECS)","imgUrl":"https://drive.google.com/open?id=1EIWdjMmvADDLGEyJ91Yr5CCVmJaijfXq&usp=drive_copy","webUrl":"https://www.youtube.com/playlist?list=PLVjRK697Kk5sFVpUdUD-veuNveDoi9Y1m"},
-    {"name":"Jannah Sheriff","courses":{"cs88":"Junior Mentor"},"pronouns":"she/her","details":"Hi, I’m Jannah! I am a Cognitive Science/Data Science transfer student, and I am super excited to be a mentor this semester. I love to do anything creative or outdoorsy in my free time, and enjoy trying out different food spots around Berkeley. ","imgUrl":"","webUrl":""},
-    {"name":"Jason Tang","courses":{"cs61b":"Senior Mentor"},"pronouns":"he/him","details":"Hello, I'm Jason—I'm a junior EECS '27 student from LA, and I'm excited to be your mentor! I really enjoy teaching and being able to share my knowledge with others, so I hope we can be part of this journey together. In my free time, I enjoy cooking and hiking. My favorite hike of all time was the Four Mile Trail in Yosemite!","imgUrl":"https://drive.google.com/open?id=1Tak45NudY44UXvLNZ-5tZOy5nfLBQx_A&usp=drive_copy","webUrl":""},
-    {"name":"Jeffrey Gao","courses":{"cs61b":"Junior Mentor"},"pronouns":"","details":"Hi! My name is Jeffrey and I am a Data Science Major from the South Bay. I'm interested in machine learning and software development. Would love to meet you if you are interested in photography, basketball, or Tottenham Hotspur! Top Berkeley food rec: Mezzo Breakfast Burrito","imgUrl":"https://drive.google.com/open?id=1rYqcGLNPd5VKRyj55YxlcPZTQ-b1T3ZD&usp=drive_copy","webUrl":""},
-    {"name":"Jenny Liang","courses":{"cs88":"Senior Content Mentor"},"pronouns":"she/her","details":"Hi! I'm Jenny Liang, a junior studying Data Science and Economics! This is my 3rd semester in CSM. I was born in China but moved to Ontario, California when I was 12. I enjoy drawing, cooking, and learning new languages. I enjoy listening to Kpop, Jpop, and R&B. My favorite restaurants in Berkeley are Tasty Pot and Marugami Udon, and I love exploring new drink/food places! I'm also a part of Open Project,  Behavioral Economics Association, OASIS, and SLC Economics Program! Looking forward to seeing you around campus!","imgUrl":"https://drive.google.com/open?id=1j3P69SDhH986J6MXbgZsTu7IaxrFYmrc&usp=drive_copy","webUrl":""},
-    {"name":"Jennifer Ren","courses":{"eecs16a":"Senior Mentor"},"pronouns":"she/her","details":"Hi I'm Jen and a sophomore in EECS. In my free time, I figure skate, learn dances, get food with friends, and play video games. I love spending my weekends trying a new cafe or working on projects with friends. ","imgUrl":"https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy","webUrl":""},
-    {"name":"Jennifer Ren","courses":{"eecs16a":"Senior Mentor"},"pronouns":"","details":"","imgUrl":"https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy","webUrl":""},
-    {"name":"Jesslyn Ruswan","courses":{"cs88":"Junior Mentor"},"pronouns":"she/her/hers","details":"Born and raised in Indonesia. Data Science and intending in Business. I like hand lettering, traveling, food hopping, singing and cooking! Sunday nights = rooftop bbqs, board games or random things like. Fav Spot: Easterly Berkeley.","imgUrl":"https://drive.google.com/open?id=1FxRLhpZ4qhYucvUyTo9w45nWwoUz8nE3&usp=drive_copy","webUrl":"jesslynruswan.framer.website"},
-
-    {"name":"Jefferson Li","courses":{"cs70":"Senior Mentor"},"pronouns":"He / Him","details":"Hi, I am Jefferson, a junior studying CS & Applied Math. In my free time, I like playing basketball, hiking, and watching F1 and NBA. Look forward to meeting you all!","imgUrl":"https://drive.google.com/open?id=15sZaq6yuavspBqjwZfzGg3pT-Q0clFIq&usp=drive_copy","webUrl":""},
-    {"name":"Jonathan Ngai","courses":{"cs88":"Senior Mentor"},"pronouns":"he/him/his","details":"I'm Jonathan a 4th year studying Data Science and Political Science. I've been in CSM teaching CS88 since Spring 2024. My favorite restaurant in Berkeley is Bansho Ramen, I love reading and playing vidoe games on sundays and I'm also a part of Hong Kong Student Association (HKSA) and student government (ASUC).","imgUrl":"https://drive.google.com/open?id=1A0UW-D4vY68LZr0Q-d-0awYt7xACzZ9y&usp=drive_copy","webUrl":""},
-    {"name":"Jonathan Ji","courses":{"cs61c":"Junior Mentor"},"pronouns":"He/him","details":"I am a third EECS student interested in computer architecture and embedded systems. In my free time, I enjoy getting my ankles broken in soccer, sleeping, and watching silly orange cat videos. ","imgUrl":"https://drive.google.com/open?id=1R1_MEnhmi39dVnQe_xtWRMFDpvYL8fuN&usp=drive_copy","webUrl":""},
-    {"name":"Jonathan Loy","courses":{"eecs16a":"Senior Mentor"},"pronouns":"he/him","details":"Hello :D, my name is Jonathan and I'm a 3rd year Nuclear Engineering & EECS major. Outside of academics, I love music. I play viola, bass clarinet, clarinet and other instruments, and love listening to JPop, video game music, and lofi just to name a few. I love learning so talk to me about anything!","imgUrl":"https://drive.google.com/open?id=1y9epoKHzHEfSVIMrMVH0224OSTrijXcA&usp=drive_copy","webUrl":""},
-    {"name":"Jonny Luo","courses":{"cs61a":"Senior Mentor"},"pronouns":"He/him","details":"Hi! I'm Jonny, a sophomore studying EECS, and I enjoy eating, hiking, nature, and cooking.","imgUrl":"https://drive.google.com/open?id=1VMEO_gBqwLhRNQFlmliZhYniF4y09L-M&usp=drive_copy","webUrl":""},
-    {"name":"Joon Kim","courses":{"cs70":"Junior Mentor"},"pronouns":"He/him","details":"I am a junior at UC Berkeley majoring in EECS. My interest lies broadly in the complementary dynamics between Theoretical Computer Science and Computational Engineering and Sciences. I aspire to work in both directions, bringing the Computational Lens to other disciplines as well as being inspired by engineering and sciences for developing theoretical ideas in CS. Currently, I am working with the TI Lab for novel discoveries in DNA origami. In my free time, I usually practice playing the acoustic guitar, perform pullups, watch Netflix or YouTube, or pick up a random CS/Math textbook and hope I understand more than one sentence.","imgUrl":"https://drive.google.com/open?id=1MHF_kmGkbKnaSqv24EjqcWSNC3sDRjzb&usp=drive_copy","webUrl":"joonkim2684.github.io"},
-    {"name":"Jordan Velasco","courses":{"eecs16b":"Senior Mentor"},"pronouns":"he/him","details":"Hello! I'm Jordan and I'm a junior EECS major, originally from Riverbank, CA. I like listening to music and trying new food. I look forward to meeting y'all. Feel free to reach out!","imgUrl":"https://drive.google.com/open?id=101lRM59fj3lZWOYYFXnCHRS1r1dCTyHo&usp=drive_copy","webUrl":""},
-    {"name":"Joshua Lu","courses":{"cs61a":"Junior Mentor"},"pronouns":"","details":"Hi, my name is Joshua, and I'm a junior from the Bay Area studying EECS. This is my first semester in CSM, so I look forward to meeting yall!","imgUrl":"","webUrl":""},
-    {"name":"John Paul Tompkins","courses":{"eecs16b":"Junior Mentor"},"pronouns":"He/him","details":"Hello I'm JP a 3rd year EECS student at UC Berkeley. I took EECS16B last Spring Semester and really enjoyed it and I can't wait to help new people learn it too! I'm also part of the Cal Band so be on the lookout whenever we have Cal Events!","imgUrl":"","webUrl":""},
-    {"name":"Jonathan Mui","courses":{"cs88":"Senior Mentor"},"pronouns":"he/him","details":"Hi! I'm Jonathan, a sophomore studying Data Science from Chicago! I like spending my time exploring new cities, crocheting, biking, swimming, and going on late night walks/car rides. Looking forward to meeting you all soon!","imgUrl":"https://drive.google.com/open?id=1j7qIPwTYWy4QcIzcw0Opbsn6AW57mPca&usp=drive_copy","webUrl":""},
-    {"name":"Julia Liu","courses":{"cs61b":"Associate Mentor"},"pronouns":"","details":"","imgUrl":"","webUrl":""},
-    {"name":"Julianna Martinez","courses":{"cs61a":"Junior Mentor"},"pronouns":"she/her","details":"Hi!! My name is Julianna, I’m studying CS with a minor in Spanish! I love watching TV and movies in my free time, as well as reading. I’m a part of CS Scholars, Code For Good, and SCET here on campus. A fun fact is that I love martial arts and used to wrestle and do jiu jitsu.","imgUrl":"https://drive.google.com/open?id=1UjPXB-bpjaROfy4VaEcIHTLV5shtKj5V&usp=drive_copy","webUrl":""},
-    {"name":"Julian Robin ","courses":{"cs70":"Junior Mentor"},"pronouns":"He/Him","details":"Hi! My name is Julian and I like ducks, discussing philosophy, and meditation. I'll do my best to keep my answers concise and give you what you need to succeed in CS70.","imgUrl":"https://drive.google.com/open?id=1fO2PLTHUgBsAhl-M9u6GShMUiFTpeJhw&usp=drive_copy","webUrl":""},
-    {"name":"Justin Yang","courses":{"eecs16a":"Senior Content Mentor"},"pronouns":"he/him","details":"hi","imgUrl":"https://drive.google.com/open?id=10NLHFyBK_o3roZGe5Yhh8weVOo6sTVyJ&usp=drive_copy","webUrl":""},
-    {"name":"Joey Wong","courses":{"cs88":"Junior Mentor"},"pronouns":"He/Him","details":"hi im joey, a 3rd year CS + ECON student. I like to sleep, eat, and hoop. excited to be part of CSM this semester!","imgUrl":"https://drive.google.com/open?id=1xNak3hnTatVDOjrOazvNyXHGwlJ93Oyo&usp=drive_copy","webUrl":"jwxng.com"},
-    {"name":"Kabeer Nayyar","courses":{"eecs16a":"Junior Mentor"},"pronouns":"he/him","details":"Hi! My name is Kabeer and I am a sophomore EECS/MechE major from LA. In my free time I love playing basketball, eating pizookies with my friends, and binge watching shows, especially sitcoms (please give me recs). Feel free to reach out about anything!","imgUrl":"https://drive.google.com/open?id=1jvCrHD7u8dA4LzzW0qU538g40YkZ-gbM&usp=drive_copy","webUrl":""},
-    {"name":"Kaden Tang","courses":{"cs70":"Junior Mentor"},"pronouns":"he/him","details":"Hi, I’m Kaden! I’m a sophomore from the Bay studying Applied Math. Some of my academic interests are AI and knowledge representation. Outside of school, I love playing soccer (Real Madrid fan), cooking pasta (penne > spaghetti), and traveling (fav country is Singapore). Excited to meet everyone!","imgUrl":"https://drive.google.com/open?id=1-viDznXwbZoPKDy4zRLHeBcHIRoUNg1a&usp=drive_copy","webUrl":"https://tangysaurus.github.io/"},
-    {"name":"Keanu Chandra","courses":{"cs70":"Associate Mentor"},"pronouns":"He/Him","details":"Hi my name is Keanu Chandra 4th year EECS major! I like music, dogs, and food :). And yes, my favorite movie is The Matrix.","imgUrl":"https://drive.google.com/open?id=1d4suzSrHRb6WL4veMju7b2M9LLT0jaXh&usp=drive_copy","webUrl":""},
-    {"name":"Kennedy Edwards","courses":{"cs88":"Junior Mentor"},"pronouns":"she/her","details":"Hey :)) Im Kennedy, I'm from Socal but live in Texas. I love thrifting, ceramics, jewelry, and kombucha. I love artists like The Sundays, Sade, Frank, The Marias, The Internet and many more. I'm a second year here and super passionate about making CS achievable for all. If you see me say hey!\n","imgUrl":"https://drive.google.com/open?id=17EUKBxi3Rd-nxV8C2jCB4voHlYdKoA6l&usp=drive_copy","webUrl":""},
-    {"name":"Kim Hoang","courses":{"cs88":"Junior Mentor"},"pronouns":"she/her","details":"Hey, I'm Kim! I'm a CS major from SoCal. In my free time, I love skiing and building Legos. Kura Sushi is the loml so you can probably catch me there throughout the year :) Looking forward to meeting you all!","imgUrl":"https://drive.google.com/open?id=1e6GCDfSVudpFL5MSKZmhGbmZpgoS2e5w&usp=drive_copy","webUrl":""},
-    {"name":"Lavanya Shyamsundar ","courses":{"cs61a":"Senior Mentor"},"pronouns":"","details":"","imgUrl":"","webUrl":""},
-
-    {"name":"Liberty Lauer","courses":{"cs88":"Senior Mentor"},"pronouns":"she/her","details":"Hi! My name is Liberty, and I'm a junior studying Data Science and Economics. I love traveling, reading, playing tennis, painting, and discovering new restaurants and cafes in my free time. I'm looking forward to meeting you this semester!","imgUrl":"https://drive.google.com/open?id=1rjhGVDNleo6nMfAt-ORHMSOAc3jyT-cd&usp=drive_copy","webUrl":""},
-    {"name":"Sam Wang","courses":{"cs61b":"Junior Mentor"},"pronouns":"he/him","details":"Hi! I'm a computer science junior from SoCal. I enjoy hiking, trying new restaurants (add me on Beli!), and watching Ghibli movies. On campus, I've been involved in clubs like Daily Cal, Model UN, and Cal Rotaract. Feel free to reach out about internship/research advice, food recs, or anything else! ","imgUrl":"https://drive.google.com/open?id=1Urs8QARRZ3J07zOpBdd-9cSTpE33AXoc&usp=drive_copy","webUrl":""},
-    {"name":"Luis Suarez","courses":{"cs61a":"Junior Mentor"},"pronouns":"he/him","details":"Hello! My name is Luis Suarez, and I am excited to be a JM for 61A (the GOAT of all classes). I play guitar, League of Legends, and love cooking and eating. I cannot wait to have a 61Amazing semester with y'all.","imgUrl":"https://drive.google.com/open?id=15mClQfcw6uL16JQktvzinmEqZEZeMboD&usp=drive_copy","webUrl":""},
-    {"name":"Magnus Tangherlini","courses":{"cs61b":"Junior Mentor"},"pronouns":"He/Him","details":"Hey! I'm a fourth year studying CS and Statistics from Albany, CA. I love cycling, climbing, watching good movies, and coffee! Looking forward to teaching this semester! ","imgUrl":"https://drive.google.com/open?id=1XIUCZFieO1-SV3v7x9aNbogs-f2Umt8A&usp=drive_copy","webUrl":""},
-    {"name":"Majed AlFaraj","courses":{"cs61a":"Senior Mentor"},"pronouns":"","details":".","imgUrl":"","webUrl":""},
-
-    {"name":"Mansoor Mamnoon","courses":{"cs61c":"Junior Mentor"},"pronouns":"he/him","details":"I’m Mansoor, a junior studying CS. I was on course staff for Data 8 and am now an RA at Clark Kerr. I spend my free time on Reddit, following cricket & tennis, and blogging. Excited to support you in 61C!","imgUrl":"","webUrl":"https://mansoor-mamnoon.github.io/personal-website/"},
-    {"name":"Maryam Akelyan","courses":{"cs88":"Senior Content Mentor"},"pronouns":"","details":"Hi! I'm Maryam, a junior majoring in Data Science and MCB! In my free time I like to watch sitcoms and sci-fi shows. Super excited to work with you all! :)","imgUrl":"https://drive.google.com/open?id=12yxLs57urETF3qlCojigFtYe9yuCtPj8&usp=drive_copy","webUrl":""},
-    {"name":"Matthew Qi","courses":{"cs70":"Junior Mentor"},"pronouns":"","details":"Hiii! I'm a sophomore majoring in Data Science and this is my first time as a CSM Junior Mentor! I'm into web dev and design right now (changes a lot), and you can catch me at chess tournaments around the bay. Super excited to meet you! ","imgUrl":"https://drive.google.com/open?id=15ukRfUokdrPLFFBIEj4Pff7dpI3R6HA2&usp=drive_copy","webUrl":""},
-    {"name":"Matthew Rodrigues","courses":{"cs70":"Junior Mentor"},"pronouns":"He/Him","details":"Hi there! I'm Matthew, a sophomore majoring in DS + Business. I like to spend my time outside of class in RSF (if you see me there say hi!). I look forward to meeting you guys!","imgUrl":"","webUrl":""},
-    {"name":"Maya Sriram","courses":{"cs61b":"Junior Mentor"},"pronouns":"she/her","details":"Hi! My name's Maya, and I'm an EECS and IEOR major. I don't want my section to be another boring lecture y’all have to attend, I promise I'll try my best to make things fun. If you join me, your CS understanding will grow from linear to exponential! (Sorry)","imgUrl":"https://drive.google.com/open?id=1-IpxhQCS9cY8bgbjma5HlRCqZHxM-SlT&usp=drive_copy","webUrl":"https://maya.sriram.page"},
-    {"name":"Maya Van","courses":{"cs88":"Junior Mentor"},"pronouns":"She/her","details":"I am a second year bioengineering major from the Bay Area.  I took my first ever CS class at Berkeley which was...difficult, so I definitely understand the struggle.  Some other things about me is that I am a full on nerd.  I love reading and playing video games when I have free time (which is not often anymore 🥲).  I also love anything related to fantasy and science fiction!","imgUrl":"https://drive.google.com/open?id=1BdVo2c_eFHUhba30Ahw8XqRMaAPp1pNq&usp=drive_copy","webUrl":""},
-    {"name":"Melanie Liu","courses":{"cs61b":"Senior Mentor"},"pronouns":"she/her","details":"Hi I’m Melanie! I’m currently double majoring in EECS and Data Science and this is my third semester doing CSM. Outside of academics, I enjoy skiing, crocheting, traveling, and trying new foods. I’m looking forward to meeting you all!","imgUrl":"https://drive.google.com/open?id=1kUIBOdJVMO-mYuc4hTD0RL9A6aEKz0xv&usp=drive_copy","webUrl":""},
-    {"name":"Michael Shen","courses":{"cs61a":"Junior Mentor"},"pronouns":"He/Him","details":"I like playing sports and going to the gym, and I really enjoy trying new restaurants. I also enjoy spending times with friends, whether it be studying, eating, or doing anything else. I am also a member of Berkeley Consulting.","imgUrl":"https://drive.google.com/open?id=1SyVIFqZqTRwmTHUY_dtZ3ifkNntOhZfg&usp=drive_copy","webUrl":""},
-    {"name":"Michelle Koga","courses":{"cs61b":"Senior Mentor"},"pronouns":"she/her","details":"Hi! My name is Michelle, I’m a junior studying EECS from Lompoc, CA and this is my second time as an SM for 61B! I love swimming, reading, journaling, climbing, and drinking matcha. Looking forward to meeting everyone! :)","imgUrl":"","webUrl":""},
-    {"name":"Minqing Dong","courses":{"cs70":"Junior Mentor"},"pronouns":"","details":"Hi! I'm a sophomore studying Computer Science and Applied Math. Looking forward to meeting you all!","imgUrl":"","webUrl":""},
-    {"name":"Mohammed Jasim","courses":{"cs88":"Junior Mentor"},"pronouns":"He/Him","details":"Hello! I’m Mohammed, a freshman studying Data Science. I love boba, indie pop music, long runs, boba, road biking, CS70, solving Rubik’s cubes (sort of) fast, and boba. I love talking about yummy food spots, goals in life, and pretty much anything else! My goal this year is to get good at ping pong.","imgUrl":"https://drive.google.com/open?id=1wp_oIO7YFpVLyxCW_VP9gbnASq0yepwY&usp=drive_copy","webUrl":""},
-    {"name":"Mark Rhee","courses":{"cs61a":"Junior Mentor"},"pronouns":"he/him","details":"Hello there! My name is Mark and I'm a 2nd year (applied) math major. I like to play basketball, (try to) read, get boba, and go on hikes. Some shows I like: Andor, Rick & Morty, Brooklyn 99, White Collar, and The Diplomat. Feel free to reach out!","imgUrl":"https://drive.google.com/open?id=1IX5sRqVRNrkKZIELNmWxT8iOf8KyOI93&usp=drive_copy","webUrl":"https://mrkdh16.github.io/"},
-    {"name":"Nandan Diwan ","courses":{"eecs16b":"Junior Mentor"},"pronouns":"","details":"Hi guys, my name is Nandan. I study physics and electrical electrical engineering here at Berkeley. I enjoy cooking and hiking. I also do some research on transistors at BETR and some ML stuff as well. ","imgUrl":"https://drive.google.com/open?id=1w3jyG8TLuCLfHlcOnB55w1yIP82YZQqQ&usp=drive_copy","webUrl":""},
-    {"name":"Niko Dittmar","courses":{"eecs16a":"Senior Mentor"},"pronouns":"","details":"I am a 3rd year EECS major and have been on CSM for 3 semesters now. Outside of class, I enjoy watching football, going to the gym, and spending time with my friends. ","imgUrl":"https://drive.google.com/open?id=1YAyIDYf7_DoYQPtRCUlXboJIGw3HjXA9&usp=drive_copy","webUrl":""},
-    {"name":"Nithya Appannagaari","courses":{"cs61b":"Junior Mentor"},"pronouns":"","details":"hi! i'm a sophomore studying eecs, i love trying new cafes, making tea, and photography. can't wait to meet you all <3","imgUrl":"https://drive.google.com/open?id=1tXinTGLc72h5id5eHvEpbiDnMuoojtjH&usp=drive_copy","webUrl":""},
-    {"name":"Octavio Lomeli-Castro","courses":{"cs61b":"Senior Mentor"},"pronouns":"","details":"Hi! I'm a senior studying CS and this is my fourth semester with CSM. Outside of courses, I enjoy CS research, teaching, leetcoding, horror movies, weightlifting, and playing SSBU. I love helping people, so always feel free to reach out about the major or for general advice!","imgUrl":"https://drive.google.com/open?id=19uHBiKvXaYan9V3bmlg854NeGkLyLyPR&usp=drive_copy","webUrl":""},
-    {"name":"Olivia Li","courses":{"cs61b":"Junior Mentor"},"pronouns":"she/her","details":"Hi I'm Olivia! I'm a sophomore studying EECS and I'm super excited to join CSM as a CS61B mentor. I am also a consultant in Blockchain @ Berkeley. I'm interested in blockchain, AI/ML. building creative webapps, and semiconductors. I am from Los Gatos. In my free time, I go back home, play val, paint, play golf, read, and watch horror movies. I love Taylor Swift, Ariana Grande, The Weeknd and kpop girl groups like Blackpink, IVE, and Kiss of Life. ","imgUrl":"https://drive.google.com/open?id=1NndGMcpWXdg-V1QRQvaUAw6SdNwYTxyS&usp=drive_copy","webUrl":""},
-    {"name":"Piper Bruner","courses":{"cs88":"Senior Mentor"},"pronouns":"","details":"Hi! I'm a fourth year majoring in data science and history of art! When I'm not studying or hanging out with friends, I love to spend my time crocheting or visiting various art galleries and museums. When time allows I love getting into a good book, and I’m always on the lookout for recommendations!","imgUrl":"https://drive.google.com/open?id=1icHE21Rhne7AYVOFPqb7h1ovlQ7aY7m4&usp=drive_copy","webUrl":""},
-
-    {"name":"Patrick Chi","courses":{"cs70":"Junior Mentor"},"pronouns":"","details":"Hi! I'm Patrick, and I'm a sophomore from the Bay Area studying Data Science. I'm excited to be a 70 JM this semester and look forward to getting to know you all. In my free time, I like to play badminton, eat at croads, and explore new places.","imgUrl":"https://drive.google.com/open?id=1diddl2DOoHugyONIHyVAKjTHmZMAU8yw&usp=drive_copy","webUrl":""},
-    {"name":"Peter Choi","courses":{"cs61b":"Junior Mentor"},"pronouns":"He/him","details":"Hey! My name's Peter, and I'm a sophomore from Texas studying Applied Math. Out of class, I like playing poker, trying new foods, and staying active. I'm excited to get to know y'all!","imgUrl":"https://drive.google.com/open?id=1mpnxcZ-R9_LwBD8ycTqqJkVnVi152-9u&usp=drive_copy","webUrl":""},
-
-    {"name":"Prarthan Ghosh","courses":{"eecs16a":"Junior Mentor"},"pronouns":"","details":"Hi! I'm a sophomore from the south bay studying math and CS. In my free time I like playing basketball, table tennis, and napping.","imgUrl":"https://drive.google.com/open?id=1Vc438BlMGjwEOw8OMarCYLbrf8I9kWl2&usp=drive_copy","webUrl":""},
-    {"name":"Prithvi Maddi","courses":{"cs70":"Junior Mentor"},"pronouns":"he/him","details":"Hi, I'm Prithvi and I'm an sophomore studying EECS. I grew up only about an hour from Berkeley, so I have been in the bay my whole life. I love to eat and will try any food. In my free time I love being outdoors, traveling, reading, and I scuba dive every time I get the chance.","imgUrl":"","webUrl":""},
-    {"name":"Qamil Mirza Bin Abdullah","courses":{"cs88":"Junior Mentor"},"pronouns":"He/Him","details":"I’m a Data Science & Statistics junior from Malaysia on a full-ride at Berkeley, now an ML Research Assistant at California PATH. I’ve interned in software engineering, AI, and research. I love hiking, the gym, traveling, guitar, and cooking. Big fan of MICO’s music, and I love cats and dogs!","imgUrl":"","webUrl":"https://qamil-mirza.vercel.app/"},
-    {"name":"Rachel Ho","courses":{"cs61a":"Junior Mentor"},"pronouns":"she/her","details":"Hi I'm Rachel! I enjoy dancing, knitting, and eating good food! My favorite music artists are Billie Eilish and Noah Kahan, but I've recently been enjoying some good 2000s throwbacks. Excited to meet you all!","imgUrl":"https://drive.google.com/open?id=1mYClVjI1dCP-feZDycw7VAffvGPrA4SJ&usp=drive_copy","webUrl":""},
-    {"name":"Reema Rafifar","courses":{"cs61a":"Senior Mentor"},"pronouns":"","details":"Hi everyone! I'm Reema, a junior majoring in Neuroscience & Data Science. I absolutely love movies, so come talk to me about your favorite films! Go CSM!!!","imgUrl":"https://drive.google.com/open?id=1GeKBeh94kwmy5nmwo9S-q0AfKyR13phT&usp=drive_copy","webUrl":""},
-    {"name":"Rena Shrestha","courses":{"cs88":"Junior Mentor"},"pronouns":"she/her","details":"Hi, my name is Rena! I’m a sophomore majoring in Data Science with a domain emphasis in Economics. Outside of class, I love reading, photography, and traveling! I’m always looking for new books to get lost in so feel free to reach out for recommendations. Excited to get to know you all! ","imgUrl":"https://drive.google.com/open?id=1tMMttdCHOueAtHljBMUvlPF_ZQtHUQAr&usp=drive_copy","webUrl":"https://renas20.github.io/index.html"},
-    {"name":"Richard Li","courses":{"cs88":"Senior Mentor"},"pronouns":"he/him","details":"Hi! My name is Richard and I'm a second-year intending to major in economics/environmental economics and applied math with a minor in data science. In my free time I like to play soccer, basketball, and LinkedIn games!","imgUrl":"https://drive.google.com/open?id=1OtBozrscXrMrHT5SspPodGU3ct9z21FE&usp=drive_copy","webUrl":""},
-
-    {"name":"Riya Sehgal","courses":{"cs61b":"Junior Mentor"},"pronouns":"she/her","details":"My name is Riya and I am a sophomore majoring in EECS. In my free time, I like to play field hockey, explore new places, and hang out with friends! ","imgUrl":"","webUrl":""},
-
-
-    {"name":"Rohan Bhagat","courses":{"cs61c":"Senior Mentor"},"pronouns":"he/him","details":"Hello! I'm Rohan, a junior from Fremont studying DS and Cognitive Science! I love teaching and I'm super excited to have a fun time this semester! :)\n","imgUrl":"https://drive.google.com/open?id=15YA8mDf5SbJExMQb9VKmxdB2m2Cnk_7F&usp=drive_copy","webUrl":""},
-    {"name":"Ryan Lee","courses":{"cs61c":"Junior Mentor"},"pronouns":"he/him","details":"hi i’m Rylee (or Ryan) i like cubes and jpop and keyboards and teaching and cats, and several permutations of these things","imgUrl":"","webUrl":""},
-    {"name":"Sahasra Kairamkonda","courses":{"cs88":"Junior Mentor"},"pronouns":"she/her","details":"Hello! I'm Sahasra, a sophomore studying Data Science, and I'm excited to be a C88C Mentor this semester! I love drawing, audiodramas, and anime, and I recently got into motorsports, so come talk to me about any of those :))","imgUrl":"https://drive.google.com/open?id=1lAloBAYP-WkD6VFN4_kAkoqyL7kjWJmP&usp=drive_copy","webUrl":""},
-    {"name":"Sam Bai","courses":{"eecs16a":"Junior Mentor"},"pronouns":"","details":"HI! I love folding origami and this year I plan to also be a part of the origami decal. Right now, you might find me spending a lot of time playing Hollow Knight: Silksong! My favorite food at Berkeley is the korean hot dog place on north side and I frequent Xpression too.\n","imgUrl":"https://drive.google.com/open?id=123VxE_b8ubyGf5OA2ESDBRO2EQCOM1h5&usp=drive_copy","webUrl":""},
-    {"name":"Samuel Hudson","courses":{"cs88":"Senior Mentor"},"pronouns":"he/him","details":"Hey y'all! I'm Sam, a junior studying Data Science, and I've been in CSM for 3 semesters now. I'm a huge fan of video games and animation, and I'm always up to talk about Kpop Demon Hunters, Silksong, or the up-and-coming series, The Knights of Guinevere! You can probably find me at Dyar's after school hours, or at Cheeseboard if I'm able to hitch a ride with a friend's car lol.\nI know Data C88C can be a lot, especially if it's your first time programming, but that's what we're here for! Don't hesitate to reach out if you have any questions or concerns.","imgUrl":"https://drive.google.com/open?id=1ej3mdGtKQdIciINebJiHzbCptfy0crRG&usp=drive_copy","webUrl":""},
-    {"name":"Sareena Mann","courses":{"eecs16a":"Content Mentor"},"pronouns":"","details":"I love robots, swimming, biking, and running :)","imgUrl":"https://drive.google.com/open?id=1xvkewbBxOwbnAUCcEx7Wb-vE0fYDb1fN&usp=drive_copy","webUrl":""},
-
-    {"name":"Siya Mehta","courses":{"cs61b":"Junior Mentor"},"pronouns":"she/her","details":"Hi! My name is Siya, I'm a second year studying Computer Science, minoring in Data Science and Public Policy. I'm from Santa Rosa, California and in my free time I enjoy shopping, going to the beach, and listening to live music (my favorites are Gracie Abrams and Imogen Heap)! ","imgUrl":"https://drive.google.com/open?id=1gGcgf7_T_-0Yv_EPByI067vcEOGrjkaB&usp=drive_copy","webUrl":""},
-    {"name":"Shannon McFadden","courses":{"eecs16a":"Junior Mentor"},"pronouns":"she/her","details":"Hi! I'm Shannon, a second-year EECS student. I enjoy going on long walks, learning about other engineering fields, playing card games, and I'm also involved in BMUN on campus!","imgUrl":"https://drive.google.com/open?id=1KjXlO0rwM69JCEglkkzEQzyk4jZzWeqe&usp=drive_copy","webUrl":""},
-    {"name":"Sofia Valadez","courses":{"cs61b":"Junior Mentor"},"pronouns":"She/her","details":"I am from the central valley, and since moving to the Bay, I have enjoyed the nearby hiking trails, tourist traps (i’m sorry), reading, and combining all three. I am super excited to start this semester and can’t wait to meet all of you!","imgUrl":"https://drive.google.com/open?id=1jA6o9dXkBkMLPQ8LlU991ptDuRcpY8yl&usp=drive_copy","webUrl":""},
-    {"name":"Soumyadeep Talukdar","courses":{"cs88":"Junior Mentor"},"pronouns":"He/Him","details":"Hello! My name is Soumyadeep and I'm a neuroscience major and data science minor. My interests lie in synthetic biology and the brain, and I'm interested in how people can use computational tools to study these fields. In my free time, I enjoy going on hikes, exploring new places, and watching TV shows! I'm looking forward to mentoring CS 88 this semester!","imgUrl":"","webUrl":""},
-    {"name":"Sydney Tung","courses":{"cs70":"Senior Mentor"},"pronouns":"","details":"hi im sydney :)","imgUrl":"https://drive.google.com/open?id=19g7a_USgQDUL8xcpIPTPT73Sc8yh5nbu&usp=drive_copy","webUrl":""},
-
-    {"name":"Tanusha Kaushik","courses":{"cs88":"Senior Content Mentor"},"pronouns":"she/her","details":"Hiii my name is Tanusha and I am a third year studying Cognitive Science and Computer Science. Relevant courses that I have taken are the CS 61 series, CS 70, and Data 8. The classes I enjoyed the most were CS 61B and CS61C. I hope to provide a support system that gives you the safe space and resources to enjoy these cool courses as much as I did! I'm also always down to discuss books, tv shows, the reality TV show survivor, and the best foodie places across Berkeley.","imgUrl":"https://drive.google.com/open?id=1ymdl4Ika6hCJ1HlrZMLF94FKIM4sO3aL&usp=drive_copy","webUrl":""},
-    {"name":"Tavisha Patel","courses":{"cs61a":"Senior Content Mentor"},"pronouns":"she/her","details":"Hi! I'm Tavisha, and I am a sophomore studying EECS! This is my second semester at CSM, and I took CS61A last fall. In my free time, I like to read, play the piano, and play New York Times games. I'm looking forward to this semester!","imgUrl":"","webUrl":""},
-
-
-    {"name":"Valerie Eng","courses":{"cs61b":"Junior Mentor"},"pronouns":"She/Her","details":"I love: 61B, volleyball, codenames, hojicha, ikea runs, Ruel, r&b, Severance","imgUrl":"https://drive.google.com/open?id=1Dmk_9kYbJrxQJnssDnPwQTnApvHT5fAp&usp=drive_copy","webUrl":""},
-    {"name":"Victor Hong","courses":{"cs61c":"Junior Mentor"},"pronouns":"He/Him","details":"Hi :)\nI'm a Junior EECS student.\nI love snowboarding and playing video games.","imgUrl":"https://drive.google.com/open?id=1qXCe6RPLf4mNhvPWWi7iZDr33af7q1x1&usp=drive_copy","webUrl":""},
-    {"name":"Vivek Putta","courses":{"cs61b":"Senior Mentor"},"pronouns":"","details":"Wassup I'm Vivek, a junior studying EECS. I love to read, lift and hoop and otherwise avoid coding. ","imgUrl":"","webUrl":""},
-    {"name":"Woody Aung","courses":{"cs70":"Junior Mentor"},"pronouns":"He/Him","details":"Hello, my name is Woody. I am a senior majoring in EECS. I am also a transfer student. I am more focused on the CS side of EECS, so I have taken courses about operating systems and computers. I also like to walk around and eat out often. One of my favorite restaurants is The  Cheeseboard.","imgUrl":"https://drive.google.com/open?id=1S5B7CcJ1Oi3wwRBIZIg9b2RTtlkLpvqG&usp=drive_copy","webUrl":""},
-    {"name":"Yale Han","courses":{"cs61a":"Senior Mentor"},"pronouns":"she/her","details":"Hey there! I’m Yale, and this is my sixth semester in CSM. I’m from Fremont, CA, and I’m a senior majoring in CS and DS. I love gymming, cafe-hopping, and going on day trips! Feel free to reach out about anything :)","imgUrl":"https://drive.google.com/open?id=1h46DnP_NgYT3Pn0KSd-yxRBpoM_Lb3UB&usp=drive_copy","webUrl":""},
-    {"name":"Yiran Hu","courses":{"cs88":"Junior Mentor"},"pronouns":"","details":"\nHi everyone! My name is Yiran, I am a first year student studying Applied Mathematics! In my free time, I love playing tennis, squash, and Rubik’s Cubes. I also enjoy biking around Berkeley and San Francisco. My favorite show is Sherlock. Also, my favorite animal is camal🐪. ","imgUrl":"https://drive.google.com/open?id=1PrY9RRw_Laj4_QbssFTb3SzmVIRlTwA9&usp=drive_copy","webUrl":""},
-    {"name":"Enoch Chen","courses":{"cs61b":"Senior Mentor"},"pronouns":"he/him","details":"Hi everyone! I’m a junior studying CS and Applied Math. I enjoy playing badminton and games in my free time. This is my 2nd time being an SM for 61C. I'm super excited to be back! Can’t wait to learn and have fun with you all!","imgUrl":"https://drive.google.com/open?id=1cBC_UcLblwr0YpXxJCZcYMr04giHSspD&usp=drive_copy","webUrl":""},
-    {"name":"Yuki Chen","courses":{"cs61b":"Content Mentor"},"pronouns":"","details":"Hi! I'm Yuki and I'm a junior major in Computer Science. This is my 3rd semester in CSM. Outside of classes, I love exploring new restaurants, dance and watching concerts. Feel free to reach out to me for anything: )","imgUrl":"","webUrl":""},
-    {"name":"Zayna Lateef","courses":{"eecs16b":"Junior Mentor"},"pronouns":"","details":"Hi! My name is Zayna and I am a senior EECS student. I am from Orange County, California and love all things outdoors especially the beach. I love exploring new coffee shops in SF, cooking/baking new recipes and playing soccer. My favorite artists are Daniel Caesar and Kaytranada and I love ridiculous comedy movies. Looking forward to helping yall through 16B!","imgUrl":"https://drive.google.com/open?id=1sBfQ8kvT59oZizBGqJlT3nwaXlNOUrcc&usp=drive_copy","webUrl":""},
-    {"name":"Zeno Song","courses":{"cs61a":"Junior Mentor"},"pronouns":"","details":"What’s up I’m Zeno! I’m a sophomore from Beijing studying applied math and data science. I love music and guitar! My favourite artists are Guns N’ Roses, Led Zeppelin, Jimi Hendrix, Pink Floyd, Nirvana, Iron Maiden (you’ll see me wear their merch A LOT), Megadeth, Trivium, Death, Rammstein, the Strokes, and Wakin Chau. I worship Slash and Dave Mustaine before sleep and love Les Pauls. I also love aviation and automobiles. Trijets and Bugattis are goated.","imgUrl":"https://drive.google.com/open?id=11zfn0MMauRz6WpSYjVSgWBdD4C0IErWj&usp=drive_copy","webUrl":""}
+    {
+        "name": "Dan Wu",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hey, I’m Dan! I’m someone who loves exploring new ideas, meeting interesting people, and finding creative ways to challenge myself. I’m curious by nature, and I enjoy diving into projects or experiences that push me out of my comfort zone. Whether it’s picking up a new skill, trying something I’ve never done before, or collaborating with others on a meaningful goal, I like staying active and engaged with the world around me.\n\nWhen I’m not working on something new, I’m usually balancing life with a few favorite hobbies. I love photography because it’s a way to slow down and capture little moments that most people walk right past. I’m also into basketball — both playing and watching — since it keeps me energized and sharp. Music is another big part of my life. My playlists range from Kendrick Lamar and Tyler, the Creator to Joji, Glass Animals, and a lot of chill lo-fi beats when I want to relax.\n\nSundays are my reset button. Sometimes that means catching up with friends over coffee, sometimes it’s hitting the gym, and other times it’s just taking a walk and listening to music. Food also plays a big role in how I spend my downtime. Berkeley has some amazing spots, but if I had to pick a go-to, it’s Sliver Pizza — perfect every single time.\n\nI’ve also been part of different clubs and organizations on campus, especially ones centered around creativity, teamwork, and community. These experiences gave me the chance to meet people from different backgrounds, learn new perspectives, and contribute to projects that actually meant something. I like being around motivated people and believe that’s the best way to grow and have fun at the same time.",
+        "imgUrl": "https://drive.google.com/open?id=1PaP7tZa9CVfD9qaUMtZWvO47Qbwv-Lxa&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Abinav Rao",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Adelina Chau",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "She/Her",
+        "details": "Hi! My name is Adelina and I'm a second year studying EECS & Business. Outside of classes, you may find me dancing, trying new cafes and matcha places, or jamming out to some feel good Indie pop. Can’t wait to meet you soon!",
+        "imgUrl": "https://drive.google.com/open?id=1M_juk1xaXC8XqvtTjMCQhXTIad8z01px&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Adit Chintamaneni ",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi everyone! My name is Adit and I'm a second year. Some of my hobbies include cycling, tennis, and watching football. Looking forward to seeing you all in section!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Ansel Flores",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "he/him/his",
+        "details": "Hi :7! I entered Berkeley CS with no experience and ended falling in love with 61C and I hope I can make you love it as well! I also love making music, talking about music, playing video games, and Taco Bell. Shout out to Golden Records, ANova, and PASS! ",
+        "imgUrl": "https://drive.google.com/open?id=1FJ43_BcKiJe85DC2Bge5uD36ML0vhv5N&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Alex Wang",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a third-year CS major from the Bay Area. Outside of class, I like drumming, playing music, and learning how to cook better. I'm here to help folks have a great semester—looking forward to meeting you!",
+        "imgUrl": "https://drive.google.com/open?id=1QSFzMD_I5iuYIqo67el6QhP6evw0jxQ0&usp=drive_copy",
+        "webUrl": "https://alexwang.tech/"
+    },
+    {
+        "name": "Alicia Gullon",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "she/they",
+        "details": "Hi! I'm Alicia, I'm a senior studying CS and CogSci! I love all things martial arts (cal judo :D), and as for music I listen to a lot of alternative pop (Dominic Fike, The Marias). Looking forward to meeting y'all, feel free to email me with any questions or to chat!",
+        "imgUrl": "https://drive.google.com/open?id=1Z6R-a5H_2vrY8Q6fqX74Ba7iDLaFljCe&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Allison Yen",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! I’m a sophomore studying data science. I love exploring new food spots, grabbing boba with friends, and listening to music in my free time.",
+        "imgUrl": "https://drive.google.com/open?id=1Gsd0sXxhE1Byh0mfzz1cPtyWPlHeVoj2&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Alvin Lin",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Amith Vasantha",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hey all! I'm a junior in ECE and DS -- I took CS 61A in the summer and I'm excited to be a JM for CS 61A this semester! Feel free to reach out if you have any questions!",
+        "imgUrl": "https://drive.google.com/open?id=17SnNu_RRYYSfcUO4-t9aV20HEcF14qp1&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Zixian(Amy) Li",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "; )",
+        "imgUrl": "https://drive.google.com/open?id=1QrsY5zH33X1YJ5sRFvg-uogVpTXCJEkh&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Anaisha Das",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "hi! im anaisha and am a sophomore studying EECS! i like food, sitcoms and side quests! excited for a good semester :D",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Andrew Xu",
+        "courses": {
+            "cs61b": "Content Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I’m Andrew. I’m a second year studying CS. I enjoy playing basketball. Excited to meet yall.",
+        "imgUrl": "https://drive.google.com/open?id=1kd9R0j3DsM0DvVcfd4R1EsWv29QXzRfa&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Anirudh Suresh",
+        "courses": {
+            "cs61b": "Senior Content Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi! I’m a senior majoring in CS and Economics. This is my fifth semester in CSM and my fourth semester as a content mentor. I enjoy board games, crosswords and reading in my free time. Looking forward to a great semester!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Aniruthan Ravisankar",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hey everyone! I'm Aniruthan, a second year majoring in Data Science with an interest in Cognitive Science and Economics. In my free time, I play/watch sports and working out. In the past, I've worked as a STEM and basketball coach, and i'm excited to begin aiding students with C88C topics!",
+        "imgUrl": "https://drive.google.com/open?id=1b0DC5E-v3nCyGgDDBtyr0PdGrR5h3dOT&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Annie Zhang",
+        "courses": {
+            "eecs16a": "Content Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hey everyone! :D I'm Annie, a junior studying eecs and I'm also in Launchpad! If I'm not studying, I enjoy going to the gym, spending time with friends, and watching anime (I love spy x family). I also really love listening to Taylor Swift and Cpop music a lot. \n\nExcited to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1tZhDW1Y3vMSmvI9D5zsH9jDg3ACPcr5D&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Ansh Thakkar",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Sophomore in EECS; I play tennis and basketball (Dallas Mavericks fan), and I love listening to music (even country)",
+        "imgUrl": "https://drive.google.com/open?id=1iIqMRssKYYvSGhV3jfqo7PBythWCYbmf&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Anthony Tafoya ",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi! My name is Anthony Tafoya and I am from Temecula, California. I am senior studying EECS. Excited to convince others that C is the best language!",
+        "imgUrl": "https://drive.google.com/open?id=1ZQSshkTEeVlGtjxncuJ8W4WZZkcUR-2b&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Alok Thakrar",
+        "courses": {
+            "eecs16a": "Senior Content Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "senior chipotle mentor",
+        "imgUrl": "",
+        "webUrl": "alokthakrar.github.io"
+    },
+    {
+        "name": "Averi Luo",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hello, my name is Averi and I am currently a second year! I enjoy doing crafts such as crocheting or building miniature doll houses. My favorite restaurant in Berkeley is Zhangliang Malatang :)",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Andy Yang",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi, I'm Andy, and I'm a junior studying EECS from Redmond Washington. I like swimming, tennis, Radiohead, and doom scrolling on my bed. Super excited for this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1diezXrhFoT5v8-0DakSglznfY7pRmO4r&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Bella De Vita",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hey! I’m Bella, and I’m a sophomore! I love dancing, drawing mike wazowski, and debating whether M is an upside down W or W is an upside down M. I’m interested in lots of things, like philosophy, cs, and cogsci! Reach out to talk about anything and everything, I’d love to get to know you all! :)",
+        "imgUrl": "https://drive.google.com/open?id=1w7OyUafqJfzAwP1V9jdzKOTw9YIyX3T_&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "William Xu",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a current Sophomore at UC Berkeley and I'm interested in most sports (especially ping pong), poker, fantasy sports, and catan.",
+        "imgUrl": "https://drive.google.com/open?id=1H8HnGN0dfQ1YcEIm4kQIsWd8zh7IfB8p&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Cathy Sheng",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi guys!!!! I'm Cathy Sheng, sophomore studying EECS. I'm from Palo Alto, south bay area, let me know if you are also from the bay. I love research, nlp, cv, and ai safety/ethics! I'm a big bookworm, matcha over coffee person, Swiftie, and outdoors person. ",
+        "imgUrl": "https://drive.google.com/open?id=1hVUMxZNHCQG5n9g7f9dZab94Rbszz49t&usp=drive_copy",
+        "webUrl": "https://www.linkedin.com/in/cathy-sheng"
+    },
+    {
+        "name": "Cecilia Sanjaya",
+        "courses": {
+            "eecs16b": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! My name is Cecilia and I am a third year EECS. I’m from Indonesia but I moved to Irvine, CA in 6th grade. My hobbies include exploring new things and places, making new friends, doing adrenaline activities, going to concerts, and many more. I’m so excited to be in CSM this semester!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Andy Chen",
+        "courses": {
+            "cs61b": "Content Mentor"
+        },
+        "pronouns": "",
+        "details": "Hey everyone, I'm Andy a sophomore studying DS at Berkeley. I have some experience in ML and Software Engineering. In my free time I play basketball at RSF pretty much every day, explore the bay, and try new things. Currently I listen to a lot of Kendrick and Khalid and I'm looking forward to meeting all of you guys.",
+        "imgUrl": "https://drive.google.com/open?id=1qJ2OU8mmcuP_hI90rASA1AD-NHrEEVJV&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Connor Lu",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi everyone! I’m Connor, a rising sophomore in EECS from the Bay Area. I enjoy building computers, cooking, and video games. My academic interests are computer architecture/VLSI and systems. I'm involved with the IEEE student branch and I’m excited to meet everyone! Feel free to reach out and chat with me about anything :)",
+        "imgUrl": "https://drive.google.com/open?id=1GsqIyrMNHt_uU0cu6msQwYM9urF_qT0G&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Cris Dunn",
+        "courses": {
+            "cs61a": "Content Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi, I’m Cris, I’m a junior studying CS. Ive been a 61a JM and a 70 JM, but this is my first time being a content mentor. I like reading (2666!) and biking (Cal Tri!). Im here to help so reach out for whatever :)",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Derek Sun",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi, I'm Derek from Shanghai. In my spare time I hoop and also doomscroll on reels. My personal goat is Lebron. 61A was one of the most rewarding classes I've taken at Berkeley, so looking forward to be a mentor this semester. ",
+        "imgUrl": "https://drive.google.com/open?id=1KUTFIxONS3aD_m6G1nOFtlNe4LKuJV99&usp=drive_copy",
+        "webUrl": "https://sunnidunni.github.io/"
+    },
+    {
+        "name": "Daniel Lin",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi y'all, I'm Daniel, a 3rd year EECS major from Colorado. I love watching/playing soccer, singing, playing piano, gaming, and traveling. I loved taking 61B so I'm looking forward to teaching it!",
+        "imgUrl": "https://drive.google.com/open?id=1c8Ii-0FxMH5bcCs2h8ORgdYn0TWeShmS&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Danny Ramos",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "She/Her",
+        "details": "I'm a sophomore studying EECS. My favorite class so far was CS61A (took it last semester). On my free time, I knit, read poems, and do some amateur photography. Feel free to talk to me about whatever music you've been into! ^_^",
+        "imgUrl": "https://drive.google.com/open?id=14yJCti3Dlymz4iemVLgt9_pWwQ4b8XPn&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Elaine Liu",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a senior studying Environmental Sciences and Data Science. I started coding as a sophomore in college and now I can't stop! In my free time I make jewelry, play Stardew Valley and Minecraft, and organise my database of plant and bug photos. I’m also an artist for Atrium. Excited to meet you!",
+        "imgUrl": "https://drive.google.com/open?id=1o8XaN5ei4vU5M6XnypMEA7XhdHK8gjK7&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Eric Liang",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hey everyone! I'm a third year from the Bay Area studying EECS. I've been enjoying playing pickleball and ping pong along with being on the everlasting hunt for great food in my free time. Looking forward to meet you all this semester :)",
+        "imgUrl": "https://drive.google.com/open?id=1SW8T6Fig7MvlD62yZBSLN51mkRPLiiaE&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Esha Bansiya",
+        "courses": {
+            "cs88": "Senior Content Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! My name is Esha and I'm a sophmore studying Data Science and Public Policy! I took Data C88C last fall and am super excited to support students taking it this semester. My big three are SZA, Ariana Grande, and Sabrina Carpenter. I have been really getting into exploring Berkeley and all the cool nature places around!",
+        "imgUrl": "https://drive.google.com/open?id=1RZhP7gWFifjWDZqcoFCDVIdfsBTOshkF&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Ethan Ngo",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi everyone! I'm Ethan and I'm a fourth year studying EECS. I love everything music: listening, going to live events, and discovering new music genres/songs. Feel free to reach out for anything!",
+        "imgUrl": "https://drive.google.com/open?id=1FGUX7dMsugnJQsPiI_UE4L-oMMnlyGrB&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Ethelyn Huang",
+        "courses": {
+            "cs61a": "Associate Mentor"
+        },
+        "pronouns": "She/Her",
+        "details": "Hi, I'm Ethelyn and I'm really excited to be mentoring for 61A for my second semester! I really like music, mint chocolate, and dad jokes. I'm always down to check out new restaurants or another scenic spot, but my all time favourite place in Berkeley is Noodle Dynasty <3",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Felicity Matthews",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "What's up 61squad! I'm a junior from Torrance, CA. I love swimming and mezzo! Get ready for the best semester of you life in cs61CLASSY <3 I hope you all enjoy computer architecture as much as I did! CS61Cache you later!",
+        "imgUrl": "https://drive.google.com/open?id=1mOiT09kZkxfO47ySTB-y6BwT_L-n6onB&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Gabriel Moreno",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hey!  I’m Gabe, a second-year EECS major, super excited to mentor for C88C!  I love Pokémon (Gen V!), adventure-era Sonic, sci-fi novels, vocaloid, and horror games.  I’m also happy to help newcomers to programming, since that was me when I came to Cal! ",
+        "imgUrl": "https://drive.google.com/open?id=1wFYQxI3TZCqOuSi94oeDU14ixkyiIEgR&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Gautam Bhooma",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Grant Liu",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hello! I'm Grant, and I'm from Shanghai, majoring in EECS. Feel free to talk to me about anything tech or car-related. I love them all.",
+        "imgUrl": "https://drive.google.com/open?id=17et6TT-ioB3iOKq2Z0wp1KGygw1Wgej6&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Harshil Pathri",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi! I'm Harshil and I'm a sophomore majoring in EECS. This is my first semester teaching with CSM. In my free time, I love climbing, math, and playing video games. My favorite restaurant in Berkeley is either Artichoke's or Noodle Dynasty. I'm also a part of Formula Electric at Berkeley.",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Hershraj Niranjani",
+        "courses": {
+            "cs70": "Senior Mentor"
+        },
+        "pronouns": "He/Him/His",
+        "details": "Hiya! I am Hershraj, a 3rd year EECS major from Moorpark. My interests are somewhere in between deep learning and randomized algorithms. Outside of academics, I love climbing, board games, experimental hip-hop, pizza, and yapping.",
+        "imgUrl": "https://drive.google.com/open?id=1iSuPG2373NXP3xS1LX_2euwZG8pwWo-l&usp=drive_copy",
+        "webUrl": "hershrajn.com"
+    },
+    {
+        "name": "Ishtinarah Quazi",
+        "courses": {
+            "cs70": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi, I’m Narah! I'm a senior studying CS and CogSci, with a minor in Linguistics. I’m super interested in mental health accessibility, human-computer interaction, and creative takes on tech. I love trying random hobbies, crocheting, drawing, and experimenting with coffee recipes. Excited to meet everyone this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1WiniyYMA0cgoUsRaT9L_2IIjR-Td3Evd&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jaclyn Huynh",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "hey there! im jaclyn, a sophomore majoring in DS. feel free to reach out to me for anything and i'm super excited to meet you all! :)",
+        "imgUrl": "https://drive.google.com/open?id=1NtgQXoEOi4tDTKlAGw28OWJfvSlgkfjr&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jacob Shin",
+        "courses": {
+            "cs70": "Senior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi, I’m Jacob Shin, a senior studying Computer Science. I’m a transfer student and originally from South Korea 🇰🇷! I love soccer, guitar, and lately I’ve been picking up chess. On Sundays I like heading to the Berkeley Marina to chill by the ocean. Excited to meet everyone!",
+        "imgUrl": "https://drive.google.com/open?id=1spgpaAEnTU9uArI2YFFtN4o8nTA2ZYf-&usp=drive_copy",
+        "webUrl": "https://jacobshindev.netlify.app"
+    },
+    {
+        "name": "Jacob Kwon",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi I'm Jacob and I'm interested in electrical engineering. I took 16B last semester and I'm currently taking EE 105 and 140. Some of my favorite hobbies include cooking, eating, singing, playing my guitar, or staring at the ceiling. ",
+        "imgUrl": "https://drive.google.com/open?id=11D2JKNsdqf205thvLxU1Gx8aWOBMWjvR&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jai Sharma",
+        "courses": {
+            "cs70": "Senior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Jai loves soccer, playing cards, and music. He has never tried coffee before. (Junior, EECS)",
+        "imgUrl": "https://drive.google.com/open?id=1EIWdjMmvADDLGEyJ91Yr5CCVmJaijfXq&usp=drive_copy",
+        "webUrl": "https://www.youtube.com/playlist?list=PLVjRK697Kk5sFVpUdUD-veuNveDoi9Y1m"
+    },
+    {
+        "name": "Jannah Sheriff",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi, I’m Jannah! I am a Cognitive Science/Data Science transfer student, and I am super excited to be a mentor this semester. I love to do anything creative or outdoorsy in my free time, and enjoy trying out different food spots around Berkeley. ",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Jason Tang",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hello, I'm Jason—I'm a junior EECS '27 student from LA, and I'm excited to be your mentor! I really enjoy teaching and being able to share my knowledge with others, so I hope we can be part of this journey together. In my free time, I enjoy cooking and hiking. My favorite hike of all time was the Four Mile Trail in Yosemite!",
+        "imgUrl": "https://drive.google.com/open?id=1Tak45NudY44UXvLNZ-5tZOy5nfLBQx_A&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jeffrey Gao",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! My name is Jeffrey and I am a Data Science Major from the South Bay. I'm interested in machine learning and software development. Would love to meet you if you are interested in photography, basketball, or Tottenham Hotspur! Top Berkeley food rec: Mezzo Breakfast Burrito",
+        "imgUrl": "https://drive.google.com/open?id=1rYqcGLNPd5VKRyj55YxlcPZTQ-b1T3ZD&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jenny Liang",
+        "courses": {
+            "cs88": "Senior Content Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! I'm Jenny Liang, a junior studying Data Science and Economics! This is my 3rd semester in CSM. I was born in China but moved to Ontario, California when I was 12. I enjoy drawing, cooking, and learning new languages. I enjoy listening to Kpop, Jpop, and R&B. My favorite restaurants in Berkeley are Tasty Pot and Marugami Udon, and I love exploring new drink/food places! I'm also a part of Open Project,  Behavioral Economics Association, OASIS, and SLC Economics Program! Looking forward to seeing you around campus!",
+        "imgUrl": "https://drive.google.com/open?id=1j3P69SDhH986J6MXbgZsTu7IaxrFYmrc&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jennifer Ren",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi I'm Jen and a sophomore in EECS. In my free time, I figure skate, learn dances, get food with friends, and play video games. I love spending my weekends trying a new cafe or working on projects with friends. ",
+        "imgUrl": "https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jennifer Ren",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jesslyn Ruswan",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "she/her/hers",
+        "details": "Born and raised in Indonesia. Data Science and intending in Business. I like hand lettering, traveling, food hopping, singing and cooking! Sunday nights = rooftop bbqs, board games or random things like. Fav Spot: Easterly Berkeley.",
+        "imgUrl": "https://drive.google.com/open?id=1FxRLhpZ4qhYucvUyTo9w45nWwoUz8nE3&usp=drive_copy",
+        "webUrl": "jesslynruswan.framer.website"
+    },
+    {
+        "name": "Jefferson Li",
+        "courses": {
+            "cs70": "Senior Mentor"
+        },
+        "pronouns": "He / Him",
+        "details": "Hi, I am Jefferson, a junior studying CS & Applied Math. In my free time, I like playing basketball, hiking, and watching F1 and NBA. Look forward to meeting you all!",
+        "imgUrl": "https://drive.google.com/open?id=15sZaq6yuavspBqjwZfzGg3pT-Q0clFIq&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jonathan Ngai",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "he/him/his",
+        "details": "I'm Jonathan a 4th year studying Data Science and Political Science. I've been in CSM teaching CS88 since Spring 2024. My favorite restaurant in Berkeley is Bansho Ramen, I love reading and playing vidoe games on sundays and I'm also a part of Hong Kong Student Association (HKSA) and student government (ASUC).",
+        "imgUrl": "https://drive.google.com/open?id=1A0UW-D4vY68LZr0Q-d-0awYt7xACzZ9y&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jonathan Ji",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "He/him",
+        "details": "I am a third EECS student interested in computer architecture and embedded systems. In my free time, I enjoy getting my ankles broken in soccer, sleeping, and watching silly orange cat videos. ",
+        "imgUrl": "https://drive.google.com/open?id=1R1_MEnhmi39dVnQe_xtWRMFDpvYL8fuN&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jonathan Loy",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hello :D, my name is Jonathan and I'm a 3rd year Nuclear Engineering & EECS major. Outside of academics, I love music. I play viola, bass clarinet, clarinet and other instruments, and love listening to JPop, video game music, and lofi just to name a few. I love learning so talk to me about anything!",
+        "imgUrl": "https://drive.google.com/open?id=1y9epoKHzHEfSVIMrMVH0224OSTrijXcA&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Jonny Luo",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "He/him",
+        "details": "Hi! I'm Jonny, a sophomore studying EECS, and I enjoy eating, hiking, nature, and cooking.",
+        "imgUrl": "https://drive.google.com/open?id=1VMEO_gBqwLhRNQFlmliZhYniF4y09L-M&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Joon Kim",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "He/him",
+        "details": "I am a junior at UC Berkeley majoring in EECS. My interest lies broadly in the complementary dynamics between Theoretical Computer Science and Computational Engineering and Sciences. I aspire to work in both directions, bringing the Computational Lens to other disciplines as well as being inspired by engineering and sciences for developing theoretical ideas in CS. Currently, I am working with the TI Lab for novel discoveries in DNA origami. In my free time, I usually practice playing the acoustic guitar, perform pullups, watch Netflix or YouTube, or pick up a random CS/Math textbook and hope I understand more than one sentence.",
+        "imgUrl": "https://drive.google.com/open?id=1MHF_kmGkbKnaSqv24EjqcWSNC3sDRjzb&usp=drive_copy",
+        "webUrl": "joonkim2684.github.io"
+    },
+    {
+        "name": "Jordan Velasco",
+        "courses": {
+            "eecs16b": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hello! I'm Jordan and I'm a junior EECS major, originally from Riverbank, CA. I like listening to music and trying new food. I look forward to meeting y'all. Feel free to reach out!",
+        "imgUrl": "https://drive.google.com/open?id=101lRM59fj3lZWOYYFXnCHRS1r1dCTyHo&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Joshua Lu",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi, my name is Joshua, and I'm a junior from the Bay Area studying EECS. This is my first semester in CSM, so I look forward to meeting yall!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "John Paul Tompkins",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "pronouns": "He/him",
+        "details": "Hello I'm JP a 3rd year EECS student at UC Berkeley. I took EECS16B last Spring Semester and really enjoyed it and I can't wait to help new people learn it too! I'm also part of the Cal Band so be on the lookout whenever we have Cal Events!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Jonathan Mui",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi! I'm Jonathan, a sophomore studying Data Science from Chicago! I like spending my time exploring new cities, crocheting, biking, swimming, and going on late night walks/car rides. Looking forward to meeting you all soon!",
+        "imgUrl": "https://drive.google.com/open?id=1j7qIPwTYWy4QcIzcw0Opbsn6AW57mPca&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Julia Liu",
+        "courses": {
+            "cs61b": "Associate Mentor"
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Julianna Martinez",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi!! My name is Julianna, I’m studying CS with a minor in Spanish! I love watching TV and movies in my free time, as well as reading. I’m a part of CS Scholars, Code For Good, and SCET here on campus. A fun fact is that I love martial arts and used to wrestle and do jiu jitsu.",
+        "imgUrl": "https://drive.google.com/open?id=1UjPXB-bpjaROfy4VaEcIHTLV5shtKj5V&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Julian Robin ",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi! My name is Julian and I like ducks, discussing philosophy, and meditation. I'll do my best to keep my answers concise and give you what you need to succeed in CS70.",
+        "imgUrl": "https://drive.google.com/open?id=1fO2PLTHUgBsAhl-M9u6GShMUiFTpeJhw&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Justin Yang",
+        "courses": {
+            "eecs16a": "Senior Content Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "hi",
+        "imgUrl": "https://drive.google.com/open?id=10NLHFyBK_o3roZGe5Yhh8weVOo6sTVyJ&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Joey Wong",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "hi im joey, a 3rd year CS + ECON student. I like to sleep, eat, and hoop. excited to be part of CSM this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1xNak3hnTatVDOjrOazvNyXHGwlJ93Oyo&usp=drive_copy",
+        "webUrl": "jwxng.com"
+    },
+    {
+        "name": "Kabeer Nayyar",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi! My name is Kabeer and I am a sophomore EECS/MechE major from LA. In my free time I love playing basketball, eating pizookies with my friends, and binge watching shows, especially sitcoms (please give me recs). Feel free to reach out about anything!",
+        "imgUrl": "https://drive.google.com/open?id=1jvCrHD7u8dA4LzzW0qU538g40YkZ-gbM&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Kaden Tang",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi, I’m Kaden! I’m a sophomore from the Bay studying Applied Math. Some of my academic interests are AI and knowledge representation. Outside of school, I love playing soccer (Real Madrid fan), cooking pasta (penne > spaghetti), and traveling (fav country is Singapore). Excited to meet everyone!",
+        "imgUrl": "https://drive.google.com/open?id=1-viDznXwbZoPKDy4zRLHeBcHIRoUNg1a&usp=drive_copy",
+        "webUrl": "https://tangysaurus.github.io/"
+    },
+    {
+        "name": "Keanu Chandra",
+        "courses": {
+            "cs70": "Associate Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi my name is Keanu Chandra 4th year EECS major! I like music, dogs, and food :). And yes, my favorite movie is The Matrix.",
+        "imgUrl": "https://drive.google.com/open?id=1d4suzSrHRb6WL4veMju7b2M9LLT0jaXh&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Kennedy Edwards",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hey :)) Im Kennedy, I'm from Socal but live in Texas. I love thrifting, ceramics, jewelry, and kombucha. I love artists like The Sundays, Sade, Frank, The Marias, The Internet and many more. I'm a second year here and super passionate about making CS achievable for all. If you see me say hey!\n",
+        "imgUrl": "https://drive.google.com/open?id=17EUKBxi3Rd-nxV8C2jCB4voHlYdKoA6l&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Kim Hoang",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hey, I'm Kim! I'm a CS major from SoCal. In my free time, I love skiing and building Legos. Kura Sushi is the loml so you can probably catch me there throughout the year :) Looking forward to meeting you all!",
+        "imgUrl": "https://drive.google.com/open?id=1e6GCDfSVudpFL5MSKZmhGbmZpgoS2e5w&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Lavanya Shyamsundar ",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Liberty Lauer",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! My name is Liberty, and I'm a junior studying Data Science and Economics. I love traveling, reading, playing tennis, painting, and discovering new restaurants and cafes in my free time. I'm looking forward to meeting you this semester!",
+        "imgUrl": "https://drive.google.com/open?id=1rjhGVDNleo6nMfAt-ORHMSOAc3jyT-cd&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Sam Wang",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi! I'm a computer science junior from SoCal. I enjoy hiking, trying new restaurants (add me on Beli!), and watching Ghibli movies. On campus, I've been involved in clubs like Daily Cal, Model UN, and Cal Rotaract. Feel free to reach out about internship/research advice, food recs, or anything else! ",
+        "imgUrl": "https://drive.google.com/open?id=1Urs8QARRZ3J07zOpBdd-9cSTpE33AXoc&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Luis Suarez",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hello! My name is Luis Suarez, and I am excited to be a JM for 61A (the GOAT of all classes). I play guitar, League of Legends, and love cooking and eating. I cannot wait to have a 61Amazing semester with y'all.",
+        "imgUrl": "https://drive.google.com/open?id=15mClQfcw6uL16JQktvzinmEqZEZeMboD&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Magnus Tangherlini",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hey! I'm a fourth year studying CS and Statistics from Albany, CA. I love cycling, climbing, watching good movies, and coffee! Looking forward to teaching this semester! ",
+        "imgUrl": "https://drive.google.com/open?id=1XIUCZFieO1-SV3v7x9aNbogs-f2Umt8A&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Majed AlFaraj",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": ".",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Mansoor Mamnoon",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "I’m Mansoor, a junior studying CS. I was on course staff for Data 8 and am now an RA at Clark Kerr. I spend my free time on Reddit, following cricket & tennis, and blogging. Excited to support you in 61C!",
+        "imgUrl": "",
+        "webUrl": "https://mansoor-mamnoon.github.io/personal-website/"
+    },
+    {
+        "name": "Maryam Akelyan",
+        "courses": {
+            "cs88": "Senior Content Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm Maryam, a junior majoring in Data Science and MCB! In my free time I like to watch sitcoms and sci-fi shows. Super excited to work with you all! :)",
+        "imgUrl": "https://drive.google.com/open?id=12yxLs57urETF3qlCojigFtYe9yuCtPj8&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Matthew Qi",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hiii! I'm a sophomore majoring in Data Science and this is my first time as a CSM Junior Mentor! I'm into web dev and design right now (changes a lot), and you can catch me at chess tournaments around the bay. Super excited to meet you! ",
+        "imgUrl": "https://drive.google.com/open?id=15ukRfUokdrPLFFBIEj4Pff7dpI3R6HA2&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Matthew Rodrigues",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi there! I'm Matthew, a sophomore majoring in DS + Business. I like to spend my time outside of class in RSF (if you see me there say hi!). I look forward to meeting you guys!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Maya Sriram",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! My name's Maya, and I'm an EECS and IEOR major. I don't want my section to be another boring lecture y’all have to attend, I promise I'll try my best to make things fun. If you join me, your CS understanding will grow from linear to exponential! (Sorry)",
+        "imgUrl": "https://drive.google.com/open?id=1-IpxhQCS9cY8bgbjma5HlRCqZHxM-SlT&usp=drive_copy",
+        "webUrl": "https://maya.sriram.page"
+    },
+    {
+        "name": "Maya Van",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "She/her",
+        "details": "I am a second year bioengineering major from the Bay Area.  I took my first ever CS class at Berkeley which was...difficult, so I definitely understand the struggle.  Some other things about me is that I am a full on nerd.  I love reading and playing video games when I have free time (which is not often anymore 🥲).  I also love anything related to fantasy and science fiction!",
+        "imgUrl": "https://drive.google.com/open?id=1BdVo2c_eFHUhba30Ahw8XqRMaAPp1pNq&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Melanie Liu",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi I’m Melanie! I’m currently double majoring in EECS and Data Science and this is my third semester doing CSM. Outside of academics, I enjoy skiing, crocheting, traveling, and trying new foods. I’m looking forward to meeting you all!",
+        "imgUrl": "https://drive.google.com/open?id=1kUIBOdJVMO-mYuc4hTD0RL9A6aEKz0xv&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Michael Shen",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "I like playing sports and going to the gym, and I really enjoy trying new restaurants. I also enjoy spending times with friends, whether it be studying, eating, or doing anything else. I am also a member of Berkeley Consulting.",
+        "imgUrl": "https://drive.google.com/open?id=1SyVIFqZqTRwmTHUY_dtZ3ifkNntOhZfg&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Michelle Koga",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! My name is Michelle, I’m a junior studying EECS from Lompoc, CA and this is my second time as an SM for 61B! I love swimming, reading, journaling, climbing, and drinking matcha. Looking forward to meeting everyone! :)",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Minqing Dong",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a sophomore studying Computer Science and Applied Math. Looking forward to meeting you all!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Mohammed Jasim",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hello! I’m Mohammed, a freshman studying Data Science. I love boba, indie pop music, long runs, boba, road biking, CS70, solving Rubik’s cubes (sort of) fast, and boba. I love talking about yummy food spots, goals in life, and pretty much anything else! My goal this year is to get good at ping pong.",
+        "imgUrl": "https://drive.google.com/open?id=1wp_oIO7YFpVLyxCW_VP9gbnASq0yepwY&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Mark Rhee",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hello there! My name is Mark and I'm a 2nd year (applied) math major. I like to play basketball, (try to) read, get boba, and go on hikes. Some shows I like: Andor, Rick & Morty, Brooklyn 99, White Collar, and The Diplomat. Feel free to reach out!",
+        "imgUrl": "https://drive.google.com/open?id=1IX5sRqVRNrkKZIELNmWxT8iOf8KyOI93&usp=drive_copy",
+        "webUrl": "https://mrkdh16.github.io/"
+    },
+    {
+        "name": "Nandan Diwan ",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi guys, my name is Nandan. I study physics and electrical electrical engineering here at Berkeley. I enjoy cooking and hiking. I also do some research on transistors at BETR and some ML stuff as well. ",
+        "imgUrl": "https://drive.google.com/open?id=1w3jyG8TLuCLfHlcOnB55w1yIP82YZQqQ&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Niko Dittmar",
+        "courses": {
+            "eecs16a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "I am a 3rd year EECS major and have been on CSM for 3 semesters now. Outside of class, I enjoy watching football, going to the gym, and spending time with my friends. ",
+        "imgUrl": "https://drive.google.com/open?id=1YAyIDYf7_DoYQPtRCUlXboJIGw3HjXA9&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Nithya Appannagaari",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "hi! i'm a sophomore studying eecs, i love trying new cafes, making tea, and photography. can't wait to meet you all <3",
+        "imgUrl": "https://drive.google.com/open?id=1tXinTGLc72h5id5eHvEpbiDnMuoojtjH&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Octavio Lomeli-Castro",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a senior studying CS and this is my fourth semester with CSM. Outside of courses, I enjoy CS research, teaching, leetcoding, horror movies, weightlifting, and playing SSBU. I love helping people, so always feel free to reach out about the major or for general advice!",
+        "imgUrl": "https://drive.google.com/open?id=19uHBiKvXaYan9V3bmlg854NeGkLyLyPR&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Olivia Li",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi I'm Olivia! I'm a sophomore studying EECS and I'm super excited to join CSM as a CS61B mentor. I am also a consultant in Blockchain @ Berkeley. I'm interested in blockchain, AI/ML. building creative webapps, and semiconductors. I am from Los Gatos. In my free time, I go back home, play val, paint, play golf, read, and watch horror movies. I love Taylor Swift, Ariana Grande, The Weeknd and kpop girl groups like Blackpink, IVE, and Kiss of Life. ",
+        "imgUrl": "https://drive.google.com/open?id=1NndGMcpWXdg-V1QRQvaUAw6SdNwYTxyS&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Piper Bruner",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a fourth year majoring in data science and history of art! When I'm not studying or hanging out with friends, I love to spend my time crocheting or visiting various art galleries and museums. When time allows I love getting into a good book, and I’m always on the lookout for recommendations!",
+        "imgUrl": "https://drive.google.com/open?id=1icHE21Rhne7AYVOFPqb7h1ovlQ7aY7m4&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Patrick Chi",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm Patrick, and I'm a sophomore from the Bay Area studying Data Science. I'm excited to be a 70 JM this semester and look forward to getting to know you all. In my free time, I like to play badminton, eat at croads, and explore new places.",
+        "imgUrl": "https://drive.google.com/open?id=1diddl2DOoHugyONIHyVAKjTHmZMAU8yw&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Peter Choi",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "He/him",
+        "details": "Hey! My name's Peter, and I'm a sophomore from Texas studying Applied Math. Out of class, I like playing poker, trying new foods, and staying active. I'm excited to get to know y'all!",
+        "imgUrl": "https://drive.google.com/open?id=1mpnxcZ-R9_LwBD8ycTqqJkVnVi152-9u&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Prarthan Ghosh",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm a sophomore from the south bay studying math and CS. In my free time I like playing basketball, table tennis, and napping.",
+        "imgUrl": "https://drive.google.com/open?id=1Vc438BlMGjwEOw8OMarCYLbrf8I9kWl2&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Prithvi Maddi",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi, I'm Prithvi and I'm an sophomore studying EECS. I grew up only about an hour from Berkeley, so I have been in the bay my whole life. I love to eat and will try any food. In my free time I love being outdoors, traveling, reading, and I scuba dive every time I get the chance.",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Qamil Mirza Bin Abdullah",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "I’m a Data Science & Statistics junior from Malaysia on a full-ride at Berkeley, now an ML Research Assistant at California PATH. I’ve interned in software engineering, AI, and research. I love hiking, the gym, traveling, guitar, and cooking. Big fan of MICO’s music, and I love cats and dogs!",
+        "imgUrl": "",
+        "webUrl": "https://qamil-mirza.vercel.app/"
+    },
+    {
+        "name": "Rachel Ho",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi I'm Rachel! I enjoy dancing, knitting, and eating good food! My favorite music artists are Billie Eilish and Noah Kahan, but I've recently been enjoying some good 2000s throwbacks. Excited to meet you all!",
+        "imgUrl": "https://drive.google.com/open?id=1mYClVjI1dCP-feZDycw7VAffvGPrA4SJ&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Reema Rafifar",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi everyone! I'm Reema, a junior majoring in Neuroscience & Data Science. I absolutely love movies, so come talk to me about your favorite films! Go CSM!!!",
+        "imgUrl": "https://drive.google.com/open?id=1GeKBeh94kwmy5nmwo9S-q0AfKyR13phT&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Rena Shrestha",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi, my name is Rena! I’m a sophomore majoring in Data Science with a domain emphasis in Economics. Outside of class, I love reading, photography, and traveling! I’m always looking for new books to get lost in so feel free to reach out for recommendations. Excited to get to know you all! ",
+        "imgUrl": "https://drive.google.com/open?id=1tMMttdCHOueAtHljBMUvlPF_ZQtHUQAr&usp=drive_copy",
+        "webUrl": "https://renas20.github.io/index.html"
+    },
+    {
+        "name": "Richard Li",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi! My name is Richard and I'm a second-year intending to major in economics/environmental economics and applied math with a minor in data science. In my free time I like to play soccer, basketball, and LinkedIn games!",
+        "imgUrl": "https://drive.google.com/open?id=1OtBozrscXrMrHT5SspPodGU3ct9z21FE&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Riya Sehgal",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "My name is Riya and I am a sophomore majoring in EECS. In my free time, I like to play field hockey, explore new places, and hang out with friends! ",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Rohan Bhagat",
+        "courses": {
+            "cs61c": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hello! I'm Rohan, a junior from Fremont studying DS and Cognitive Science! I love teaching and I'm super excited to have a fun time this semester! :)\n",
+        "imgUrl": "https://drive.google.com/open?id=15YA8mDf5SbJExMQb9VKmxdB2m2Cnk_7F&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Ryan Lee",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "hi i’m Rylee (or Ryan) i like cubes and jpop and keyboards and teaching and cats, and several permutations of these things",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Sahasra Kairamkonda",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hello! I'm Sahasra, a sophomore studying Data Science, and I'm excited to be a C88C Mentor this semester! I love drawing, audiodramas, and anime, and I recently got into motorsports, so come talk to me about any of those :))",
+        "imgUrl": "https://drive.google.com/open?id=1lAloBAYP-WkD6VFN4_kAkoqyL7kjWJmP&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Sam Bai",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "HI! I love folding origami and this year I plan to also be a part of the origami decal. Right now, you might find me spending a lot of time playing Hollow Knight: Silksong! My favorite food at Berkeley is the korean hot dog place on north side and I frequent Xpression too.\n",
+        "imgUrl": "https://drive.google.com/open?id=123VxE_b8ubyGf5OA2ESDBRO2EQCOM1h5&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Samuel Hudson",
+        "courses": {
+            "cs88": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hey y'all! I'm Sam, a junior studying Data Science, and I've been in CSM for 3 semesters now. I'm a huge fan of video games and animation, and I'm always up to talk about Kpop Demon Hunters, Silksong, or the up-and-coming series, The Knights of Guinevere! You can probably find me at Dyar's after school hours, or at Cheeseboard if I'm able to hitch a ride with a friend's car lol.\nI know Data C88C can be a lot, especially if it's your first time programming, but that's what we're here for! Don't hesitate to reach out if you have any questions or concerns.",
+        "imgUrl": "https://drive.google.com/open?id=1ej3mdGtKQdIciINebJiHzbCptfy0crRG&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Sareena Mann",
+        "courses": {
+            "eecs16a": "Content Mentor"
+        },
+        "pronouns": "",
+        "details": "I love robots, swimming, biking, and running :)",
+        "imgUrl": "https://drive.google.com/open?id=1xvkewbBxOwbnAUCcEx7Wb-vE0fYDb1fN&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Siya Mehta",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! My name is Siya, I'm a second year studying Computer Science, minoring in Data Science and Public Policy. I'm from Santa Rosa, California and in my free time I enjoy shopping, going to the beach, and listening to live music (my favorites are Gracie Abrams and Imogen Heap)! ",
+        "imgUrl": "https://drive.google.com/open?id=1gGcgf7_T_-0Yv_EPByI067vcEOGrjkaB&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Shannon McFadden",
+        "courses": {
+            "eecs16a": "Junior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! I'm Shannon, a second-year EECS student. I enjoy going on long walks, learning about other engineering fields, playing card games, and I'm also involved in BMUN on campus!",
+        "imgUrl": "https://drive.google.com/open?id=1KjXlO0rwM69JCEglkkzEQzyk4jZzWeqe&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Sofia Valadez",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "She/her",
+        "details": "I am from the central valley, and since moving to the Bay, I have enjoyed the nearby hiking trails, tourist traps (i’m sorry), reading, and combining all three. I am super excited to start this semester and can’t wait to meet all of you!",
+        "imgUrl": "https://drive.google.com/open?id=1jA6o9dXkBkMLPQ8LlU991ptDuRcpY8yl&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Soumyadeep Talukdar",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hello! My name is Soumyadeep and I'm a neuroscience major and data science minor. My interests lie in synthetic biology and the brain, and I'm interested in how people can use computational tools to study these fields. In my free time, I enjoy going on hikes, exploring new places, and watching TV shows! I'm looking forward to mentoring CS 88 this semester!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Sydney Tung",
+        "courses": {
+            "cs70": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "hi im sydney :)",
+        "imgUrl": "https://drive.google.com/open?id=19g7a_USgQDUL8xcpIPTPT73Sc8yh5nbu&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Tanusha Kaushik",
+        "courses": {
+            "cs88": "Senior Content Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hiii my name is Tanusha and I am a third year studying Cognitive Science and Computer Science. Relevant courses that I have taken are the CS 61 series, CS 70, and Data 8. The classes I enjoyed the most were CS 61B and CS61C. I hope to provide a support system that gives you the safe space and resources to enjoy these cool courses as much as I did! I'm also always down to discuss books, tv shows, the reality TV show survivor, and the best foodie places across Berkeley.",
+        "imgUrl": "https://drive.google.com/open?id=1ymdl4Ika6hCJ1HlrZMLF94FKIM4sO3aL&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Tavisha Patel",
+        "courses": {
+            "cs61a": "Senior Content Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hi! I'm Tavisha, and I am a sophomore studying EECS! This is my second semester at CSM, and I took CS61A last fall. In my free time, I like to read, play the piano, and play New York Times games. I'm looking forward to this semester!",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Valerie Eng",
+        "courses": {
+            "cs61b": "Junior Mentor"
+        },
+        "pronouns": "She/Her",
+        "details": "I love: 61B, volleyball, codenames, hojicha, ikea runs, Ruel, r&b, Severance",
+        "imgUrl": "https://drive.google.com/open?id=1Dmk_9kYbJrxQJnssDnPwQTnApvHT5fAp&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Victor Hong",
+        "courses": {
+            "cs61c": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi :)\nI'm a Junior EECS student.\nI love snowboarding and playing video games.",
+        "imgUrl": "https://drive.google.com/open?id=1qXCe6RPLf4mNhvPWWi7iZDr33af7q1x1&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Vivek Putta",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Wassup I'm Vivek, a junior studying EECS. I love to read, lift and hoop and otherwise avoid coding. ",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Woody Aung",
+        "courses": {
+            "cs70": "Junior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hello, my name is Woody. I am a senior majoring in EECS. I am also a transfer student. I am more focused on the CS side of EECS, so I have taken courses about operating systems and computers. I also like to walk around and eat out often. One of my favorite restaurants is The  Cheeseboard.",
+        "imgUrl": "https://drive.google.com/open?id=1S5B7CcJ1Oi3wwRBIZIg9b2RTtlkLpvqG&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Yale Han",
+        "courses": {
+            "cs61a": "Senior Mentor"
+        },
+        "pronouns": "she/her",
+        "details": "Hey there! I’m Yale, and this is my sixth semester in CSM. I’m from Fremont, CA, and I’m a senior majoring in CS and DS. I love gymming, cafe-hopping, and going on day trips! Feel free to reach out about anything :)",
+        "imgUrl": "https://drive.google.com/open?id=1h46DnP_NgYT3Pn0KSd-yxRBpoM_Lb3UB&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Yiran Hu",
+        "courses": {
+            "cs88": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "\nHi everyone! My name is Yiran, I am a first year student studying Applied Mathematics! In my free time, I love playing tennis, squash, and Rubik’s Cubes. I also enjoy biking around Berkeley and San Francisco. My favorite show is Sherlock. Also, my favorite animal is camal🐪. ",
+        "imgUrl": "https://drive.google.com/open?id=1PrY9RRw_Laj4_QbssFTb3SzmVIRlTwA9&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Enoch Chen",
+        "courses": {
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "he/him",
+        "details": "Hi everyone! I’m a junior studying CS and Applied Math. I enjoy playing badminton and games in my free time. This is my 2nd time being an SM for 61C. I'm super excited to be back! Can’t wait to learn and have fun with you all!",
+        "imgUrl": "https://drive.google.com/open?id=1cBC_UcLblwr0YpXxJCZcYMr04giHSspD&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Yuki Chen",
+        "courses": {
+            "cs61b": "Content Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I'm Yuki and I'm a junior major in Computer Science. This is my 3rd semester in CSM. Outside of classes, I love exploring new restaurants, dance and watching concerts. Feel free to reach out to me for anything: )",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
+        "name": "Zayna Lateef",
+        "courses": {
+            "eecs16b": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! My name is Zayna and I am a senior EECS student. I am from Orange County, California and love all things outdoors especially the beach. I love exploring new coffee shops in SF, cooking/baking new recipes and playing soccer. My favorite artists are Daniel Caesar and Kaytranada and I love ridiculous comedy movies. Looking forward to helping yall through 16B!",
+        "imgUrl": "https://drive.google.com/open?id=1sBfQ8kvT59oZizBGqJlT3nwaXlNOUrcc&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Zeno Song",
+        "courses": {
+            "cs61a": "Junior Mentor"
+        },
+        "pronouns": "",
+        "details": "What’s up I’m Zeno! I’m a sophomore from Beijing studying applied math and data science. I love music and guitar! My favourite artists are Guns N’ Roses, Led Zeppelin, Jimi Hendrix, Pink Floyd, Nirvana, Iron Maiden (you’ll see me wear their merch A LOT), Megadeth, Trivium, Death, Rammstein, the Strokes, and Wakin Chau. I worship Slash and Dave Mustaine before sleep and love Les Pauls. I also love aviation and automobiles. Trijets and Bugattis are goated.",
+        "imgUrl": "https://drive.google.com/open?id=11zfn0MMauRz6WpSYjVSgWBdD4C0IErWj&usp=drive_copy",
+        "webUrl": ""
+    }
 ]
