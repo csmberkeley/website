@@ -2,110 +2,116 @@
     {
         "name": "Angie Baik",
         "imgUrl": "",
-        "position": "Exec",
+        "position": "Communications Chair",
         "pronouns": ""
     },
     {
         "name": "Alvin Lin",
         "imgUrl": "https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy",
-        "position": "Exec",
+        "position": "Media Chair",
         "pronouns": ""
     },
     {
         "name": "Chrys Thomas",
         "imgUrl": "https://drive.google.com/open?id=1ioJp9kpmfbDqZseMwC9Glq214YqaTYhS&usp=drive_copy",
-        "position": "Exec",
+        "position": "DE&I Chair",
         "pronouns": "He/Him"
     },
     {
         "name": "Dhruva Bhagwat",
         "imgUrl": "",
-        "position": "Exec",
+        "position": "CS 88 Co-ord",
         "pronouns": "he/him"
     },
     {
         "name": "Ella Hammond",
         "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 88 Co-ord",
         "pronouns": ""
     },
     {
         "name": "Jia Jun Luo",
         "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 70 Co-ord",
         "pronouns": "he/him"
     },
     {
         "name": "Lenci Ni",
         "imgUrl": "",
-        "position": "Exec",
+        "position": "Communications Chair",
         "pronouns": ""
     },
     {
         "name": "Mallika Agrawal",
         "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
-        "position": "Exec",
+        "position": "EECS 16A Co-ord",
         "pronouns": "she/her/hers"
     },
     {
         "name": "Paulina A.",
         "imgUrl": "https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 61A Co-ord",
         "pronouns": "she/her"
     },
     {
         "name": "Pooja Agarwal",
         "imgUrl": "https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 61A Co-ord",
         "pronouns": "she/her"
     },
     {
         "name": "Richard Yu",
         "imgUrl": "https://drive.google.com/open?id=1IthxjvXxYnc_xM5JqITK_Xxoa0Vi4dou&usp=drive_copy",
-        "position": "Exec",
+        "position": "Advisor",
         "pronouns": ""
     },
     {
         "name": "Robert Tian",
         "imgUrl": "https://drive.google.com/open?id=1QitsWUMoiGsSWrQHYAv6Ld98xLiZF2Qz&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 61B Co-ord",
         "pronouns": "he/him/his"
     },
     {
         "name": "Robert Zhang",
         "imgUrl": "https://drive.google.com/open?id=1y4S1gq2h2sS4Lzy2iFTlG64UrDVmbIuH&usp=drive_copy",
-        "position": "Exec",
+        "position": "EECS 16B Co-ord",
         "pronouns": ""
     },
     {
         "name": "Shashwat Bansal",
         "imgUrl": "https://drive.google.com/open?id=1lvi_VAoo4dyitSSb_vE9_d4HubmBgnPj&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 61C Co-ord",
         "pronouns": ""
     },
     {
         "name": "Alex Um",
         "imgUrl": "",
-        "position": "Exec",
+        "position": "CS 61C Co-ord",
         "pronouns": "He/Him"
     },
     {
         "name": "Thanh Tran",
         "imgUrl": "https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy",
-        "position": "Exec",
+        "position": "CS 70 Co-ord",
         "pronouns": "he/him"
     },
     {
         "name": "Viviana Tran",
         "imgUrl": "https://drive.google.com/open?id=1uYN6AsqnuDd-5i4apU5fhI4y2A8wbPIT&usp=drive_copy",
-        "position": "Exec",
+        "position": "President",
         "pronouns": "She/Her"
     },
     {
         "name": "Gabriel Han",
-        "imgUrl": "",
-        "position": "Exec",
+        "imgUrl": "https://drive.google.com/open?id=1RL1Sl3IIDtXUc-JxLb0Zk-I4rhC5rn5u&usp=drive_copy",
+        "position": "Tech Chair",
         "pronouns": "he/him"
+    },
+    {
+        "name": "Heidi Chan",
+        "imgUrl": "",
+        "position": "Tech Chair",
+        "pronouns": "she/her"
     },
     {
         "name": "Gabriel Classon",

@@ -138,9 +138,17 @@
     {
         "name": "Gabriel Han",
         "role": "Tech Chair",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/open?id=1RL1Sl3IIDtXUc-JxLb0Zk-I4rhC5rn5u&usp=drive_copy",
         "pronouns": "he/him",
         "details": "Hi there",
+        "webUrl": ""
+    },
+    {
+        "name": "Heidi Chan",
+        "role": "Tech Chair",
+        "imgUrl": "",
+        "pronouns": "she/her",
+        "details": "Hello!",
         "webUrl": ""
     }
 ]
