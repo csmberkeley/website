@@ -40,6 +40,16 @@
         "webUrl": ""
     },
     {
+        "name": "Anish Shrestha",
+        "courses": {
+            "cs61c": "Senior Mentor"
+        },
+        "pronouns": "He/Him",
+        "details": "Hi! I'm Anish, a Junior studying EECS. I am really into sports, especially Ultimate Frisbee, and I've recently gotten into volleyball. If you ever see me around, say hi!",
+        "imgUrl": "https://drive.google.com/open?id=170eQAbaRcNIWfM0cFYOJaAdhSOKGn1Dj&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
         "name": "Ansel Flores",
         "courses": {
             "cs61c": "Junior Mentor"
@@ -836,7 +846,7 @@
         },
         "pronouns": "He/Him",
         "details": "Hi there! I'm Matthew, a sophomore majoring in DS + Business. I like to spend my time outside of class in RSF (if you see me there say hi!). I look forward to meeting you guys!",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/open?id=1iCmUNPyLGBXBrS57p0JKOHVOewdq_ihK&usp=drive_copy",
         "webUrl": ""
     },
     {
@@ -875,7 +885,7 @@
             "cs61a": "Junior Mentor"
         },
         "pronouns": "He/Him",
-        "details": "I like playing sports and going to the gym, and I really enjoy trying new restaurants. I also enjoy spending times with friends, whether it be studying, eating, or doing anything else. I am also a member of Berkeley Consulting.",
+        "details": "Hi Everyone! My name’s Michael and I’m stoked to be a mentor for 61A. In my free time, I like playing sports, going to the gym, and trying new restaurants. Looking forward to meeting y’all!",
         "imgUrl": "https://drive.google.com/open?id=1SyVIFqZqTRwmTHUY_dtZ3ifkNntOhZfg&usp=drive_copy",
         "webUrl": ""
     },
@@ -985,7 +995,7 @@
             "cs70": "Junior Mentor"
         },
         "pronouns": "",
-        "details": "Hi! I'm Patrick, and I'm a sophomore from the Bay Area studying Data Science. I'm excited to be a 70 JM this semester and look forward to getting to know you all. In my free time, I like to play badminton, eat at croads, and explore new places.",
+        "details": "Hi! I'm Patrick, and I'm a sophomore from the Bay Area studying Data Science. I'm excited to be a JM this semester and look forward to getting to know you all. In my free time, I like to play badminton, eat at croads, and explore new places.",
         "imgUrl": "https://drive.google.com/open?id=1diddl2DOoHugyONIHyVAKjTHmZMAU8yw&usp=drive_copy",
         "webUrl": ""
     },

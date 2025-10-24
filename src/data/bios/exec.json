@@ -16,6 +16,14 @@
         "webUrl": "https://open.spotify.com/playlist/0Z4SoXgwNIgXZNIkqMnb0i?si=cc5c98b297994940"
     },
     {
+        "name": "Carolyn Liu",
+        "role": "External Vice President",
+        "imgUrl": "",
+        "pronouns": "",
+        "details": "",
+        "webUrl": ""
+    },
+    {
         "name": "Chrys Thomas",
         "role": "DE&I Chair",
         "imgUrl": "https://drive.google.com/open?id=1ioJp9kpmfbDqZseMwC9Glq214YqaTYhS&usp=drive_copy",
@@ -61,6 +69,14 @@
         "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
         "pronouns": "she/her/hers",
         "details": "Hi everyone! My name is Mallika, and I'm a 3rd-year EECS major from the Bay Area. I love baking, going to the gym, knitting, and trying new cuisines.",
+        "webUrl": ""
+    },
+    {
+        "name": "Mohamed Ganda",
+        "role": "Internal Vice President",
+        "imgUrl": "https://drive.google.com/open?id=1iZvorPOY89MfZ71OXMcUw6ckX3wZEFN3&usp=drive_copy",
+        "pronouns": "He/Him",
+        "details": "",
         "webUrl": ""
     },
     {
@@ -146,7 +162,7 @@
     {
         "name": "Heidi Chan",
         "role": "Tech Chair",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/open?id=1sz4-fzTWTxV-0_FZt0e7pWb82k-sDAHn&usp=drive_copy",
         "pronouns": "she/her",
         "details": "Hello!",
         "webUrl": ""
