@@ -1,51 +1,21 @@
 [
     {
-        "name": "Angie Baik",
-        "imgUrl": "",
-        "position": "Communications Chair",
-        "pronouns": ""
+        "name": "Viviana Tran",
+        "imgUrl": "https://drive.google.com/open?id=1uYN6AsqnuDd-5i4apU5fhI4y2A8wbPIT&usp=drive_copy",
+        "position": "President",
+        "pronouns": "She/Her"
     },
     {
-        "name": "Alvin Lin",
-        "imgUrl": "https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy",
-        "position": "Media Chair",
-        "pronouns": ""
-    },
-    {
-        "name": "Chrys Thomas",
-        "imgUrl": "https://drive.google.com/open?id=1ioJp9kpmfbDqZseMwC9Glq214YqaTYhS&usp=drive_copy",
-        "position": "DE&I Chair",
+        "name": "Mohamed Ganda",
+        "imgUrl": "https://drive.google.com/open?id=1Nv-yN1RVm11QBmaQSHu_IeVP1rufA45h&usp=drive_copy",
+        "position": "Internal Vice President",
         "pronouns": "He/Him"
     },
     {
-        "name": "Dhruva Bhagwat",
+        "name": "Carolyn Liu",
         "imgUrl": "",
-        "position": "CS 88 Co-ord",
-        "pronouns": "he/him"
-    },
-    {
-        "name": "Ella Hammond",
-        "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
-        "position": "CS 88 Co-ord",
+        "position": "External Vice President",
         "pronouns": ""
-    },
-    {
-        "name": "Jia Jun Luo",
-        "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
-        "position": "CS 70 Co-ord",
-        "pronouns": "he/him"
-    },
-    {
-        "name": "Lenci Ni",
-        "imgUrl": "",
-        "position": "Communications Chair",
-        "pronouns": ""
-    },
-    {
-        "name": "Mallika Agrawal",
-        "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
-        "position": "EECS 16A Co-ord",
-        "pronouns": "she/her/hers"
     },
     {
         "name": "Paulina A.",
@@ -60,28 +30,10 @@
         "pronouns": "she/her"
     },
     {
-        "name": "Richard Yu",
-        "imgUrl": "https://drive.google.com/open?id=1IthxjvXxYnc_xM5JqITK_Xxoa0Vi4dou&usp=drive_copy",
-        "position": "Advisor",
-        "pronouns": ""
-    },
-    {
         "name": "Robert Tian",
         "imgUrl": "https://drive.google.com/open?id=1QitsWUMoiGsSWrQHYAv6Ld98xLiZF2Qz&usp=drive_copy",
         "position": "CS 61B Co-ord",
         "pronouns": "he/him/his"
-    },
-    {
-        "name": "Robert Zhang",
-        "imgUrl": "https://drive.google.com/open?id=1y4S1gq2h2sS4Lzy2iFTlG64UrDVmbIuH&usp=drive_copy",
-        "position": "EECS 16B Co-ord",
-        "pronouns": ""
-    },
-    {
-        "name": "Shashwat Bansal",
-        "imgUrl": "https://drive.google.com/open?id=1lvi_VAoo4dyitSSb_vE9_d4HubmBgnPj&usp=drive_copy",
-        "position": "CS 61C Co-ord",
-        "pronouns": ""
     },
     {
         "name": "Alex Um",
@@ -90,16 +42,70 @@
         "pronouns": "He/Him"
     },
     {
+        "name": "Shashwat Bansal",
+        "imgUrl": "https://drive.google.com/open?id=1lvi_VAoo4dyitSSb_vE9_d4HubmBgnPj&usp=drive_copy",
+        "position": "CS 61C Co-ord",
+        "pronouns": ""
+    },
+    {
+        "name": "Jia Jun Luo",
+        "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
+        "position": "CS 70 Co-ord",
+        "pronouns": "he/him"
+    },
+    {
         "name": "Thanh Tran",
         "imgUrl": "https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy",
         "position": "CS 70 Co-ord",
         "pronouns": "he/him"
     },
     {
-        "name": "Viviana Tran",
-        "imgUrl": "https://drive.google.com/open?id=1uYN6AsqnuDd-5i4apU5fhI4y2A8wbPIT&usp=drive_copy",
-        "position": "President",
-        "pronouns": "She/Her"
+        "name": "Dhruva Bhagwat",
+        "imgUrl": "",
+        "position": "CS 88 Co-ord",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Ella Hammond",
+        "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
+        "position": "CS 88 Co-ord",
+        "pronouns": ""
+    },
+    {
+        "name": "Mallika Agrawal",
+        "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
+        "position": "EECS 16A Co-ord",
+        "pronouns": "she/her/hers"
+    },
+    {
+        "name": "Robert Zhang",
+        "imgUrl": "https://drive.google.com/open?id=1y4S1gq2h2sS4Lzy2iFTlG64UrDVmbIuH&usp=drive_copy",
+        "position": "EECS 16B Co-ord",
+        "pronouns": ""
+    },
+    {
+        "name": "Angie Baik",
+        "imgUrl": "",
+        "position": "Communications Chair",
+        "pronouns": ""
+    },
+    {
+        "name": "Lenci Ni",
+        "imgUrl": "",
+        "position": "Communications Chair",
+        "pronouns": ""
+    },
+    {
+        "name": "Chrys Thomas",
+        "imgUrl": "https://drive.google.com/open?id=1ioJp9kpmfbDqZseMwC9Glq214YqaTYhS&usp=drive_copy",
+        "position": "DE&I Chair",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Alvin Lin",
+        "imgUrl": "https://drive.google.com/open?id=1dT_yC_2tFNpo-xVQnj-1yWKJSTSqjB_S&usp=drive_copy",
+        "position": "Media Chair",
+        "pronouns": ""
     },
     {
         "name": "Gabriel Han",
@@ -114,28 +120,10 @@
         "pronouns": "she/her"
     },
     {
-        "name": "Gabriel Classon",
-        "imgUrl": "",
-        "position": "Advisor",
-        "pronouns": "he/him"
-    },
-    {
-        "name": "Richard Yu",
-        "imgUrl": "https://drive.google.com/open?id=1IthxjvXxYnc_xM5JqITK_Xxoa0Vi4dou&usp=drive_copy",
-        "position": "Advisor",
-        "pronouns": "he/him"
-    },
-    {
         "name": "Alec Li",
         "imgUrl": "",
         "position": "Advisor",
         "pronouns": "he/him/his"
-    },
-    {
-        "name": "Edward Lee",
-        "imgUrl": "",
-        "position": "Advisor",
-        "pronouns": "he/him"
     },
     {
         "name": "Christine Zhang",
@@ -144,19 +132,31 @@
         "pronouns": "she/her"
     },
     {
-        "name": "Steven Luo",
+        "name": "Edward Lee",
         "imgUrl": "",
         "position": "Advisor",
-        "pronouns": ""
+        "pronouns": "he/him"
     },
     {
-        "name": "Suchir Agarwal",
+        "name": "Gabriel Classon",
         "imgUrl": "",
         "position": "Advisor",
         "pronouns": "he/him"
     },
     {
         "name": "Grant Zhao",
+        "imgUrl": "",
+        "position": "Advisor",
+        "pronouns": ""
+    },
+    {
+        "name": "Richard Yu",
+        "imgUrl": "https://drive.google.com/open?id=1IthxjvXxYnc_xM5JqITK_Xxoa0Vi4dou&usp=drive_copy",
+        "position": "Advisor",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Steven Luo",
         "imgUrl": "",
         "position": "Advisor",
         "pronouns": ""
