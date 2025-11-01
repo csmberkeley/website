@@ -310,6 +310,18 @@
         "webUrl": ""
     },
     {
+        "name": "Danny Lam",
+        "courses": {
+            "eecs16a": "Senior Mentor Advisor",
+            "eecs16b": "Senior Mentor"
+            
+        },
+        "pronouns": "",
+        "details": "",
+        "imgUrl": "",
+        "webUrl": ""
+    },
+    {
         "name": "Danny Ramos",
         "courses": {
             "cs61a": "Junior Mentor"
@@ -347,6 +359,17 @@
         "pronouns": "she/her",
         "details": "Hi! My name is Esha and I'm a sophmore studying Data Science and Public Policy! I took Data C88C last fall and am super excited to support students taking it this semester. My big three are SZA, Ariana Grande, and Sabrina Carpenter. I have been really getting into exploring Berkeley and all the cool nature places around!",
         "imgUrl": "https://drive.google.com/open?id=1RZhP7gWFifjWDZqcoFCDVIdfsBTOshkF&usp=drive_copy",
+        "webUrl": ""
+    },
+    {
+        "name": "Ethan Gale",
+        "courses": {
+            "cs61a": "Senior Mentor",
+            "cs61b": "Senior Mentor"
+        },
+        "pronouns": "",
+        "details": "Hi! I like to run and lift but in a chill way. Meow :3",
+        "imgUrl": "https://drive.google.com/open?id=1sRNXZhNyj1oe4mDL88bk7KrNUlk2FFTd&usp=drive_copy",
         "webUrl": ""
     },
     {
@@ -526,16 +549,6 @@
         },
         "pronouns": "she/her",
         "details": "Hi I'm Jen and a sophomore in EECS. In my free time, I figure skate, learn dances, get food with friends, and play video games. I love spending my weekends trying a new cafe or working on projects with friends. ",
-        "imgUrl": "https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy",
-        "webUrl": ""
-    },
-    {
-        "name": "Jennifer Ren",
-        "courses": {
-            "eecs16a": "Senior Mentor"
-        },
-        "pronouns": "",
-        "details": "",
         "imgUrl": "https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy",
         "webUrl": ""
     },
@@ -992,7 +1005,8 @@
     {
         "name": "Patrick Chi",
         "courses": {
-            "cs70": "Junior Mentor"
+            "cs70": "Junior Mentor",
+            "cs61b": "Junior Mentor"
         },
         "pronouns": "",
         "details": "Hi! I'm Patrick, and I'm a sophomore from the Bay Area studying Data Science. I'm excited to be a JM this semester and look forward to getting to know you all. In my free time, I like to play badminton, eat at croads, and explore new places.",
@@ -1085,8 +1099,8 @@
             "cs61b": "Junior Mentor"
         },
         "pronouns": "she/her",
-        "details": "My name is Riya and I am a sophomore majoring in EECS. In my free time, I like to play field hockey, explore new places, and hang out with friends! ",
-        "imgUrl": "",
+        "details": "Hey, I’m Riya and I am a sophomore studying EECS. In my free time, I like to play field hockey, take photos, and hang out with my friends. Looking forward to meeting you all! ",
+        "imgUrl": "https://drive.google.com/open?id=1kp3LcCNGPCopNGMOwaN2ArAWVAV6Shhz&usp=drive_copy",
         "webUrl": ""
     },
     {
@@ -1106,7 +1120,7 @@
         },
         "pronouns": "he/him",
         "details": "hi i’m Rylee (or Ryan) i like cubes and jpop and keyboards and teaching and cats, and several permutations of these things",
-        "imgUrl": "",
+        "imgUrl": "https://drive.google.com/open?id=1Kyl00o_c9Du_XYGW9cxeztYhmXLckU6I&usp=drive_copy",
         "webUrl": ""
     },
     {
