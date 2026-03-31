@@ -21,6 +21,7 @@ import sp24 from "../data/team/sp24.json";
 import fa24 from "../data/team/fa24.json";
 import sp25 from "../data/team/sp25.json";
 import fa25 from "../data/team/fa25.json";
+import sp26 from "../data/team/sp26.json";
 
 import { duties } from "../labels/TeamLabels";
 import * as utils from "./utils";
@@ -45,6 +46,7 @@ const SEMESTERS = [
     "fa24",
     "sp25",
     "fa25",
+    "sp26",
 ].slice(-4);
 
 interface NewOfficer {
@@ -105,6 +107,8 @@ function getOfficerTeamFromSemStr(semester: string): Officer[] {
             return sp25.map(newDiscriminator);
         case "fa25":
             return fa25.map(newDiscriminator);
+        case "sp26":
+            return sp26.map(newDiscriminator);
         default:
             throw new Error(`Bad semester provided: ${semester}`);
     }

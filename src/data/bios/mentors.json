@@ -291,11 +291,11 @@
         "webUrl": ""
     },
     {
-        "name": "Matthew",
+        "name": "Matthew Zárate",
         "courses": {
-            "": "Associate Mentor"
+            "cs61b": "Associate Mentor"
         },
-        "pronouns": "Zárate",
+        "pronouns": "",
         "details": "Hai there. ",
         "imgUrl": "https://drive.google.com/open?id=1IkJnGmlN31M5tsDTa1tFvRmyuaWNC1jL&usp=drive_copy",
         "webUrl": ""
@@ -603,7 +603,7 @@
     {
         "name": "Anousha Athreya",
         "courses": {
-            "": "Associate Mentor"
+            "cs61c": "Associate Mentor"
         },
         "pronouns": "she/her",
         "details": "hey everyone! i'm Anousha, a senior studying EECS from san jose and I took cs61c my sophomore year and loved it! I like binging mystery and detective shows, doing sudoku in my free time, and the strawberry blueberry smoothie from sutardjia dai yali's is my favorite :) ",
