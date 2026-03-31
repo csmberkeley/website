@@ -41,7 +41,7 @@
     },
     {
         "name": "Dhruva Bhagwat",
-        "position": "Internal Vice President",
+        "role": "Internal Vice President",
         "imgUrl": "",
         "pronouns": "he/him/his",
         "details": "",
@@ -49,7 +49,7 @@
     },
     {
         "name": "Ella Hammond",
-        "position": "Data C88C Co-ordinator",
+        "role": "Data C88C Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
         "pronouns": "any pronouns",
         "details": "",
@@ -57,7 +57,7 @@
     },
     {
         "name": "Julia Liu",
-        "position": "Media Chair",
+        "role": "Media Chair",
         "imgUrl": "",
         "pronouns": "She/her/hers",
         "details": "",
@@ -65,7 +65,7 @@
     },
     {
         "name": "Alex Um",
-        "position": "CS 61C Co-ordinator",
+        "role": "CS 61C Co-ordinator",
         "imgUrl": "",
         "pronouns": "",
         "details": "",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Pooja Agarwal",
-        "position": "External Vice President",
+        "role": "External Vice President",
         "imgUrl": "https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy",
         "pronouns": "she/her",
         "details": "",
@@ -81,7 +81,7 @@
     },
     {
         "name": "Max Phillips",
-        "position": "EECS 16B Co-ordinator",
+        "role": "EECS 16B Co-ordinator",
         "imgUrl": "",
         "pronouns": "",
         "details": "",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Rohan Bhagat",
-        "position": "CS 61C Co-ordinator",
+        "role": "CS 61C Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=15YA8mDf5SbJExMQb9VKmxdB2m2Cnk_7F&usp=drive_copy",
         "pronouns": "He/him",
         "details": "",
@@ -97,7 +97,7 @@
     },
     {
         "name": "Reema Rafifar",
-        "position": "CS 61A Co-ordinator",
+        "role": "CS 61A Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1GeKBeh94kwmy5nmwo9S-q0AfKyR13phT&usp=drive_copy",
         "pronouns": "she/her",
         "details": "",
@@ -105,7 +105,7 @@
     },
     {
         "name": "Michelle Koga",
-        "position": "CS 61B Co-ordinator",
+        "role": "CS 61B Co-ordinator",
         "imgUrl": "",
         "pronouns": "she/her",
         "details": "",
@@ -113,7 +113,7 @@
     },
     {
         "name": "Lenci Ni",
-        "position": "Communications Chair",
+        "role": "Communications Chair",
         "imgUrl": "",
         "pronouns": "",
         "details": "",
@@ -121,7 +121,7 @@
     },
     {
         "name": "Maryam Akelyan",
-        "position": "Data C88C Co-ordinator",
+        "role": "Data C88C Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=12yxLs57urETF3qlCojigFtYe9yuCtPj8&usp=drive_copy",
         "pronouns": "she/her",
         "details": "",
@@ -129,7 +129,7 @@
     },
     {
         "name": "Jonathan Loy",
-        "position": "EECS 16A Co-ordinator",
+        "role": "EECS 16A Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1y9epoKHzHEfSVIMrMVH0224OSTrijXcA&usp=drive_copy",
         "pronouns": "",
         "details": "",
@@ -137,7 +137,7 @@
     },
     {
         "name": "Pranav Bhatt",
-        "position": "Socials Chair",
+        "role": "Socials Chair",
         "imgUrl": "",
         "pronouns": "He/him",
         "details": "",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Paulina Ai",
-        "position": "CS 61A Co-ordinator",
+        "role": "CS 61A Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy",
         "pronouns": "",
         "details": "",
@@ -153,7 +153,7 @@
     },
     {
         "name": "Enming Zhang",
-        "position": "Communications Chair",
+        "role": "Communications Chair",
         "imgUrl": "",
         "pronouns": "He/him/his",
         "details": "",
@@ -161,7 +161,7 @@
     },
     {
         "name": "Mallika Agrawal",
-        "position": "EECS 16A Co-ordinator",
+        "role": "EECS 16A Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
         "pronouns": "she/her/hers",
         "details": "",
@@ -169,7 +169,7 @@
     },
     {
         "name": "George Huang",
-        "position": "CS 61B Co-ordinator",
+        "role": "CS 61B Co-ordinator",
         "imgUrl": "",
         "pronouns": "He/him",
         "details": "",
@@ -177,7 +177,7 @@
     },
     {
         "name": "Nandan Diwan",
-        "position": "EECS 16B Co-ordinator",
+        "role": "EECS 16B Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1w3jyG8TLuCLfHlcOnB55w1yIP82YZQqQ&usp=drive_copy",
         "pronouns": "He/Him",
         "details": "",
@@ -185,7 +185,7 @@
     },
     {
         "name": "Mohamed Ganda",
-        "position": "President",
+        "role": "President",
         "imgUrl": "https://drive.google.com/open?id=1Nv-yN1RVm11QBmaQSHu_IeVP1rufA45h&usp=drive_copy",
         "pronouns": "He/him",
         "details": "",
