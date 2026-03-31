@@ -1,9 +1,21 @@
 [
     {
+        "name": "Mohamed Ganda",
+        "position": "President",
+        "imgUrl": "https://drive.google.com/open?id=1Nv-yN1RVm11QBmaQSHu_IeVP1rufA45h&usp=drive_copy",
+        "pronouns": "He/him"
+    },
+    {
         "name": "Dhruva Bhagwat",
         "position": "Internal Vice President",
         "imgUrl": "",
         "pronouns": "he/him/his"
+    },
+    {
+        "name": "Pooja Agarwal",
+        "position": "External Vice President",
+        "imgUrl": "https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy",
+        "pronouns": "she/her"
     },
     {
         "name": "Jia Jun Luo",
@@ -30,12 +42,6 @@
         "pronouns": ""
     },
     {
-        "name": "Pooja Agarwal",
-        "position": "External Vice President",
-        "imgUrl": "https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy",
-        "pronouns": "she/her"
-    },
-    {
         "name": "Max Phillips",
         "position": "EECS 16B Co-ordinator",
         "imgUrl": "",
@@ -58,12 +64,6 @@
         "position": "CS 61A Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1GeKBeh94kwmy5nmwo9S-q0AfKyR13phT&usp=drive_copy",
         "pronouns": "she/her"
-    },
-    {
-        "name": "Heidi Chan",
-        "position": "Tech Chair",
-        "imgUrl": "https://drive.google.com/open?id=1sz4-fzTWTxV-0_FZt0e7pWb82k-sDAHn&usp=drive_copy",
-        "pronouns": ""
     },
     {
         "name": "Michelle Koga",
@@ -132,15 +132,15 @@
         "pronouns": "He/Him"
     },
     {
+        "name": "Heidi Chan",
+        "position": "Tech Chair",
+        "imgUrl": "https://drive.google.com/open?id=1sz4-fzTWTxV-0_FZt0e7pWb82k-sDAHn&usp=drive_copy",
+        "pronouns": ""
+    },
+    {
         "name": "Gabriel Han",
         "position": "Tech Chair",
         "imgUrl": "https://drive.google.com/open?id=1RL1Sl3IIDtXUc-JxLb0Zk-I4rhC5rn5u&usp=drive_copy",
         "pronouns": ""
-    },
-    {
-        "name": "Mohamed Ganda",
-        "position": "President",
-        "imgUrl": "https://drive.google.com/open?id=1Nv-yN1RVm11QBmaQSHu_IeVP1rufA45h&usp=drive_copy",
-        "pronouns": "He/him"
     }
 ]

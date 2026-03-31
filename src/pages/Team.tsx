@@ -26,7 +26,7 @@ import sp26 from "../data/team/sp26.json";
 import { duties } from "../labels/TeamLabels";
 import * as utils from "./utils";
 
-const CURRENT_SEM = "fa25";
+const CURRENT_SEM = "sp26";
 // TODO display older of these in a dropdown maybe?
 const SEMESTERS = [
     "fa17",
