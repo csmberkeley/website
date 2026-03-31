@@ -18,52 +18,16 @@
         "pronouns": "she/her"
     },
     {
-        "name": "Jia Jun Luo",
-        "position": "CS 70 Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
-        "pronouns": "he/him"
-    },
-    {
-        "name": "Ella Hammond",
-        "position": "Data C88C Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
-        "pronouns": "any pronouns"
-    },
-    {
-        "name": "Julia Liu",
-        "position": "Media Chair",
-        "imgUrl": "",
-        "pronouns": "She/her/hers"
-    },
-    {
-        "name": "Alex Um",
-        "position": "CS 61C Co-ordinator",
-        "imgUrl": "",
-        "pronouns": ""
-    },
-    {
-        "name": "Max Phillips",
-        "position": "EECS 16B Co-ordinator",
-        "imgUrl": "",
-        "pronouns": ""
-    },
-    {
-        "name": "Thanh Tran",
-        "position": "CS 70 Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy",
-        "pronouns": "he/him"
-    },
-    {
-        "name": "Rohan Bhagat",
-        "position": "CS 61C Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=15YA8mDf5SbJExMQb9VKmxdB2m2Cnk_7F&usp=drive_copy",
-        "pronouns": "He/him"
-    },
-    {
         "name": "Reema Rafifar",
         "position": "CS 61A Co-ordinator",
         "imgUrl": "https://drive.google.com/open?id=1GeKBeh94kwmy5nmwo9S-q0AfKyR13phT&usp=drive_copy",
         "pronouns": "she/her"
+    },
+    {
+        "name": "Paulina Ai",
+        "position": "CS 61A Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy",
+        "pronouns": ""
     },
     {
         "name": "Michelle Koga",
@@ -72,10 +36,40 @@
         "pronouns": "she/her"
     },
     {
-        "name": "Lenci Ni",
-        "position": "Communications Chair",
+        "name": "George Huang",
+        "position": "CS 61B Co-ordinator",
+        "imgUrl": "",
+        "pronouns": "He/him"
+    },
+    {
+        "name": "Alex Um",
+        "position": "CS 61C Co-ordinator",
         "imgUrl": "",
         "pronouns": ""
+    },
+    {
+        "name": "Rohan Bhagat",
+        "position": "CS 61C Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=15YA8mDf5SbJExMQb9VKmxdB2m2Cnk_7F&usp=drive_copy",
+        "pronouns": "He/him"
+    },
+    {
+        "name": "Jia Jun Luo",
+        "position": "CS 70 Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Thanh Tran",
+        "position": "CS 70 Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy",
+        "pronouns": "he/him"
+    },
+    {
+        "name": "Ella Hammond",
+        "position": "Data C88C Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
+        "pronouns": "any pronouns"
     },
     {
         "name": "Maryam Akelyan",
@@ -90,15 +84,27 @@
         "pronouns": ""
     },
     {
-        "name": "Pranav Bhatt",
-        "position": "Socials Chair",
-        "imgUrl": "",
-        "pronouns": "He/him"
+        "name": "Mallika Agrawal",
+        "position": "EECS 16A Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
+        "pronouns": "she/her/hers"
     },
     {
-        "name": "Paulina Ai",
-        "position": "CS 61A Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy",
+        "name": "Max Phillips",
+        "position": "EECS 16B Co-ordinator",
+        "imgUrl": "",
+        "pronouns": ""
+    },
+    {
+        "name": "Nandan Diwan",
+        "position": "EECS 16B Co-ordinator",
+        "imgUrl": "https://drive.google.com/open?id=1w3jyG8TLuCLfHlcOnB55w1yIP82YZQqQ&usp=drive_copy",
+        "pronouns": "He/Him"
+    },
+    {
+        "name": "Lenci Ni",
+        "position": "Communications Chair",
+        "imgUrl": "",
         "pronouns": ""
     },
     {
@@ -108,28 +114,22 @@
         "pronouns": "He/him/his"
     },
     {
-        "name": "Mallika Agrawal",
-        "position": "EECS 16A Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
-        "pronouns": "she/her/hers"
-    },
-    {
         "name": "Michael Shen",
         "position": "DE&I Chair",
         "imgUrl": "https://drive.google.com/open?id=1gACyzqQaTy1MPEJk8occeDLZChjCfefV&usp=drive_copy",
         "pronouns": "He/Him"
     },
     {
-        "name": "George Huang",
-        "position": "CS 61B Co-ordinator",
+        "name": "Julia Liu",
+        "position": "Media Chair",
         "imgUrl": "",
-        "pronouns": "He/him"
+        "pronouns": "She/her/hers"
     },
     {
-        "name": "Nandan Diwan",
-        "position": "EECS 16B Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1w3jyG8TLuCLfHlcOnB55w1yIP82YZQqQ&usp=drive_copy",
-        "pronouns": "He/Him"
+        "name": "Pranav Bhatt",
+        "position": "Socials Chair",
+        "imgUrl": "",
+        "pronouns": "He/him"
     },
     {
         "name": "Heidi Chan",
