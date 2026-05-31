@@ -19,10 +19,10 @@ export const SECTIONS = {
         BODY_JSX: (
             <span>
                 <p className="info">
-                    Infosession Slides: <a href="https://tinyurl.com/csm-infosession-fa25">https://tinyurl.com/csm-infosession-fa25</a>
+                    Infosession Slides: <a href="https://docs.google.com/presentation/d/1QmPTibBJ60BlPstVqlOhpnKt1KUbK2_QFLZC7yK5VbM/edit?usp=sharing">https://tinyurl.com/csm-infosession-sp25</a>
                 </p>
                 <p className="info">
-                    Infosession Recording (12/08/2023): <a href="https://tinyurl.com/csm-infosession-sp24-recording">https://tinyurl.com/csm-infosession-sp24-recording</a>
+                    Infosession Recording (05/09/2025): <a href="https://tinyurl.com/csm-infosession-sp25-recording">https://tinyurl.com/csm-infosession-sp25-recording</a>
                 </p>
             </span>
         )
@@ -164,7 +164,7 @@ export const SECTIONS = {
                 <p className="info">
                     In the meantime, please fill out{" "}
                     <Link to="/mentorInterest">
-                        this interest form for the Spring 2026 semester
+                        this interest form for the Fall 2026 semester
                     </Link>{" "}
                     if you are interested in becoming a mentor.
                 </p>
