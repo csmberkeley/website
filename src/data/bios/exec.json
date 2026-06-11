@@ -190,5 +190,14 @@
         "pronouns": "he/him",
         "details": "Hi there",
         "webUrl": ""
+    },
+    {
+        "name": "Rosalie Fang ",
+        "role": "Advisor",
+        "imgUrl": "https://drive.google.com/open?id=1b1tGG2bP5ost6noNTEuD2y0SANJ0iM2D",
+        "pronouns": "she/her",
+        "details": "Hi there",
+        "webUrl": ""
     }
+
 ]
