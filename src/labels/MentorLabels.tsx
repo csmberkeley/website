@@ -211,12 +211,14 @@ export const FAQ = {
             "be a Junior Mentor and receive guidance from Senior Mentors."
     }
     */
+    /*
     JM_UNITS: {
         Q: "Can I get units for being a mentor?",
         A:
             "Yes! Each Junior Mentor can receive 1 unit of P/NP credit. We will provide you the " +
             "appropriate CCN when the time comes. You are not required to enroll.",
     },
+    */
     /* // Other types of tutoring isn't really a question we have to answer anymore
     OTHER_TUTORING: {
         Q: "Can I also do other forms of tutoring other than group?",
