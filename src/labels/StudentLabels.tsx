@@ -25,12 +25,14 @@ export const SECTIONS = {
         LABEL: "Expectations",
         BODY_JSX: (
             <span>
+                {/*
                 <p className="info">
                     Students enrolled in group tutoring are eligible for 1 unit
                     of P/NP credit. Students will be given a P grade based on attendance. Those
                     attending the session for a grade are required to attend 90%
                     of weekly assigned sessions.
                 </p>
+                */}
                 <p className="info">
                     More in-depth{" "}
                     <a
@@ -67,8 +69,11 @@ export const SECTIONS = {
                     Scheduler
                 </Link>{" "}
                 website around 2 weeks into the semester to sign up! Create an account, select
-                a class, and enroll in a empty section. To sign up for a unit, you must do so
-                seperately through CalCentral. More in depth instructions can be found{" "}
+                a class, and enroll in a empty section.{" "}
+                {/*
+                To sign up for a unit, you must do so seperately through CalCentral.
+                */}
+                More in depth instructions can be found{" "}
                 <a
                   href="https://docs.google.com/document/d/1fmzgepezzdEzfi97u_jEw3OS88gsKDh7AjpuB4pnuLA/edit"
                   rel="noopener noreferrer"
@@ -91,6 +96,7 @@ export const FAQ = {
             "even if you aren't enrolled on CalCentral, you will still be required to regularly " +
             "attend the specific section you are assigned to.",
     },
+    /*
     UNITS: {
         Q: "Can I get units for attending a section?",
         A:
@@ -100,5 +106,6 @@ export const FAQ = {
             "CSM sections, you may receive 1 unit for each, and must meet attendance requirements " +
             "for all your sections in order to pass.",
     },
+    */
     CONTACT: FAQ_CONTACT,
 };

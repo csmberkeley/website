@@ -64,8 +64,10 @@ export default class Students extends React.Component {
                         </h6>
                         <p className="info">{Labels.FAQ.DEADLINE_PASSED.A}</p>
 
+                        {/*
                         <h6 className="sublabel">{Labels.FAQ.UNITS.Q}</h6>
                         <p className="info">{Labels.FAQ.UNITS.A}</p>
+                        */}
 
                         <h6 className="sublabel">{Labels.FAQ.CONTACT.Q}</h6>
                         {Labels.FAQ.CONTACT.A_JSX}

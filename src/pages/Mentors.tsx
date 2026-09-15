@@ -108,8 +108,10 @@ export default class Mentors extends React.Component {
                             {Labels.FAQ.JM_COMMITMENT.Q}
                         </h6>
                         <p className="info">{Labels.FAQ.JM_COMMITMENT.A}</p>
+                        {/*
                         <h6 className="sublabel">{Labels.FAQ.JM_UNITS.Q}</h6>
                         <p className="info">{Labels.FAQ.JM_UNITS.A}</p>
+                        */}
 
                         <h6 className="sublabel">
                             Who can I contact if I have more questions?
