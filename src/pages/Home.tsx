@@ -6,6 +6,7 @@ import "../styles/Home.scss";
 import * as Labels from "../labels/HomeLabels";
 
 import courses from "../data/courses.json";
+import { formatCourseName } from "../labels/courseNames";
 import stats from "../data/stats.json";
 
 // Describes a word that gets loaded in by fade
@@ -151,7 +152,7 @@ class Home extends React.Component<{}, AnimationState> {
             { text: "CSM", loaded: false, delay: 0 },
         ];
         this.courseWords = courses.map(courseName => ({
-            text: courseName,
+            text: formatCourseName(courseName),
             loaded: false,
             delay: 250,
         }));

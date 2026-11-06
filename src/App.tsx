@@ -37,6 +37,10 @@ function App() {
                         <Route exact path="/partners" component={ Partners } />
                         <Route exact path="/team" component={ Team } />
                         <Route exact path="/bios" component={ Bios } />
+                        <Redirect exact from="/bios/eecs16a" to="/bios/eleng66" />
+                        <Redirect exact from="/bios/eecs16b" to="/bios/eleng64" />
+                        <Redirect exact from="/eecs16a" to="/bios/eleng66" />
+                        <Redirect exact from="/eecs16b" to="/bios/eleng64" />
                         <Route exact path="/bios/:course" component={ Bios } />
                         <Redirect exact from="/exec" to="/bios/exec" />
                         {

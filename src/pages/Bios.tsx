@@ -4,6 +4,7 @@ import sanitizeHtml from "sanitize-html";
 
 import "../styles/Bios.scss";
 import * as Labels from "../labels/BioLabels";
+import { formatCourseName } from "../labels/courseNames";
 import * as utils from "./utils";
 
 import courses from "../data/courses.json";
@@ -49,7 +50,7 @@ for (let bioList of Object.values(bios)) {
 }
 
 function getCoursePageTitleAndLabel(course: string) {
-    let title = course === "exec" ? "Exec" : course.toUpperCase();
+    let title = course === "exec" ? "Exec" : formatCourseName(course);
     return (
         <div className="col l8 offset-l2 s10 offset-s1">
             <h5 className="label">{title} Mentor Bios</h5>
@@ -171,7 +172,7 @@ function renderHomePage() {
                                 to={"/" + name}
                                 className="collection-item"
                             >
-                                {name.toUpperCase() + " Mentors"}
+                                {formatCourseName(name) + " Mentors"}
                             </Link>
                         ))}
                     </div>

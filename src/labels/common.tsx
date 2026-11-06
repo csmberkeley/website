@@ -1,9 +1,13 @@
 import React from "react";
 
-import courses from "../data/courses.json";
-import extendedCourses from "../data/extended_courses.json";
+import courseIds from "../data/courses.json";
+import extendedCourseIds from "../data/extended_courses.json";
 
-// Mutating courses here mutates all references to it, which is why we need to do some voodoo
+import { formatCourseName } from "./courseNames";
+
+const courses = courseIds.map(formatCourseName);
+const extendedCourses = extendedCourseIds.map(formatCourseName);
+
 export const COURSE_STRING_WITH_AND = courses.length === 1 ? courses[0] : courses
     .slice(0, courses.length - 1)
     .concat([`and ${courses.slice(-1)[0]}`])

@@ -103,7 +103,7 @@
     {
         "name": "Zena Wu",
         "courses": {
-            "eecs16b": "Junior Mentor"
+            "eleng64": "Junior Mentor"
         },
         "pronouns": "she/her",
         "details": "\nHi! I’m Zena, a second-year from the Bay studying EECS. Outside of school, I enjoy cooking, watching K-dramas, and spending time with friends and family. Looking forward to meeting everyone this semester :)",
@@ -183,7 +183,7 @@
     {
         "name": "Eric Lind",
         "courses": {
-            "eecs16b": "Junior Mentor"
+            "eleng64": "Junior Mentor"
         },
         "pronouns": "He/him",
         "details": "Hi! I'm Eric, a second-year EECS and MechE student. In my free time I love hiking, reading, doing silly projects, and playing board games (challenge me at Catan if you dare). On campus, I’ve been involved in engineering consulting and the academic intern program. I'm looking forward to an amazing semester!",
@@ -203,7 +203,7 @@
     {
         "name": "Prathamesh Trivedi",
         "courses": {
-            "eecs16b": "Junior Mentor"
+            "eleng64": "Junior Mentor"
         },
         "pronouns": "",
         "details": "Hi everyone! My name is Prathamesh, and I'm a sophomore majoring in EECS. I'm mostly interested in semiconductors and fabrication. Outside of class, I enjoy playing chess, basketball, and fantasy football. Looking forward to this semester!",
@@ -263,7 +263,7 @@
     {
         "name": "Marcello Furlan",
         "courses": {
-            "eecs16b": "Junior Mentor"
+            "eleng64": "Junior Mentor"
         },
         "pronouns": "he/him",
         "details": "Hi! My name is Marcello and I'm a 2nd year EECS student. I enjoy playing volleyball, pickleball, and Madden. Feel free to reach out about anything. Looking forward to meeting you!",
@@ -323,7 +323,7 @@
     {
         "name": "Brian Baldetti",
         "courses": {
-            "eecs16b": "Junior Mentor"
+            "eleng64": "Junior Mentor"
         },
         "pronouns": "",
         "details": "Hey!!! I'm Brian and am a transfer student in my senor year studying eecs. Besides classes I also work in researching organic semiconductors and am course staff for EE-194 business and finance for engineers. Outside of academic stuff I like to rave and party, run, build various trinkets, and throw events with my club golden records.",
@@ -443,7 +443,7 @@
     {
         "name": "Gursharan Bola",
         "courses": {
-            "eecs16a": "Junior Mentor"
+            "eleng66": "Junior Mentor"
         },
         "pronouns": "He/Him/His",
         "details": "Hi! am Gursharan Bola, a 2nd year in EECS from San Jose, CA. For school I want to study algorithms. I enjoy playing Tetris and Souls-likes, researching cars, and have recently picked up photography. I look forward to helping out this semester!",
@@ -453,7 +453,7 @@
     {
         "name": "Dara Lin",
         "courses": {
-            "eecs16b": "Junior Mentor"
+            "eleng64": "Junior Mentor"
         },
         "pronouns": "",
         "details": "hii!! im dara, a second-year in eecs. i love to dance, big back, and collect keychains. super excited to meet everyone!",
@@ -523,7 +523,7 @@
     {
         "name": "Tanmayi Dasari",
         "courses": {
-            "eecs16a": "Junior Mentor"
+            "eleng66": "Junior Mentor"
         },
         "pronouns": "she/her",
         "details": "Hi! I’m Tanmayi, a sophomore majoring in EECS. I enjoy growing plants, sketching and exploring creative projects, and listening to indie pop!",
@@ -573,7 +573,7 @@
     {
         "name": "Saahil Sukhija",
         "courses": {
-            "eecs16a": "Junior Mentor"
+            "eleng66": "Junior Mentor"
         },
         "pronouns": "he/him",
         "details": "Hi!! I'm Saahil, a freshman EECS major from the Bay. In my free time, I love going on drives, eating at cafes, and playing pool (please play against me!). Favorite food right now at Berkeley is the Taco Bell Cantina... Excited to meet everyone :D",
@@ -593,7 +593,7 @@
     {
         "name": "Aditya Chandrasekhar",
         "courses": {
-            "eecs16a": "Junior Mentor"
+            "eleng66": "Junior Mentor"
         },
         "pronouns": "he/him",
         "details": "Hi! I'm Aditya, studying EECS and Math. I love playing chess, Clash Royale, poker, and pretty much any net sport and basketball. I'm also always listening to music (Tory Lanez is my favorite). When I'm not with CSM, you'll probably find me grabbing Chipotle!",
@@ -653,7 +653,7 @@
     {
         "name": "Stephanie Yao",
         "courses": {
-            "eecs16a": "Content Mentor"
+            "eleng66": "Content Mentor"
         },
         "pronouns": "she/her",
         "details": "hi! i am interested in math, cs, and building side projects. outside of that, i enjoy music, pvp street fighter game and am trying to get better at it, freestyling transcription on piano, long convo with ppl with amazing vibes, and solving problems with elegant / surprising solutions!",
@@ -773,7 +773,7 @@
     {
         "name": "Eric Liang",
         "courses": {
-            "eecs16a": "Senior Mentor"
+            "eleng66": "Senior Mentor"
         },
         "pronouns": "",
         "details": "lifemaxxing :D",
@@ -793,7 +793,7 @@
     {
         "name": "Ansh Thakkar",
         "courses": {
-            "eecs16b": "Senior Mentor"
+            "eleng64": "Senior Mentor"
         },
         "pronouns": "",
         "details": "",
@@ -863,7 +863,7 @@
     {
         "name": "Prarthan Ghosh",
         "courses": {
-            "eecs16a": "Senior Mentor"
+            "eleng66": "Senior Mentor"
         },
         "pronouns": "",
         "details": "Hi! I'm a 2nd Year Applied Math major. I'm really interested in the brain and math. This semester, I'm trying to re-learn the piano! I'm also a HUGE Star Wars fan.",
@@ -1023,7 +1023,7 @@
     {
         "name": "Jordan Velasco",
         "courses": {
-            "eecs16b": "Senior Content Mentor"
+            "eleng64": "Senior Content Mentor"
         },
         "pronouns": "he/him/his",
         "details": "Hello! I'm Jordan and I'm a junior EECS major, originally from Riverbank, CA. I like listening to music and trying new food and drink spots. I look forward to meeting y'all. Feel free to reach out! #16BestCourse",
@@ -1033,10 +1033,10 @@
     {
         "name": "Jennifer Ren",
         "courses": {
-            "eecs16a": "Senior Mentor"
+            "eleng66": "Senior Mentor"
         },
         "pronouns": "she/her",
-        "details": "Hi I’m Jen. I’m a sophomore studying EECS and I’m a SMA for EECS16A. I like to figure skate, play games, and bake with friends. I’m the head of media at Poker@Berkeley, so hope to see you at some game nights. ",
+        "details": "Hi I’m Jen. I’m a sophomore studying EECS and I’m a SMA for ELENG 66. I like to figure skate, play games, and bake with friends. I’m the head of media at Poker@Berkeley, so hope to see you at some game nights. ",
         "imgUrl": "https://drive.google.com/open?id=1hSABfhsztMDaCl72JYV9di03uvAZtBek&usp=drive_copy",
         "webUrl": ""
     },
@@ -1083,7 +1083,7 @@
     {
         "name": "Mihir Marathe",
         "courses": {
-            "eecs16a": "Senior Content Mentor"
+            "eleng66": "Senior Content Mentor"
         },
         "pronouns": "",
         "details": "",
@@ -1103,7 +1103,7 @@
     {
         "name": "John Paul Tompkins",
         "courses": {
-            "eecs16b": "Senior Content Mentor"
+            "eleng64": "Senior Content Mentor"
         },
         "pronouns": "",
         "details": "",
@@ -1133,7 +1133,7 @@
     {
         "name": "Kabeer Nayyar",
         "courses": {
-            "eecs16a": "Senior Mentor"
+            "eleng66": "Senior Mentor"
         },
         "pronouns": "he/him",
         "details": "Hi! My name is Kabeer and I am a sophomore EECS major from LA. In my free time I love playing basketball, eating pizookies with my friends, and binge watching shows, especially sitcoms (I'm also rewatching Community currently).",
@@ -1183,7 +1183,7 @@
     {
         "name": "Zayna Lateef",
         "courses": {
-            "eecs16b": "Senior Mentor"
+            "eleng64": "Senior Mentor"
         },
         "pronouns": "She/Her",
         "details": "Hi! My name is Zayna Lateef. I am a senior studying EECS and am from Orange County. I love EE and a lot of my intersts lies in device physics. I love to be outdoor and my favorite activities are surfing, playing soccer, and laying in the sun. I recently started learning how to do pottery and although I am kinda bad, it is my new favorite activity. I also love listening to music and my favorite artists are Daniel Caesar, Don Toliver, and Barry Can't Swim. My ideal Sunday in Berkeley is a nice stroll down college with a stop at cole coffee and manpuku!",
