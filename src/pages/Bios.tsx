@@ -22,7 +22,7 @@ interface BioObj {
     details?: string;
 }
 
-const bios: { [course: string]: BioObj[] } = { exec: execBios };
+const bios: { [course: string]: BioObj[] } = { exec: execBios, tech: [] };
 LOWERCASE_COURSES.forEach(course => {
     bios[course] = [];
 });
@@ -49,7 +49,7 @@ for (let bioList of Object.values(bios)) {
 }
 
 function getCoursePageTitleAndLabel(course: string) {
-    let title = course === "exec" ? "Exec" : course.toUpperCase();
+    let title = course === "exec" ? "Exec" : course === "tech" ? "Tech" : course.toUpperCase();
     return (
         <div className="col l8 offset-l2 s10 offset-s1">
             <h5 className="label">{title} Mentor Bios</h5>
@@ -140,7 +140,7 @@ class BioCourse extends React.Component<{ course: string }> {
 }
 
 function renderCoursePage(course: string) {
-    return course === "exec" || LOWERCASE_COURSES.includes(course) ? (
+    return course === "exec" || course === "tech" || LOWERCASE_COURSES.includes(course) ? (
         <div className="container">
             <div className="section">
                 {getCoursePageTitleAndLabel(course)}
@@ -164,6 +164,9 @@ function renderHomePage() {
                     <div className="collection">
                         <Link to="/bios/exec" className="collection-item">
                             CSM Exec
+                        </Link>
+                        <Link to="/bios/tech" className="collection-item">
+                            Tech Mentors
                         </Link>
                         {LOWERCASE_COURSES.map(name => (
                             <Link

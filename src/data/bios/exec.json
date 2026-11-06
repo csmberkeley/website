@@ -1,194 +1,128 @@
 [
     {
-        "name": "Mohamed Ganda",
-        "role": "President",
-        "imgUrl": "https://drive.google.com/open?id=1Nv-yN1RVm11QBmaQSHu_IeVP1rufA45h&usp=drive_copy",
-        "pronouns": "He/him",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Dhruva Bhagwat",
-        "role": "Internal Vice President",
-        "imgUrl": "",
-        "pronouns": "he/him/his",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Pooja Agarwal",
-        "role": "External Vice President",
-        "imgUrl": "https://drive.google.com/open?id=1X5qxcNgBCf1IXS58IshUaHVdWIYf5NIe&usp=drive_copy",
-        "pronouns": "she/her",
-        "details": "",
-        "webUrl": ""
-    },
-    {
         "name": "Reema Rafifar",
-        "role": "CS 61A Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1GeKBeh94kwmy5nmwo9S-q0AfKyR13phT&usp=drive_copy",
-        "pronouns": "she/her",
-        "details": "",
-        "webUrl": ""
+        "role": "61A Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Paulina Ai",
-        "role": "CS 61A Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1bxd8MJ01uUo96OvXD2xma-4clzuOITgA&usp=drive_copy",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Michelle Koga",
-        "role": "CS 61B Co-ordinator",
+        "name": "Ethan Gale",
+        "role": "61A Coord",
         "imgUrl": "",
-        "pronouns": "she/her",
+        "pronouns": "",
         "details": "",
         "webUrl": ""
     },
     {
         "name": "George Huang",
-        "role": "CS 61B Co-ordinator",
-        "imgUrl": "",
-        "pronouns": "He/him",
-        "details": "",
-        "webUrl": ""
+        "role": "61B Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Alex Um",
-        "role": "CS 61C Co-ordinator",
-        "imgUrl": "",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
+        "name": "Maya Sriram",
+        "role": "61B Coord",
+        "imgUrl": ""
     },
     {
         "name": "Rohan Bhagat",
-        "role": "CS 61C Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=15YA8mDf5SbJExMQb9VKmxdB2m2Cnk_7F&usp=drive_copy",
-        "pronouns": "He/him",
-        "details": "",
-        "webUrl": ""
+        "role": "61C Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Jia Jun Luo",
-        "role": "CS 70 Co-ord",
-        "imgUrl": "https://drive.google.com/open?id=1b0n0YEcGhNKjIJCfKFNPpwCmPsXr7X0Z&usp=drive_copy",
-        "pronouns": "he/him",
-        "details": "Hello! I'm Jia Jun, and I am a 4th year Computer Science, Data Science, and Philosophy major! This is my 5th semester on CSM and second semester as a 70 coord :). I play flute and piccolo, and you'll see me performing across various music ensembles on campus.",
-        "webUrl": ""
+        "name": "Ryan Lee",
+        "role": "61C Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Thanh Tran",
-        "role": "CS 70 Co-ord",
-        "imgUrl": "https://drive.google.com/open?id=1pj6kDNBbumRV3SGC28ql8BJ3H-7FeaMH&usp=drive_copy",
-        "pronouns": "he/him",
-        "details": "Hey, I’m Thanh! I’m a senior from Boston studying computer science and applied math. Big fan of video editing, word games (esp word hunt), fb marketplace, and all types of outdoorsy activities. Looking forward to a fun semester with y’all! ◡̈",
-        "webUrl": ""
+        "name": "Maryam Akelyam",
+        "role": "C88C Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Ella Hammond",
-        "role": "Data C88C Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=16mCkfO33W32qxuATiyWZOwaRjw-B_ym-&usp=drive_copy",
-        "pronouns": "any pronouns",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Maryam Akelyan",
-        "role": "Data C88C Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=12yxLs57urETF3qlCojigFtYe9yuCtPj8&usp=drive_copy",
+        "name": "Jaclyn Huynh",
+        "role": "C88C Coord",
+        "imgUrl": "https://drive.google.com/open?id=1Yoy-qCjU2nmLm7XbpKingPHOxfPUbBfZ&usp=drive_copy",
         "pronouns": "she/her",
-        "details": "",
+        "details": "hai there! \ud83d\udc4b i\u2019m jaclyn, a junior studying DS \ud83d\udcca from san jose, ca! \ud83c\udf09 i love matcha \ud83c\udf75, escape rooms \ud83d\udd10, the 2016 aesthetic \ud83d\udcf8\u2728, and solving Minute Cryptics \ud83e\udde9. looking forward to an 8\ufe0f\u20e3m8\ufe0f\u20e3zing semester with you all! \ud83d\udcab",
         "webUrl": ""
+    },
+    {
+        "name": "Sara Jangid",
+        "role": "70 Coord",
+        "imgUrl": ""
+    },
+    {
+        "name": "Jai Sharma",
+        "role": "70 Coord",
+        "imgUrl": ""
     },
     {
         "name": "Jonathan Loy",
-        "role": "EECS 16A Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1y9epoKHzHEfSVIMrMVH0224OSTrijXcA&usp=drive_copy",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
+        "role": "16A (EE 66) Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Mallika Agrawal",
-        "role": "EECS 16A Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1r1_MyyJKge5fAiswtkH2o6a97U2acCWW&usp=drive_copy",
-        "pronouns": "she/her/hers",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Max Phillips",
-        "role": "EECS 16B Co-ordinator",
-        "imgUrl": "",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
+        "name": "Jennifer Ren",
+        "role": "16A (EE 66) Coord",
+        "imgUrl": ""
     },
     {
         "name": "Nandan Diwan",
-        "role": "EECS 16B Co-ordinator",
-        "imgUrl": "https://drive.google.com/open?id=1w3jyG8TLuCLfHlcOnB55w1yIP82YZQqQ&usp=drive_copy",
-        "pronouns": "He/Him",
-        "details": "",
-        "webUrl": ""
+        "role": "16B (EE 64) Coord",
+        "imgUrl": ""
     },
     {
-        "name": "Lenci Ni",
-        "role": "Communications Chair",
-        "imgUrl": "",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Enming Zhang",
-        "role": "Communications Chair",
-        "imgUrl": "",
-        "pronouns": "He/him/his",
-        "details": "",
-        "webUrl": ""
+        "name": "Jordan Velasco",
+        "role": "16B (EE 64) Coord",
+        "imgUrl": ""
     },
     {
         "name": "Michael Shen",
-        "role": "DE&I Chair",
-        "imgUrl": "https://drive.google.com/open?id=1gACyzqQaTy1MPEJk8occeDLZChjCfefV&usp=drive_copy",
-        "pronouns": "",
-        "details": "",
-        "webUrl": ""
+        "role": "DEI Chair",
+        "imgUrl": ""
     },
     {
-        "name": "Julia Liu",
+        "name": "Tiger Zhang",
+        "role": "Comms Chair",
+        "imgUrl": ""
+    },
+    {
+        "name": "Michael Bai",
+        "role": "Comms Chair",
+        "imgUrl": ""
+    },
+    {
+        "name": "Ben Hung",
+        "role": "Tech Chair",
+        "imgUrl": ""
+    },
+    {
+        "name": "Lavanya Shyamsundar",
+        "role": "Tech Chair",
+        "imgUrl": ""
+    },
+    {
+        "name": "Mallika Agrawal",
+        "role": "Social Chair",
+        "imgUrl": ""
+    },
+    {
+        "name": "Michelle Koga ",
         "role": "Media Chair",
-        "imgUrl": "",
-        "pronouns": "She/her/hers",
-        "details": "",
-        "webUrl": ""
-    },
-    {
-        "name": "Pranav Bhatt",
-        "role": "Socials Chair",
-        "imgUrl": "",
-        "pronouns": "He/him",
-        "details": "",
-        "webUrl": ""
+        "imgUrl": ""
     },
     {
         "name": "Heidi Chan",
-        "role": "Tech Chair",
-        "imgUrl": "https://drive.google.com/open?id=1sz4-fzTWTxV-0_FZt0e7pWb82k-sDAHn&usp=drive_copy",
-        "pronouns": "she/her",
-        "details": "Hello!",
-        "webUrl": ""
+        "role": "President",
+        "imgUrl": ""
     },
     {
-        "name": "Gabriel Han",
-        "role": "Tech Chair",
-        "imgUrl": "https://drive.google.com/open?id=1RL1Sl3IIDtXUc-JxLb0Zk-I4rhC5rn5u&usp=drive_copy",
-        "pronouns": "he/him",
-        "details": "Hi there",
-        "webUrl": ""
+        "name": "Dhruva Bhagwat",
+        "role": "IVP",
+        "imgUrl": ""
+    },
+    {
+        "name": "Paulina Ai",
+        "role": "EVP",
+        "imgUrl": ""
     }
 ]

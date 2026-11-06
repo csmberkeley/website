@@ -33,7 +33,15 @@ const dutyDict: { [role: string]: string } = {
         "/ training of new exec memebers.",
 };
 
+const roleAliases: { [role: string]: string } = {
+    "DEI Chair": "DE&I Chair",
+    "Comms Chair": "Communications Chair",
+    "Social Chair": "Socials Chair",
+};
+
 export function duties(role: string): string {
+    role = role.trim();
+    role = roleAliases[role] || role;
     if (role in dutyDict) {
         return dutyDict[role];
     }
