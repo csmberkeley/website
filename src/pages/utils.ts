@@ -9,10 +9,14 @@ export function getEmbeddableDriveImageLink(url?: string): string {
     if (!url) {
         return "ERROR-blank-url";
     }
-    let chunks = url.split("id=");
-    if (chunks.length < 2) {
-        return "ERROR-too-few-chunks";
+    try {
+        const parsed = new URL(url);
+        const id = parsed.searchParams.get("id") || parsed.pathname.match(/\/file\/d\/([^/]+)/)?.[1];
+        if (id) {
+            return `https://drive.google.com/thumbnail?id=${encodeURIComponent(id)}&sz=w240`;
+        }
+    } catch {
+        // Invalid or missing file links use the image element's placeholder fallback.
     }
-    let id = chunks[1];
-    return `https://drive.google.com/thumbnail?id=${id}&sz=w240`;
+    return "ERROR-invalid-drive-url";
 }
