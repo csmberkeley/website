@@ -1,6 +1,5 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { match, Link, Redirect } from "react-router-dom";
-import sanitizeHtml from "sanitize-html";
 
 import "../styles/Bios.scss";
 import * as Labels from "../labels/BioLabels";
@@ -8,13 +7,31 @@ import { formatCourseName } from "../labels/courseNames";
 import * as utils from "./utils";
 
 import courses from "../data/courses.json";
+import urls from "../data/urls.json";
 import placeholderImg from "../img/bio_placeholder.png";
 import execBios from "../data/bios/exec.json";
-import mentorBios from "../data/bios/mentors.json";
+
+/**
+ * Mentor bios come from the scheduler's database (the Edit Profile page there).
+ * Exec bios aren't in the scheduler, so they still come from exec.json.
+ */
+
+// set REACT_APP_SCHEDULER_URL (e.g. in .env.local) to use a local scheduler
+const SCHEDULER_URL = process.env.REACT_APP_SCHEDULER_URL || urls.scheduler;
+const PROFILES_API_URL = `${SCHEDULER_URL}/api/public/profiles/`;
 
 const LOWERCASE_COURSES = courses.map(s => s.toLowerCase());
 
-interface BioObj {
+/** One entry from the scheduler's /api/public/profiles/ endpoint. */
+interface SchedulerProfile {
+    name: string;
+    pronouns: string;
+    details: string;
+    imgUrl: string;
+    courses: { [course: string]: string };
+}
+
+interface ProfileObj {
     name: string;
     pronouns?: string;
     role: string;
@@ -23,135 +40,199 @@ interface BioObj {
     details?: string;
 }
 
-const bios: { [course: string]: BioObj[] } = { exec: execBios, tech: [] };
-LOWERCASE_COURSES.forEach(course => {
-    bios[course] = [];
-});
-// Since we're pre-rendering, some inefficiency is OK
-for (let mentor of mentorBios) {
-    if (mentor.courses) {
-        for (let [course, role] of Object.entries(mentor.courses)) {
-            if (!(course in bios)) {
-                console.error("invalid course: " + course, mentor);
+type ProfilesByCourse = { [course: string]: ProfileObj[] };
+
+const EXEC_PROFILES: ProfileObj[] = execBios
+    .map(bio => ({
+        ...bio,
+        // exec photos are Google Drive links, which need converting to load in an <img>
+        imgUrl: bio.imgUrl ? utils.getEmbeddableDriveImageLink(bio.imgUrl) : "",
+    }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+/** Group profiles by course, with each list sorted by name. */
+function groupByCourse(profiles: SchedulerProfile[]): ProfilesByCourse {
+    const byCourse: ProfilesByCourse = {};
+    LOWERCASE_COURSES.forEach(course => {
+        byCourse[course] = [];
+    });
+    for (let profile of profiles) {
+        for (let [course, role] of Object.entries(profile.courses)) {
+            // the scheduler can have courses this site has no page for
+            if (!(course in byCourse)) {
+                continue;
             }
-            bios[course].push({
-                name: mentor.name,
-                pronouns: mentor.pronouns,
-                role: role!,
-                imgUrl: mentor.imgUrl,
-                webUrl: mentor.webUrl,
-                details: mentor.details,
+            byCourse[course].push({
+                name: profile.name,
+                pronouns: profile.pronouns,
+                role: role,
+                imgUrl: profile.imgUrl,
+                details: profile.details,
             });
         }
     }
-}
-for (let bioList of Object.values(bios)) {
-    bioList.sort((bio1, bio2) => bio1.name.localeCompare(bio2.name));
+    for (let profileList of Object.values(byCourse)) {
+        profileList.sort((a, b) => a.name.localeCompare(b.name));
+    }
+    return byCourse;
 }
 
-function getCoursePageTitleAndLabel(course: string) {
-    let title = course === "exec" ? "Exec" : course === "tech" ? "Tech" : formatCourseName(course);
+// fetched once and shared, so moving between course pages doesn't refetch
+let profilesRequest: Promise<ProfilesByCourse> | null = null;
+
+function fetchProfiles(): Promise<ProfilesByCourse> {
+    if (!profilesRequest) {
+        profilesRequest = fetch(PROFILES_API_URL)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Profiles request failed: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(groupByCourse)
+            .catch(error => {
+                // allow a retry the next time a page opens
+                profilesRequest = null;
+                throw error;
+            });
+    }
+    return profilesRequest;
+}
+
+type LoadState =
+    | { status: "loading" }
+    | { status: "error" }
+    | { status: "loaded"; profiles: ProfilesByCourse };
+
+function useProfiles(): LoadState {
+    const [state, setState] = useState<LoadState>({ status: "loading" });
+    useEffect(() => {
+        let active = true;
+        fetchProfiles()
+            .then(profiles => active && setState({ status: "loaded", profiles }))
+            .catch(error => {
+                console.error(error);
+                if (active) {
+                    setState({ status: "error" });
+                }
+            });
+        return () => {
+            active = false;
+        };
+    }, []);
+    return state;
+}
+
+function messageRow(title: string, text: string) {
     return (
-        <div className="col l8 offset-l2 s10 offset-s1">
-            <h5 className="label">{title} Mentor Bios</h5>
-            <p className="info">{Labels.bioPageSubtitle(title)}</p>
-        </div>
+        <tr>
+            <td>
+                <img
+                    src={placeholderImg}
+                    style={{ marginTop: "8px" }}
+                    className="image"
+                    alt=""
+                />
+            </td>
+            <td className="bio">
+                <p className="label">{title}</p>
+                <p></p>
+                {text}
+            </td>
+        </tr>
     );
 }
 
-const BIO_PLACEHOLDER_TR = (
-    <tr>
-        <td>
-            <img
-                src={placeholderImg}
-                style={{ marginTop: "8px" }}
-                className="image"
-                alt="Bios coming soon!"
-            />
-        </td>
-        <td className="bio">
-            <p className="label">Coming soon!</p>
-            <p></p>
-            {Labels.PLACEHOLDER_BIO_TEXT}
-        </td>
-    </tr>
-);
+function ProfileRow({ profile }: { profile: ProfileObj }) {
+    return (
+        <tr>
+            <td>
+                <div className="image-container">
+                    <img
+                        src={profile.imgUrl || placeholderImg}
+                        onError={e => {
+                            (e.target as HTMLImageElement).src = placeholderImg;
+                        }}
+                        style={{ marginTop: "8px" }}
+                        className="image"
+                        alt={profile.name}
+                    />
+                </div>
+            </td>
+            <td className="bio">
+                <p className="label">
+                    {profile.webUrl ? (
+                        <a href={profile.webUrl}>{profile.name}</a>
+                    ) : (
+                        profile.name
+                    )}
+                    {profile.pronouns && (
+                        <>
+                            &nbsp;
+                            <small>[{profile.pronouns.toLowerCase()}]</small>
+                        </>
+                    )}
+                </p>
+                <p>{profile.role}</p>
+                {/* bios are plain text, so no HTML is rendered */}
+                <div style={{ whiteSpace: "break-spaces" }}>{profile.details}</div>
+            </td>
+        </tr>
+    );
+}
 
-class BioCourse extends React.Component<{ course: string }> {
-    render() {
-        let courseBios = bios[this.props.course];
-        return (
-            <table>
-                <tbody>
-                    {courseBios.length === 0
-                        ? BIO_PLACEHOLDER_TR
-                        : courseBios.map((bio, i) => (
-                              <tr key={i.toString() + bio.name}>
-                                  <td>
-                                      <div className="image-container">
-                                          <img
-                                              src={utils.getEmbeddableDriveImageLink(
-                                                  bio.imgUrl
-                                              )}
-                                              onError={function (e) {
-                                                  (e.target as HTMLImageElement).src = placeholderImg;
-                                              }}
-                                              style={{ marginTop: "8px" }}
-                                              className="image"
-                                              alt={bio.name}
-                                          />
-                                      </div>
-                                  </td>
-                                  <td className="bio">
-                                      <p className="label">
-                                          {bio.webUrl ? (
-                                              <a href={bio.webUrl}>
-                                                  {bio.name}
-                                              </a>
-                                          ) : (
-                                              bio.name
-                                          )}
-                                          {bio.pronouns && (
-                                              <>
-                                                  &nbsp;
-                                                  <small>
-                                                      [
-                                                      {bio.pronouns.toLowerCase()}
-                                                      ]
-                                                  </small>
-                                              </>
-                                          )}
-                                      </p>
-                                      <p>{bio.role}</p>
-                                      <div
-                                          style={{ whiteSpace: "break-spaces" }}
-                                          dangerouslySetInnerHTML={{
-                                              __html: bio.details
-                                                  ? sanitizeHtml(bio.details)
-                                                  : "",
-                                          }}
-                                      />
-                                  </td>
-                              </tr>
-                          ))}
-                </tbody>
-            </table>
-        );
+function ProfileTable({ profiles }: { profiles: ProfileObj[] }) {
+    return (
+        <table>
+            <tbody>
+                {profiles.length === 0
+                    ? messageRow("Coming soon!", Labels.PLACEHOLDER_BIO_TEXT)
+                    : profiles.map((profile, i) => (
+                          <ProfileRow key={i.toString() + profile.name} profile={profile} />
+                      ))}
+            </tbody>
+        </table>
+    );
+}
+
+/** A course page, filled from the scheduler. */
+function SchedulerCourse({ course }: { course: string }) {
+    const state = useProfiles();
+    if (state.status === "loaded") {
+        return <ProfileTable profiles={state.profiles[course]} />;
     }
+    return (
+        <table>
+            <tbody>
+                {state.status === "loading"
+                    ? messageRow("Loading...", "")
+                    : messageRow("Couldn't load bios", "Please try again later.")}
+            </tbody>
+        </table>
+    );
 }
 
 function renderCoursePage(course: string) {
-    return course === "exec" || course === "tech" || LOWERCASE_COURSES.includes(course) ? (
+    if (course !== "exec" && !LOWERCASE_COURSES.includes(course)) {
+        return <Redirect to="/bios" />;
+    }
+    const title = course === "exec" ? "Exec" : formatCourseName(course);
+    return (
         <div className="container">
             <div className="section">
-                {getCoursePageTitleAndLabel(course)}
+                <div className="col l8 offset-l2 s10 offset-s1">
+                    <h5 className="label">{title} Mentor Bios</h5>
+                    <p className="info">{Labels.bioPageSubtitle(title)}</p>
+                </div>
                 <div>
-                    <BioCourse course={course} />
+                    {course === "exec" ? (
+                        <ProfileTable profiles={EXEC_PROFILES} />
+                    ) : (
+                        <SchedulerCourse course={course} />
+                    )}
                 </div>
             </div>
         </div>
-    ) : (
-        <Redirect to="/bios" />
     );
 }
 
@@ -166,13 +247,10 @@ function renderHomePage() {
                         <Link to="/bios/exec" className="collection-item">
                             CSM Exec
                         </Link>
-                        <Link to="/bios/tech" className="collection-item">
-                            Tech Mentors
-                        </Link>
                         {LOWERCASE_COURSES.map(name => (
                             <Link
                                 key={name}
-                                to={"/" + name}
+                                to={"/bios/" + name}
                                 className="collection-item"
                             >
                                 {formatCourseName(name) + " Mentors"}
@@ -185,12 +263,7 @@ function renderHomePage() {
     );
 }
 
-export default class Bios extends React.Component<{
-    match: match<{ course: string }>;
-}> {
-    render() {
-        return this.props.match.params["course"]
-            ? renderCoursePage(this.props.match.params["course"])
-            : renderHomePage();
-    }
+export default function Bios(props: { match: match<{ course: string }> }) {
+    const course = props.match.params["course"];
+    return course ? renderCoursePage(course) : renderHomePage();
 }
