@@ -139,75 +139,84 @@ function useProfiles(): LoadState {
     return state;
 }
 
-function messageRow(title: string, text: string) {
+/** A card with a short message, e.g. while loading or when there are no bios yet. */
+function MessageCard({ title, text }: { title: string; text?: string }) {
     return (
-        <tr>
-            <td>
-                <img
-                    src={placeholderImg}
-                    style={{ marginTop: "8px" }}
-                    className="image"
-                    alt=""
-                />
-            </td>
-            <td className="bio">
-                <p className="label">{title}</p>
-                <p></p>
-                {text}
-            </td>
-        </tr>
+        <div className="bio-message" role="status">
+            <img src={placeholderImg} className="bio-message-logo" alt="" />
+            <p className="bio-message-title">{title}</p>
+            {text && <p className="bio-message-text">{text}</p>}
+        </div>
     );
 }
 
-function ProfileRow({ profile }: { profile: ProfileObj }) {
+function initialsOf(name: string): string {
+    return name
+        .split(/\s+/)
+        .filter(Boolean)
+        .slice(0, 2)
+        .map(word => Array.from(word)[0].toUpperCase())
+        .join("");
+}
+
+/** The profile photo, or the person's initials when there's none or it fails to load. */
+function Avatar({ profile }: { profile: ProfileObj }) {
+    const [failedUrl, setFailedUrl] = useState<string | null>(null);
+    if (profile.imgUrl && profile.imgUrl !== failedUrl) {
+        return (
+            <img
+                className="bio-avatar"
+                src={profile.imgUrl}
+                alt={profile.name}
+                loading="lazy"
+                onError={() => setFailedUrl(profile.imgUrl ?? null)}
+            />
+        );
+    }
     return (
-        <tr>
-            <td>
-                <div className="image-container">
-                    <img
-                        src={profile.imgUrl || placeholderImg}
-                        onError={e => {
-                            (e.target as HTMLImageElement).src = placeholderImg;
-                        }}
-                        style={{ marginTop: "8px" }}
-                        className="image"
-                        alt={profile.name}
-                    />
+        <div className="bio-avatar bio-avatar-initials" aria-hidden="true">
+            {initialsOf(profile.name)}
+        </div>
+    );
+}
+
+function ProfileCard({ profile }: { profile: ProfileObj }) {
+    return (
+        <article className="bio-card">
+            <div className="bio-card-header">
+                <Avatar profile={profile} />
+                <div className="bio-card-heading">
+                    <h6 className="bio-name">
+                        {profile.webUrl ? (
+                            <a href={profile.webUrl}>{profile.name}</a>
+                        ) : (
+                            profile.name
+                        )}
+                    </h6>
+                    <div className="bio-tags">
+                        <span className="bio-tag bio-tag-role">{profile.role}</span>
+                        {profile.pronouns && (
+                            <span className="bio-tag">{profile.pronouns.toLowerCase()}</span>
+                        )}
+                    </div>
                 </div>
-            </td>
-            <td className="bio">
-                <p className="label">
-                    {profile.webUrl ? (
-                        <a href={profile.webUrl}>{profile.name}</a>
-                    ) : (
-                        profile.name
-                    )}
-                    {profile.pronouns && (
-                        <>
-                            &nbsp;
-                            <small>[{profile.pronouns.toLowerCase()}]</small>
-                        </>
-                    )}
-                </p>
-                <p>{profile.role}</p>
-                {/* bios are plain text, so no HTML is rendered */}
-                <div style={{ whiteSpace: "break-spaces" }}>{profile.details}</div>
-            </td>
-        </tr>
+            </div>
+            {/* bios are plain text, so no HTML is rendered */}
+            {profile.details && <p className="bio-details">{profile.details}</p>}
+        </article>
     );
 }
 
-function ProfileTable({ profiles }: { profiles: ProfileObj[] }) {
+function ProfileGrid({ profiles }: { profiles: ProfileObj[] }) {
+    if (profiles.length === 0) {
+        return <MessageCard title="Coming soon!" text={Labels.PLACEHOLDER_BIO_TEXT} />;
+    }
     return (
-        <table>
-            <tbody>
-                {profiles.length === 0
-                    ? messageRow("Coming soon!", Labels.PLACEHOLDER_BIO_TEXT)
-                    : profiles.map((profile, i) => (
-                          <ProfileRow key={i.toString() + profile.name} profile={profile} />
-                      ))}
-            </tbody>
-        </table>
+        <div className="bio-grid">
+            {profiles.map((profile, i) => (
+                <ProfileCard key={i.toString() + profile.name} profile={profile} />
+            ))}
+        </div>
     );
 }
 
@@ -215,16 +224,12 @@ function ProfileTable({ profiles }: { profiles: ProfileObj[] }) {
 function SchedulerCourse({ course }: { course: string }) {
     const state = useProfiles();
     if (state.status === "loaded") {
-        return <ProfileTable profiles={state.profiles[course]} />;
+        return <ProfileGrid profiles={state.profiles[course]} />;
     }
-    return (
-        <table>
-            <tbody>
-                {state.status === "loading"
-                    ? messageRow("Loading...", "")
-                    : messageRow("Couldn't load bios", "Please try again later.")}
-            </tbody>
-        </table>
+    return state.status === "loading" ? (
+        <MessageCard title="Loading bios..." />
+    ) : (
+        <MessageCard title="Couldn't load bios" text="Please try again later." />
     );
 }
 
@@ -242,7 +247,7 @@ function renderCoursePage(course: string) {
                 </div>
                 <div>
                     {course === "exec" ? (
-                        <ProfileTable profiles={EXEC_PROFILES} />
+                        <ProfileGrid profiles={EXEC_PROFILES} />
                     ) : (
                         <SchedulerCourse course={course} />
                     )}
