@@ -22,6 +22,13 @@ const PROFILES_API_URL = `${SCHEDULER_URL}/api/public/profiles/`;
 
 const LOWERCASE_COURSES = courses.map(s => s.toLowerCase());
 
+// the scheduler names some courses differently from this site
+const SCHEDULER_COURSE_NAMES: { [schedulerName: string]: string } = {
+    csm64: "eleng64",
+    csm66: "eleng66",
+    csm88: "cs88",
+};
+
 /** One entry from the scheduler's /api/public/profiles/ endpoint. */
 interface SchedulerProfile {
     name: string;
@@ -57,11 +64,15 @@ function groupByCourse(profiles: SchedulerProfile[]): ProfilesByCourse {
         byCourse[course] = [];
     });
     for (let profile of profiles) {
-        for (let [course, role] of Object.entries(profile.courses)) {
+        // someone in both of the scheduler's courses for one page is listed there once
+        const added = new Set<string>();
+        for (let [schedulerCourse, role] of Object.entries(profile.courses)) {
+            const course = SCHEDULER_COURSE_NAMES[schedulerCourse] ?? schedulerCourse;
             // the scheduler can have courses this site has no page for
-            if (!(course in byCourse)) {
+            if (!(course in byCourse) || added.has(course)) {
                 continue;
             }
+            added.add(course);
             byCourse[course].push({
                 name: profile.name,
                 pronouns: profile.pronouns,
