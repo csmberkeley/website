@@ -22,11 +22,16 @@ const PROFILES_API_URL = `${SCHEDULER_URL}/api/public/profiles/`;
 
 const LOWERCASE_COURSES = courses.map(s => s.toLowerCase());
 
-// the scheduler names some courses differently from this site
+// the scheduler's names for courses that this site names differently
 const SCHEDULER_COURSE_NAMES: { [schedulerName: string]: string } = {
+    csm61a: "cs61a",
+    csm61b: "cs61b",
+    csm61c: "cs61c",
+    csm70: "cs70",
+    csm88: "cs88",
+    datac88c: "cs88",
     csm64: "eleng64",
     csm66: "eleng66",
-    csm88: "cs88",
 };
 
 /** One entry from the scheduler's /api/public/profiles/ endpoint. */
